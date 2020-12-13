@@ -1,44 +1,179 @@
-
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset="UTF-8">
+    <title>Clemens Schützdeller</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-    <link rel="stylesheet" href="/home/_styles/default.css">
+
     <style>
       body {
-        color: green;
+        font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.3;
+        color: #404c51;
+        padding: 0;
+        margin: 0;
+      }
+      .headerBanner {
+        position: fixed;
+        top: 0%;
+        width: 100%;
+        background-color: #159957;background-image: linear-gradient(120deg, #155799, #159957);
+        text-align: center;
+        padding-top: .8rem;
+        padding-bottom: .2rem;
+      }
+      .headerTitle {
+        font-size: 2.0em;
+        color: #e8eef8;
+        text-align: center;
+      }
+      .headerLanguages {
+        font-size: .8em;
+        color: #e8eef8;
+        text-align: right;
+        padding-top: .5em;
+        padding-right: 30px;
+      }
+      #scroll {
+        position: fixed;
+        width: 100%;
+        overflow-x: auto;
+      }
+      .content {
+        padding: .5em 2em;
+      }
+      .footerBanner {
+        position: fixed;
+        bottom:0%;
+        width: 100%;
+        background-color: #159957;background-image: linear-gradient(120deg, #159957, #155799);
+        text-align: center;
+        padding-top: .6rem;
+        padding-bottom: .6rem;
+      }
+      .footerText {
+        font-size: 0.8em;
+        color: #e8eef8;
+        text-align: center;
+      }
+      a {
+        color: #00aaff;
+        text-decoration: none;
+      }
+      .headerBanner a,
+      .footerBanner a	  {
+        color: inherit;
+      }
+      h1, h2, h3, h4, h5, h6 {
+        margin: 0;
+        padding-top: 1.0em;
+        padding-bottom: 0.5em;
+      }
+      h1 { font-size: 2.0em; text-align: center; }
+      h2 { font-size: 1.8em; }
+      h3 { font-size: 1.5em; }
+      h4 { font-size: 1.2em; }
+      h5 { font-size: 1.0em; font-weigth: bold; }
+      h6 { font-size: 1.0em; font-weigth: bold; font-style: italic;}
+      p {
+        margin: 0;
+        padding-top: 0.2em;
+        padding-bottom: 0.5em;
+        font-site: 1.0em
+      }
+      
+      .de {
+        display: block;
+      }
+      .en {
+        display: none;
       }
     </style>
-  </head>
-  <body>
-    <h3>ppp</h3>
     
-    <header class="page-header" role="banner">
-      <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
-    </header>
+    <script>
+      function setLanguage() {
+        shortLang = sessionStorage.getItem("shortLang")
+        document.getElementById("debug").innerHTML = "ccc"
+        
+        if (shortLang == null) {
+          lang = window.navigator.languages ? window.navigator.languages[0] : null
+          lang = lang || window.navigator.language || window.navigator.browserLanguage || window.navigator.userLanguage
 
-    <main id="content" class="main-content" role="main">
-      {{ content }}
+          shortLang = lang
+          if (shortLang.indexOf('-') !== -1) {
+            shortLang = shortLang.split('-')[0]
+          }
+          if (shortLang.indexOf('_') !== -1) {
+            shortLang = shortLang.split('_')[0]
+          }
+          
+          sessionStorage.setItem("shortLang", shortLang)
+        }
+        
+        setEnglish()
+        if (shortLang == 'de') {
+          setGerman()
+        }
+        
+        headerHeight = document.getElementById("header").clientHeight
+        footerHeight = document.getElementById("footer").clientHeight
+        document.getElementById("scroll").style.top = "" + headerHeight + "px"
+        document.getElementById("scroll").style.bottom = "" + footerHeight + "px"
+      }
+      
+      function setEnglish() {
+        document.getElementById("german").innerHTML = "deutsch"
+	      elements = document.getElementsByClassName("de")
+        for (i=0; i<elements.length; i++) {
+          elements[i].style.display = "none"
+        }
+        
+        document.getElementById("english").innerHTML = "<b>english</b>"
+	      elements = document.getElementsByClassName("en")
+        for (i=0; i<elements.length; i++) {
+          elements[i].style.display = "block"
+        }
+        
+        sessionStorage.setItem("shortLang", "en")
+      }
+      function setGerman() {
+        document.getElementById("german").innerHTML = "<b>deutsch</b>"
+	      elements = document.getElementsByClassName("de")
+        for (i=0; i<elements.length; i++) {
+          elements[i].style.display = "block"
+        }
+        
+        document.getElementById("english").innerHTML = "english"
+	      elements = document.getElementsByClassName("en")
+        for (i=0; i<elements.length; i++) {
+          elements[i].style.display = "none"
+        }
+        
+        sessionStorage.setItem("shortLang", "de")
+      }
+    </script>
+  </head>
+	
+  <body onload="setLanguage()">
 
-      <footer class="site-footer">
-        {% if site.github.is_project_page %}
-          <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
-        {% endif %}
-        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
-      </footer>
-    </main>
-    <span>[Impressum](Impressum.md)</span>
-    <h2><a href="Impressum.html">Impressum</h2>
+    <div id="header" class="headerBanner">
+      <div class="headerTitle"><a href="/home">Clemens Schützdeller</a></div>
+      <div class="headerLanguages" id="headerLanguages">
+        <span id="german" onClick="setGerman()">de</span> <span id="debug"></span> <span id="english" onClick="setEnglish()">en</span>
+      </div>
+    </div>
+
+    <div id="scroll">
+      <div id="content" class="content">
+        {{ content }}
+      </div>
+    </div>
+
+    <div id="footer" class="footerBanner">
+      <div class="footerText"><a href="Impressum.html">Impressum</a></div>
+    </div>
+
   </body>
 </html>
