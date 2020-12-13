@@ -1,5 +1,4 @@
 <h1>
-  <span class="en">My next goal</span>
   <span class="de">Mein nächstes Ziel</span>
 </h1>
 
