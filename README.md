@@ -26,4 +26,4 @@
 <span class="en">&#128073;&#127996; &nbsp; Available soon!</span>
 <span class="de">&#128073;&#127996; &nbsp; In Kürze verfügbar!</span>
 
-## [Impressum](Impressum.md) x
+## [Impressum](Impressum.md) y
