@@ -9,8 +9,8 @@
 <span class="de">Wenn jemand an der [Spendenaktion](https://www.wingsforlifeworldrun.com/de/profiles/aP2J7Q) teilnehmen möchte — herzlich willkommen &#128525;</span>
 
 <h1>
-  <span class="en">My iOs Apps</span>
-  <span class="de">Meine iOs-Apps</span>
+  <span class="en">My iOS Apps</span>
+  <span class="de">Meine iOS-Apps</span>
 </h1>
 
 <table>
