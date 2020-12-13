@@ -14,7 +14,7 @@
 <span class="de">Nutze ***KTrunk***, um all Deine Ideen zu sammeln und sie mit Photos und beliebigen Dateien zu ergänzen. Von jeder Notiz aus kannst Du in KTrunk Links zu anderen Notizen oder Dateien erstellen.</span>
 
 <span class="en">The notes are saved in html-format and can be synchronized across your devices using iCloud.</span>
-<span class="de">Die Notizen werden im html-Format abgespeichert und können mittels iCloud über alle Deine iOS-Geräte synchronisiert werden.</span>        
+<span class="de">Die Notizen werden im html-Format abgespeichert und können mittels iCloud über alle deine iOS-Geräte synchronisiert werden.</span>        
 
 
 <span class="en">&#128073;&#127996; &nbsp; If you have any ideas or concerns, please **[contact me](mailto:cl.schuetzdeller@icloud.com>)**.</span>
