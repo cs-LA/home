@@ -13,4 +13,4 @@
 <span class="de">Wenn die iCloud-Nutzung in der KTrunk-App ausgeschaltet wird, werden alle Notizen in der iCloud gelöscht. Zudem habe ich selber keinen Zugriff auf die Daten innerhalb der App oder in der iCloud.</span>
 
 <span class="en">Any data you store in iCloud is subject to the [Apple Customer Privacy Policy](https://www.apple.com/legal/privacy/).</span>
-<span class="de">Alle in der iCloud gespeicherten Daten unterliegen [Apples Datenschutz-Erklärung](https://www.apple.com/legal/privacy/).</span>
+<span class="de">Alle in der iCloud gespeicherten Daten unterliegen [Apples Datenschutz-Erklärung](https://www.apple.com/de/legal/privacy/).</span>
