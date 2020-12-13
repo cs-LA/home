@@ -3,7 +3,7 @@
   <span class="de">Mein nächstes Ziel</span>
 </h1>
 
-<span class="de">Ich bin für den *Wings for Life*-Lauf am 09.05.2021 angemeldet. Mein Ziel ist es, 16km zu schaffen. Das entspricht einer Pace von 5:58/km. Wenn jemand an der Spendenaktion teilnehmen möchte — herzlich willkommen &#128525;</span>
+<span class="de">Ich bin für den *[Wings for Life](https://www.wingsforlifeworldrun.com/de)*-Lauf am 09.05.2021 angemeldet. Mein Ziel ist es, 16km zu schaffen. Das entspricht einer Pace von 5:58/km. Wenn jemand an der Spendenaktion teilnehmen möchte — herzlich willkommen &#128525;</span>
 
 
 <h1>
