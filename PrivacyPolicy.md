@@ -1,4 +1,7 @@
-# KTrunk Privacy Policy
+<h1>
+  <span class="de">KTrunk Datenschutz-Richtlinie</span>
+  <span class="en">KTrunk Privacy Policy</span>
+</h1>
 
 KTrunk is privacy focused. KTrunk does not collect any usage data or analytics information. 
 None of your data in KTrunk ever leaves your devices, unless you turn on iCloud Sync, or export the data.
