@@ -20,8 +20,8 @@
 <span class="en">&#128073;&#127996; &nbsp; If you have any ideas or concerns, please **[contact me](mailto:cl.schuetzdeller@icloud.com>)**.</span>
 <span class="de">&#128073;&#127996; &nbsp; Wenn Du irgendwelche Ideen oder Probleme bei der Nutzung hast, **[kontaktiere mich](mailto:cl.schuetzdeller@icloud.com")** bitte.</span>
 
-<span class="en">&#128073;&#127996; &nbsp; KTrunk's **[Privacy Policy](PrivacyPolicy.md)**</span>
-<span class="de">&#128073;&#127996; &nbsp; KTrunks **[Datenschutz-Richtlinie](PrivacyPolicy.md)**</span> 
+<span class="en">&#128073;&#127996; &nbsp; KTrunk's **[Privacy Policy](KTrunk/PrivacyPolicy.md)**</span>
+<span class="de">&#128073;&#127996; &nbsp; KTrunks **[Datenschutz-Richtlinie](KTrunk/PrivacyPolicy.md)**</span> 
 
 <span class="en">&#128073;&#127996; &nbsp; Available soon!</span>
 <span class="de">&#128073;&#127996; &nbsp; In Kürze verfügbar!</span>
