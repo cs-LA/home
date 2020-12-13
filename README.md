@@ -4,7 +4,7 @@
 </h1>
 
 <span class="en"><b>Stay tuned ;-)</b></span>
-<span class="en">I'm registered for the *[Wings for Life](https://www.wingsforlifeworldrun.com/de)* run at May 9th, 2021 . My goal is to to go for 10 miles. This means a pace of about 9:35/mi.</span>
+<span class="en">I'm registered for the *[Wings for Life](https://www.wingsforlifeworldrun.com/de)* run at May 9th, 2021 . My goal is to go for 10 miles. This means a pace of about 9:35/mi.</span>
 <span class="de">Ich bin für den *[Wings for Life](https://www.wingsforlifeworldrun.com/de)*-Lauf am 09.05.2021 angemeldet. Mein Ziel ist es, 16km zu schaffen. Das entspricht einer Pace von 5:58/km.</span>
 
 <span class="en">If you want to support the  [donation](https://www.wingsforlifeworldrun.com/profiles/aP2J7Q) — you are welcome &#128525;</span>
