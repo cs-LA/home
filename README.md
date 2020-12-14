@@ -3,9 +3,9 @@
   <span class="de">Mein nächstes Ziel</span>
 </h1>
 
-<table>
+<table style="table-layout: fixed;">
   <tr>
-    <td style="border: 0px;width: 20%;><img src="W4L-2021.jpg"></td>
+    <td style="border: 0px;width: 20%;"><img src="W4L-2021.jpg"></td>
     <td style="border: 0px; padding-left: .5em;"><h2><b><i>Wings for Life</i></b></h2>
 <p><span class="en">I'm registered for the <i><a href="https://www.wingsforlifeworldrun.com/en">Wings for Life</a></i> run at May 9th, 2021 . My goal is to go for 10 miles. This means a pace of about 9:35/mi.</span>
 <span class="de">Ich bin für den <i><a href="https://www.wingsforlifeworldrun.com/de">Wings for Life</a></i>-Lauf am 09.05.2021 angemeldet. Mein Ziel ist es, 16km zu schaffen. Das entspricht einer Pace von 5:58/km.</span></p>
