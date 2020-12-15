@@ -1,7 +1,12 @@
-<h1>KTrunk<br>Schnelleinstieg</h1>
+<span class="en">KTrunk<br>Getting Started</span>
+<span class="de"><h1>KTrunk<br>Schnelleinstieg</h1></span>
 
-<p>Beim ersten Aufruf erscheint die App zunächst einmal seltsam. Man landet auf der Einstelluns-Seite und kann damit zunächst einmal nicht viel anfangen.</p>
-<p>Aber nun gehts los ...</p>
+
+
+<span class="de">Beim ersten Aufruf erscheint die App zunächst einmal seltsam. Man landet auf der Einstelluns-Seite und kann damit zunächst einmal nicht viel anfangen.</span>
+
+<span class="de">Aber nun gehts los ...</span>
+
 <h4>Erstellen einer Notiz</h4>
 <ul>
 <li>Klicke auf das Such-Symbol oben neben dem Notizentitel.</li>
