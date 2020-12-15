@@ -4,7 +4,7 @@
 </h1>
 
 <span class="en">At the very first invocation the App looks a little bit strange. You land on the Settings page and can't too much.</span>
-<span class="de">Beim ersten Aufruf erscheint die App zunächst einmal seltsam. Man landet auf der Einstelluns-Seite und kann damit zunächst einmal nicht viel anfangen.</span>
+<span class="de">Beim ersten Aufruf erscheint die App zunächst einmal seltsam. Man landet auf der Einstellungs-Seite und kann damit zunächst einmal nicht viel anfangen.</span>
 
 <span class="en">Let's start ...</span>
 <span class="de">Aber nun gehts los ...</span>
