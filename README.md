@@ -39,7 +39,7 @@
 <span class="en">The notes are saved in html-format and can be synchronized across your devices using iCloud.</span>
 <span class="de">Die Notizen werden im html-Format abgespeichert und können mittels iCloud über alle deine iOS-Geräte synchronisiert werden.</span>        
 
-<span class="de">&#128073;&#127996; &nbsp; <a href="/home/KTrunk/GettingStarted.md">Schnell-Einstieg</a></span>
+<span class="de">&#128073;&#127996; &nbsp; [Schnell-Einstieg](KTrunk/GettingStarted.md)</span>
 
 <span class="en">&#128073;&#127996; &nbsp; If you have any ideas or concerns, please **[contact me](mailto:cl.schuetzdeller@icloud.com>)**.</span>
 <span class="de">&#128073;&#127996; &nbsp; Wenn du irgendwelche Ideen oder Probleme bei der Nutzung hast, **[kontaktiere mich](mailto:cl.schuetzdeller@icloud.com")** bitte.</span>
