@@ -10,7 +10,7 @@
 <span class="de">Aber nun gehts los ...</span>
 
 <h4>
-  <span class="en">KTrunk<br>Create a Note</span>
+  <span class="en">Create a Note</span>
   <span class="de">Erstellen einer Notiz</span>
 </h4>
 
