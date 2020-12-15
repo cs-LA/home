@@ -3,19 +3,30 @@
   <span class="de">KTrunk<br>Schnelleinstieg</span>
 </h1>
 
-
+<span class="en">At the very first invocation the App looks a little bit strange. You land on the Settings page and can't too much.</span>
 <span class="de">Beim ersten Aufruf erscheint die App zunächst einmal seltsam. Man landet auf der Einstelluns-Seite und kann damit zunächst einmal nicht viel anfangen.</span>
 
 <span class="en">Let's start ...</span>
 <span class="de">Aber nun gehts los ...</span>
 
-<h4>Erstellen einer Notiz</h4>
+<h4>
+  <span class="en">KTrunk<br>Create a Note</span>
+  <span class="de">Erstellen einer Notiz</span>
+</h4>
+
 <ul>
-<li>Klicke auf das Such-Symbol oben neben dem Notizentitel.</li>
-<li>In dem Eingabefeld gibst Du den Namen Deiner Notiz ein.</li>
-<li>Dann auf das kleine Plus-Symbol in dem Eingabefeld klicken ...</li>
+  <li>
+    <span class="de"Klicke auf das Such-Symbol oben neben dem Notizentitel.</span>
+  </li>
+  <li>
+    <span class="de"In dem Eingabefeld gibst Du den Namen Deiner Notiz ein.</span>
+  </li>
+  <li>
+    <span class="de"Dann auf das kleine Plus-Symbol in dem Eingabefeld klicken ...</span>
+  </li>
 </ul>
-<p>... und schon hast Du Deine erste Notiz erstellt.</p>
+
+</span>... und schon hast Du Deine erste Notiz erstellt.</span>
 
 <h4>Bearbeiten einer Notiz</h4>
 <p>Um eine Notiz zu bearbeiten, klickst Du oben rechts auf das Bleistift-Symbol. Danach kannst Du den Cursor an die Stelle im Text positionieren, wo Du mit der Bearbeitung beginnen möchtest.</p>
