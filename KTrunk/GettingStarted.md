@@ -39,19 +39,19 @@
   <span class="de">Bearbeiten einer Notiz</span>
 </h4>
 
-<span class="en">To edit a Note, click the Pencil symbol at the top-right. Danach kannst Du den Cursor an die Stelle im Text positionieren, wo Du mit der Bearbeitung beginnen möchtest.</span>
+<span class="en">To edit a Note, click the Pencil symbol at the top-right. Then position the cursor in the text and start editing.</span>
 <span class="de">Um eine Notiz zu bearbeiten, klickst Du oben rechts auf das Bleistift-Symbol. Danach kannst Du den Cursor an die Stelle im Text positionieren, wo Du mit der Bearbeitung beginnen möchtest.</span>
 
-<span class="en">Für die Formatierung des Textes stehen Dir oberhalb der Tastatur die üblichen Symbole zur Verfügung.</span>
+<span class="en">For text formatting you have the usual symbols above the keyboard.</span>
 <span class="de">Für die Formatierung des Textes stehen Dir oberhalb der Tastatur die üblichen Symbole zur Verfügung.</span>
 
-<span class="en">Außer den 3 (auf dem iPad 4) rechten Symbolen haben diese Symbole keine direkte Wirkung, sondern blenden zusätzliche Formatierungssymbole ein.</span>
+<span class="en">Except the 3 (on iPad 4) right symbols they have no immediate impact, but phase in additional formatting symbols.</span>
 <span class="de">Außer den 3 (auf dem iPad 4) rechten Symbolen haben diese Symbole keine direkte Wirkung, sondern blenden zusätzliche Formatierungssymbole ein.</span>
 
-<span class="en"><b><i>Speichere</i></b> Deine Änderungen, indem Du das Häkchen oben rechts klickst.</span>
+<span class="en"><b><i>Save</i></b> your modifications by clicking the checkmark at the top right.</span>
 <span class="de"><b><i>Speichere</i></b> Deine Änderungen, indem Du das Häkchen oben rechts klickst.</span>
 
-<span class="en"><b><i>Verwerfe</i></b> Deine Änderungen, indem Du das Kreuz neben dem Speichern-Häkchen klickst.</span>
+<span class="en"><b><i>Cancel</i></b> your modifications by clicking the crosshair left of the checkmark.</span>
 <span class="de"><b><i>Verwerfe</i></b> Deine Änderungen, indem Du das Kreuz neben dem Speichern-Häkchen klickst.</span>
 
   
