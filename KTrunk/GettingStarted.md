@@ -1,7 +1,7 @@
 <h1>
   <span class="en">KTrunk<br>Getting Started</span>
   <span class="de">KTrunk<br>Schnelleinstieg</span>
-</h1
+</h1>
 
 
 <span class="de">Beim ersten Aufruf erscheint die App zunächst einmal seltsam. Man landet auf der Einstelluns-Seite und kann damit zunächst einmal nicht viel anfangen.</span>
