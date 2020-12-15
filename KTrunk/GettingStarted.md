@@ -16,17 +16,21 @@
 
 <ul>
   <li>
-    <span class="de"Klicke auf das Such-Symbol oben neben dem Notizentitel.</span>
+    <span class="en">Click the Search symbol at the top aside of the Note title.</span>
+    <span class="de">Klicke auf das Such-Symbol oben neben dem Notizentitel.</span>
   </li>
   <li>
-    <span class="de"In dem Eingabefeld gibst Du den Namen Deiner Notiz ein.</span>
+    <span class="en">In the text entry field type the name of your Note.</span>
+    <span class="de">In dem Eingabefeld gibst Du den Namen Deiner Notiz ein.</span>
   </li>
   <li>
-    <span class="de"Dann auf das kleine Plus-Symbol in dem Eingabefeld klicken ...</span>
+    <span class="en">Click the little Plus symbol within the text entry field ...</span>
+    <span class="de">Dann auf das kleine Plus-Symbol in dem Eingabefeld klicken ...</span>
   </li>
 </ul>
 
-</span>... und schon hast Du Deine erste Notiz erstellt.</span>
+</span class="en">... and you have created your first Note.</span>
+</span class="de">... und schon hast Du Deine erste Notiz erstellt.</span>
 
 <h4>Bearbeiten einer Notiz</h4>
 <p>Um eine Notiz zu bearbeiten, klickst Du oben rechts auf das Bleistift-Symbol. Danach kannst Du den Cursor an die Stelle im Text positionieren, wo Du mit der Bearbeitung beginnen möchtest.</p>
