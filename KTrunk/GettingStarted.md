@@ -9,6 +9,7 @@
 <span class="en">Let's start ...</span>
 <span class="de">Aber nun gehts los ...</span>
 
+
 <h4>
   <span class="en">Create a Note</span>
   <span class="de">Erstellen einer Notiz</span>
@@ -29,14 +30,28 @@
   </li>
 </ul>
 
-</span class="en">... and you have created your first Note.</span>
-</span class="de">... und schon hast Du Deine erste Notiz erstellt.</span>
+<span class="en">... and you have created your first Note.</span>
+<span class="de">... und schon hast Du Deine erste Notiz erstellt.</span>
 
-<h4>Bearbeiten einer Notiz</h4>
-<p>Um eine Notiz zu bearbeiten, klickst Du oben rechts auf das Bleistift-Symbol. Danach kannst Du den Cursor an die Stelle im Text positionieren, wo Du mit der Bearbeitung beginnen möchtest.</p>
-<p>Für die Formatierung des Textes stehen Dir oberhalb der Tastatur die üblichen Symbole zur Verfügung.</p>
-<p>Außer den 3 (auf dem iPad 4) rechten Symbolen haben diese Symbole keine direkte Wirkung, sondern blenden zusätzliche Formatierungssymbole ein.</p>
-<p><b><i>Speichere</i></b> Deine Änderungen, indem Du das Häkchen oben rechts klickst.</p>
-<p><b><i>Verwerfe</i></b> Deine Änderungen, indem Du das Kreuz neben dem Speichern-Häkchen klickst.</p>
+
+<h4>
+  <span class="en">Edit a Note</span>
+  <span class="de">Bearbeiten einer Notiz</span>
+</h4>
+
+<span class="en">To edit a Note, click the Pencil symbol at the top-right. Danach kannst Du den Cursor an die Stelle im Text positionieren, wo Du mit der Bearbeitung beginnen möchtest.</span>
+<span class="de">Um eine Notiz zu bearbeiten, klickst Du oben rechts auf das Bleistift-Symbol. Danach kannst Du den Cursor an die Stelle im Text positionieren, wo Du mit der Bearbeitung beginnen möchtest.</span>
+
+<span class="en">Für die Formatierung des Textes stehen Dir oberhalb der Tastatur die üblichen Symbole zur Verfügung.</span>
+<span class="de">Für die Formatierung des Textes stehen Dir oberhalb der Tastatur die üblichen Symbole zur Verfügung.</span>
+
+<span class="en">Außer den 3 (auf dem iPad 4) rechten Symbolen haben diese Symbole keine direkte Wirkung, sondern blenden zusätzliche Formatierungssymbole ein.</span>
+<span class="de">Außer den 3 (auf dem iPad 4) rechten Symbolen haben diese Symbole keine direkte Wirkung, sondern blenden zusätzliche Formatierungssymbole ein.</span>
+
+<span class="en"><b><i>Speichere</i></b> Deine Änderungen, indem Du das Häkchen oben rechts klickst.</span>
+<span class="de"><b><i>Speichere</i></b> Deine Änderungen, indem Du das Häkchen oben rechts klickst.</span>
+
+<span class="en"><b><i>Verwerfe</i></b> Deine Änderungen, indem Du das Kreuz neben dem Speichern-Häkchen klickst.</span>
+<span class="de"><b><i>Verwerfe</i></b> Deine Änderungen, indem Du das Kreuz neben dem Speichern-Häkchen klickst.</span>
 
   
