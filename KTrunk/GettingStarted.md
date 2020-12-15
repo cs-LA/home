@@ -1,5 +1,4 @@
-<h2>KTrunk</h2>
-<h1>Schnelleinstieg</h1>
+<h1>KTrunk<br>Schnelleinstieg</h1>
 
 <p>Beim ersten Aufruf erscheint die App zunächst einmal seltsam. Man landet auf der Einstelluns-Seite und kann damit zunächst einmal nicht viel anfangen.</p>
 <p>Aber nun gehts los ...</p>
