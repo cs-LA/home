@@ -1,5 +1,12 @@
 # KTrunk
 
+<table>
+  <tr>
+    <td width=150px style="border: 0px;"><a href="https://apps.apple.com/de/app/ktrunk/id1543722029"><img src="KTrunk/logo120.png"></a></td>
+    <td style="border: 0px; padding-left: .5em;"><h1><b><i>KTrunk</i></b></h1></td> 
+  </tr>
+</table>
+
 <span class="en">***Knowledge Trunk*** - or short ***KTrunk*** - is a note taking App. The notes are saved in html-format and can be synchronized across your devices using iCloud.</span>
 <span class="de">***Knowledge Trunk*** - oder kurz ***KTrunk*** - ist eine iOS-App, um Notizen zu verwalten.</span>
 
