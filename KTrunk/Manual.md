@@ -3,7 +3,7 @@
   <div class="logoColumn left">
     <img src="logo120.png">
   </div>
-  <div class="logoColumn right" style="font-size: 40px;">
+  <div class="logoColumn right">
     <b><i>KTrunk<br><span class="en">Manual</span><span class="de">Handbuch</span></i></b>
   </div>
 </div>
