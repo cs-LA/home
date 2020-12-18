@@ -22,8 +22,9 @@
 
 
 
- * <span class="en">At the left is a block of **[Navigation Buttons](Manual/NavigationButtons.md)**.ˋ/span><span class="de">Zur linken ist ein Block von **[Navigation Buttons](Manual/NavigationButtons.md)**.</span>
- * <span class="en">At the right is a block of **[Action Buttons](Manual/ActionButtons.md)**.ˋ/span><span class="de">Zur rechten ist ein Block von **[Action Buttons](Manual/ActionButtons.md)**.</span>
+ * <span class="en">At the left is a block of **[Navigation Buttons](Manual/NavigationButtons.md)**.</span><span class="de">Zur Linken ist ein Block von **[Navigation Buttons](Manual/NavigationButtons.md)**.</span>
+ * <span class="en">At the right is a block of **[Action Buttons](Manual/ActionButtons.md)**.</span><span class="de">Zur Rechten ist ein Block von **[Action Buttons](Manual/ActionButtons.md)**.</span>
+ * <span class="en">In the middle is the  **[Document Name](Manual/DocumentTitle.md)**.</span><span class="de">In der Mitte ist der **[Dokumenten-Name](Manual/DocumentTitle.md)**.</span>
 
 
 <span class="en"></span>
