@@ -38,7 +38,7 @@
 
 
  * <span class="en">1234</span><span class="de">9876</span>
- * <span class="en">1234</span><span class="de">9iu6</span>
+ * <span class="en">1234</span><span class="de">[9iu6](Manual/NavigationButtons.md)</span>
  
 
 
