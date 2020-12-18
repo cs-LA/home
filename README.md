@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td style="border: 0px; width: 120px;"><img src="Wings4Life/2021.jpg"></td>
+    <td width=120px style="border: 0px"><img src="Wings4Life/2021.jpg"></td>
     <td style="border: 0px; padding-left: .5em;"><h2><b><i>Wings for Life</i></b></h2>
     </td> 
   </tr>
