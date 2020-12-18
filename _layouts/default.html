@@ -112,6 +112,29 @@
       .en {
         display: none;
       }
+      
+      /* Create two unequal columns that floats next to each other */
+      .logoColumn {
+        float: left;
+        padding: 10px;
+        height: 0px; /* Should be removed. Only for demonstration */
+      }
+
+      .logoColumnLeft {
+        width: 150px;
+      }
+      .logoColumnRight {
+        width: 0px;
+        overflow: visible;
+      }
+
+      /* Clear floats after the columns */
+      .logoRow:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+
     </style>
     
     <script>
