@@ -17,7 +17,7 @@
     <img src="Wings4Life/2021.jpg">
   </div>
   <div class="logoColumn logoColumnRight">
-    <b><i>Wings4Life/2021.jpg</i></b>
+    <b><i>Wings for Life</i></b>
   </div>
 </div>
 
