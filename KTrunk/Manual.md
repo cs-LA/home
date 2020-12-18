@@ -20,14 +20,12 @@
 <span class="en">The user interface is pretty simple. Most of the screen is just used to display the document. At the top you see the header bar that consists of:</span>
 <span class="de">Die Benutzer-Oberfläche ist sehr einfach gehalten. Der überwiegende Teil des Bildschirms wird zur Anzeige des Dokuments genutzt. Oben ist ein Kopf-Bereich mit folgenden Komponenten:</span>
 
-
-
  * <span class="en">At the left is a block of **[Navigation Buttons](Manual/NavigationButtons.md)**.</span><span class="de">Zur Linken ist ein Block von **[Navigations-Schalttasten](Manual/NavigationButtons.md)**.</span>
  * <span class="en">At the right is a block of **[Action Buttons](Manual/ActionButtons.md)**.</span><span class="de">Zur Rechten ist ein Block von **[Aktions-Schalttasten](Manual/ActionButtons.md)**.</span>
  * <span class="en">In the middle is the  **[Document Name](Manual/DocumentTitle.md)**.</span><span class="de">In der Mitte ist der **[Dokumenten-Name](Manual/DocumentTitle.md)**.</span>
 
 
-<span class="en"></span>
+<span class="en">Weiter gehtös</span>
 <span class="de"></span>
 
 <span class="en"></span>
