@@ -22,9 +22,8 @@
 
 
 
- * <span class="en">At the left is a block of </span><span class="de">Zur linken ist ein Block von </span> **[Navigation Buttons](Manual/NavigationButtons.md)**.
- * <span class="en">1234</span><span class="de">[9iu6](Manual/NavigationButtons.md)</span>
- 
+ * <span class="en">At the left is a block of **[Navigation Buttons](Manual/NavigationButtons.md)**.ˋ/span><span class="de">Zur linken ist ein Block von **[Navigation Buttons](Manual/NavigationButtons.md)**.</span>
+ * <span class="en">At the right is a block of **[Action Buttons](Manual/ActionButtons.md)**.ˋ/span><span class="de">Zur rechten ist ein Block von **[Action Buttons](Manual/ActionButtons.md)**.</span>
 
 
 <span class="en"></span>
