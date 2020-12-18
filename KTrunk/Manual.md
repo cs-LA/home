@@ -37,7 +37,7 @@
   
 
 
- * <span class="en">1234</span><span class="de">9876</span>
+ * <span class="en">At the left is a block of **[Navigation Buttons](Manual/NavigationButtons.md)**.</span><span class="de">9876</span>
  * <span class="en">1234</span><span class="de">[9iu6](Manual/NavigationButtons.md)</span>
  
 
