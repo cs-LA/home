@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width=150px style="border: 0px;"><img src="logo120.png"></td>
-    <td style="border: 0px; padding-left: .5em; font-size: 5.0em;"><b><i>KTrunk<br><span class="en">Manual</span><span class="de">Handbuch</span></i></b></td> 
+    <td style="border: 0px; padding-left: .5em; font-size: 2.5em;"><b><i>KTrunk<br><span class="en">Manual</span><span class="de">Handbuch</span></i></b></td> 
   </tr>
 </table>
 
