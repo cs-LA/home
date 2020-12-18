@@ -1,4 +1,3 @@
-# KTrunk
 
 <table>
   <tr>
@@ -17,9 +16,6 @@
 
 <span class="en">The notes are saved in html-format and can be synchronized across your devices using iCloud.</span>
 <span class="de">Die Notizen werden im html-Format abgespeichert und können mittels iCloud über alle deine iOS-Geräte synchronisiert werden.</span>
-
-
-yyx
 
 ![](SampleNote.png)
 
