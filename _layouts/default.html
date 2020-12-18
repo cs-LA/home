@@ -128,6 +128,7 @@
         vertical-align: middle;
         font-size: 40px;
         width: 0px;
+        white-space: nowrap;
         overflow: visible;
       }
 
@@ -143,7 +144,7 @@
     <script>
       function setLanguage() {
         shortLang = sessionStorage.getItem("shortLang")
-        document.getElementById("debug").innerHTML = "qqq"
+        document.getElementById("debug").innerHTML = ""
         
         if (shortLang == null) {
           lang = window.navigator.languages ? window.navigator.languages[0] : null
