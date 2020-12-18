@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width=150px style="border: 0px;"><img src="logo120.png"></a></td>
-    <td style="border: 0px; padding-left: .5em;"><h1><b><i>KTrunk</i></b></h1></td> 
+    <td style="border: 0px; padding-left: .5em;"><h1 style="font-size: 3em;"><b><i>KTrunk</i></b></h1></td> 
   </tr>
 </table>
 
