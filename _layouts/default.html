@@ -85,9 +85,14 @@
       h6 { font-size: 1.0em; font-weigth: bold; font-style: italic;}
       p {
         margin: 0;
-        padding-top: 0.2em;
-        padding-bottom: 0.5em;
-        font-site: 1.0em
+        padding-top: 0.3em;
+        padding-bottom: 0.3em;
+        font-size: 1.0em
+      }
+      
+      ul, li {
+        padding-top: 0.3em;
+        padding-bottom: 0.3em;
       }
       
       img {
@@ -108,7 +113,7 @@
     <script>
       function setLanguage() {
         shortLang = sessionStorage.getItem("shortLang")
-        document.getElementById("debug").innerHTML = ""
+        document.getElementById("debug").innerHTML = "qqq"
         
         if (shortLang == null) {
           lang = window.navigator.languages ? window.navigator.languages[0] : null
