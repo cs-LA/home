@@ -90,13 +90,17 @@
         font-size: 1.0em
       }
       
-      ul, li {
+      ul {
+        padding-top: 0;
+        padding-bottom: 0;
+      }
+      li {
         padding-top: 0.3em;
         padding-bottom: 0.3em;
       }
-      
+           
       img {
-	display: block;
+	      display: block;
         width: 80%;
         margin-left: auto;
         margin-right: auto;
@@ -113,7 +117,7 @@
     <script>
       function setLanguage() {
         shortLang = sessionStorage.getItem("shortLang")
-        document.getElementById("debug").innerHTML = "qqq"
+        document.getElementById("debug").innerHTML = "www"
         
         if (shortLang == null) {
           lang = window.navigator.languages ? window.navigator.languages[0] : null
