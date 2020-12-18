@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td width=150px style="border: 0px;"><a href="https://apps.apple.com/de/app/ktrunk/id1543722029"><img src="KTrunk/logo120.png"></a></td>
+    <td width=150px style="border: 0px;"><img src="logo120.png"></a></td>
     <td style="border: 0px; padding-left: .5em;"><h1><b><i>KTrunk</i></b></h1></td> 
   </tr>
 </table>
