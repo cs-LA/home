@@ -5,7 +5,7 @@
 
 <table>
   <tr>
-    <td width=120px style="border: 0px"><img src="Wings4Life/2021.jpg"></td>
+    <td width=150px style="border: 0px"><img src="Wings4Life/2021.jpg"></td>
     <td style="border: 0px; padding-left: .5em;"><h2><b><i>Wings for Life</i></b></h2>
     </td> 
   </tr>
@@ -25,7 +25,7 @@
 
 <table>
   <tr>
-    <td style="border: 0px;"><a href="https://apps.apple.com/de/app/ktrunk/id1543722029"><img src="KTrunk/logo120.png"></a></td>
+    <td width=150px style="border: 0px;"><a href="https://apps.apple.com/de/app/ktrunk/id1543722029"><img src="KTrunk/logo120.png"></a></td>
     <td style="border: 0px; padding-left: .5em;"><h2><b><i>KTrunk</i></b></h2>
       <p class="en"><b><i>Knowledge Trunk</i></b> — or short <b><i>KTrunk</i></b> — is a note taking iOS-App.</p>
       <p class="de"><b><i>Knowledge Trunk</i></b> — oder kurz <b><i>KTrunk</i></b> — ist eine iOS-App, um Notizen zu verwalten.</p>
