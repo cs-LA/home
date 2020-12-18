@@ -20,24 +20,9 @@
 <span class="en">The user interface is pretty simple. Most of the screen is just used to display the document. At the top you see the header bar that consists of:</span>
 <span class="de"></span>
 
-<ul>
-  <li>
-    <span class="en">At the left is a block of Navigation Buttons.</span>
-    <span class="de"></span>
-  </li>
-  <li>
-    <span class="en">At the left is a block of Navigation Buttons.</span>
-    <span class="de"></span>
-  </li>
-  <li>
-    <span class="en">At the left is a block of Navigation Buttons.</span>
-    <span class="de"></span>
-  </li>
-</ul>
-  
 
 
- * <span class="en">At the left is a block of **[Navigation Buttons](Manual/NavigationButtons.md)**.</span><span class="de">9876</span>
+ * <span class="en">At the left is a block of </span><span class="de">Zur linken ist ein Block von </span> **[Navigation Buttons](Manual/NavigationButtons.md)**.
  * <span class="en">1234</span><span class="de">[9iu6](Manual/NavigationButtons.md)</span>
  
 
