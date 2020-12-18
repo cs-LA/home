@@ -17,7 +17,7 @@
 
 ![](Manual/SampleNote.PNG)
 
-<img src="Manual/SampleNote.PNG" style="border: 2px;">
+<div style="border: 2px;"><img src="Manual/SampleNote.PNG"></div>
 
 <span class="en">The user interface is pretty simple. Most of the screen is just used to display the document. At the top you see the header bar that consists of:</span>
 <span class="de">Die Benutzer-Oberfläche ist sehr einfach gehalten. Der überwiegende Teil des Bildschirms wird zur Anzeige des Dokuments genutzt. Oben ist ein Kopf-Bereich mit folgenden Komponenten:</span>
