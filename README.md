@@ -11,6 +11,18 @@
   </tr>
 </table>
 
+
+<div class="logoRow">
+  <div class="logoColumn logoColumnLeft">
+    <img src="Wings4Life/2021.jpg">
+  </div>
+  <div class="logoColumn logoColumnRight">
+    <b><i>Wings4Life/2021.jpg</i></b>
+  </div>
+</div>
+
+
+
 <p><span class="en">I'm registered for the <i><a href="https://www.wingsforlifeworldrun.com/en">Wings for Life</a></i> run at May 9th, 2021 . My goal is to go for 10 miles. This means a pace of about 9:35/mi.</span>
 <span class="de">Ich bin für den <i><a href="https://www.wingsforlifeworldrun.com/de">Wings for Life</a></i>-Lauf am 09.05.2021 angemeldet. Mein Ziel ist es, 16km zu schaffen. Das entspricht einer Pace von 5:58/km.</span></p>
 
@@ -32,6 +44,17 @@
     </td> 
   </tr>
 </table>
+
+
+<div class="logoRow">
+  <div class="logoColumn logoColumnLeft">
+    <img src="logo120.png">
+  </div>
+  <div class="logoColumn logoColumnRight">
+    <b><i>KTrunk<br><span class="en">Manual</span><span class="de">Handbuch</span></i></b>
+  </div>
+</div>
+
 
 <span class="en">Use ***KTrunk*** to save all your ideas augmented with related files and photos. You can establish links from one note to any other note or file in KTrunk.</span>
 <span class="de">Nutze ***KTrunk***, um all deine Ideen zu sammeln und sie mit Photos und beliebigen Dateien zu ergänzen. Von jeder Notiz aus kannst du in KTrunk Links zu anderen Notizen oder Dateien erstellen.</span>
