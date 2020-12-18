@@ -1,12 +1,23 @@
 
 <div>
-  <span width=150px>
+  <span width=150px height 150px>
     <img src="logo120.png">
   </span>
   <span style="padding-left: .5em; font-size: 40px;">
     <b><i>KTrunk<br><span class="en">Manual</span><span class="de">Handbch</span></i></b>
   </span>
 </div>
+
+
+<div class="logoRow">
+  <div class="logoColumn left">
+    <img src="logo120.png">
+  </div>
+  <div class="logoColumn right" style="background-color:#bbb;">
+    <b><i>KTrunk<br><span class="en">Manual</span><span class="de">Handbch</span></i></b>
+  </div>
+</div>
+
 
 <table style="table-layout: fixed;">
   <tr>
