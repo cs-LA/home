@@ -6,3 +6,5 @@
 
 [](/home/KTrunk/SampleNote.png)
 <img src="/home/KTrunk/SampleNote.png">
+
+<img src="SampleNote.png">
