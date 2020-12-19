@@ -56,11 +56,11 @@
 <span class="en">&#128073;&#127996; &nbsp; KTrunk's **[Privacy Policy](KTrunk/PrivacyPolicy.md)**</span>
 <span class="de">&#128073;&#127996; &nbsp; KTrunks **[Datenschutz-Richtlinie](KTrunk/PrivacyPolicy.md)**</span> 
 
-<span class="hint">
+<div class="hint">
 <span class="en">KTrunk's **[Privacy Policy](KTrunk/PrivacyPolicy.md)**</span>
 <span class="de">KTrunks **[Datenschutz-Richtlinie](KTrunk/PrivacyPolicy.md)**</span> 
-</span>
-                
+</div>
+                <b><a href="KTrunk/PrivacyPolicy.html">Privacy Policy</a></b>
 <span class="en">&#128073;&#127996; &nbsp; Available in **<a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a>**!</span>
 <span class="de">&#128073;&#127996; &nbsp; Verfügbar im **<a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a>**!</span>
 
