@@ -47,7 +47,7 @@
 
 
 <div class="logoRow">
-  <div class="logoColumn logoColumnLeft">
+  <div class="KTrunk/logoColumn logoColumnLeft">
     <img src="logo120.png">
   </div>
   <div class="logoColumn logoColumnRight">
