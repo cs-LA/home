@@ -9,7 +9,7 @@
   </div>
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
-      <h3><i>Wings for Life</i></h3>
+      <div class="logoTitle">Wings for Life</i></div3>
     </div>
   </div>
 </div>
@@ -27,14 +27,6 @@
   <span class="de">Meine iOS-Apps</span>
 </h1>
 
-<div class="logoRow">
-  <div class="logoColumn logoColumnLeft">
-    <img src="KTrunk/logo120.png">
-  </div>
-  <div class="logoColumn logoTextCell">
-    <b><i>KTrunk</i></b>
-  </div>
-</div>
 
 <div class="logoRow">
   <div class="logoColumn logoColumnLeft">
@@ -42,9 +34,9 @@
   </div>
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
-      <h3><i>KTrunk</i></h3>
-      <span class="en"><b><i>Knowledge Trunk</i></b> — or short <b><i>KTrunk</i></b> — is a note taking iOS-App.</span>
-      <span class="de"><b><i>Knowledge Trunk</i></b> — oder kurz <b><i>KTrunk</i></b> — ist eine iOS-App, um Notizen zu verwalten.</span>
+      <div class="logoTitle">KTrunk</div>
+      <div class="logoDescription"><span class="en"><b><i>Knowledge Trunk</i></b> — or short <b><i>KTrunk</i></b> — is a note taking iOS-App.</span></div>
+      <div class="logoDescription"><span class="de"><b><i>Knowledge Trunk</i></b> — oder kurz <b><i>KTrunk</i></b> — ist eine iOS-App, um Notizen zu verwalten.</span></div>
     </div>
   </div>
 </div>
