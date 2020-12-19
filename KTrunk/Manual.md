@@ -3,15 +3,6 @@
   <div class="logoColumn logoColumnLeft">
     <img src="logo120.png">
   </div>
-  <div class="logoColumn logoColumnRight">
-    <b><i>KTrunk<br><span class="en">Manual</span><span class="de">Handbuch</span></i></b>
-  </div>
-</div>
-
-<div class="logoRow">
-  <div class="logoColumn logoColumnLeft">
-    <img src="logo120.png">
-  </div>
   <div class="logoColumn logoTextCell">
     <b><i>KTrunk<br><span class="en">Manual</span><span class="de">Handbuch</span></i></b>
   </div>
