@@ -8,7 +8,7 @@
     <img src="Wings4Life/2021.jpg">
   </div>
   <div class="logoColumn logoTextCell">
-   <b><i>Wings for Life</i></b>
+   <b><i>Wings for Life</i></b> ist mein nächstes angestrebtes Laufziel 🏃🏃🏃
   </div>
 </div>
 
