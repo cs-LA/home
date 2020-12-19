@@ -124,14 +124,23 @@
         width: 120px;
       }
       .logoColumnRight {
-        vertical-align: middle;
+        display: table;
         padding-top: 0;
-        font-size: 24px;
         width: calc(100%-150px);
-        /* white-space: nowrap; */
-        overflow: visible;
+        height: 120px;
+        text-align: center;
       }
-
+      div {
+        display: table;
+        height: 100px;
+        width: 100%;
+        text-align: center;
+      }
+      .logoTextCell {
+        display: table-cell;
+        vertical-align: middle;
+        font-size: 24px;
+      }
       /* Clear floats after the columns */
       .logoRow:after {
         content: "";
