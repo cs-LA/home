@@ -4,10 +4,10 @@
 </h1>
 
 <div class="logoRow">
-  <div class="logoColumn logoColumnLeft">
+  <div class="logoColumn logoColumnLefti">
     <img src="Wings4Life/2021.jpg">
   </div>
-  <div class="logoColumn logoTextCell">
+  <div class="logoColumn logoColumnRight logoTextCell">
    <b><i>Wings for Life Wings for Life </i></b>
   </div>
 </div>
