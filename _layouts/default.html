@@ -117,18 +117,18 @@
       .logoColumn {
         float: left;
         padding-top: 1em;
-        height: 200px;
+        height: 150px;
       }
 
       .logoColumnLeft {
-        width: 200px;
+        width: 150px;
       }
       .logoColumnRight {
         vertical-align: middle;
         padding-top: 0;
         font-size: 32px;
-        width: 100%;
-        /*  white-space: nowrap; */
+        width: 100px;
+        white-space: nowrap;
         overflow: visible;
       }
 
@@ -144,7 +144,7 @@
     <script>
       function setLanguage() {
         shortLang = sessionStorage.getItem("shortLang")
-        document.getElementById("debug").innerHTML = "aaa"
+        document.getElementById("debug").innerHTML = "qqq"
         
         if (shortLang == null) {
           lang = window.navigator.languages ? window.navigator.languages[0] : null
