@@ -7,8 +7,8 @@
   <div class="logoColumn logoColumnLeft">
     <img src="Wings4Life/2021.jpg">
   </div>
-  <div class="logoColumn logoColumnRight logoTextCell">
-   <b><i>Wings for Life.</i></b>
+  <div class="logoColumn logoTextCell">
+   <b><i>Wings for Life!</i></b>
   </div>
 </div>
 
