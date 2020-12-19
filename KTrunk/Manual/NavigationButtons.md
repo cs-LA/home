@@ -1,9 +1,3 @@
-<table>
-  <tr>
-    <td width=150px style="border: 0px;"><img src="./../logo120.png"></td>
-    <td style="border: 0px; padding-left: .5em; font-size: 5.0em;"><b><i>KTrunk</i></b></td> 
-  </tr>
-</table>
 
 <div class="logoRow">
   <div class="logoColumn logoColumnLeft">
