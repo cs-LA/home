@@ -30,7 +30,7 @@
   <div class="logoColumn logoColumnLeft">
     <img src="KTrunk/logo120.png">
   </div>
-  <div class="logoTextCell">
+  <div class="logoColumn logoTextCell">
     <b><i>KTrunk</i></b>
   </div>
 </div>
