@@ -9,7 +9,7 @@
   </div>
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
-      <h3><i>Wings for Life</i></h3
+      <h3><i>Wings for Life</i></h3>
     </div>
   </div>
 </div>
