@@ -140,6 +140,7 @@
         display: table-cell;
         vertical-align: middle;
         font-size: 24px;
+        overflow-y: scroll;
       }
       /* Clear floats after the columns */
       .logoRow:after {
@@ -153,7 +154,7 @@
     <script>
       function setLanguage() {
         shortLang = sessionStorage.getItem("shortLang")
-        document.getElementById("debug").innerHTML = " | "
+        document.getElementById("debug").innerHTML = " || "
         
         if (shortLang == null) {
           lang = window.navigator.languages ? window.navigator.languages[0] : null
