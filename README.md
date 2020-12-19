@@ -31,12 +31,12 @@
     <img src="KTrunk/logo120.png">
   </div>
   <div class="logoColumn logoColumnRight">
-    <h2><b><i>KTrunk</i></b></h2>
-      <p class="en"><b><i>Knowledge Trunk</i></b> — or short <b><i>KTrunk</i></b> — is a note taking iOS-App.</p>
-      <p class="de"><b><i>Knowledge Trunk</i></b> — oder kurz <b><i>KTrunk</i></b> — ist eine iOS-App, um Notizen zu verwalten.</p>
+    <b><i>KTrunk</i></b>
   </div>
 </div>
 
+<span class="en"><b><i>Knowledge Trunk</i></b> — or short <b><i>KTrunk</i></b> — is a note taking iOS-App.</span>
+<span class="de"><b><i>Knowledge Trunk</i></b> — oder kurz <b><i>KTrunk</i></b> — ist eine iOS-App, um Notizen zu verwalten.</span>
 
 <span class="en">Use ***KTrunk*** to save all your ideas augmented with related files and photos. You can establish links from one note to any other note or file in KTrunk.</span>
 <span class="de">Nutze ***KTrunk***, um all deine Ideen zu sammeln und sie mit Photos und beliebigen Dateien zu ergänzen. Von jeder Notiz aus kannst du in KTrunk Links zu anderen Notizen oder Dateien erstellen.</span>
