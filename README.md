@@ -56,7 +56,7 @@
 <span class="en">&#128073;&#127996; &nbsp; KTrunk's **[Privacy Policy](KTrunk/PrivacyPolicy.md)**</span>
 <span class="de">&#128073;&#127996; &nbsp; KTrunks **[Datenschutz-Richtlinie](KTrunk/PrivacyPolicy.md)**</span> 
 
-<div class="hint>
+<div class="hint">
 <span class="en">KTrunk's **[Privacy Policy](KTrunk/PrivacyPolicy.md)**</span>
 <span class="de">KTrunks **[Datenschutz-Richtlinie](KTrunk/PrivacyPolicy.md)**</span> 
 </div>
