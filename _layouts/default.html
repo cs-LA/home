@@ -114,32 +114,42 @@
         display: none;
       }
       
-      /* Create two column display for a logo (left) with a short heading (right) */
-      .logoColumn {
-        float: left;
-        padding-top: 1em;
-        height: 120px;
+      .logoRow {
+        margin-bottom: 10px;
       }
+      
+      
+        .logoColumn {
+          float: left;
+          height: 150px;
+        }
 
-      .logoColumnLeft {
-        width: 120px;
-      }
-      .logoColumnRight {
-        display: table;
-        padding-top: 0;
-        width: calc(100%-150px);
-        height: 120px;
-      }
-      .logoTextCell {
-        display: table-cell;
-        font-size: 24px;
-      }
-      /* Clear floats after the columns */
+        .logoColumnLeft {
+          width: 150px;
+        }
+        .logoColumnLeft img {
+        	width: 100%;
+        }
+
+        .logoColumnRight {
+          width: calc(100% - 150px);
+          padding: 0 1em;
+          line-height: 130px;
+          overflow-y: auto;
+        }
+
+        .vCentered {
+          line-height: 1.2;
+          display: inline-block;
+          vertical-align: middle;
+        }
+
       .logoRow:after {
         content: "";
         display: table;
         clear: both;
       }
+
 
     </style>
     
