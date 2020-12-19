@@ -4,7 +4,7 @@
 </h1>
 
 <div class="logoRow">
-  <div class="logoColumn logoColumnLefti">
+  <div class="logoColumn logoColumnLeft">
     <img src="Wings4Life/2021.jpg">
   </div>
   <div class="logoColumn logoTextCell">
