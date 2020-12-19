@@ -3,15 +3,6 @@
   <span class="de">Mein nächstes Ziel</span>
 </h1>
 
-<table>
-  <tr>
-    <td width=150px style="border: 0px"><img src="Wings4Life/2021.jpg"></td>
-    <td style="border: 0px; padding-left: .5em;"><h2><b><i>Wings for Life</i></b></h2>
-    </td> 
-  </tr>
-</table>
-
-
 <div class="logoRow">
   <div class="logoColumn logoColumnLeft">
     <img src="Wings4Life/2021.jpg">
@@ -35,23 +26,14 @@
   <span class="de">Meine iOS-Apps</span>
 </h1>
 
-<table>
-  <tr>
-    <td width=150px style="border: 0px;"><a href="https://apps.apple.com/de/app/ktrunk/id1543722029"><img src="KTrunk/logo120.png"></a></td>
-    <td style="border: 0px; padding-left: .5em;"><h2><b><i>KTrunk</i></b></h2>
-      <p class="en"><b><i>Knowledge Trunk</i></b> — or short <b><i>KTrunk</i></b> — is a note taking iOS-App.</p>
-      <p class="de"><b><i>Knowledge Trunk</i></b> — oder kurz <b><i>KTrunk</i></b> — ist eine iOS-App, um Notizen zu verwalten.</p>
-    </td> 
-  </tr>
-</table>
-
-
 <div class="logoRow">
   <div class="logoColumn logoColumnLeft">
     <img src="KTrunk/logo120.png">
   </div>
   <div class="logoColumn logoColumnRight">
-    <b><i>KTrunk<br><span class="en">Manual</span><span class="de">Handbuch</span></i></b>
+    <h2><b><i>KTrunk</i></b></h2>
+      <p class="en"><b><i>Knowledge Trunk</i></b> — or short <b><i>KTrunk</i></b> — is a note taking iOS-App.</p>
+      <p class="de"><b><i>Knowledge Trunk</i></b> — oder kurz <b><i>KTrunk</i></b> — ist eine iOS-App, um Notizen zu verwalten.</p>
   </div>
 </div>
 
