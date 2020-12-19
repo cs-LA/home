@@ -8,7 +8,7 @@
     <img src="Wings4Life/2021.jpg">
   </div>
   <div class="logoColumn logoTextCell">
-   <b><i>Wings for Life!</i></b>
+   <b><i>Wings for Life</i></b>
   </div>
 </div>
 
@@ -30,7 +30,7 @@
   <div class="logoColumn logoColumnLeft">
     <img src="KTrunk/logo120.png">
   </div>
-  <div class="logoColumn logoColumnRight">
+  <div class="logoTextCell">
     <b><i>KTrunk</i></b>
   </div>
 </div>
