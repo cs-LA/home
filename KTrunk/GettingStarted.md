@@ -1,7 +1,15 @@
-<h1>
-  <span class="en">KTrunk<br>Getting Started</span>
-  <span class="de">KTrunk<br>Schnelleinstieg</span>
-</h1>
+
+<div class="logoRow">
+  <div class="logoColumn logoColumnLeft">
+    <img src="logo120.png">
+  </div>
+  <div class="logoColumn logoColumnRight">
+    <div class="vCentered">
+      <div class="logoTitle">KTrunk</div>
+      <div class="logoTitle"><span class="en">Manual</span><span class="de">Handbuch</span></div>
+    </div>
+  </div>
+</div>
 
 <span class="en">At the very first invocation the App looks a little bit strange. You land on the Settings page and can't too much.</span>
 <span class="de">Beim ersten Aufruf erscheint die App zunächst einmal seltsam. Man landet auf der Einstellungs-Seite und kann damit zunächst einmal nicht viel anfangen.</span>
