@@ -14,7 +14,7 @@
 
 
 --->
-<div style="width: 30px; height: 80px; overflow: hidden">
+<div style="width: 50px; height: 30px; overflow: hidden">
   <div style="margin-top: -10px; margin-left: -60px;">
   <img src="NavigationButtons.png">
     </div>
