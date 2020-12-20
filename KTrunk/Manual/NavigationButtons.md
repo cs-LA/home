@@ -14,8 +14,8 @@
 
 
 --->
-<div style="width: 100px; height: 50px; border: 5px solid blue; overflow: hidden">
-  <img src="NavigationButtons.png" style="width: 900px;">
+<div style="width: 100px; height: 50px; border: 5px solid red; overflow: hidden">
+  <img src="NavigationButtons.png" style="width: 900px; margin-left: -50px;">
 </div>
 <---
 
