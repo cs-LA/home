@@ -10,5 +10,7 @@
 
 ## Navigation Buttons
 
+![](NavigationButtons.png)
+
 <span class="en">***Knowledge Trunk*** - or short ***KTrunk*** - is a note taking App. The notes are saved in html-format and can be synchronized across your devices using iCloud.</span>
 <span class="de">***Knowledge Trunk*** - oder kurz ***KTrunk*** - ist eine iOS-App, um Notizen zu verwalten.</span>
