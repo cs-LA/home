@@ -30,7 +30,7 @@
  * <span class="en">In the middle is the  **[Document Name](Manual/DocumentTitle.md)**.</span><span class="de">In der Mitte ist der **[Dokumenten-Name](Manual/DocumentTitle.md)**.</span>
 
 
-<span class="en">Weiter gehtös</span>
+<span class="en"></span>
 <span class="de"></span>
 
 <span class="en"></span>
