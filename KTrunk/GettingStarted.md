@@ -68,3 +68,5 @@
 
 <span class="en" align="center">For further informations visit the **[Manual.md](Manual)**.</span>
 <span class="en" align="center">Weitere Informatinen findest Du im **[Manual.md](Handbuch)**.</span>
+
+### &nbsp;
