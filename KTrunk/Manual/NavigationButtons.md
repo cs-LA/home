@@ -12,6 +12,10 @@
 
 ![](NavigationButtons.png)
 
+<div style="width: 41px; height: 76px; overflow: hidden">
+  <img src="NavigationButtons.png">
+</div>
+
 <span class="en">The 3 ***Navigation Buttons*** have the usual meaning as it is well known from web browsers.</span>
 <span class="de"></span>
 
