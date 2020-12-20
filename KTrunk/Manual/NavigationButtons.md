@@ -24,8 +24,8 @@
     <span class="de">Die <img src="NavigationButtonBackward.jpg" class="appButton"> Schaltfläche führt in der Historie der besuchten Web-Seiten einen Schritt zurück.</span>
   </li>
   <li>
-    <span class="en">The <img src="NavigationButtonForward.jpg" class="appButton"> button goes forward one step in the history of visited pages. The sample button is *grayed-out* meaning that the button is *inactive*.</span>
-    <span class="de">Die <img src="NavigationButtonForward.jpg" class="appButton"> Schaltfläche führt in der Historie der besuchten Web-Seiten einen Schritt vorwärts. Die hier gezeigte Beispiel-Schaltfläche ist *ausgegraut*, d.h. sie ist *nicht aktiviert*.</span>
+    <span class="en">The <img src="NavigationButtonForward.jpg" class="appButton"> button goes forward one step in the history of visited pages. The sample button is <i>grayed-out</i> meaning that the button is <i>inactive</i>.</span>
+    <span class="de">Die <img src="NavigationButtonForward.jpg" class="appButton"> Schaltfläche führt in der Historie der besuchten Web-Seiten einen Schritt vorwärts. Die hier gezeigte Beispiel-Schaltfläche ist <i>ausgegraut</i>, d.h. sie ist <i>nicht aktiviert</i>.</span>
   </li>
   <li>
     <span class="en">The <img src="NavigationButtonHome.jpg" class="appButton"> button loads the <i>Home Page</i> that you have specified in your <i><a href="Settings.html>Settings</a></i>.</span>
