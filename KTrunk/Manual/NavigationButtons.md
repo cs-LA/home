@@ -12,14 +12,14 @@
 
 ![](NavigationButtons.png)
 
-Text <img src="NavigationButtonBackward.jpg" width=16 height=16 style="vertical-align: middle;"> Text
+Text Text
 
 ---
 
 <span class="en">The 3 ***Navigation Buttons*** have the usual meaning as it is well known from web browsers.</span>
 <span class="de"></span>
 
-<span class="en">The <img src="NavigationButtons.png" style="width: 30px; height: 30px;"> button</span>
+<span class="en">The <img src="NavigationButtonBackward.jpg" width=16 height=16 style="vertical-align: middle;"> button</span>
 <span class="de"></span>
 
 
