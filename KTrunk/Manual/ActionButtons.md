@@ -1,3 +1,4 @@
+
 <div class="logoRow">
   <div class="logoColumn logoColumnLeft">
     <img src="./../logo120.png">
@@ -11,8 +12,8 @@
 </div>
 
 
-## <span class="en">Navigation Buttons</span><span class="de">Navigations-Schaltflächen</span>
+## <span class="en">Action Buttons</span><span class="de">Aktions-Schaltflächen</span>
 
-<img src="NavigationButtons.png" style="border: 2px solid #B0C4DE; border-radius: 10px;">
+<img src="ActionButtons.png" style="border: 2px solid #B0C4DE; border-radius: 10px;">
 
-<span class="en">The 3 ***Navigation Buttons*** have the usual meaning as it is well known from web browsers.</span><span class="de">Die 3 ***Navigations-Schaltflächen*** haben die übliche Bedeutung, wie sie von vielen Web-Browsern bekannt ist.</span>
+### <span class="en">Under construction</span><span class="de">In Bearbeitung</span>
