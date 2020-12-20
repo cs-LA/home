@@ -15,9 +15,9 @@
 <span class="en">The 3 ***Navigation Buttons*** have the usual meaning as it is well known from web browsers.</span>
 <span class="de"></span>
 
-<span class="en">The <img src="NavigationButtons.png" style="width: 300px; height: 37px;"> button</span>
+<span class="en">The <img src="NavigationButtons.png" style="width: 30px; height: 30px;"> button</span>
 <span class="de"></span>
-
+<img src="NavigationButtons.png" width=30px height=30px>
 <span class="en"></span>
 <span class="de"></span>
 
