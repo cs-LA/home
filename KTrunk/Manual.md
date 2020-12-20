@@ -1,10 +1,13 @@
 
 <div class="logoRow">
   <div class="logoColumn logoColumnLeft">
-    <img src="logo120.png">
+    <img src="./../logo120.png">
   </div>
-  <div class="logoColumn logoTextCell">
-    <b><i>KTrunk<br><span class="en">Manual</span><span class="de">Handbuch</span></i></b>
+  <div class="logoColumn logoColumnRight">
+    <div class="vCentered">
+      <div class="logoTitle">KTrunk</div>
+      <div class="logoTitle"><span class="en">Manual</span><span class="de">Handbuch</span></div>
+    </div>
   </div>
 </div>
 
