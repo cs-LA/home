@@ -19,12 +19,8 @@ Text Text
 <span class="en">The 3 ***Navigation Buttons*** have the usual meaning as it is well known from web browsers.</span>
 <span class="de"></span>
 
-<span class="en">The <img src="NavigationButtonBackward.jpg" style="width: 1em; height: 1em; vertical-align: middle;"> button</span>
+<span class="en">The <img src="NavigationButtonBackward.jpg" width="1em"  height="1em"  style="vertical-align: middle;"> button</span>
 <span class="de"></span>
-
-
-
-<img width=348 height=191 alt="" style="border:0; position:relative; margin: -19px 100px 20px 0px;" src="NavigationButtons.png">
 
 <span class="en"></span>
 <span class="de"></span>
