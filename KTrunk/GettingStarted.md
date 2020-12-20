@@ -62,4 +62,5 @@
 <span class="en"><b><i>Cancel</i></b> your modifications by clicking the crosshair left of the checkmark.</span>
 <span class="de"><b><i>Verwerfe</i></b> Deine Änderungen, indem Du das Kreuz neben dem Speichern-Häkchen klickst.</span>
 
-  
+<span class="en" text-align="center">For further informations visit the **[Manual.md](Manual).</span>
+<span class="de"><b><i>Verwerfe</i></b> Deine Änderungen, indem Du das Kreuz neben dem Speichern-Häkchen klickst.</span>
