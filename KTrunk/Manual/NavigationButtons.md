@@ -16,10 +16,12 @@
 --->
 <div style="width: 100px; height: 50px; border: 5px solid red; overflow: hidden">
   
-  <img src="NavigationButtons.png" width=900 style="margin-left: -100px;">
+  
     
 </div>
 <---
+
+<img src="NavigationButtons.png" width=900 style="margin-left: -100px;">
 
 <span class="en">The 3 ***Navigation Buttons*** have the usual meaning as it is well known from web browsers.</span>
 <span class="de"></span>
