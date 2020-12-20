@@ -14,9 +14,9 @@
 
 
 --->
-<div width=100 height=50 style="overflow: hidden">
+<div style="width: 100px; height: 50px; border: 5px solid red; overflow: hidden">
   
-  <img src="NavigationButtons.png" width=900 style="margin-left: -100;">
+  <img src="NavigationButtons.png" width=900 style="margin-left: -100px;">
     
 </div>
 <---
