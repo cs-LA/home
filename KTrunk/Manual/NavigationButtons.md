@@ -12,7 +12,7 @@
 
 ![](NavigationButtons.png)
 
-Text <img src="NavigationButtonBackward.jpg" width="1em" height="1em" style="vertical-align: middle;"> Text
+Text <img src="NavigationButtonBackward.jpg" width=16 height=16 style="vertical-align: middle;"> Text
 
 ---
 
