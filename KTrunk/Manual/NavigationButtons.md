@@ -15,7 +15,7 @@
 
 
 
----> Text <img src="NavigationButtonBackward.jpg" width="1em" height="1em"> Textmm <---
+---> Text <img src="NavigationButtonBackward.jpg" width=1em height=1em> Textmm <---
 
 ---
 
