@@ -26,7 +26,7 @@
    <img src="NavigationButtons.png" alt="" style="margin:-30% 0px -10% 0px;" />
 </div>
 
-
+<img width=348 height=191 alt="" style="border:0;position:relative;margin-bottom:-19px;top:-19px" src="NavigationButtons.png">
 
 <span class="en"></span>
 <span class="de"></span>
