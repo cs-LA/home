@@ -12,7 +12,7 @@
 </div>
 
 
-## <span class="en">Dokument Title</span><span class="de">Dkumenten-Titel</span>
+## <span class="en">Document Title</span><span class="de">Dokumenten-Titel</span>
 
 <img src="DocumentTitle.jpg" style="border: 2px solid #B0C4DE; border-radius: 10px;">
 
