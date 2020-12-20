@@ -6,7 +6,7 @@
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
       <div class="logoTitle">KTrunk</div>
-      <div class="logoTitle"><span class="en">Manual</span><span class="de">Handbuch</span></div>
+      <div class="logoTitle"><span class="en">Getting Started</span><span class="de">Schnelleinstieg</span></div>
     </div>
   </div>
 </div>
