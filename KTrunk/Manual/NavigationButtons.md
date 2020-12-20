@@ -16,7 +16,6 @@
 --->
 <div style="width: 30px; height: 80px; overflow: hidden">
   <img src="NavigationButtons.png" width="200" height="40">
-</div>>
 </div>
 <---
 
