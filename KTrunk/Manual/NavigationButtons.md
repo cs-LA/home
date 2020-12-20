@@ -14,10 +14,16 @@
 
 
 --->
-<div style="width: 100px; height: 50px; border: 5px solid green; overflow: hidden">
-  <img src="NavigationButtons.png" style="width: 900px; margin-left: -30px; margin-top: -45px;">
+<div style="width: 20px; height: 20px; border: 5px solid blue; overflow: hidden">
+  <img src="NavigationButtons.png" style="width: 400px; margin-left: -10px; margin-top: -20px;">
 </div>
 <---
+
+---> Text
+<span style="width: 20px; height: 20px; border: 5px solid blue; overflow: hidden">
+  <img src="NavigationButtons.png" style="width: 400px; margin-left: -10px; margin-top: -20px;">
+</span>
+Text <---
 
 <img src="NavigationButtons.png" width=900 style="margin-left: -100px;">
 
