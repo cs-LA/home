@@ -17,7 +17,7 @@
 
 <span class="en">The <img src="NavigationButtons.png" style="width: 30px; height: 30px;"> button</span>
 <span class="de"></span>
-<img src="NavigationButtons.png" width=30px height=30px margin="-75px 0 0 -100px">
+<img src="NavigationButtons.png" width=30px height=30px style="margin: -75px 0 0 -100px;">
 <span class="en"></span>
 <span class="de"></span>
 
