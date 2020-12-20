@@ -22,8 +22,8 @@
 
 <img src="NavigationButtons.png" width=30px height=30px style="margin: -75px 0 0 -100px;">
 
-<div style="overflow:hidden;">
-   <img src="NavigationButtons.png" alt="" width=30px height=30px style="margin:-30% 0px -10% 0px;" />
+<div width=30px height=30px style="overflow:hidden;">
+   <img src="NavigationButtons.png" alt="" style="margin:-30% 0px -10% 0px;" />
 </div>
 
 
