@@ -13,17 +13,9 @@
 ![](NavigationButtons.png)
 
 
---->
-<div style="width: 20px; height: 20px; border: 5px solid blue; overflow: hidden">
-  <img src="NavigationButtons.png" style="width: 400px; margin-left: -10px; margin-top: -20px;">
-</div>
-<---
 
----> Text
-<span style="width: 20px; height: 20px; border: 5px solid blue; overflow: hidden">
-  <img src="NavigationButtons.png" style="width: 400px; margin-left: -10px; margin-top: -20px;">
-</span>
-Text <---
+
+---> Text <img src="NavigationButtonBackward.jpg" style="width: 16px; height: 16px;"> Text <---
 
 ---
 
