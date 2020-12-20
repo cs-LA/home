@@ -23,7 +23,7 @@ Text Text
 <span class="en">The 3 ***Navigation Buttons*** have the usual meaning as it is well known from web browsers.</span>
 <span class="de"></span>
 
-<span class="en">The <img src="NavigationButtonBackward.jpg" width=16  height=16 style="vertical-align: middle;"> button</span>
+<span class="en">The <img src="NavigationButtonBackward.jpg" class="appButton"> button</span>
 <span class="de"></span>
 
 <span class="en"></span>
