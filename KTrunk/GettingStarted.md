@@ -67,4 +67,4 @@
 ---
 
 <span class="en" align="center">For further informations visit the **[Manual.md](Manual)**.</span>
-<span class="de"><b><i>Verwerfe</i></b> Deine Änderungen, indem Du das Kreuz neben dem Speichern-Häkchen klickst.</span>
+<span class="en" align="center">Weitere Informatinen findest Du im **[Manual.md](Handbuch)**.</span>
