@@ -32,13 +32,23 @@
 <span class="de">Die <b>H</b>-Schaltfläche (<i>Header</i>) bringt weitere Schaltflächen zum Vorschein, die auf iPhones oberhalb der Schaltfläche, auf iPads zwischen den linken und rechten Schaltflächen-Gruppen erscheinen.</span>
 
 <div style="margin-left: 1.5em">
-<h3><span class="en">The buttons <img src="EditButtonHn.jpg" class="inLine" style="Width: 7em;"></span><span class="de">Die Schaltflächen <img src="EditButtonHn.jpg" class="inLine" style="Width: 7em;"></span></h3>
+  <h3><span class="en">The buttons <img src="EditButtonHn.jpg" class="inLine" style="Width: 7em;"></span><span class="de">Die Schaltflächen <img src="EditButtonHn.jpg" class="inLine" style="Width: 7em;"></span></h3>
 
-<span class="en">These buttons are used to set the header level of the paragraph from 1 to 6.</span>
-<span class="de">DieseSchaltflächen legen die Überschriften-Ebene von 1 bis 6 fest.</span>
+  <span class="en">These buttons are used to set the header level of the paragraph from 1 to 6.</span>
+  <span class="de">DieseSchaltflächen legen die Überschriften-Ebene von 1 bis 6 fest.</span>
 </div>
 
 <h3><span class="en">The button <img src="EditButtonP.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonP.jpg" class="inLine"></span></h3>
+
+<span class="en">The <b>P</b>aragraph button spawns additional buttons which appear on top of the button on iPhones, between the left and right button-groups on iPads.</span>
+<span class="de">Die <b>P</b>aragraph-Schaltfläche bringt weitere Schaltflächen zum Vorschein, die auf iPhones oberhalb der Schaltfläche, auf iPads zwischen den linken und rechten Schaltflächen-Gruppen erscheinen.</span>
+
+<div style="margin-left: 1.5em">
+  <h3><span class="en">The buttons <img src="EditButtonHn.jpg" class="inLine" style="Width: 7em;"></span><span class="de">Die Schaltflächen <img src="EditButtonHn.jpg" class="inLine" style="Width: 7em;"></span></h3>
+
+  <span class="en">These buttons are used to set the header level of the paragraph from 1 to 6.</span>
+  <span class="de">DieseSchaltflächen legen die Überschriften-Ebene von 1 bis 6 fest.</span>
+</div>
 
 <span class="en"></span>
 <span class="de"></span>
