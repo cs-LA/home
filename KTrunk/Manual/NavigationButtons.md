@@ -12,7 +12,7 @@
 </div>
 
 
-## <span class="en">Navigation Buttons</span><span class="de">Navigations-Schaltflächen</span>
+# <span class="en">Navigation Buttons</span><span class="de">Navigations-Schaltflächen</span>
 
 <img src="NavigationButtons.jpg" style="border: 2px solid #B0C4DE; border-radius: 10px;">
 
