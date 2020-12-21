@@ -89,7 +89,7 @@
 
   <h3><span class="en">The button <img src="EditButtonElCB.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElCB.jpg" class="inLine"></span></h3>
 
-  <span class="en">This button will insert a <pre>clear: both;</pre> html element into the document. This may help in some situations to get a clear formatting of the document.</span>
+  <span class="en">This button will insert a <code>clear: both;</code> html element into the document. This may help in some situations to get a clear formatting of the document.</span>
   <span class="de">Diese Schaltfläche fügt ein <code>clear: both;</code> html-Element in das Dokument ein. Dies kann in einigen Situationen hilfreich sein, um wieder eine saubere Formatierung des Dokuments zu erreichen.</span>
 
   <h3><span class="en">The button <img src="EditButtonElClr.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElClr.jpg" class="inLine"></span></h3>
