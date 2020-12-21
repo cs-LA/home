@@ -35,7 +35,7 @@
   <h3><span class="en">The buttons <img src="EditButtonHn.jpg" class="inLine" style="Width: 7em;"></span><span class="de">Die Schaltflächen <img src="EditButtonHn.jpg" class="inLine" style="Width: 7em;"></span></h3>
 
   <span class="en">These buttons are used to set the header level of the paragraph from 1 to 6.</span>
-  <span class="de">DieseSchaltflächen legen die Überschriften-Ebene von 1 bis 6 fest.</span>
+  <span class="de">Diese Schaltflächen legen die Überschriften-Ebene von 1 bis 6 fest.</span>
 </div>
 
 <h3><span class="en">The button <img src="EditButtonP.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonP.jpg" class="inLine"></span></h3>
@@ -47,7 +47,7 @@
   <h3><span class="en">The button <img src="EditButtonPP.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonPP.jpg" class="inLine"></span></h3>
 
   <span class="en">These buttons are used to set the header level of the paragraph from 1 to 6.</span>
-  <span class="de">DieseSchaltflächen legen die Überschriften-Ebene von 1 bis 6 fest.</span>
+  <span class="de">Diese Schaltflächen legen die Überschriften-Ebene von 1 bis 6 fest.</span>
   
   <h3><span class="en">The button <img src="EditButtonPC.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonPC.jpg" class="inLine"></span></h3>
 
@@ -67,7 +67,7 @@
   <h3><span class="en">The button <img src="EditButtonLU.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonLU.jpg" class="inLine"></span></h3>
 
   <span class="en">These buttons are used to set the header level of the paragraph from 1 to 6.</span>
-  <span class="de">DieseSchaltflächen legen die Überschriften-Ebene von 1 bis 6 fest.</span>
+  <span class="de">Diese Schaltflächen legen die Überschriften-Ebene von 1 bis 6 fest.</span>
   
   <h3><span class="en">The button <img src="EditButtonLO.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonLO.jpg" class="inLine"></span></h3>
 
@@ -88,6 +88,9 @@
   <h3><span class="en">The button <img src="EditButtonElHR.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElHR.jpg" class="inLine"></span></h3>
 
   <h3><span class="en">The button <img src="EditButtonElCB.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElCB.jpg" class="inLine"></span></h3>
+
+  <span class="en">This button will insert a <code>clear: both;</code> element into the document. This may help in some situations to get a clear formatting of the document.</span>
+  <span class="de">Diese Schaltfläche fügt ein <code>clear: both;</code> html-Element in das Dokument ein. Dies kann in einigen Situationen hilfreich sein, um wieder eine saubere Formatierung des Dokuments zu erreichen.</span>
 
   <h3><span class="en">The button <img src="EditButtonElClr.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElClr.jpg" class="inLine"></span></h3>
 
