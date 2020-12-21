@@ -28,19 +28,19 @@
 <span class="en">Here the meaning of the buttons:</span>
 <span class="de">Hier die Bedeutung der Schaltflächen:</span>
 
-<h3><span class="en">The button</span><span class="de">Die Schaltfläche</span> <img src="EditButtonH" height=16></h3>
+<h3><span class="en">The button</span><span class="de">Die Schaltfläche</span> <img src="EditButtonH.jpg" height=16></h3>
 
 <span class="en">The <b>H</b>eader</span> button spawns additional buttons which appear on top of the button on iPhones, between the left and right button-group on iPads.
 <span class="de">Die <b>H</b>-Schaltfläche (<i>Header</i>) bringt weiter Schaltflächen zum Vorschein, die auf iPhones oberhalb der Schaltfläche, auf iPads zwischen den linken und rechten Schaltflächen-Gruppen erscheinen.</span>
 
 <div style="margin-left: 1.5em">
-<h3><span class="en">The buttons</span><span class="de">Die Schaltflächen</span> <img src="EditButtonHn" height=16></h3>
+<h3><span class="en">The buttons</span><span class="de">Die Schaltflächen</span> <img src="EditButtonHn.jpg" height=16></h3>
 
 <span class="en">These buttons are used to set the header level of the paragraph from 1 to 6.</span>
 <span class="de">DieseSchaltflächen legen die Überschriften-Ebene von 1 bis 6 fest.</span>
 </div>
 
-<h3><span class="en">The button</span><span class="de">Die Schaltfläche</span> <img src="EditButtonP" height=16></h3>
+<h3><span class="en">The button</span><span class="de">Die Schaltfläche</span> <img src="EditButtonP.jpg" height=16></h3>
 
 <span class="en"></span>
 <span class="de"></span>
