@@ -73,15 +73,15 @@
 
 </div>
 
-<h3><span class="en">The button <img src="EditButtonEl.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonL.jpg" class="inLine"></span></h3>
+<h3><span class="en">The button <img src="EditButtonEllipis.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonEllipis.jpg" class="inLine"></span></h3>
 
 <div style="margin-left: 1.5em">
-  <h3><span class="en">The button <img src="EditButtonElIr.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElIr.jpg" class="inLine"></span></h3>
+  <h3><span class="en">The button <img src="EditButtonElIR.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElIR.jpg" class="inLine"></span></h3>
 
   <span class="en">These buttons are used to set the header level of the paragraph from 1 to 6.</span>
   <span class="de">DieseSchaltflächen legen die Überschriften-Ebene von 1 bis 6 fest.</span>
   
-  <h3><span class="en">The button <img src="EditButtonElIl.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElIl.jpg" class="inLine"></span></h3>
+  <h3><span class="en">The button <img src="EditButtonElIL.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElIL.jpg" class="inLine"></span></h3>
 
   <h3><span class="en">The button <img src="EditButtonElTb.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElTb.jpg" class="inLine"></span></h3>
 
