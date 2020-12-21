@@ -30,7 +30,7 @@
 
 <h3><span class="en">The button</span><span class="de">Die Schaltfläche</span> <img src="EditButtonH.jpg" height=16></h3>
 
-<span class="en">The <b>H</b>eader</span> button spawns additional buttons which appear on top of the button on iPhones, between the left and right button-group on iPads.
+<span class="en">The <b>H</b>eader button spawns additional buttons which appear on top of the button on iPhones, between the left and right button-group on iPads.</span>
 <span class="de">Die <b>H</b>-Schaltfläche (<i>Header</i>) bringt weiter Schaltflächen zum Vorschein, die auf iPhones oberhalb der Schaltfläche, auf iPads zwischen den linken und rechten Schaltflächen-Gruppen erscheinen.</span>
 
 <div style="margin-left: 1.5em">
