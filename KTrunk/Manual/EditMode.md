@@ -24,7 +24,7 @@
 <span class="en">Above the keyboard there are some buttons to format the text, create links to other documents, or insert images. Except the 3 (on iPad 4) right buttons they have no immediate impact, but phase in additional formatting symbols.</span>
 <span class="de">Oberhalb der Tastatur sind ein paar Schaltflächen, um den Text zu formatieren, Links zu anderen Dokumenten zu erstellen oder um Bilder einzufügen. Außer den 3 (auf dem iPad 4) rechten Schaltflächen haben diese Symbole keine direkte Wirkung, sondern blenden zusätzliche Formatierungssymbole ein.</span>
 
-<h2><span class="en">Here the meaning of the buttons:</span><span class="de">Hier die Bedeutung der Schaltflächen:</span></h2>
+<h2><span class="en">The meaning of the buttons:</span><span class="de">Die Bedeutung der Schaltflächen:</span></h2>
 
 <h3><span class="en">The button <img src="EditButtonH.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonH.jpg" class="inLine"></span></h3>
 
