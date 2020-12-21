@@ -12,7 +12,7 @@
 </div>
 
 
-## <span class="en">Action Buttons</span><span class="de">Aktions-Schaltflächen</span>
+# <span class="en">Action Buttons</span><span class="de">Aktions-Schaltflächen</span>
 
 <img src="ActionButtons.jpg" style="border: 2px solid #B0C4DE; border-radius: 10px;">
 
