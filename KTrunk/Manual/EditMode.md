@@ -44,10 +44,54 @@
 <span class="de">Die <b>P</b>aragraph-Schaltfläche bringt weitere Schaltflächen zum Vorschein, die auf iPhones oberhalb der Schaltfläche, auf iPads zwischen den linken und rechten Schaltflächen-Gruppen erscheinen.</span>
 
 <div style="margin-left: 1.5em">
-  <h3><span class="en">The buttons <img src="EditButtonHn.jpg" class="inLine" style="Width: 7em;"></span><span class="de">Die Schaltflächen <img src="EditButtonHn.jpg" class="inLine" style="Width: 7em;"></span></h3>
+  <h3><span class="en">The button <img src="EditButtonPP.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonPP.jpg" class="inLine"></span></h3>
 
   <span class="en">These buttons are used to set the header level of the paragraph from 1 to 6.</span>
   <span class="de">DieseSchaltflächen legen die Überschriften-Ebene von 1 bis 6 fest.</span>
+  
+  <h3><span class="en">The button <img src="EditButtonPC.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonPC.jpg" class="inLine"></span></h3>
+
+  <h3><span class="en">The button <img src="EditButtonPQ.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonPQ.jpg" class="inLine"></span></h3>
+
+  <h3><span class="en">The button <img src="EditButtonPAL.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonPAL.jpg" class="inLine"></span></h3>
+
+  <h3><span class="en">The button <img src="EditButtonPAC.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonPAC.jpg" class="inLine"></span></h3>
+
+  <h3><span class="en">The button <img src="EditButtonPAR.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonPAR.jpg" class="inLine"></span></h3>
+
+</div>
+
+<h3><span class="en">The button <img src="EditButtonL.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonL.jpg" class="inLine"></span></h3>
+
+<div style="margin-left: 1.5em">
+  <h3><span class="en">The button <img src="EditButtonLU.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonLU.jpg" class="inLine"></span></h3>
+
+  <span class="en">These buttons are used to set the header level of the paragraph from 1 to 6.</span>
+  <span class="de">DieseSchaltflächen legen die Überschriften-Ebene von 1 bis 6 fest.</span>
+  
+  <h3><span class="en">The button <img src="EditButtonLO.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonLO.jpg" class="inLine"></span></h3>
+
+</div>
+
+<h3><span class="en">The button <img src="EditButtonEl.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonL.jpg" class="inLine"></span></h3>
+
+<div style="margin-left: 1.5em">
+  <h3><span class="en">The button <img src="EditButtonElIr.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElIr.jpg" class="inLine"></span></h3>
+
+  <span class="en">These buttons are used to set the header level of the paragraph from 1 to 6.</span>
+  <span class="de">DieseSchaltflächen legen die Überschriften-Ebene von 1 bis 6 fest.</span>
+  
+  <h3><span class="en">The button <img src="EditButtonElIl.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElIl.jpg" class="inLine"></span></h3>
+
+  <h3><span class="en">The button <img src="EditButtonElTb.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElTb.jpg" class="inLine"></span></h3>
+
+  <h3><span class="en">The button <img src="EditButtonElHR.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElHR.jpg" class="inLine"></span></h3>
+
+  <h3><span class="en">The button <img src="EditButtonElCB.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElCB.jpg" class="inLine"></span></h3>
+
+  <h3><span class="en">The button <img src="EditButtonElClr.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElClr.jpg" class="inLine"></span></h3>
+
+  
 </div>
 
 <span class="en"></span>
