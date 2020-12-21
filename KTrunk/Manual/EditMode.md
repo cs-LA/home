@@ -11,8 +11,6 @@
   </div>
 </div>
 
-# xx
-
 # <span class="en">Edit Mode</span><span class="de">Bearbeitungs-Modus</span>
 
 <img src="EditMode.jpg" style="border: 2px solid #B0C4DE; border-radius: 10px;">
