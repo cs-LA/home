@@ -135,8 +135,8 @@
   </p>
 </div>
 <h3>
-  <span class="en">The button <img src="buttons/hEllip.jpg" class="inLine"></span>
-  <span class="de">Die Schaltfläche <img src="buttons/hEllip.jpg" class="inLine"></span>
+  <span class="en">The button <img src="buttons/hEllip.jpg" class="inLine"> in the left button group</span>
+  <span class="de">Die Schaltfläche <img src="buttons/hEllip.jpg" class="inLine"> in der linken Schaltflächen-Gruppe</span>
 </h3>
 <p>
   <span class="en">This button spawns additional not so often used buttons which appear on top of the button on iPhones, between the left and right button-groups on iPads.</span>
@@ -197,23 +197,21 @@
     <span class="de">Hiermit werden alle <i>Inline-Formatierungen gelöscht</i>.<br>Dies kann ganz nützlich sein, wenn man Inhalt von anderen Web-Seiten kopiert hat, ihn aber dem KTrunk-Standard entsprechend formatiert haben möchte.<br>Dummerweise sind einige KTrunk-Formatierungen auch über Inline-Stile implementiert, die dabei auch verloren gehen.</span>
   </p>
 </div>
-
 <h3>
-  <span class="en">The button <img src="buttons/hEllip.jpg" class="inLine"></span>
-  <span class="de">Die Schaltfläche <img src="buttons/hEllip.jpg" class="inLine"></span>
+  <span class="en">The button <img src="buttons/hEllip.jpg" class="inLine"> in the right button group</span>
+  <span class="de">Die Schaltfläche <img src="buttons/hEllip.jpg" class="inLine"> in der rechten Schaltflächen-Gruppe</span>
 </h3>
 <p>
   <span class="en">This button spawns additional not so often used buttons which appear on top of the button on iPhones, between the left and right button-groups on iPads.</span>
   <span class="de">Diese Schaltfläche bringt weitere, nicht so häufig benötigte Schaltflächen zum Vorschein, die auf iPhones oberhalb der Schaltfläche, auf iPads zwischen den linken und rechten Schaltflächen-Gruppen erscheinen.</span>
 </p>
-
 <h3>
   <span class="en">The button <img src="buttons/insertImage.jpg" class="inLine"></span>
   <span class="de">Die Schaltfläche <img src="buttons/insertImage.jpg" class="inLine"></span>
 </h3>
 <p>
   <span class="en">This button spawns a dialog that lets you selekt an image from within KTrunk, which will be inserted at the cursor position.</span>
-  <span class="de">Diese Schaltfläche bringt weitere, nicht so häufig benötigte Schaltflächen zum Vorschein, die auf iPhones oberhalb der Schaltfläche, auf iPads zwischen den linken und rechten Schaltflächen-Gruppen erscheinen.</span>
+  <span class="de">Diese Schaltfläche startet einen Dialog, in dem man ein in KTrunk gespeichertes Image selektieren kann, dass dan an der aktuellen Cursor-Position eingefügt wird.</span>
 </p>
 
 <p>
