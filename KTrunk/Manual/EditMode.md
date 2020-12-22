@@ -225,6 +225,22 @@
   <span class="en">This button highlights the selected text.</span>
   <span class="de">Diese Schaltfläche markiert den selektierten Text.</span>
 </p>
+<h3>
+  <span class="en">The button <img src="buttons/italic.JPG" class="inLine"></span>
+  <span class="de">Die Schaltfläche <img src="buttons/italic.JPG" class="inLine"></span>
+</h3>
+<p>
+  <span class="en">This button formats the selected text as italic.</span>
+  <span class="de">Diese Schaltfläche formatiert den selektierten Text kursiv.</span>
+</p>
+<h3>
+  <span class="en">The button <img src="buttons/bold.JPG" class="inLine"></span>
+  <span class="de">Die Schaltfläche <img src="buttons/bold.JPG" class="inLine"></span>
+</h3>
+<p>
+  <span class="en">This button formats the selected text as bold.</span>
+  <span class="de">Diese Schaltfläche formatiert den selektierten Text fett.</span>
+</p>
 
 <p>
   <span class="en"></span>
