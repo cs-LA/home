@@ -11,13 +11,15 @@
   </div>
 </div>
 
-
-# <span class="en">Navigation Buttons</span><span class="de">Navigations-Schaltflächen</span>
-
+<h1>
+  <span class="en">Navigation Buttons</span>
+  <span class="de">Navigations-Schaltflächen</span>
+</h1>
 <img src="NavigationButtons.jpg" style="border: 2px solid #B0C4DE; border-radius: 10px;">
-
-<span class="en">The 3 ***Navigation Buttons*** have the usual meaning as it is well known from web browsers.</span><span class="de">Die 3 ***Navigations-Schaltflächen*** haben die übliche Bedeutung, wie sie von vielen Web-Browsern bekannt ist.</span>
-
+<p>
+  <span class="en">The 3 ***Navigation Buttons*** have the usual meaning as it is well known from web browsers.</span>
+  <span class="de">Die 3 ***Navigations-Schaltflächen*** haben die übliche Bedeutung, wie sie von vielen Web-Browsern bekannt ist.</span>
+</p>
 <ul>
   <li>
     <span class="en">The <img src="buttons/navBackward.jpg" class="appButton"> button goes back one step in the history of visited pages.</span>
