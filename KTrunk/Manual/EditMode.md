@@ -214,55 +214,49 @@
     <span class="de">Die Schaltfläche <img src="buttons/sub.JPG" class="inLine"></span>
   </h3>
   <p>
-    <span class="en">Sets the paragraph style to <i>normal</i>.</span>
-    <span class="de">Setzt den Paragraphen-Stil auf <i>normal</i>.</span>
+    <span class="en">Formats the selected text as <i>superscript</i>.</span>
+    <span class="de">Formatiert den selektierten Text <i>hochgestellt</i>.</span>
   </p>
   <h3>
     <span class="en">The button <img src="buttons/sub.JPG" class="inLine"></span>
     <span class="de">Die Schaltfläche <img src="buttons/sub.JPG" class="inLine"></span>
   </h3>
   <p>
-    <span class="en">Sets the paragraph style to <i>code-block</i>.</span>
-    <span class="de">Setzt den Paragraphen-Stil auf <i>Code-Block</i>.</span>
+    <span class="en">Formats the selected text as <i>subscript</i>.</span>
+    <span class="de">Formatiert den selektierten Text <i>tiefgestellt</i>.</span>
   </p>  
   <h3>
     <span class="en">The button <img src="buttons/strikeThrough.JPG" class="inLine"></span>
     <span class="de">Die Schaltfläche <img src="buttons/strikeThrough.JPG" class="inLine"></span>
   </h3>
   <p>
-    <span class="en">Sets the paragraph style to <i>quote</i>.</span>
-    <span class="de">Setzt den Paragraphen-Stil auf <i>Zitat</i>.</span>
+    <span class="en"><i>Strikes</i> the selected text <i>through</i>.</span>
+    <span class="de"><i>Streicht</i> den selektierten Text <i>durch</i>.</span>
   </p>
   <h3>
     <span class="en">The button <img src="buttons/underline.JPG" class="inLine"></span>
     <span class="de">Die Schaltfläche <img src="buttons/underline.JPG" class="inLine"></span>
   </h3>
   <p>
-    <span class="en">Sets the paragraph style to <i>left aligned</i>.</span>
-    <span class="de">Setzt den Paragraphen-Stil auf <i>linksbündig</i>.</span>
+    <span class="en"><i>Underlines</i> the selected text.</span>
+    <span class="de"><i>Unterstreicht</i> den selektierten Text.</span>
   </p>
   <h3>
     <span class="en">The button <img src="buttons/code.jpg" class="inLine"></span>
     <span class="de">Die Schaltfläche <img src="buttons/code.jpg" class="inLine"></span>
   </h3>
   <p>
-    <span class="en">Sets the paragraph style to <i>centered</i>.</span>
-    <span class="de">Setzt den Paragraphen-Stil auf <i>zentriert</i>.</span>
+    <span class="en">Formats the selected text to <i>code-block</i>.</span>
+    <span class="de">Formatiert den selektierten Text als <i>code-block</i>.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/br.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/br.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/br.JPG" class="inLine"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/br.JPG" class="inLine"></span>
   </h3>
 </div>
-
-
-
-
-
-
 <h3>
-  <span class="en">The button <img src="buttons/img.JPG" class="inLine"></span>
-  <span class="de">Die Schaltfläche <img src="buttons/img.JPG" class="inLine"></span>
+  <span class="en">The button inserts a line-break without starting a new paragraph.</span>
+  <span class="de">Die Schaltfläche erzeugt einen Zeilenumbruch, ohne einen neuen Absatz zu beginnen.</span>
 </h3>
 <p>
   <span class="en">This button spawns a dialog that lets you select an image from within KTrunk, which will be inserted at the cursor position.</span>
@@ -295,25 +289,4 @@
 <p>
   <span class="en">This button formats the selected text as bold.</span>
   <span class="de">Diese Schaltfläche formatiert den selektierten Text fett.</span>
-</p>
-
-<p>
-  <span class="en"></span>
-  <span class="de"></span>
-</p>
-<p>
-  <span class="en"></span>
-  <span class="de"></span>
-</p>
-<p>
-  <span class="en"></span>
-  <span class="de"></span>
-</p>
-<p>
-  <span class="en"></span>
-  <span class="de"></span>
-</p>
-<p>
-  <span class="en"></span>
-  <span class="de"></span>
 </p>
