@@ -122,7 +122,7 @@
   <h3><span class="en">The button <img src="EditButtonElClr.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElClr.jpg" class="inLine"></span></h3>
 
   <span class="en">This button <i>clears all inline formatting</i>.<br>This may be useful when content from other html-pages was copied, but you want to use the standard KTrunk formatting.<br>Unfortunately, some KTrunk standard formatting is implemented using inline styles, which will be cleared, too.</span>
-  <span class="de">Hiermit werden alle <i>Inline-Formatierungen gelöscht</i><br>Dies kann ganz nützlich sein, wenn man Inhalt von anderen WebßSeiten kopiert hat, ihn aber dem KTrunk-Standard entsprechend formatiert haben möchte.<br>Dummerweise sind einige KTrunk-Formatierungen auch über InlineßStile implementiert, die dabei auch veloren gehen.</span>
+  <span class="de">Hiermit werden alle <i>Inline-Formatierungen gelöscht</i>.<br>Dies kann ganz nützlich sein, wenn man Inhalt von anderen Web-Seiten kopiert hat, ihn aber dem KTrunk-Standard entsprechend formatiert haben möchte.<br>Dummerweise sind einige KTrunk-Formatierungen auch über InlineßStile implementiert, die dabei auch veloren gehen.</span>
 </div>
 
 <span class="en"></span>
