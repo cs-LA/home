@@ -167,6 +167,11 @@
     <span class="en">The button <img src="buttons/table.jpg" class="inLine"></span>
     <span class="de">Die Schaltfläche <img src="buttons/table.jpg" class="inLine"></span>
   </h3>
+  <p>
+    <span class="en">This button opens a dialog to specify table dimensions. After commiting the table will be inserted at the cursor position.</span>
+    <span class="de">Diese Schaltfläche öffnet einen Dialog, um Tabellen-Dimensionen festulegen. Nach der Bestätigung wird eine entsprechende Tabelle an der Curso-Position eingefügt.</span>
+    <span class="en">If the cursor is inside of a table when clicking this button, the dimensions of this table will be adjusted.</span>
+    <span class="de">Falss sich der Cursor schon innerhalb einer Tabelle befindet, wenn man die Schaltfläche klickt, werden die Dimensionen dieser Tabelle angepasst.</span>
   <h3>
     <span class="en">The button <img src="buttons/hr.jpg" class="inLine"></span>
     <span class="de">Die Schaltfläche <img src="buttons/hr.jpg" class="inLine"></span>
