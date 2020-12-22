@@ -211,7 +211,7 @@
 <div style="margin-left: 1.5em">
   <h3>
     <span class="en">The button <img src="buttons/sup.JPG" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/sub.JPG" class="inLine"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/sup.JPG" class="inLine"></span>
   </h3>
   <p>
     <span class="en">Formats the selected text as <i>superscript</i>.</span>
