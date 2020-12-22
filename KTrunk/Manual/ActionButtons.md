@@ -19,7 +19,7 @@
 <ul>
   <li>
     <span class="en">The <img src="buttons/search.jpg" class="appButton"> button shows the <b><a href="SearchDialog.html">Search Dialog</a></b>.</span>
-    <span class="de">Die <img src="/buttons/search.jpg" class="appButton"> Schaltfläche ruft den <b><a href="SearchDialog.html">Such-Dialog</a></b> auf.</span>
+    <span class="de">Die <img src="buttons/search.jpg" class="appButton"> Schaltfläche ruft den <b><a href="SearchDialog.html">Such-Dialog</a></b> auf.</span>
   </li>
   <li>
     <span class="en">The <img src="ActionButtonActions.jpg" class="appButton"> button shows a sheet with <b><a href="FurtherActions.html">further Actions</a></b>.</span>
