@@ -20,22 +20,22 @@
 
 <ul>
   <li>
-    <span class="en">The <img src="DocumentIconNote.jpg" class="appButton"> icon indicates that the document is a text <i>Note</i>. Such a <i>Note</i> you can <a href="DocumentEditing.html">edit</a>.</span>
-    <span class="de">Das <img src="DocumentIconNote.jpg" class="appButton"> Bildchen zeigt an, dass es sich um eine Text-<i>Notiz</i> handelt. Solch eine <i>Notiz</i> kann man <a href="DocumentEditing.html">bearbeiten</a>.</span>
+    <span class="en">The <img src="buttons/note.jpg" class="appButton"> icon indicates that the document is a text <i>Note</i>. Such a <i>Note</i> you can <a href="EditMode.html">edit</a>.</span>
+    <span class="de">Das <img src="buttons/note.jpg" class="appButton"> Bildchen zeigt an, dass es sich um eine Text-<i>Notiz</i> handelt. Solch eine <i>Notiz</i> kann man <a href="EditMode.html">bearbeiten</a>.</span>
   </li>
   <li>
-    <span class="en">The <img src="DocumentIconFile.jpg" class="appButton"> icon indicates that the document is a <i>File</i>. When you invoke the <a href="DocumentEditing.html">edit</a> mode for a file, you will create a <i>Note</i> with the same name where you can make some further comments for the file.</span>
-    <span class="de">Das <img src="DocumentIconFile.jpg" class="appButton"> Bildchen zeigt an, dass es sich um eine <i>Datei</i> handelt. Wenn man für solch eine Datei den <a href="DocumentEditing.html">Bearbeitungs</a>-Modus aufruft, wird eine <i>Notiz</i> gleichen Namens erstellt, in der man zusätzliche Kommentare zu der Datei schreiben kann.</span>
+    <span class="en">The <img src="buttons/file.jpg" class="appButton"> icon indicates that the document is a <i>File</i>. When you invoke the <a href="EditMode.html">edit</a> mode for a file, you will create a <i>Note</i> with the same name where you can make some further comments for the file.</span>
+    <span class="de">Das <img src="buttons/file.jpg" class="appButton"> Bildchen zeigt an, dass es sich um eine <i>Datei</i> handelt. Wenn man für solch eine Datei den <a href="EditMode.html">Bearbeitungs</a>-Modus aufruft, wird eine <i>Notiz</i> gleichen Namens erstellt, in der man zusätzliche Kommentare zu der Datei schreiben kann.</span>
   </li>
   <ul>
     <li>
-      <span class="en">The <img src="DocumentIconQL.jpg" class="appButton"> icon indicates that it is a special <i>File</i> type. KTrunk cannot extract the content of those files and therefore cannot maintain the index for this file automatically. By clicking this icon you get an appropriate hint and a recommendation how to behave.</span>
-      <span class="de">Das <img src="DocumentIconQL.jpg" class="appButton"> Bildchen zeigt an, dass es sich um eine spezielle <i>Datei</i> handelt. KTrunk kann den Inhalt dieser Datei nicht auslesen und somit auch nicht automatisch den Index für diese Datei pflegen. Durch Anklicken dieses Bildchens erhält man eine entsprechende Meldung mit einem Hinweis, wie man sich verhalten kann.</span>
+      <span class="en">The <img src="buttons/ql.jpg" class="appButton"> icon indicates that it is a special <i>File</i> type. KTrunk cannot extract the content of those files and therefore cannot maintain the index for this file automatically. By clicking this icon you get an appropriate hint and a recommendation how to behave.</span>
+      <span class="de">Das <img src="buttons/ql.jpg" class="appButton"> Bildchen zeigt an, dass es sich um eine spezielle <i>Datei</i> handelt. KTrunk kann den Inhalt dieser Datei nicht auslesen und somit auch nicht automatisch den Index für diese Datei pflegen. Durch Anklicken dieses Bildchens erhält man eine entsprechende Meldung mit einem Hinweis, wie man sich verhalten kann.</span>
     </li>
   </ul>
   <li>
-    <span class="en">The <img src="DocumentIconWeb.jpg" class="appButton"> icon indicates that the document is not a local KTrunk document but from the world wide web.</span>
-    <span class="de">Das <img src="DocumentIconWeb.jpg" class="appButton"> Bildchen zeigt an, dass es sich nicht um ein lokales KTrunk-Dokument handelt, sonder aus dem World Wide Web stammt.</span>
+    <span class="en">The <img src="buttons/web.jpg" class="appButton"> icon indicates that the document is not a local KTrunk document but from the world wide web.</span>
+    <span class="de">Das <img src="buttons/web.jpg" class="appButton"> Bildchen zeigt an, dass es sich nicht um ein lokales KTrunk-Dokument handelt, sonder aus dem World Wide Web stammt.</span>
   </li>
 </ul>
 
