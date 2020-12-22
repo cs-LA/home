@@ -144,7 +144,7 @@
 </p>
 <p>
   <span class="en">This button appears as well in the left as in the right button group. Depending on the containing group it spawns different buttons.</span>
-  <span class="de">Diese Schaltfläche taucht sowohl in der linken als auch in der rechte Schaltflächen-Gruppe auf. Je nachdem, i welcher Gruppe man diese Schaltfläche klickt, werden unterschiedlich Schaltflächen angezeigt.</span>
+  <span class="de">Diese Schaltfläche taucht sowohl in der linken als auch in der rechte Schaltflächen-Gruppe auf. Je nachdem, in welcher Gruppe man diese Schaltfläche klickt, werden unterschiedlich Schaltflächen angezeigt.</span>
 </p>
 <div style="margin-left: 1.5em">
   <h3>
