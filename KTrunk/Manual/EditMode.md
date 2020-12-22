@@ -64,7 +64,7 @@
   <span class="en">Sets the paragraph style to <i>left aligned</i>.</span>
   <span class="de">Setzt den Paragraphen-Stil auf <i>linksbündig</i>.</span>
 
-  <h3><span class="en">The button <img src="buttons/alignCenter.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="buttons/alignCenter.jpg" class="inLine"></span></h3>
+  <h3><span class="en">The button <img src="buttons/alignCentered.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="buttons/alignCentered.jpg" class="inLine"></span></h3>
 
   <span class="en">Sets the paragraph style to <i>centered</i>.</span>
   <span class="de">Setzt den Paragraphen-Stil auf <i>zentriert</i>.</span>
