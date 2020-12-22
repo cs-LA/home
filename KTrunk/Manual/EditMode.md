@@ -53,6 +53,10 @@
 
   <span class="en">Sets the paragraph style to <i>code-block</i>.</span>
   <span class="de">Setzt den Paragraphen-Stil auf <i>Code-Block</i>.</span>
+  
+  <span class="en">This button appears with the <img src="buttons/hEllip.jpg" class="inLine">-button of the right button group, too. But then it only formats the inline string to <i>code</i>.</span>
+  <span class="de">Diese Schaltfläche taucht auch auf, wenn man in der rechten Schaltflächen-Gruppe die <img src="buttons/hEllip.jpg" class="inLine">-Schaltfläche klickt. Aber dann wird nur der InLine-String als <i>Code</i> formatiert.</span>
+  
 
   <h3><span class="en">The button <img src="buttons/quote.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="buttons/quote.jpg" class="inLine"></span></h3>
 
@@ -94,8 +98,11 @@
 
 <h3><span class="en">The button <img src="buttons/hEllip.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="buttons/hEllip.jpg" class="inLine"></span></h3>
 
-<span class="en">The <b>&hellip;</b> button spawns additional not so often used buttons which appear on top of the button on iPhones, between the left and right button-groups on iPads.</span>
-<span class="de">Die <b>&hellip;</b>-Schaltfläche bringt weitere, nicht so häufig benötigte Schaltflächen zum Vorschein, die auf iPhones oberhalb der Schaltfläche, auf iPads zwischen den linken und rechten Schaltflächen-Gruppen erscheinen.</span>
+<span class="en">This button spawns additional not so often used buttons which appear on top of the button on iPhones, between the left and right button-groups on iPads.</span>
+<span class="de">Diese Schaltfläche bringt weitere, nicht so häufig benötigte Schaltflächen zum Vorschein, die auf iPhones oberhalb der Schaltfläche, auf iPads zwischen den linken und rechten Schaltflächen-Gruppen erscheinen.</span>
+
+<span class="en">This button appears as well in the left as in the right button group. Depending on the containing group it spawns different buttons.</span>
+<span class="de">Diese Schaltfläche taucht sowohl in der linken als auch in der rechte Schaltflächen-Gruppe auf. Je nachdem, i welcher Gruppe man diese Schaltfläche klickt, werden unterschiedlich Schaltflächen angezeigt.</span>
 
 <div style="margin-left: 1.5em">
   <h3><span class="en">The button <img src="buttons/indentRight.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="buttons/indentRight.jpg" class="inLine"></span></h3>
