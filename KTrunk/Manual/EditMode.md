@@ -47,32 +47,32 @@
   <h3><span class="en">The button <img src="EditButtonPP.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonPP.jpg" class="inLine"></span></h3>
 
   <span class="en">Sets the paragraph style to <i>normal</i>.</span>
-  <span class="de">Setzt den Paragraphen-Stil auf i>normal</i>.</span>
+  <span class="de">Setzt den Paragraphen-Stil auf <i>normal</i>.</span>
   
   <h3><span class="en">The button <img src="EditButtonPC.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonPC.jpg" class="inLine"></span></h3>
 
   <span class="en">Sets the paragraph style to <i>code-block</i>.</span>
-  <span class="de">Setzt den Paragraphen-Stil auf i>Code-Block</i>.</span>
+  <span class="de">Setzt den Paragraphen-Stil auf <i>Code-Block</i>.</span>
 
   <h3><span class="en">The button <img src="EditButtonPQ.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonPQ.jpg" class="inLine"></span></h3>
 
   <span class="en">Sets the paragraph style to <i>quote</i>.</span>
-  <span class="de">Setzt den Paragraphen-Stil auf i>Zitat</i>.</span>
+  <span class="de">Setzt den Paragraphen-Stil auf <i>Zitat</i>.</span>
 
   <h3><span class="en">The button <img src="EditButtonPAL.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonPAL.jpg" class="inLine"></span></h3>
 
   <span class="en">Sets the paragraph style to <i>left aligned</i>.</span>
-  <span class="de">Setzt den Paragraphen-Stil auf i>linksbündig</i>.</span>
+  <span class="de">Setzt den Paragraphen-Stil auf <i>linksbündig</i>.</span>
 
   <h3><span class="en">The button <img src="EditButtonPAC.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonPAC.jpg" class="inLine"></span></h3>
 
   <span class="en">Sets the paragraph style to <i>centered</i>.</span>
-  <span class="de">Setzt den Paragraphen-Stil auf i>zentriert</i>.</span>
+  <span class="de">Setzt den Paragraphen-Stil auf <i>zentriert</i>.</span>
 
   <h3><span class="en">The button <img src="EditButtonPAR.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonPAR.jpg" class="inLine"></span></h3>
 
   <span class="en">Sets the paragraph style to <i>right aligned</i>.</span>
-  <span class="de">Setzt den Paragraphen-Stil auf i>rechtsbündig</i>.</span>
+  <span class="de">Setzt den Paragraphen-Stil auf <i>rechtsbündig</i>.</span>
 </div>
 
 <h3><span class="en">The button <img src="EditButtonL.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonL.jpg" class="inLine"></span></h3>
@@ -83,31 +83,36 @@
 <div style="margin-left: 1.5em">
   <h3><span class="en">The button <img src="EditButtonLU.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonLU.jpg" class="inLine"></span></h3>
 
-  <span class="en">Sets the list style to <i>unordered </i>.</span>
-  <span class="de">Setzt den Listen-Stil auf i>unsortiert</i>.</span>
+  <span class="en">Sets the list style to <i>unordered</i>.</span>
+  <span class="de">Setzt den Listen-Stil auf <i>unsortiert</i>.</span>
   
   <h3><span class="en">The button <img src="EditButtonLO.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonLO.jpg" class="inLine"></span></h3>
 
-  <span class="en">Sets the list style to <i>ordered </i>.</span>
-  <span class="de">Setzt den Listen-Stil auf i>sortiert</i>.</span>
+  <span class="en">Sets the list style to <i>ordered</i>.</span>
+  <span class="de">Setzt den Listen-Stil auf <i>sortiert</i>.</span>
 </div>
 
 <h3><span class="en">The button <img src="EditButtonEllipis.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonEllipis.jpg" class="inLine"></span></h3>
 
-<span class="en">The <b>&ellipsis;</b> button spawns additional not so often used buttons which appear on top of the button on iPhones, between the left and right button-groups on iPads.</span>
-<span class="de">Die <b>L</b>isten-Schaltfläche bringt weitere, nicht so häufig benötigte Schaltflächen zum Vorschein, die auf iPhones oberhalb der Schaltfläche, auf iPads zwischen den linken und rechten Schaltflächen-Gruppen erscheinen.</span>
+<span class="en">The <b>&hellip;</b> button spawns additional not so often used buttons which appear on top of the button on iPhones, between the left and right button-groups on iPads.</span>
+<span class="de">Die <b>&hellip;</b>-Schaltfläche bringt weitere, nicht so häufig benötigte Schaltflächen zum Vorschein, die auf iPhones oberhalb der Schaltfläche, auf iPads zwischen den linken und rechten Schaltflächen-Gruppen erscheinen.</span>
 
 <div style="margin-left: 1.5em">
   <h3><span class="en">The button <img src="EditButtonElIR.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElIR.jpg" class="inLine"></span></h3>
 
-  <span class="en">These buttons are used to set the header level of the paragraph from 1 to 6.</span>
-  <span class="de">DieseSchaltflächen legen die Überschriften-Ebene von 1 bis 6 fest.</span>
+  <span class="en"><i>Indents</i> the paragraph to the <i>right</i>.<br>This can also be used to raise the level of lists or quotes.</span>
+  <span class="de"><i>Rückt</i> den Paragraphen nach <i>rechts</i> ein.<br>Dies wird auch genutzt, um die Einzugsebene von Listen oder Zitaten zu erhöhen.</span>
   
   <h3><span class="en">The button <img src="EditButtonElIL.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElIL.jpg" class="inLine"></span></h3>
 
+  <span class="en"><i>Indents</i> the paragraph to the <i>left</i>.<br>This can also be used to reduce the level of lists or quotes.</span>
+  <span class="de"><i>Rückt</i> den Paragraphen nach <i>links</i> ein.<br>Dies wird auch genutzt, um die Einzugsebene von Listen oder Zitaten zu verringern.</span>
   <h3><span class="en">The button <img src="EditButtonElTb.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElTb.jpg" class="inLine"></span></h3>
 
   <h3><span class="en">The button <img src="EditButtonElHR.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElHR.jpg" class="inLine"></span></h3>
+
+  <span class="en">This button inserts a <i>horizontal rule</i>.</span>
+  <span class="de">Diese Schaltfläche fügt eine <i>Trennlinie</i> ein.</span>
 
   <h3><span class="en">The button <img src="EditButtonElCB.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElCB.jpg" class="inLine"></span></h3>
 
@@ -116,7 +121,8 @@
 
   <h3><span class="en">The button <img src="EditButtonElClr.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="EditButtonElClr.jpg" class="inLine"></span></h3>
 
-  
+  <span class="en">This button <i>clears all inline formatting</i>.<br>This may be useful when content from other html-pages was copied, but you want to use the standard KTrunk formatting.<br>Unfortunately, some KTrunk standard formatting is implemented using inline styles, which will be cleared, too.</span>
+  <span class="de">Hiermit werden alle <i>Inline-Formatierungen gelöscht</i><br>Dies kann ganz nützlich sein, wenn man Inhalt von anderen WebßSeiten kopiert hat, ihn aber dem KTrunk-Standard entsprechend formatiert haben möchte.<br>Dummerweise sind einige KTrunk-Formatierungen auch über InlineßStile implementiert, die dabei auch veloren gehen.</span>
 </div>
 
 <span class="en"></span>
