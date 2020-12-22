@@ -206,8 +206,8 @@
   <span class="de">Diese Schaltfläche bringt weitere, nicht so häufig benötigte Schaltflächen zum Vorschein, die auf iPhones oberhalb der Schaltfläche, auf iPads zwischen den linken und rechten Schaltflächen-Gruppen erscheinen.</span>
 </p>
 <h3>
-  <span class="en">The button <img src="buttons/insertImage.jpg" class="inLine"></span>
-  <span class="de">Die Schaltfläche <img src="buttons/insertImage.jpg" class="inLine"></span>
+  <span class="en">The button <img src="buttons/img.JPG" class="inLine"></span>
+  <span class="de">Die Schaltfläche <img src="buttons/img.JPG" class="inLine"></span>
 </h3>
 <p>
   <span class="en">This button spawns a dialog that lets you selekt an image from within KTrunk, which will be inserted at the cursor position.</span>
