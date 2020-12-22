@@ -18,8 +18,8 @@
 </h4>
 <ul>
   <li>
-    <span class="en">Click the Search symbol <img src="manual/buttons/search.jpg" class="appButton"> at the top aside of the Note title.</span>
-    <span class="de">Klicke auf das Such-Symbol oben neben dem Notizentitel.</span>
+    <span class="en">Click the Search symbol <img src="manual/buttons/search.jpg" class="appButton"> at the top aside of the document title.</span>
+    <span class="de">Klicke auf das Such-Symbol oben neben dem Dokumententitel.</span>
   </li>
   <li>
     <span class="en">In the text entry field type the name of your Note.</span>
