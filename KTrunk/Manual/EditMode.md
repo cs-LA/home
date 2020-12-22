@@ -210,7 +210,7 @@
   <span class="de">Die Schaltfläche <img src="buttons/img.JPG" class="inLine"></span>
 </h3>
 <p>
-  <span class="en">This button spawns a dialog that lets you selekt an image from within KTrunk, which will be inserted at the cursor position.</span>
+  <span class="en">This button spawns a dialog that lets you select an image from within KTrunk, which will be inserted at the cursor position.</span>
   <span class="de">Diese Schaltfläche startet einen Dialog, in dem man ein in KTrunk gespeichertes Image selektieren kann, dass dann an der aktuellen Cursor-Position eingefügt wird.</span>
 </p>
 
