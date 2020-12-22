@@ -253,12 +253,15 @@
     <span class="en">The button <img src="buttons/br.JPG" class="inLine"></span>
     <span class="de">Die Schaltfläche <img src="buttons/br.JPG" class="inLine"></span>
   </h3>
+  <p>
+    <span class="en">The button inserts a line-break without starting a new paragraph.</span>
+    <span class="de">Die Schaltfläche erzeugt einen Zeilenumbruch, ohne einen neuen Absatz zu beginnen.</span>
+  </p>
 </div>
 <h3>
-  <span class="en">The button inserts a line-break without starting a new paragraph.</span>
-  <span class="de">Die Schaltfläche erzeugt einen Zeilenumbruch, ohne einen neuen Absatz zu beginnen.</span>
-</h3>
-<p>
+  <span class="en">The button <img src="buttons/img.JPG" class="inLine"></span>
+  <span class="de">Die Schaltfläche <img src="buttons/img.JPG" class="inLine"></span>
+</h3><p>
   <span class="en">This button spawns a dialog that lets you select an image from within KTrunk, which will be inserted at the cursor position.</span>
   <span class="de">Diese Schaltfläche startet einen Dialog, in dem man ein in KTrunk gespeichertes Image selektieren kann, dass dann an der aktuellen Cursor-Position eingefügt wird.</span>
 </p>
