@@ -17,8 +17,8 @@
 </h1>
 <img src="NavigationButtons.jpg" style="border: 2px solid #B0C4DE; border-radius: 10px;">
 <p>
-  <span class="en">The 3 ***Navigation Buttons*** have the usual meaning as it is well known from web browsers.</span>
-  <span class="de">Die 3 ***Navigations-Schaltflächen*** haben die übliche Bedeutung, wie sie von vielen Web-Browsern bekannt ist.</span>
+  <span class="en">The 3 <b><i>Navigation Buttons</b></i> have the usual meaning as it is well known from web browsers.</span>
+  <span class="de">Die 3 <b><i>Navigations-Schaltflächen</b></i> haben die übliche Bedeutung, wie sie von vielen Web-Browsern bekannt ist.</span>
 </p>
 <ul>
   <li>
