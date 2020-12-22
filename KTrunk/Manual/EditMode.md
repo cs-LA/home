@@ -1,4 +1,3 @@
-xxx
 <div class="logoRow">
   <div class="logoColumn logoColumnLeft">
     <img src="./../logo120.png">
@@ -155,7 +154,7 @@ xxx
   <p>
     <span class="en"><i>Indents</i> the paragraph to the <i>right</i>.<br>This can also be used to raise the level of lists or quotes.</span>
     <span class="de"><i>Rückt</i> den Paragraphen nach <i>rechts</i> ein.<br>Dies wird auch genutzt, um die Einzugsebene von Listen oder Zitaten zu erhöhen.</span>
-  <p>
+  </p>
   <h3>
     <span class="en">The button <img src="buttons/indentLeft.jpg" class="inLine"></span>
     <span class="de">Die Schaltfläche <img src="buttons/indentLeft.jpg" class="inLine"></span>
