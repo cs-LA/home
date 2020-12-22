@@ -205,6 +205,61 @@
   <span class="en">This button spawns additional not so often used buttons which appear on top of the button on iPhones, between the left and right button-groups on iPads.</span>
   <span class="de">Diese Schaltfläche bringt weitere, nicht so häufig benötigte Schaltflächen zum Vorschein, die auf iPhones oberhalb der Schaltfläche, auf iPads zwischen den linken und rechten Schaltflächen-Gruppen erscheinen.</span>
 </p>
+
+
+
+<div style="margin-left: 1.5em">
+  <h3>
+    <span class="en">The button <img src="buttons/sup.JPG" class="inLine"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/sub.JPG" class="inLine"></span>
+  </h3>
+  <p>
+    <span class="en">Sets the paragraph style to <i>normal</i>.</span>
+    <span class="de">Setzt den Paragraphen-Stil auf <i>normal</i>.</span>
+  </p>
+  <h3>
+    <span class="en">The button <img src="buttons/sub.JPG" class="inLine"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/sub.JPG" class="inLine"></span>
+  </h3>
+  <p>
+    <span class="en">Sets the paragraph style to <i>code-block</i>.</span>
+    <span class="de">Setzt den Paragraphen-Stil auf <i>Code-Block</i>.</span>
+  </p>  
+  <h3>
+    <span class="en">The button <img src="buttons/strikeThrough.JPG" class="inLine"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/strikeThrough.JPG" class="inLine"></span>
+  </h3>
+  <p>
+    <span class="en">Sets the paragraph style to <i>quote</i>.</span>
+    <span class="de">Setzt den Paragraphen-Stil auf <i>Zitat</i>.</span>
+  </p>
+  <h3>
+    <span class="en">The button <img src="buttons/underline.JPG" class="inLine"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/underline.JPG" class="inLine"></span>
+  </h3>
+  <p>
+    <span class="en">Sets the paragraph style to <i>left aligned</i>.</span>
+    <span class="de">Setzt den Paragraphen-Stil auf <i>linksbündig</i>.</span>
+  </p>
+  <h3>
+    <span class="en">The button <img src="buttons/code.jpg" class="inLine"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/code.jpg" class="inLine"></span>
+  </h3>
+  <p>
+    <span class="en">Sets the paragraph style to <i>centered</i>.</span>
+    <span class="de">Setzt den Paragraphen-Stil auf <i>zentriert</i>.</span>
+  </p>
+  <h3>
+    <span class="en">The button <img src="buttons/br.jpg" class="inLine"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/br.jpg" class="inLine"></span>
+  </h3>
+</div>
+
+
+
+
+
+
 <h3>
   <span class="en">The button <img src="buttons/img.JPG" class="inLine"></span>
   <span class="de">Die Schaltfläche <img src="buttons/img.JPG" class="inLine"></span>
