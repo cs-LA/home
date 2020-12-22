@@ -55,10 +55,10 @@
   <span class="en"><b><i>Cancel</i></b> your modifications by clicking the crosshair left of the checkmark.</span>
   <span class="de"><b><i>Verwerfe</i></b> Deine Änderungen, indem Du das Kreuz neben dem Speichern-Häkchen klickst.</span>
 </p>
-<h3>nbsp;</h3>
+<h3>&nbsp;</h3>
 <hr>
 <p>
-  <span class="en" align="center">For further informations visit the **[Manual](Manual.md)**.</span>
-  <span class="de" align="center">Weitere Informatinen findest Du im **[Handbuch](Manual.md)**.</span>
+  <span class="en" align="center">For further informations visit the <b><a href="Manual.html">Manual</a></b>.</span>
+  <span class="de" align="center">Weitere Informatinen findest Du im <b><a href="Manual.html">Handbuch</a></b>.</span>
 <p>
-<h3>nbsp;</h3>
+<h3>&nbsp;</h3>
