@@ -20,15 +20,15 @@
 
 <ul>
   <li>
-    <span class="en">The <img src="NavigationButtonBackward.jpg" class="appButton"> button goes back one step in the history of visited pages.</span>
-    <span class="de">Die <img src="NavigationButtonBackward.jpg" class="appButton"> Schaltfläche führt in der Historie der besuchten Web-Seiten einen Schritt zurück.</span>
+    <span class="en">The <img src="buttons/navBackward.jpg" class="appButton"> button goes back one step in the history of visited pages.</span>
+    <span class="de">Die <img src="buttons/navBackward.jpg" class="appButton"> Schaltfläche führt in der Historie der besuchten Web-Seiten einen Schritt zurück.</span>
   </li>
   <li>
-    <span class="en">The <img src="NavigationButtonForward.jpg" class="appButton"> button goes forward one step in the history of visited pages. The sample button is <i>grayed-out</i> meaning that the button is <i>inactive</i>.</span>
-    <span class="de">Die <img src="NavigationButtonForward.jpg" class="appButton"> Schaltfläche führt in der Historie der besuchten Web-Seiten einen Schritt vorwärts. Die hier gezeigte Beispiel-Schaltfläche ist <i>ausgegraut</i>, d.h. sie ist <i>nicht aktiviert</i>.</span>
+    <span class="en">The <img src="buttons/navForward.jpg" class="appButton"> button goes forward one step in the history of visited pages. The sample button is <i>grayed-out</i> meaning that the button is <i>inactive</i>.</span>
+    <span class="de">Die <img src="buttons/NavForward.jpg" class="appButton"> Schaltfläche führt in der Historie der besuchten Web-Seiten einen Schritt vorwärts. Die hier gezeigte Beispiel-Schaltfläche ist <i>ausgegraut</i>, d.h. sie ist <i>nicht aktiviert</i>.</span>
   </li>
   <li>
-    <span class="en">The <img src="NavigationButtonHome.jpg" class="appButton"> button loads the <i>Home Page</i> that you have specified in your <i><a href="Settings.html">Settings</a></i>.</span>
-    <span class="de">Die <img src="NavigationButtonHome.jpg" class="appButton"> Schaltfläche lädt die <i>Home Page</i>, die in den <i><a href="Settings.html">Einstellungen</a></i> festgelegt wurde.</span>
+    <span class="en">The <img src="buttons/navHome.jpg" class="appButton"> button loads the <i>Home Page</i> that you have specified in your <i><a href="Settings.html">Settings</a></i>.</span>
+    <span class="de">Die <img src="buttons/navHome.jpg" class="appButton"> Schaltfläche lädt die <i>Home Page</i>, die in den <i><a href="Settings.html">Einstellungen</a></i> festgelegt wurde.</span>
   </li>
 </ul>
