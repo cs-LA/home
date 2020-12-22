@@ -46,16 +46,16 @@
 <div style="margin-left: 1.5em">
   <h3><span class="en">The button <img src="buttons/paragraph.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="buttons/paragraph.jpg" class="inLine"></span></h3>
 
-  <span class="en">Sets the paragraph style to <i>normal</i>.</span>
-  <span class="de">Setzt den Paragraphen-Stil auf <i>normal</i>.</span>
+  <p><span class="en">Sets the paragraph style to <i>normal</i>.</span>
+  <span class="de">Setzt den Paragraphen-Stil auf <i>normal</i>.</span><p>
   
   <h3><span class="en">The button <img src="buttons/code.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="buttons/code.jpg" class="inLine"></span></h3>
 
-  <span class="en">Sets the paragraph style to <i>code-block</i>.</span>
-  <span class="de">Setzt den Paragraphen-Stil auf <i>Code-Block</i>.</span>
+  <p><span class="en">Sets the paragraph style to <i>code-block</i>.</span>
+  <span class="de">Setzt den Paragraphen-Stil auf <i>Code-Block</i>.</span></p>
   
-  <span class="en">This button appears with the <img src="buttons/hEllip.jpg" class="inLine">-button of the right button group, too. But then it only formats the inline string to <i>code</i>.</span>
-  <span class="de">Diese Schaltfläche taucht auch auf, wenn man in der rechten Schaltflächen-Gruppe die <img src="buttons/hEllip.jpg" class="inLine">-Schaltfläche klickt. Aber dann wird nur der InLine-String als <i>Code</i> formatiert.</span>
+  <p><span class="en">This button appears with the <img src="buttons/hEllip.jpg" class="inLine">-button of the right button group, too. But then it only formats the inline string to <i>code</i>.</span>
+  <span class="de">Diese Schaltfläche taucht auch auf, wenn man in der rechten Schaltflächen-Gruppe die <img src="buttons/hEllip.jpg" class="inLine">-Schaltfläche klickt. Aber dann wird nur der InLine-String als <i>Code</i> formatiert.</span></p>
   
 
   <h3><span class="en">The button <img src="buttons/quote.jpg" class="inLine"></span><span class="de">Die Schaltfläche <img src="buttons/quote.jpg" class="inLine"></span></h3>
