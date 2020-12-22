@@ -214,7 +214,7 @@
   <span class="de">Diese Schaltfläche startet einen Dialog, in dem man ein in KTrunk gespeichertes Image selektieren kann, dass dann an der aktuellen Cursor-Position eingefügt wird.</span>
 </p>
 <p>
-  <span class="en">On iPhones this button is <i>hidden</i> right <img src="buttons/hEllip.jpg" class="inLine"> button.</span>
+  <span class="en">On iPhones this button is <i>hidden</i> behind the right <img src="buttons/hEllip.jpg" class="inLine"> button.</span>
   <span class="de">Auf iPhones <i>verbirgt</i> sich diese Schaltfläche hinter der rechten<img src="buttons/hEllip.jpg" class="inLine">-Schaltfläche.</span>
 </p>
 <h3>
