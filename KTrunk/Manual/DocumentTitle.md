@@ -11,13 +11,15 @@
   </div>
 </div>
 
-
-# <span class="en">Document Title</span><span class="de">Dokumenten-Titel</span>
-
+<h1>
+  <span class="en">Document Title</span>
+  <span class="de">Dokumenten-Titel</span>
+</h1>
 <img src="DocumentTitle.jpg" style="border: 2px solid #B0C4DE; border-radius: 10px;">
-
-<span class="en">The <i>Document Title</i> consists of 2 parts: The name of the document which is preceded by a small icont that reflects the type of the document.</span><span class="de">Der <i>Dokumenten-Titel</i> besteht aus 2 Teilen: Dem Namen des Dokuments, dem ein kleines Bildchen vorgestellt ist, welches den Typ des Dokuments widerspiegelt.</span>
-
+<p>
+  <span class="en">The <i>Document Title</i> consists of 2 parts: The name of the document which is preceded by a small icont that reflects the type of the document.</span>
+  <span class="de">Der <i>Dokumenten-Titel</i> besteht aus 2 Teilen: Dem Namen des Dokuments, dem ein kleines Bildchen vorgestellt ist, welches den Typ des Dokuments widerspiegelt.</span>
+</p>
 <ul>
   <li>
     <span class="en">The <img src="buttons/note.jpg" class="appButton"> icon indicates that the document is a text <i>Note</i>. Such a <i>Note</i> you can <a href="EditMode.html">edit</a>.</span>
