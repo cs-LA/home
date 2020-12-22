@@ -12,10 +12,11 @@
 </div>
 
 
-# <span class="en">Action Buttons</span><span class="de">Aktions-Schaltflächen</span>
-
+<h1>
+  <span class="en">Action Buttons</span>
+  <span class="de">Aktions-Schaltflächen</span>
+</h1>
 <img src="ActionButtons.jpg" style="border: 2px solid #B0C4DE; border-radius: 10px;">
-
 <ul>
   <li>
     <span class="en">The <img src="buttons/search.jpg" class="appButton"> button shows the <b><a href="SearchDialog.html">Search Dialog</a></b>.</span>
