@@ -35,8 +35,8 @@
   <span class="de">Bearbeiten einer Notiz</span>
 </h4>
 <p>
-  <span class="en">To edit a Note, click the Pencil symbol <img src="Manual/buttons/edit.jpg" class="appButton"> at the top-right. Then position the cursor in the text and start editing.</span>
-  <span class="de">Um eine Notiz zu bearbeiten, klickst Du oben rechts auf das Bleistift-Symbol <img src="Manual/buttons/edit.jpg" class="appButton">. Danach kannst Du den Cursor an die Stelle im Text positionieren, wo Du mit der Bearbeitung beginnen möchtest.</span>
+  <span class="en">To edit a Note, click the Pencil symbol <img src="Manual/buttons/edit.jpg" class="appButton"> at the top-right. Then position the cursor in the text and start <a href="Manual/EditMode.html">editing</a>.</span>
+  <span class="de">Um eine Notiz zu bearbeiten, klickst Du oben rechts auf das Bleistift-Symbol <img src="Manual/buttons/edit.jpg" class="appButton">. Danach kannst Du den Cursor an die Stelle im Text positionieren, wo Du mit der <a href="Manual/EditMode.html">Bearbeitung</a> beginnen möchtest.</span>
 </p>
 <p>
   <span class="en">For text formatting you have the usual symbols above the keyboard.</span>
