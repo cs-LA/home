@@ -21,3 +21,7 @@
   <span class="en">With the <img src="buttons/settings.jpg" class="appButton"> button at the top left you invoke the <a href="Settings.html">Settings</a>.</span>
   <span class="de">Mit der <img src="buttons/settings.jpg" class="appButton"> Schaltfläche oben links gelangt man zu den <a href="Settings.html">Einstellungen</a>.</span>
 </p>
+<p>
+  <span class="en">At the right are two buttons. With the <img src="buttons/download.jpg" class="appButton"> button you can import files into KTrunk. With the <img src="buttons/img.jpg" class="appButton"> button you can import photos into KTrunk.</span>
+  <span class="de">Auf der rechten Seite sind zwei Schaltflächen. Mit der <img src="buttons/download.jpg" class="appButton"> Schaltfläche kann man Dateien nach KTrunk importieren. Mit der <img src="buttons/img.jpg" class="appButton"> Schaltfläche kann man Fotos nach KTrunk importieren.</span>
+</p>
