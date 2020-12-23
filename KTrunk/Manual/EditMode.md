@@ -22,11 +22,19 @@
   <span class="de">Im <i>Bearbeitungs-Modus</i> kann man in den Text-Bereich klicken und die Notiz bearbeiten.</span>
 </p>
 <p>
+  <span class="en">At the top left you see two buttons. With the <img src="buttons/undo.jpg" class="inLine"> button you can undo your modifications. With the <img src="buttons/redo.jpg" class="inLine"> button you can redo your undone modifications.</span>
+  <span class="de">Oben links findet man zwei Schaltflächen. Mit der <img src="buttons/undo.jpg" class="inLine"> Schaltfläche kann man seine Änderungen rückgängig machen. Mit <img src="buttons/redo.jpg" class="inLine"> Schaltfläche kann man seine rückgängig gemachten Änderungen wiederherstellen.</span>
+</p>
+<p>
+  <span class="en">At the top right you see two buttons, too. With the <img src="buttons/cancel.jpg" class="inLine"> button you can cancel your modifications. With the <img src="buttons/save.jpg" class="inLine"> button you can save your modifications.</span>
+  <span class="de">Oben rechts findet man ebenfalls zwei Schaltflächen. Mit der <img src="buttons/cancel.jpg" class="inLine"> Schaltfläche kann man seine Änderungen verwerfen. Mit <img src="buttons/save.jpg" class="inLine"> Schaltfläche kann man seine Änderungen speichern.</span>
+</p>
+<p>
   <span class="en">Above the keyboard there are some buttons to format the text, create links to other documents, or insert images. Except the 3 (on iPad 4) right buttons they have no immediate impact, but phase in additional formatting symbols.</span>
   <span class="de">Oberhalb der Tastatur sind ein paar Schaltflächen, um den Text zu formatieren, Links zu anderen Dokumenten zu erstellen oder um Bilder einzufügen. Außer den 3 (auf dem iPad 4) rechten Schaltflächen haben diese Symbole keine direkte Wirkung, sondern blenden zusätzliche Formatierungssymbole ein.</span>
 </p>
 <h2>
-  <span class="en">The meaning of the buttons:</span><span class="de">Die Bedeutung der Schaltflächen:</span>
+  <span class="en">The meaning of the buttons above the keyboard:</span><span class="de">Die Bedeutung der Schaltflächen oberhalb der Tastatur:</span>
 </h2>
 <h3>
   <span class="en">The button <img src="buttons/headerButtons.jpg" class="inLine"></span>
