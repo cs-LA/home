@@ -210,32 +210,32 @@
 
 <div style="margin-left: 1.5em">
   <h3>
-    <span class="en">The button <img src="buttons/sup.JPG" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/sup.JPG" class="inLine"></span>
+    <span class="en">The button <img src="buttons/sup.jpg" class="inLine"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/sup.jpg" class="inLine"></span>
   </h3>
   <p>
     <span class="en">Formats the selected text as <i>superscript</i>.</span>
     <span class="de">Formatiert den selektierten Text <i>hochgestellt</i>.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/sub.JPG" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/sub.JPG" class="inLine"></span>
+    <span class="en">The button <img src="buttons/sub.jpg" class="inLine"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/sub.jpg" class="inLine"></span>
   </h3>
   <p>
     <span class="en">Formats the selected text as <i>subscript</i>.</span>
     <span class="de">Formatiert den selektierten Text <i>tiefgestellt</i>.</span>
   </p>  
   <h3>
-    <span class="en">The button <img src="buttons/strikeThrough.JPG" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/strikeThrough.JPG" class="inLine"></span>
+    <span class="en">The button <img src="buttons/strikeThrough.jpg" class="inLine"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/strikeThrough.jpg" class="inLine"></span>
   </h3>
   <p>
     <span class="en"><i>Strikes</i> the selected text <i>through</i>.</span>
     <span class="de"><i>Streicht</i> den selektierten Text <i>durch</i>.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/underline.JPG" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/underline.JPG" class="inLine"></span>
+    <span class="en">The button <img src="buttons/underline.jpg" class="inLine"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/underline.jpg" class="inLine"></span>
   </h3>
   <p>
     <span class="en"><i>Underlines</i> the selected text.</span>
@@ -250,8 +250,8 @@
     <span class="de">Formatiert den selektierten Text als <i>code-block</i>.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/br.JPG" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/br.JPG" class="inLine"></span>
+    <span class="en">The button <img src="buttons/br.jpg" class="inLine"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/br.jpg" class="inLine"></span>
   </h3>
   <p>
     <span class="en">The button inserts a line-break without starting a new paragraph.</span>
@@ -259,8 +259,8 @@
   </p>
 </div>
 <h3>
-  <span class="en">The button <img src="buttons/img.JPG" class="inLine"></span>
-  <span class="de">Die Schaltfläche <img src="buttons/img.JPG" class="inLine"></span>
+  <span class="en">The button <img src="buttons/img.jpg" class="inLine"></span>
+  <span class="de">Die Schaltfläche <img src="buttons/img.jpg" class="inLine"></span>
 </h3><p>
   <span class="en">This button spawns a dialog that lets you select an image from within KTrunk, which will be inserted at the cursor position.</span>
   <span class="de">Diese Schaltfläche startet einen Dialog, in dem man ein in KTrunk gespeichertes Image selektieren kann, dass dann an der aktuellen Cursor-Position eingefügt wird.</span>
@@ -270,24 +270,24 @@
   <span class="de">Auf iPhones <i>verbirgt</i> sich diese Schaltfläche hinter der rechten<img src="buttons/hEllip.jpg" class="inLine">-Schaltfläche.</span>
 </p>
 <h3>
-  <span class="en">The button <img src="buttons/mark.JPG" class="inLine"></span>
-  <span class="de">Die Schaltfläche <img src="buttons/mark.JPG" class="inLine"></span>
+  <span class="en">The button <img src="buttons/mark.jpg" class="inLine"></span>
+  <span class="de">Die Schaltfläche <img src="buttons/mark.jpg" class="inLine"></span>
 </h3>
 <p>
   <span class="en">This button highlights the selected text.</span>
   <span class="de">Diese Schaltfläche markiert den selektierten Text.</span>
 </p>
 <h3>
-  <span class="en">The button <img src="buttons/italic.JPG" class="inLine"></span>
-  <span class="de">Die Schaltfläche <img src="buttons/italic.JPG" class="inLine"></span>
+  <span class="en">The button <img src="buttons/italic.jpg" class="inLine"></span>
+  <span class="de">Die Schaltfläche <img src="buttons/italic.jpg" class="inLine"></span>
 </h3>
 <p>
   <span class="en">This button formats the selected text as italic.</span>
   <span class="de">Diese Schaltfläche formatiert den selektierten Text kursiv.</span>
 </p>
 <h3>
-  <span class="en">The button <img src="buttons/bold.JPG" class="inLine"></span>
-  <span class="de">Die Schaltfläche <img src="buttons/bold.JPG" class="inLine"></span>
+  <span class="en">The button <img src="buttons/bold.jpg" class="inLine"></span>
+  <span class="de">Die Schaltfläche <img src="buttons/bold.jpg" class="inLine"></span>
 </h3>
 <p>
   <span class="en">This button formats the selected text as bold.</span>
