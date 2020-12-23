@@ -17,3 +17,7 @@
   <span class="en">The <i>SearchDialog</i> appears when you click the <img src="buttons/search.jpg" class="appButton"> button.</span>
   <span class="de">Der <i>Such-Dialog</i> erscheint, wenn man die <img src="buttons/search.jpg" class="appButton"> Schaltfläche anklickt.</span>
 </p>
+<p>
+  <span class="en">With the <img src="buttons/settings.jpg" class="appButton"> button at the top left you invoke the <a href="Settings.html">Settings</a>.</span>
+  <span class="de">Mit der <img src="buttons/settings.jpg" class="appButton"> Schaltfläche oben links gelangt man zu den <a href="Settings.html">Einstellungen</a>.</span>
+</p>
