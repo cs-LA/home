@@ -25,8 +25,8 @@
     <span class="de">In dem Eingabefeld gibst Du den Namen Deiner Notiz ein.</span>
   </li>
   <li>
-    <span class="en">Click the little Plus symbol within the text entry field ...</span>
-    <span class="de">Dann auf das kleine Plus-Symbol in dem Eingabefeld klicken ...</span>
+    <span class="en">Click the little Plus symbol <img src="Manual/buttons/createNew.jpg" class="appButton"> within the text entry field ...</span>
+    <span class="de">Dann auf das kleine Plus-Symbol <img src="Manual/buttons/createNew.jpg" class="appButton"> in dem Eingabefeld klicken ...</span>
   </li>
 </ul>
 <p><span class="en">... and you have created your first Note.</span><span class="de">... und schon hast Du Deine erste Notiz erstellt.</span></p>
