@@ -30,7 +30,7 @@
   </li>
   <li>
     <span class="en"><b><a href="NavigationButtons.html">Navigation Buttons</a></b></span>
-    <span class="en"><b><a href="Settings.html">Einstellungen</a></b></span>
+    <span class="de"><b><a href="Settings.html">Einstellungen</a></b></span>
   </li>
   <li>
     <span class="en"><b><a href="SearchDialog.html">Search Dialog</a></b></span>
