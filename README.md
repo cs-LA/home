@@ -37,8 +37,8 @@
   </div>
 </div>
 <p>
-  <span class="en">Use ***KTrunk*** to save all your ideas augmented with related files and photos. You can establish links from one note to any other note or file in KTrunk.</span>
-  <span class="de">Nutze ***KTrunk***, um all deine Ideen zu sammeln und sie mit Photos und beliebigen Dateien zu ergänzen. Von jeder Notiz aus kannst du in KTrunk Links zu anderen Notizen oder Dateien erstellen.</span>
+  <span class="en">Use <b><i>KTrunk<i><b> to save all your ideas augmented with related files and photos. You can establish links from one note to any other note or file in KTrunk.</span>
+  <span class="de">Nutze <b><i>KTrunk<i><b>, um all deine Ideen zu sammeln und sie mit Photos und beliebigen Dateien zu ergänzen. Von jeder Notiz aus kannst du in KTrunk Links zu anderen Notizen oder Dateien erstellen.</span>
 </p>
 <p>
   <span class="en">The notes are saved in html-format and can be synchronized across your devices using iCloud.</span>
