@@ -22,8 +22,8 @@
   <span class="de">Die Notizen werden im html-Format abgespeichert und können mittels iCloud über alle deine iOS-Geräte synchronisiert werden.</span>
 </p>
 <p>
-  <span class="en">The user interface is pretty simple. Most of the screen is just used to display the document. At the top you see the header bar that consists of:</span>
-  <span class="de">Die Benutzer-Oberfläche ist sehr einfach gehalten. Der überwiegende Teil des Bildschirms wird zur Anzeige des Dokuments genutzt. Oben ist ein Kopf-Bereich mit folgenden Komponenten:</span>
+  <span class="en">The user interface is pretty simple. t the top you see the header bar that consists of:</span>
+  <span class="de">Die Benutzer-Oberfläche ist sehr einfach gehalten. Oben ist ein Kopf-Bereich mit folgenden Komponenten:</span>
 </p>
 <ul>
   <li>
