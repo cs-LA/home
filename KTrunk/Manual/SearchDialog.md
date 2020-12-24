@@ -35,31 +35,5 @@
 </p>
 <p>
   <span class="en">Using the buttons above the list you can sort the list by name, creation date, last update or last visit. Sorting may be ascending or descending.</span>
-  <span class="de">Auf der rechten Seite sind zwei Schaltflächen. Mit der <img src="buttons/download.jpg" class="appButton"> Schaltfläche kann man Dateien nach KTrunk importieren. Mit der <img src="buttons/img.jpg" class="appButton"> Schaltfläche kann man Fotos nach KTrunk importieren.</span>
+  <span class="de">Mit den Schaltflächenoberhalb der Liste kann man die Dokumente nach Namen, Erzeugungs-, letztem Änderungs- oder letztem Besuchs-Datum sortieren. Die Sortierung kann auf- oder absteigend erfolgen.</span>
 </p>
-
-
-<p>
-  <span class="en">At the right are two buttons. With the <img src="buttons/download.jpg" class="appButton"> button you can import files into KTrunk. With the <img src="buttons/img.jpg" class="appButton"> button you can import photos into KTrunk.</span>
-  <span class="de">Auf der rechten Seite sind zwei Schaltflächen. Mit der <img src="buttons/download.jpg" class="appButton"> Schaltfläche kann man Dateien nach KTrunk importieren. Mit der <img src="buttons/img.jpg" class="appButton"> Schaltfläche kann man Fotos nach KTrunk importieren.</span>
-</p>
-
-
-<p>
-  <span class="en">At the right are two buttons. With the <img src="buttons/download.jpg" class="appButton"> button you can import files into KTrunk. With the <img src="buttons/img.jpg" class="appButton"> button you can import photos into KTrunk.</span>
-  <span class="de">Auf der rechten Seite sind zwei Schaltflächen. Mit der <img src="buttons/download.jpg" class="appButton"> Schaltfläche kann man Dateien nach KTrunk importieren. Mit der <img src="buttons/img.jpg" class="appButton"> Schaltfläche kann man Fotos nach KTrunk importieren.</span>
-</p>
-
-
-<p>
-  <span class="en">At the right are two buttons. With the <img src="buttons/download.jpg" class="appButton"> button you can import files into KTrunk. With the <img src="buttons/img.jpg" class="appButton"> button you can import photos into KTrunk.</span>
-  <span class="de">Auf der rechten Seite sind zwei Schaltflächen. Mit der <img src="buttons/download.jpg" class="appButton"> Schaltfläche kann man Dateien nach KTrunk importieren. Mit der <img src="buttons/img.jpg" class="appButton"> Schaltfläche kann man Fotos nach KTrunk importieren.</span>
-</p>
-
-
-<p>
-  <span class="en">At the right are two buttons. With the <img src="buttons/download.jpg" class="appButton"> button you can import files into KTrunk. With the <img src="buttons/img.jpg" class="appButton"> button you can import photos into KTrunk.</span>
-  <span class="de">Auf der rechten Seite sind zwei Schaltflächen. Mit der <img src="buttons/download.jpg" class="appButton"> Schaltfläche kann man Dateien nach KTrunk importieren. Mit der <img src="buttons/img.jpg" class="appButton"> Schaltfläche kann man Fotos nach KTrunk importieren.</span>
-</p>
-
-
