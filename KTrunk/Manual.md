@@ -43,4 +43,6 @@
   <span class="en">The remaining screen is used to display the document.</span>
   <span class="de">Der verbeibende Bildschirm wird genutzt, um das Dokument anzuzeigen.</span>
 </p>
+<p>&nbsp;</p>
 <img src="Manual/SampleNote.png" style="border: 2px solid #B0C4DE; border-radius: 10px;">
+<p>&nbsp;</p>
