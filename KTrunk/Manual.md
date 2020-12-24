@@ -37,7 +37,7 @@
   </li>
   <li>
     <span class="en">In the middle is the <b><a href="Manual/DocumentTitle.html">Document Title</a></b>.</span>
-    <span class="de">In der Mitte ist der <b><a href="Manual/DocumentTitle.html">[Dokumenten-Titel</a></b>.</span>
+    <span class="de">In der Mitte ist der <b><a href="Manual/DocumentTitle.html">Dokumenten-Titel</a></b>.</span>
   </li>
 </ul>
 
