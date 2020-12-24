@@ -25,7 +25,6 @@
   <span class="en">The user interface is pretty simple. Most of the screen is just used to display the document. At the top you see the header bar that consists of:</span>
   <span class="de">Die Benutzer-Oberfläche ist sehr einfach gehalten. Der überwiegende Teil des Bildschirms wird zur Anzeige des Dokuments genutzt. Oben ist ein Kopf-Bereich mit folgenden Komponenten:</span>
 </p>
-
 <ul>
   <li>
     <span class="en">At the left is a block of <b><a href="Manual/NavigationButtons.html">Navigation Buttons</a></b>.</span>
@@ -40,5 +39,8 @@
     <span class="de">In der Mitte ist der <b><a href="Manual/DocumentTitle.html">Dokumenten-Titel</a></b>.</span>
   </li>
 </ul>
-
+<p>
+  <span class="en">The remaining screen is used to display the document.</span>
+  <span class="de">Der verbeibende Bildschirm wird genutzt, um das Dokument anzuzeigen.</span>
+</p>
 <img src="Manual/SampleNote.png" style="border: 2px solid #B0C4DE; border-radius: 10px;">
