@@ -37,3 +37,11 @@
   <span class="en">Using the buttons above the list you can sort the list by name, creation date, last update or last visit. Sorting may be ascending or descending.</span>
   <span class="de">Mit den Schaltflächenoberhalb der Liste kann man die Dokumente nach Namen, Erzeugungs-, letztem Änderungs- oder letztem Besuchs-Datum sortieren. Die Sortierung kann auf- oder absteigend erfolgen.</span>
 </p>
+<h4>
+  <span class="en">Create a new note</span>
+  <span class="de">Erzeugen einer neuen Notiz</span>
+</h4>
+<p>
+  <span class="en">You also can use the search entry field to create a new note. Just enter the name of the new note and press the little plus button <img src="buttons/createNew.jpg" class="appButton"> at the right of the search entry field.</span>
+  <span class="de">Man kann das Such-Eingabefeld auch nutzen, um ein neue Notiz anzulegen. Dazu gibt man einfach den Namen der neuen Notiz ein uund klickt dann die kleine Plus-Schaltfläche <img src="buttons/createNew.jpg" class="appButton"> rechts in dem Such-Eingabefeld.</span>
+</p>
