@@ -20,31 +20,26 @@
 <span class="en">The notes are saved in html-format and can be synchronized across your devices using iCloud.</span>
 <span class="de">Die Notizen werden im html-Format abgespeichert und können mittels iCloud über alle deine iOS-Geräte synchronisiert werden.</span>
 
-<img src="Manual/SampleNote.png" style="border: 2px solid #B0C4DE; border-radius: 10px;">
-
 <span class="en">The user interface is pretty simple. Most of the screen is just used to display the document. At the top you see the header bar that consists of:</span>
 <span class="de">Die Benutzer-Oberfläche ist sehr einfach gehalten. Der überwiegende Teil des Bildschirms wird zur Anzeige des Dokuments genutzt. Oben ist ein Kopf-Bereich mit folgenden Komponenten:</span>
 
+<ul>
+  <li>
+    <span class="en">At the left is a block of <b><a href="Manual/NavigationButtons.html">Navigation Buttons</a>.</span>
+    <span class="de">Zur Linken ist ein Block von <b><a href="Manual/NavigationButtons.html">Navigations-Schalttasten</a>.</span>
+  </li>
+  <li>
+    <span class="en">At the right is a block of <b><a href="Manual/ActionButtons.html">Action Buttons</a>.</span>
+    <span class="de">Zur Rechten ist ein Block von <b><a href="Manual/ActionButtons.html">Aktions-Schalttasten</a>.</span>
+  </li>
+  <li>
+    <span class="en">In the middle is the <b><a href="Manual/DocumentTitle.html">Document Title</a>.</span>
+    <span class="de">In der Mitte ist der <b><a href="Manual/DocumentTitle.html">[Dokumenten-Titel</a>.</span>
+  </li>
+</ul>
+  
  * <span class="en">At the left is a block of **[Navigation Buttons](Manual/NavigationButtons.md)**.</span><span class="de">Zur Linken ist ein Block von **[Navigations-Schalttasten](Manual/NavigationButtons.md)**.</span>
  * <span class="en">At the right is a block of **[Action Buttons](Manual/ActionButtons.md)**.</span><span class="de">Zur Rechten ist ein Block von **[Aktions-Schalttasten](Manual/ActionButtons.md)**.</span>
  * <span class="en">In the middle is the  **[Document Title](Manual/DocumentTitle.md)**.</span><span class="de">In der Mitte ist der **[Dokumenten-Titel](Manual/DocumentTitle.md)**.</span>
 
-
-<span class="en"></span>
-<span class="de"></span>
-
-<span class="en"></span>
-<span class="de"></span>
-
-<span class="en"></span>
-<span class="de"></span>
-
-<span class="en"></span>
-<span class="de"></span>
-
-<span class="en"></span>
-<span class="de"></span>
-
-<span class="en"></span>
-<span class="de"></span>
-
+<img src="Manual/SampleNote.png" style="border: 2px solid #B0C4DE; border-radius: 10px;">
