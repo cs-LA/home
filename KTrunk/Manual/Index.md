@@ -37,7 +37,7 @@
     <span class="de"><b><a href="Manual/NavigationButtons.html">Navigations-Schalttasten</a></b</span>
   </li>
   <li>
-    <span class="en"><b><a href="Settings.html">Setzings</a></b></span>
+    <span class="en"><b><a href="Settings.html">Settings</a></b></span>
     <span class="de"><b><a href="SearchDialog.html">Such-Dialog</a></b></span>
   </li>
 </ul>
