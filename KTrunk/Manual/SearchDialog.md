@@ -25,10 +25,10 @@
   <span class="en">At the right are two buttons. With the <img src="buttons/download.jpg" class="appButton"> button you can import files into KTrunk. With the <img src="buttons/img.jpg" class="appButton"> button you can import photos into KTrunk.</span>
   <span class="de">Auf der rechten Seite sind zwei Schaltflächen. Mit der <img src="buttons/download.jpg" class="appButton"> Schaltfläche kann man Dateien nach KTrunk importieren. Mit der <img src="buttons/img.jpg" class="appButton"> Schaltfläche kann man Fotos nach KTrunk importieren.</span>
 </p>
-<h2>
+<h4>
   <span class="en">The Search Entry Field</span>
   <span class="de">Das Such-Eingabefeld</span>
-</h2>
+</h4>
 <p>
   <span class="en">In the search dialog you see al list of all documents when the search entry field is empty. By specifying one or multiple, by spaces separated search terms you can limit the number of list entries. The list will contain all documents which contain the search terms as word or as part of a word. You cannot search for a multi-word-string.</span>
   <span class="de">In dem Such-Dialog werden, wenn das Such-Eingabefeld leer ist, alle vorhandenen Dokumente angezeigt. Durch Eingabe von einem oder mehreren, durch Leerzeichen getrennten, Suchbegriffen, kann man die Liste der angezeigten Dokumente einschränken. Dabei werden alle Dokumente angezeigt, in denen die eingegebenen Suchbegriffe als ganzes Wort oder als Teil eines Wortes vorkommen. Wort-übergreifende Suchbegriffe sind nicht möglich.</span>
