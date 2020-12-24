@@ -20,14 +20,25 @@
   </li>
   <li>
     <span class="en"><b><a href="Manual/DocumentTitle.html">Document Title</a></b></span>
-    <span class="de"><b><a href="Manual/DocumentTitle.html">Dokumenten-Titel</a></b></span>
+    <span class="de"><b><a href="Manual/EditMode.html">Bearbeitungs-Modus</a></b></span>
+    
   </li>
   <li>
     <span class="en"><b><a href="Manual/EditMode.html">Edit Mode</a></b></span>
-    <span class="de"><b><a href="Manual/EditMode.html">Bearbeitungs-Modus</a></b></span>
+    <span class="de"><b><a href="Manual/DocumentTitle.html">Dokumenten-Titel</a></b></span>
+    
   </li>
   <li>
     <span class="en"><b><a href="Manual/NavigationButtons.html">Navigation Buttons</a></b></span>
+    <span class="de"><b><a href="SearchDialog.html">Such-Dialog</a></b></span>
     <span class="de"><b><a href="Manual/NavigationButtons.html">Navigations-Schalttasten</a></b></span>
+  </li>
+  <li>
+    <span class="en"><b><a href="Manual/SearchDialog.html">Edit Mode</a></b></span>
+    
+  </li>
+  <li>
+    <span class="en"><b><a href="Settings.html">Settings</a></b></span>
+    <span class="de"><b><a href="SearchDialog.html">Such-Dialog</a></b></span>
   </li>
 </ul>
