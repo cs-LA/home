@@ -34,7 +34,7 @@
   </li>
   <li>
     <span class="en"><b><a href="SearchDialog.html">Search Dialog</a></b></span>
-    <span class="de"><b><a href="NavigationButtons.html">Navigations-Schalttasten</a></b</span>
+  <span class="de"><b><a href="NavigationButtons.html">Navigations-Schalttasten</a></b></span>
   </li>
   <li>
     <span class="en"><b><a href="Settings.html">Settings</a></b></span>
