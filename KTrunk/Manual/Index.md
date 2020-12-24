@@ -1,6 +1,6 @@
 <div class="logoRow">
   <div class="logoColumn logoColumnLeft">
-    <img src="logo120.png">
+    <img src="./../logo120.png">
   </div>
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
@@ -15,26 +15,26 @@
 </h1>
 <ul>
   <li>
-    <span class="en"><b><a href="Manual/ActionButtons.html">Action Buttons</a></b></span>
-    <span class="de"><b><a href="Manual/ActionButtons.html">Aktions-Schalttasten</a></b></span>
+    <span class="en"><b><a href="ActionButtons.html">Action Buttons</a></b></span>
+    <span class="de"><b><a href="ActionButtons.html">Aktions-Schalttasten</a></b></span>
   </li>
   <li>
-    <span class="en"><b><a href="Manual/DocumentTitle.html">Document Title</a></b></span>
-    <span class="de"><b><a href="Manual/EditMode.html">Bearbeitungs-Modus</a></b></span>
+    <span class="en"><b><a href="DocumentTitle.html">Document Title</a></b></span>
+    <span class="de"><b><a href="EditMode.html">Bearbeitungs-Modus</a></b></span>
     
   </li>
   <li>
-    <span class="en"><b><a href="Manual/EditMode.html">Edit Mode</a></b></span>
-    <span class="de"><b><a href="Manual/DocumentTitle.html">Dokumenten-Titel</a></b></span>
+    <span class="en"><b><a href="EditMode.html">Edit Mode</a></b></span>
+    <span class="de"><b><a href="DocumentTitle.html">Dokumenten-Titel</a></b></span>
     
   </li>
   <li>
-    <span class="en"><b><a href="Manual/NavigationButtons.html">Navigation Buttons</a></b></span>
+    <span class="en"><b><a href="NavigationButtons.html">Navigation Buttons</a></b></span>
     <span class="en"><b><a href="Settings.html">Einstellungen</a></b></span>
   </li>
   <li>
-    <span class="en"><b><a href="Manual/SearchDialog.html">Search Dialog</a></b></span>
-    <span class="de"><b><a href="Manual/NavigationButtons.html">Navigations-Schalttasten</a></b</span>
+    <span class="en"><b><a href="SearchDialog.html">Search Dialog</a></b></span>
+    <span class="de"><b><a href="NavigationButtons.html">Navigations-Schalttasten</a></b</span>
   </li>
   <li>
     <span class="en"><b><a href="Settings.html">Settings</a></b></span>
