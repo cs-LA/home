@@ -28,16 +28,16 @@
 
 <ul>
   <li>
-    <span class="en">At the left is a block of <b><a href="Manual/NavigationButtons.html">Navigation Buttons</a>.</span>
-    <span class="de">Zur Linken ist ein Block von <b><a href="Manual/NavigationButtons.html">Navigations-Schalttasten</a>.</span>
+    <span class="en">At the left is a block of <b><a href="Manual/NavigationButtons.html">Navigation Buttons</a></b>.</span>
+    <span class="de">Zur Linken ist ein Block von <b><a href="Manual/NavigationButtons.html">Navigations-Schalttasten</a></b>.</span>
   </li>
   <li>
-    <span class="en">At the right is a block of <b><a href="Manual/ActionButtons.html">Action Buttons</a>.</span>
-    <span class="de">Zur Rechten ist ein Block von <b><a href="Manual/ActionButtons.html">Aktions-Schalttasten</a>.</span>
+    <span class="en">At the right is a block of <b><a href="Manual/ActionButtons.html">Action Buttons</a></b>.</span>
+    <span class="de">Zur Rechten ist ein Block von <b><a href="Manual/ActionButtons.html">Aktions-Schalttasten</a></b>.</span>
   </li>
   <li>
-    <span class="en">In the middle is the <b><a href="Manual/DocumentTitle.html">Document Title</a>.</span>
-    <span class="de">In der Mitte ist der <b><a href="Manual/DocumentTitle.html">[Dokumenten-Titel</a>.</span>
+    <span class="en">In the middle is the <b><a href="Manual/DocumentTitle.html">Document Title</a></b>.</span>
+    <span class="de">In der Mitte ist der <b><a href="Manual/DocumentTitle.html">[Dokumenten-Titel</a></b>.</span>
   </li>
 </ul>
 
