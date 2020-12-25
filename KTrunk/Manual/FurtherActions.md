@@ -21,3 +21,7 @@
   <span class="en">&#128679; Under Construction &#128679;</span>
   <span class="de">&#128679; In Bearbeitung &#128679;</span>
 </h1>
+
+<a href="https://en.m.wikipedia.org/wiki/Backlink">Backlinks</a>
+
+<a href="https://de.m.wikipedia.org/wiki/Rückverweis">Rückverweise</a>
