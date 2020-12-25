@@ -19,8 +19,8 @@
   <span class="de">Hier findet man weitere Aktionen, die man ausführen kann. Die möglichen Aktionen sind abhängig von dem angezeigten Dokumententyp. Die meisten sind selbserklärend.</span>
 </p>
 <p>
-  <span class="en">Common to all document types is the <i>Share</i> action. This action invokes the iOS-Share-Dialog for the currently displayed file type.</span>
-  <span class="de">Allen Dokumenttypen gemeinsam ist die Aktion <i>Teilen</i>. Diese Aktion ruft den iOS-Teilen-Dialog für den aktuell angezeigten Datei-Typen auf.</span>
+  <span class="en">Common to all document types is the <i>Share</i> action. This action invokes the <i>iOS-Share-Dialog</i> for the currently displayed file type.</span>
+  <span class="de">Allen Dokumenttypen gemeinsam ist die Aktion <i>Teilen</i>. Diese Aktion ruft den <i>iOS-Teilen-Dialog</i> für den aktuell angezeigten Datei-Typen auf.</span>
 </p>
 <p>
   <span class="en">Special mention deserves the <i><a href="https://en.m.wikipedia.org/wiki/Backlink">Backlinks</a></i> action. This action generates a list of all documents that have a link to the currently displayed document</span>
