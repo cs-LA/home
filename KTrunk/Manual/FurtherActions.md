@@ -14,13 +14,6 @@
   <span class="en">Further actions</span>
   <span class="de">Weitere Aktionen</span>
 </h1>
-<h1>
-  &nbsp;
-</h1>
-<h1>
-  <span class="en">&#128679; Under Construction &#128679;</span>
-  <span class="de">&#128679; In Bearbeitung &#128679;</span>
-</h1>
 <p>
   <span class="en">Here you find additional actions that you can perform. These actions are dependent on the current document type. Most of them are self-explanatory.</span>
   <span class="de">Hier findet man weitere Aktionen, die ma ausführen kann. Die möglichen Aktionen sind abhängig von dem angezeigten Dokumententyp. Die meisten sond selbserklärend.</span>
