@@ -72,15 +72,5 @@
 </h3>
 <p>
   <span class="en">Here vou specify how detailled information will be written to log files. These log files are stored locally only. In case of a problem you may send the log file ffor error analysis to <a href="mailto:Cl.Schuetzdeller@icloud.com">me</a>, the developer of KTrunk.</span>
-  <span class="de">Hier kann festgelegt werden, wie detailliert Informatinen in Log-Files gespeichert werden. Diese Log-Files werden ausschließlich lokal gespeichert. Falls einmal ein Problem auftreten sollte, kann das Log-File zur Fehler-Analyse an mich, den KTrunk-Entwickler, geschickt werden</span>
-</p>
-
-
-<p>
-  <span class="en"></span>
-  <span class="de"></span>
-</p>
-<p>
-  <span class="en"></span>
-  <span class="de"></span>
+  <span class="de">Hier kann festgelegt werden, wie detailliert Informatinen in Log-Files gespeichert werden. Diese Log-Files werden ausschließlich lokal gespeichert. Falls einmal ein Problem auftreten sollte, kann das Log-File zur Fehler-Analyse an <a href="mailto:Cl.Schuetzdeller@icloud.com">mich</a>, den KTrunk-Entwickler, geschickt werden.</span>
 </p>
