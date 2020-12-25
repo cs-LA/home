@@ -36,7 +36,7 @@
 </h3>
 <p>
   <span class="en">Here you can specify which document will be shown when you press the home button <img src="buttons/navHome.jpg" class="appButton">.</span>
-  <span class="de">Hier kann angegeben werden, welches Dokument angezeigt werden soll, wenn man dieHome-Schaltfläche <img src="buttons/navHome.jpg" class="appButton"> anklickt.</span>
+  <span class="de">Hier kann angegeben werden, welches Dokument angezeigt werden soll, wenn man die Home-Schaltfläche <img src="buttons/navHome.jpg" class="appButton"> anklickt.</span>
 </p>
 <h3>
   <span class="en">The css-Note</span>
