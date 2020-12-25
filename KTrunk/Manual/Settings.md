@@ -47,12 +47,12 @@
   <span class="de">Noch nicht verfügbar.</span>
 </p>
 <h3>
-  <span class="en">The Homepage</span>
-  <span class="de">Die Homepage</span>
+  <span class="en">The Markdown file extensions</span>
+  <span class="de">Die Markdown Datei-Endungen</span>
 </h3>
 <p>
-  <span class="en">Here you can specify which document will be shown when you press the home button <img src="buttons/navHome.jpg" class="appButton">.</span>
-  <span class="de">Hier kann angegeben werden, welches Dokument angezeigt werden soll, wenn man dieHome-Schaltfläche <img src="buttons/navHome.jpg" class="appButton"> anklickt.</span>
+  <span class="en">Here you can specify some file extension separated by a colon. When you download a file with one of these extensions, its content will be considered as <a href="https://daringfireball.net/projects/markdown/">markdown</a> formatted. This markdown content will be converted to html and stared as an editable note in KTrunk, not as a file.</span>
+  <span class="de">Hier kann man, durch Kommata getrennt, Datei-Endungen angeben. Wenn dann eine Datei mit einer dieser Endungen heruntergeladen wird, wird der Inhalt als <a href="https://daringfireball.net/projects/markdown/">markdown</a>-formatiert</span>
 </p>
 
 
