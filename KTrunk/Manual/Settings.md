@@ -51,8 +51,8 @@
   <span class="de">Die Markdown Datei-Endungen</span>
 </h3>
 <p>
-  <span class="en">Here you can specify some file extension separated by a colon. When you download a file with one of these extensions, its content will be considered as <a href="https://daringfireball.net/projects/markdown/">markdown</a> formatted. This markdown content will be converted to html and stared as an editable note in KTrunk, not as a file.</span>
-  <span class="de">Hier kann man, durch Kommata getrennt, Datei-Endungen angeben. Wenn dann eine Datei mit einer dieser Endungen heruntergeladen wird, wird der Inhalt als <a href="https://daringfireball.net/projects/Markdown/">markdown</a>-formatiert betrachtet. Dieser Markdown-Inhalt wird dann in das entsprechende HTML-Format konvertiert uns als bearbeitbare Notiz statt als Datei in KTrunk gespeichert.</span>
+  <span class="en">Here you can specify some file extension separated by a colon. When you download a file with one of these extensions, its content will be considered as <a href="https://daringfireball.net/">markdown</a> formatted. This markdown content will be converted to html and stared as an editable note in KTrunk, not as a file.</span>
+  <span class="de">Hier kann man, durch Kommata getrennt, Datei-Endungen angeben. Wenn dann eine Datei mit einer dieser Endungen heruntergeladen wird, wird der Inhalt als <a href="https://daringfireball.net/">markdown</a>-formatiert betrachtet. Dieser Markdown-Inhalt wird dann in das entsprechende HTML-Format konvertiert uns als bearbeitbare Notiz statt als Datei in KTrunk gespeichert.</span>
 </p>
 <h3>
   <span class="en">Image Dialog Settings</span>
