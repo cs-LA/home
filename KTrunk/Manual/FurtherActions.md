@@ -18,6 +18,6 @@
   &nbsp;
 </h1>
 <h1>
-  <span class="en"> Under Construction </span>
-  <span class="de"> In Bearbeitung </span>
+  <span class="en">&#128679; Under Construction &#128679;</span>
+  <span class="de">&#128679; In Bearbeitung &#128679;</span>
 </h1>
