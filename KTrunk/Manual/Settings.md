@@ -52,15 +52,19 @@
 </h3>
 <p>
   <span class="en">Here you can specify some file extension separated by a colon. When you download a file with one of these extensions, its content will be considered as <a href="https://daringfireball.net/projects/markdown/">markdown</a> formatted. This markdown content will be converted to html and stared as an editable note in KTrunk, not as a file.</span>
-  <span class="de">Hier kann man, durch Kommata getrennt, Datei-Endungen angeben. Wenn dann eine Datei mit einer dieser Endungen heruntergeladen wird, wird der Inhalt als <a href="https://daringfireball.net/projects/markdown/">markdown</a>-formatiert</span>
+  <span class="de">Hier kann man, durch Kommata getrennt, Datei-Endungen angeben. Wenn dann eine Datei mit einer dieser Endungen heruntergeladen wird, wird der Inhalt als <a href="https://daringfireball.net/projects/Markdown/">markdown</a>-formatiert betrachtet. Dieser Markdown-Inhalt wird dann in das entsprechende HTML-Format konvertiert uns als bearbeitbare Notiz statt als Datei in KTrunk gespeichert.</span>
 </p>
-
-
-
-
+<h3>
+  <span class="en">Image Dialog Settings</span>
+  <span class="de">Bilddialog-Endungen</span>
+</h3>
 <p>
-  <span class="en"></span>
-  <span class="de"></span>
+  <span class="en">The <i>approximate preview size</i> will be used to calculate the number of columns in which images will be shown in the <i>Insert Image</i> dialog.</span>
+  <span class="de">Die <i>ungefähre Bildvorschau-Größe</i> wird genutzt, um die Anzahl der Spalten zu berechnen, in denen die Bilder in dem <i>Bild einfügen</i>-Dialog angezeigt werden.</span>
+</p>
+<p>
+  <span class="en">The <i>insert with link</i> switch determines the default to be used in the <i>Insert Image</i> dialog.</span>
+  <span class="de">Der <i>Einfügen mit Link</i>-Schalter legt die Voreinstellung fest, die in dem <i>Bild einfügen</i>-Dialog verwendet wird.</span>
 </p>
 <p>
   <span class="en"></span>
