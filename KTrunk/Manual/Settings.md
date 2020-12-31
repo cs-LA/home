@@ -56,7 +56,7 @@
 </p>
 <h3>
   <span class="en">Image Dialog Settings</span>
-  <span class="de">Bilddialog-Endungen</span>
+  <span class="de">Bilddialog-Einstellungen</span>
 </h3>
 <p>
   <span class="en">The <i>approximate preview size</i> will be used to calculate the number of columns in which images will be shown in the <i>Insert Image</i> dialog.</span>
