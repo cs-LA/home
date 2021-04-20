@@ -31,6 +31,18 @@
   <span class="de">Wenn dies ausgeschaltet ist, werden alle Dokumente nur lokal auf dem Gerät gespeichert. Wenn man dies eingeschaltet war und es ausgeschaltet wird, werden alle Daten in der iCloud gelöscht.</span>
 </p>
 <h3>
+  <span class="en">Base Font-Size</span>
+  <span class="de">Basis-Schriftgröße</span>
+</h3>
+<p>
+  <span class="en">You may specify a <strong><em>base font-size</em></strong> that fits best for you. The base font-size is that font-size that will be used to render normal paragraphs.</span>
+  <span class="de">Die <strong><em>Basis-Schriftgröße</em></strong> kann individuell eingestellt werden. Die Basis-Schriftgröße wird für die Darstellung normaler Paragraphen benutzt.</span>
+</p>
+<p>
+  <span class="en">The font-size is restricted to values from 8 to 32. The font-size will be saved locally for each device.</span>
+  <span class="de">Die Schriftgröße ist auf Werte von 8 bis 32 begrenzt. Die Schriftgröße wird lokal für jedes Gerät gespeichert.</span>
+</p>
+<h3>
   <span class="en">The Homepage</span>
   <span class="de">Die Homepage</span>
 </h3>
