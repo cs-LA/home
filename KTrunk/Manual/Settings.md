@@ -21,15 +21,6 @@
 <h3>
   <span class="en">Use iCloud</span>
   <span class="de">iCloud nutzen</span>
-</h3>
-<p>
-  <span class="en">When switched on your documents will be stored in Apple's iCloud. Having this set you can synchronize your documents across all your iOS devices.</span>
-  <span class="de">Wenn dies eingeschaltet ist, werden die Dokumente in der iCloud von Apple gespeichert. Dies ermöglicht, die Dokumente über alle iOS-Geräte zu synchronisieren.</span>
-</p>
-<p>
-  <span class="en">If it is switched off, all documents are stored locally on your device. If it was switched on and you switch it off, all data in the iCloud will be deleted.</span>
-  <span class="de">Wenn dies ausgeschaltet ist, werden alle Dokumente nur lokal auf dem Gerät gespeichert. Wenn man dies eingeschaltet war und es ausgeschaltet wird, werden alle Daten in der iCloud gelöscht.</span>
-</p>
 <h3>
   <span class="en">Base Font-Size</span>
   <span class="de">Basis-Schriftgröße</span>
