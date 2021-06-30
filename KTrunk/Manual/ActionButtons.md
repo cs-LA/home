@@ -31,8 +31,10 @@
     <span class="en">The <img src="buttons/edit.jpg" class="appButton"> button switched into the <b><a href="EditMode.html">Edit Mode</a></b>.</span>
     <span class="de">Die <img src="buttons/edit.jpg" class="appButton"> Schaltfläche schaltet in den <b><a href="EditMode.html">Bearbeitungs-Modus</a></b> um.</span>
   </li>
-  <li>
-    <span class="en">If a file (ktFile) is presented you will see a <img src="buttons/note.jpg" class="appButton"> button instead of the <img src="buttons/edit.jpg" class="appButton"> button. This button creates a corresponding note (ktNote) and presents it.</span>
-    <span class="de">Wenn Dateien (ktFiles) angezeigt werden, ist statt der <img src="buttons/edit.jpg" class="appButton"> Schaltfläche eine <img src="buttons/note.jpg" class="appButton"> Schaltfläche zu sehen. Mit dieser Schaltfläche erzeugt man eine zugehörige Notiz (ktNote) bzw. zeigt eine schon existierende solche Notiz an.</span>
-  </li>
+  <ul>
+     <li>
+        <span class="en">If a file (ktFile) is presented you will see a <img src="buttons/note.jpg" class="appButton"> button instead of the <img src="buttons/edit.jpg" class="appButton"> button. This button creates a corresponding note (ktNote) and presents it.</span>
+         <span class="de">Wenn Dateien (ktFiles) angezeigt werden, ist statt der <img src="buttons/edit.jpg" class="appButton"> Schaltfläche eine <img src="buttons/note.jpg" class="appButton"> Schaltfläche zu sehen. Mit dieser Schaltfläche erzeugt man eine zugehörige Notiz (ktNote) bzw. zeigt eine schon existierende solche Notiz an.</span>
+    </li>
+  </ul>
 </ul>
