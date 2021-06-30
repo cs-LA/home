@@ -18,8 +18,8 @@
 </h1>
 <img src="DocumentTitle.jpg" style="border: 2px solid #B0C4DE; border-radius: 10px;">
 <p>
-  <span class="en">The <i>Document Title</i> consists of 2 parts: The name of the document which is preceded by a small icont that reflects the type of the document.</span>
-  <span class="de">Der <i>Dokumenten-Titel</i> besteht aus 2 Teilen: Dem Namen des Dokuments, dem ein kleines Bildchen vorgestellt ist, welches den Typ des Dokuments widerspiegelt.</span>
+  <span class="en">The <i>Document Title</i> consists of 2 parts: The name of the document which is preceded by a small icont that reflects the type of the document. For the <i>HomePage</i> the <img src="buttons/home.png" class="appButton"> icon is used.</span>
+  <span class="de">Der <i>Dokumenten-Titel</i> besteht aus 2 Teilen: Dem Namen des Dokuments, dem ein kleines Bildchen vorgestellt ist, welches den Typ des Dokuments widerspiegelt. Für die <i>HomePage</i> wird das <img src="buttons/home.png" class="appButton"> Bildchen verwendet</span>
 </p>
 <ul>
   <li>
@@ -32,8 +32,8 @@
   </li>
   <ul>
     <li>
-      <span class="en">The <img src="buttons/ql.jpg" class="appButton"> icon indicates that it is a special <i>File</i> type. KTrunk cannot extract the content of those files and therefore cannot maintain the index for this file automatically. By clicking this icon you get an appropriate hint and a recommendation how to behave.</span>
-      <span class="de">Das <img src="buttons/ql.jpg" class="appButton"> Bildchen zeigt an, dass es sich um eine spezielle <i>Datei</i> handelt. KTrunk kann den Inhalt dieser Datei nicht auslesen und somit auch nicht automatisch den Index für diese Datei pflegen. Durch Anklicken dieses Bildchens erhält man eine entsprechende Meldung mit einem Hinweis, wie man sich verhalten kann.</span>
+      <span class="en">If this icon is red it indicates that it is a special <i>File</i> type. KTrunk cannot extract the content of those files and therefore cannot maintain the index for this file automatically. By clicking this icon you get an appropriate hint and a recommendation how to behave.</span>
+      <span class="de">Wenn dieses Bildchen rot angezeigt wird, bedeutet dies, dass es sich um eine spezielle <i>Datei</i> handelt. KTrunk kann den Inhalt dieser Datei nicht auslesen und somit auch nicht automatisch den Index für diese Datei pflegen. Durch Anklicken dieses Bildchens erhält man eine entsprechende Meldung mit einem Hinweis, wie man sich verhalten kann.</span>
     </li>
   </ul>
   <li>
