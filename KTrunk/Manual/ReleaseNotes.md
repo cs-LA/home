@@ -19,26 +19,26 @@
 <span class="de"><b>Mit diesem Release hat <i><b>KTrunk</b></i> eine neue Entwicklungsstufe erreicht. Nach einer grudlegenden Überarbeitung der App konnte ich verschiedene Funktionalitäten straffen und verbessern.</b></span>
 <ul>
   <li>
-    <span class="en"><b>Several user-interface enhancements</b></span>
-    <span class="de"><b>Diverse Verbesserungen in der Benutzer-Oberfläche</b></span>
+    <span class="en"><b>Several user-interface enhancements.</b></span>
+    <span class="de"><b>Diverse Verbesserungen in der Benutzer-Oberfläche.</b></span>
   </li>
   <li>
-    <span class="en"><b>Dark-Mode support</b></span>
-    <span class="de"><b>Unterstützung des Dunkel-Modus</b></span>
+    <span class="en"><b>Dark-Mode support.</b></span>
+    <span class="de"><b>Unterstützung des Dunkel-Modus.</b></span>
   </li>
   <li>
-    <span class="en"><b>Enhanced search algorithm</b></span>
-    <span class="de"><b>Verbesserter Such-Algorithmus</b></span>
+    <span class="en"><b>Enhanced search algorithm.</b></span>
+    <span class="de"><b>Verbesserter Such-Algorithmus.</b></span>
   </li>
   <ul>
     <li>
-      <span class="en"><b>Progress tracking for long running searches</b></span>
-      <span class="de"><b>Fortschrittsanzeige bei langen Such-Vorgängen</b></span>
+      <span class="en">Progress tracking for long running searches.</span>
+      <span class="de">Fortschrittsanzeige bei langen Such-Vorgängen.</span>
     </li>
   </ul>
   <li>
-    <span class="en"><b>Splitting files and related notes into different documents</b></span>
-    <span class="de"><b>Files und zugehörige Notes werden nun in unterschiedlichen Dokumenten gespeichert</b></span>
+    <span class="en"><b>Splitting files and related notes into different documents.</b></span>
+    <span class="de"><b>Files und zugehörige Notes werden nun in unterschiedlichen Dokumenten gespeichert.</b></span>
   </li>
   <ul>
     <li>
@@ -51,28 +51,28 @@
     </li>
   </ul>
   <li>
-    <span class="en">Some errors eliminated.</span>
-    <span class="de">Einige Fehlerbehebungen.</span>
+    <span class="en"><b>Some errors eliminated.</b></span>
+    <span class="de"><b>Einige Fehlerbehebungen.</b></span>
   </li>
   <li>
-    <span class="en">The opportunity to switch iCloud on/off to synchronize your knowledge across all your iOS devices was removed from the settings. Use the iCloud-Setting from your device instead.</span>
-    <span class="de">Die Möglichkeit, die iCloud zu nutzen, um dein Wissen über alle deine iOS-Geräte zu synchronisieren, wurde von den KTrunk-Settings entfernt. Statt dessen bitte die Geräte-iCloud-Einstellungen nutzen.</span>
+    <span class="en"><b>The opportunity to switch iCloud on/off to synchronize your knowledge across all your iOS devices was removed from the settings. Use the iCloud-Setting from your device instead.</b></span>
+    <span class="de"><b>Die Möglichkeit, die iCloud zu nutzen, um dein Wissen über alle deine iOS-Geräte zu synchronisieren, wurde von den KTrunk-Settings entfernt. Statt dessen bitte die Geräte-iCloud-Einstellungen nutzen.</b></span>
   </li>
 </ul>
 
 <h3>1.6</h3>
 <ul>
   <li>
-    <span class="en"><b>Basic font-size specification in settings</b></span>
-    <span class="de"><b>Basis-Schriftgröße in den Einstellungen festlegbar</b></span>
+    <span class="en"><b>Basic font-size specification in settings.</b></span>
+    <span class="de"><b>Basis-Schriftgröße in den Einstellungen festlegbar.</b></span>
   </li>
 </ul>
 
 <h3>1.3</h3>
 <ul>
   <li>
-    <span class="en"><b>German language support</b></span>
-    <span class="de"><b>Sprachunterstützung für Deutsch</b></span>
+    <span class="en"><b>German language support.</b></span>
+    <span class="de"><b>Sprachunterstützung für Deutsch.</b></span>
   </li>
   <li>
     <span class="en"><b>Backup / Restore</b></span>
@@ -83,27 +83,27 @@
 <h3>1.1</h3>
 <ul>
   <li>
-    <span class="en"><b>Search with multiple searchterms for documents</b></span>
-    <span class="de"><b>Mit mehreren Suchbegriffen nach einem Dokument suchen</b></span>
+    <span class="en"><b>Search with multiple searchterms for documents.</b></span>
+    <span class="de"><b>Mit mehreren Suchbegriffen nach einem Dokument suchen.</b></span>
   </li>
   <li>
-    <span class="en"><b>Info if a file couldn' be indexed automatically</b></span>
-    <span class="de"><b>Infoe wenn ein File nicht automatisch indiziert werden konnte</b></span>
+    <span class="en"><b>Info if a file couldn' be indexed automatically.</b></span>
+    <span class="de"><b>Infoe wenn ein File nicht automatisch indiziert werden konnte.</b></span>
   </li>
   <li>
-    <span class="en"><b><i>Getting Started</i> link in Settings</b></span>
-    <span class="de"><b><i>Schnelleinstieg</i>-Link in den Einstellungen</b></span>
+    <span class="en"><b><i>Getting Started</i> link in Settings.</b></span>
+    <span class="de"><b><i>Schnelleinstieg</i>-Link in den Einstellungen.</b></span>
   </li>
   <li>
-    <span class="en"><b>Some errors eliminated</b></span>
-    <span class="de"><b>Einige Fehlerbehebungen</b></span>
+    <span class="en"><b>Some errors eliminated.</b></span>
+    <span class="de"><b>Einige Fehlerbehebungen.</b></span>
   </li>
 </ul>
 
 <h3>1.0</h3>
 <ul>
   <li>
-    <span class="en"><b>First Release</b></span>
-    <span class="de"><b>Erstes Release</b></span>
+    <span class="en"><b>First Release.</b></span>
+    <span class="de"><b>Erstes Release.</b></span>
   </li>
 </ul>
