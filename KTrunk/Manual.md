@@ -6,7 +6,7 @@
     <div class="vCentered">
       <div class="logoTitle">KTrunk</div>
       <div class="logoTitle"><span class="en">Manual</span><span class="de">Handbuch</span></div>
-      <div class="logoDescription" style="text-align: right;"><a href="Manual/Index.html">Index</a></div>
+      <div class="logoDescription" style="text-align: right;"><a href="Manual/Index.html">Index</a><br><a href="Manual/ReleaseNotes.html">Release-Notes</a></div>
     </div>
   </div>
 </div>
