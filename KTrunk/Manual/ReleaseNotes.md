@@ -16,7 +16,7 @@
 
 <h3>1.7<br>... comming soon</h3>
 <span class="en"><b>With this release <i><b>KTrunk</b></i> has evolved to the next level. After a fundamental redesign of the app's code base I was able to streamline and enhance several functionalities.</b></span>
-<span class="de"><b>Mit diesem Release hat <i><b>KTrunk</b></i> eine neue Entwicklungsstufe erreicht. Nach einer grudlegenden Überarbeitung der App konnte ich verschiedene Funktionalitäten straffen und verbessern.</b></span>
+<span class="de"><b>Mit diesem Release hat <i><b>KTrunk</b></i> eine neue Entwicklungsstufe erreicht. Nach einer grundlegenden Überarbeitung der App konnte ich verschiedene Funktionalitäten straffen und verbessern.</b></span>
 <ul>
   <li>
     <span class="en"><b>Several user-interface enhancements.</b></span>
@@ -38,7 +38,7 @@
   </ul>
   <li>
     <span class="en"><b>Splitting files and related notes into different documents.</b></span>
-    <span class="de"><b>Files und zugehörige Notes werden nun in unterschiedlichen Dokumenten gespeichert.</b></span>
+    <span class="de"><b>Files und zugehörige Notizen werden nun in unterschiedlichen Dokumenten gespeichert.</b></span>
   </li>
   <ul>
     <li>
@@ -87,8 +87,8 @@
     <span class="de"><b>Mit mehreren Suchbegriffen nach einem Dokument suchen.</b></span>
   </li>
   <li>
-    <span class="en"><b>Info if a file couldn' be indexed automatically.</b></span>
-    <span class="de"><b>Infoe wenn ein File nicht automatisch indiziert werden konnte.</b></span>
+    <span class="en"><b>Info if a file couldn't be indexed automatically.</b></span>
+    <span class="de"><b>Info, wenn ein File nicht automatisch indiziert werden konnte.</b></span>
   </li>
   <li>
     <span class="en"><b><i>Getting Started</i> link in Settings.</b></span>
