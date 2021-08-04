@@ -14,19 +14,23 @@
   Release Notes
 </h1>
 
-<h3>1.0</h3>
+<h3>1.6</h3>
 <ul>
   <li>
-    <span class="en"><b>First Release</b></span>
-    <span class="de"><b>Erstes Release</b></span>
+    <span class="en"><b>Basic font-size specification in settings</b></span>
+    <span class="de"><b>Basis-Schriftgröße in den Einstellungen festlegbar</b></span>
   </li>
 </ul>
 
-<h3>1.0</h3>
+<h3>1.3</h3>
 <ul>
   <li>
-    <span class="en"><b>First Release</b></span>
-    <span class="de"><b>Erstes Release</b></span>
+    <span class="en"><b>German language support</b></span>
+    <span class="de"><b>Sprachunterstützung für Deutsch</b></span>
+  </li>
+  <li>
+    <span class="en"><b>Backup / Restore</b></span>
+    <span class="de"><b>Sichern / Wiederherstellen</b></span>
   </li>
 </ul>
 
