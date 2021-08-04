@@ -42,12 +42,12 @@
   </li>
   <ul>
     <li>
-      <span class="en"><b>Reduced inconvenient behaviour</b></span>
-      <span class="de"><b>Weniger Ungereimtheiten bei der Nutzung</b></span>
+      <span class="en">Reduced inconvenient behaviour.</span>
+      <span class="de">Weniger Ungereimtheiten bei der Nutzung.</span>
     </li>
     <li>
-      <span class="en"><b>In the <i>Settings</i> you now can specify if the related note shall contain the file extension or not</b></span>
-      <span class="de"><b>In den <i>Einstellungen</i> kann man nun festlegen, ob die zu einem File gehörige Notiz im Namen die File-Endung enthalten soll oder nicht</b></span>
+      <span class="en">In the <i>Settings</i> you now can specify if the related note shall contain the file extension or not.</span>
+      <span class="de">In den <i>Einstellungen</i> kann man nun festlegen, ob die zu einem File gehörige Notiz im Namen die File-Endung enthalten soll oder nicht.</span>
     </li>
   </ul>
   <li>
