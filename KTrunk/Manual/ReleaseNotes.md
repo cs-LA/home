@@ -13,7 +13,7 @@
 <h1>
   Release Notes
 </h1>
-<h2>1.0</h2>
+<h3>1.0</h3>
 <ul>
   <li>
     <span class="en"><b>First Release</b></span>
