@@ -13,6 +13,43 @@
 <h1>
   Release Notes
 </h1>
+
+<h3>1.0</h3>
+<ul>
+  <li>
+    <span class="en"><b>First Release</b></span>
+    <span class="de"><b>Erstes Release</b></span>
+  </li>
+</ul>
+
+<h3>1.0</h3>
+<ul>
+  <li>
+    <span class="en"><b>First Release</b></span>
+    <span class="de"><b>Erstes Release</b></span>
+  </li>
+</ul>
+
+<h3>1.1</h3>
+<ul>
+  <li>
+    <span class="en"><b>Search with multiple searchterms for documents</b></span>
+    <span class="de"><b>Mit mehreren Suchbegriffen nach einem Dokument suchen</b></span>
+  </li>
+  <li>
+    <span class="en"><b>Info if a file couldn' be indexed automatically</b></span>
+    <span class="de"><b>Infoe wenn ein File nicht automatisch indiziert werden konnte</b></span>
+  </li>
+  <li>
+    <span class="en"><b><i>Getting Started</i> link in Settings</b></span>
+    <span class="de"><b><i>Schnelleinstieg</i>-Link in den Einstellungen</b></span>
+  </li>
+  <li>
+    <span class="en"><b>Some errors eliminated</b></span>
+    <span class="de"><b>Einige Fehlerbehebungen</b></span>
+  </li>
+</ul>
+
 <h3>1.0</h3>
 <ul>
   <li>
