@@ -27,7 +27,7 @@
     <span class="de"><b>Unterstützung des Dunkel-Modus</b></span>
   </li>
   <li>
-    <span class="en"><b>Enhanced search algorythm</b></span>
+    <span class="en"><b>Enhanced search algorithm</b></span>
     <span class="de"><b>Verbesserter Such-Algorithmus</b></span>
   </li>
   <li>
@@ -37,7 +37,7 @@
   <ul>
     <li>
       <span class="en"><b>Reduced inconvenient behaviour</b></span>
-      <span class="de"><b>Weniger ungereimtheiten bei der Nutzung</b></span>
+      <span class="de"><b>Weniger Ungereimtheiten bei der Nutzung</b></span>
     </li>
     <li>
       <span class="en"><b>In the <i>Settings</i> you now can specify if the related note shall contain the file extension or not</b></span>
