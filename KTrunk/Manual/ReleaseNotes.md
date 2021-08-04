@@ -30,6 +30,12 @@
     <span class="en"><b>Enhanced search algorithm</b></span>
     <span class="de"><b>Verbesserter Such-Algorithmus</b></span>
   </li>
+  <ul>
+    <li>
+      <span class="en"><b>Progress tracking for long running searches</b></span>
+      <span class="de"><b>Fortschrittsanzeige bei langen Such-Vorgängen</b></span>
+    </li>
+  </ul>
   <li>
     <span class="en"><b>Splitting files and related notes into different documents</b></span>
     <span class="de"><b>Files und zugehörige Notes werden nun in unterschiedlichen Dokumenten gespeichert</b></span>
@@ -45,8 +51,12 @@
     </li>
   </ul>
   <li>
-    <span class="en"><b>Some errors eliminated</b></span>
-    <span class="de"><b>Einige Fehlerbehebungen</b></span>
+    <span class="en">Some errors eliminated.</span>
+    <span class="de">Einige Fehlerbehebungen.</span>
+  </li>
+  <li>
+    <span class="en">The opportunity to switch iCloud on/off to synchronize your knowledge across all your iOS devices was removed from the settings. Use the iCloud-Setting from your device instead.</span>
+    <span class="de">Die Möglichkeit, die iCloud zu nutzen, um dein Wissen über alle deine iOS-Geräte zu synchronisieren, wurde von den KTrunk-Settings entfernt. Statt dessen bitte die Geräte-iCloud-Einstellungen nutzen.</span>
   </li>
 </ul>
 
