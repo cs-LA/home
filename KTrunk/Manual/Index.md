@@ -42,6 +42,10 @@
   </li>
   <li>
     <span class="en"><b><a href="Settings.html">Settings</a></b></span>
-    <span class="de"><b><a href="FurtherActions.html">Weitere Aktionen</a></b></span>
+    <span class="de"><b><a href="TipsAndTricks.html">Tipps und Tricks</a></b></span>
+  </li>
+  <li>
+    <span class="en"><b><a href="Settings.html">Tips and Tricks</a></b></span>
+    <span class="de"><b><a href="TipsAndTricks.html">Weitere Aktionen</a></b></span>
   </li>
 </ul>
