@@ -14,10 +14,10 @@
   <span class="en">Tips and Tricks</span>
   <span class="de">Tipps und Tricks</span>
 </h1>
-<h2>
-  <span class="en">Clear duplicate documents.</span>
-  <span class="de">Doppelte Dokumente bereinigen.</span>
-</h2>
+<h3>
+  <span class="en">Clear duplicate documents</span>
+  <span class="de">Doppelte Dokumente bereinigen</span>
+</h3>
 <p>
   <span class="en">???.</span>
   <span class="de">???.</span>
