@@ -1,4 +1,13 @@
 <h1>
+  <span class="en">My Diploma Thesis</span>
+  <span class="de">Meine Diplomarbeit</span>
+</h1>
+<p>
+  <span class="en">My diploma thesis <b><i><a href="Diplomarbeit/Schützdeller, Clemens_Diplomarbeit.pdf.html">Hindernisse gegen die Glättung von Poincare-Räumen</a></i></b> from 1983.</span>
+  <span class="de">Meine Diplomarbeit <b><i>Hindernisse gegen die Glättung von Poincare-Räumen</i></b> aus dem Jahre 1983.</span>
+</p>
+
+<h1>
   <span class="en">My iOS Apps</span>
   <span class="de">Meine iOS-Apps</span>
 </h1>
