@@ -3,7 +3,7 @@
   <span class="de">Meine Diplomarbeit</span>
 </h1>
 <p>
-  <span class="en">My diploma thesis <b><i><a href="Diplomarbeit/Schützdeller, Clemens—Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincare-Räumen</a></i></b> from 1983.</span>
+  <span class="en">My diploma thesis <b><i><a href="Diplomarbeit/Schützdeller,%20Clemens—Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincare-Räumen</a></i></b> from 1983.</span>
   <span class="de">Meine Diplomarbeit <b><i>Hindernisse gegen die Glättung von Poincare-Räumen</i></b> aus dem Jahre 1983.</span>
 </p>
 
