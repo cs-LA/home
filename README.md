@@ -3,8 +3,8 @@
   <span class="de">Meine Diplomarbeit</span>
 </h1>
 <p>
-  <span class="en">My diploma thesis <b><i><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></i></b> from 1983.</span>
-  <span class="de">Meine Diplomarbeit <b><i><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></i></b> aus dem Jahre 1983.</span>
+  <span class="en">My diploma thesis from 1983 has the title <b><i><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></i></b>.</span>
+  <span class="de">Meine Diplomarbeit aus dem Jahre 1983 trägt den Titel <b><i><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></i></b>.</span>
 </p>
 
 <h1>
