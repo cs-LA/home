@@ -1,6 +1,6 @@
 <div class="logoRow">
   <div class="logoColumn logoColumnLeft">
-    <img src="KTrunk/logo120.png">
+    <img src="logo120.png">
   </div>
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
