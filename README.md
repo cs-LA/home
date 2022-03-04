@@ -53,7 +53,7 @@
 
 <div class="logoRow">
   <div class="logoColumn logoColumnLeft">
-    <img src="IntervalCoach/logo120.png">
+    <a href="IntervalCoach/index.html"><img src="IntervalCoach/logo120.png"></a>
   </div>
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
