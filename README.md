@@ -24,6 +24,8 @@
   </div>
 </div>
 
+<h3>&nbsp;</h3>
+
 <div class="logoRow">
   <div class="logoColumn logoColumnLeft">
     <a href="IntervalCoach/index.html"><img src="IntervalCoach/logo120.png"></a>
@@ -35,3 +37,5 @@
     </div>
   </div>
 </div>
+
+<h3>&nbsp;</h3>
