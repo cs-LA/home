@@ -5,7 +5,8 @@
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
       <div class="logoTitle">IntervalCoach</div>
-      <div class="logoTitle"><span class="en"></span><span class="de"></span></div>
+      <div class="logoDescription"><span class="en">Available in <b><a href="https://apps.apple.com/de/app/intervalcoach/id1612119055">AppStore</a></b>!</span>
+  <span class="de">Verfügbar im <b><a href="https://apps.apple.com/de/app/intervalcoach/id1612119055">AppStore</a></b>!</span> </div>
     </div>
   </div>
 </div>
