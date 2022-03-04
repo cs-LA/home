@@ -57,7 +57,7 @@
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
       <div class="logoTitle">IntervalCoach</div>
-      <div class="logoDescription"><span class="en"><b><i>IntervalCoach</i></b>is a simple, essy-to-use interval timer.</span><span class="de"><b><i>IntervalCoach</i></b> ist ein einfacher, benutzerfreundlicher Intervall-Timer.</span></div>
+      <div class="logoDescription"><span class="en"><b><i>IntervalCoach</i></b> is a simple, essy-to-use interval timer.</span><span class="de"><b><i>IntervalCoach</i></b> ist ein einfacher, benutzerfreundlicher Intervall-Timer.</span></div>
     </div>
   </div>
 </div>
