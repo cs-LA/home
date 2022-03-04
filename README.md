@@ -52,12 +52,13 @@
 </p>
 <div class="logoRow">
   <div class="logoColumn logoColumnLeft">
-    
+    <img src="IntervalCoach/logo120.png">
   </div>
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
-      <div class="logoTitle">IntervalCoach</div>
-      <div class="logoDescription"><span class="en"><b><i>IntervalCoach</i></b> is a simple, easy-to-use interval timer.</span><span class="de"><b><i>IntervalCoach</i></b> ist ein einfacher, benutzerfreundlicher Intervall-Timer.</span></div>
+      <div class="logoTitle"><a href="IntervalCoach/index.html">IntervalCoach</a></div>
+      <a href="IntervalCoach/index.html">Getting Started</a>
+      <div class="logoDescription"><span class="en"><a href="IntervalCoach/index.html"><b><i>IntervalCoach</i></b></a> is a simple, easy-to-use interval timer.</span><span class="de"><a href="IntervalCoach/index.html"><b><i>IntervalCoach</i></b></a> ist ein einfacher, benutzerfreundlicher Intervall-Timer.</span></div>
     </div>
   </div>
 </div>
