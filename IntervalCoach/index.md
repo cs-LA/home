@@ -19,6 +19,11 @@
 <p><span class="en">It allows you to control all your HIIT and Tabata workouts by just setting the length of an intensive and a relaxed time interval.<br>Combined with the number of interval repetitions you can start your training.</span><span class="de">Kontrolliere alle Deine HIIT- und Tabata-Trainingseinheiten ganz einfach durch Festlegung der Länge eines intensiven und eines entspannten Zeitintervalls.<br>Kombiniert mit der Anzahl der Intervallwiederholungen kann das Training losgehen.</span></p>
 <p><span class="en">The training will always start with an relaxed period to give you the chance to prepare yourself.</span><span class="de">Das Training beginnt immer mit einer entspannten Phase, um sich vorbereiten zu können.</span></p>
 
+<p class="hint">
+  <span class="en">If you have any ideas or concerns, please <b><a href="mailto:cl.schuetzdeller@icloud.com">contact me</a></b>.</span>
+  <span class="de">Wenn du irgendwelche Ideen oder Probleme bei der Nutzung hast, <b><a href="mailto:cl.schuetzdeller@icloud.com">kontaktiere mich</a></b> bitte.</span> 
+</p>
+
 <h3>
   <span class="de">Datenschutz-Richtlinie</span>
   <span class="en">Privacy Policy</span>
