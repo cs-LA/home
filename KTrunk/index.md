@@ -6,7 +6,10 @@
     <div class="vCentered">
       <div class="logoTitle">KTrunk</div>
     </div>
-    <div class="logoDescription"><span class="en">Available in <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span><span class="de">Verfügbar im <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span> </div>
+    <div class="logoDescription">
+      <span class="en">Available in <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
+      <span class="de">Verfügbar im <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
+    </div>
   </div>
 </div>
 
