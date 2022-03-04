@@ -50,6 +50,7 @@
   <span class="en">Available in <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
   <span class="de">Verfügbar im <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span> 
 </p>
+
 <div class="logoRow">
   <div class="logoColumn logoColumnLeft">
     <img src="IntervalCoach/logo120.png">
@@ -61,7 +62,6 @@
     </div>
   </div>
 </div>
-
 <p class="hint">
   <span class="en">Available in <b><a href="https://apps.apple.com/de/app/intervalcoach/id1612119055">AppStore</a></b>!</span>
   <span class="de">Verfügbar im <b><a href="https://apps.apple.com/de/app/intervalcoach/id1612119055">AppStore</a></b>!</span> 
