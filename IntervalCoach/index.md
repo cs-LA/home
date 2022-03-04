@@ -19,4 +19,15 @@
 <p><span class="en">It allows you to control all your HIIT and Tabata workouts by just setting the length of an intensive and a relaxed time interval.<br>Combined with the number of interval repetitions you can start your training.</span><span class="de">Kontrolliere alle Deine HIIT- und Tabata-Trainingseinheiten ganz einfach durch Festlegung der Länge eines intensiven und eines entspannten Zeitintervalls.<br>Kombiniert mit der Anzahl der Intervallwiederholungen kann das Training losgehen.</span></p>
 <p><span class="en">The training will always start with an relaxed period to give you the chance to prepare yourself.</span><span class="de">Das Training beginnt immer mit einer entspannten Phase, um sich vorbereiten zu können.</span></p>
 
+<h4>
+  <span class="de">Datenschutz-Richtlinie</span>
+  <span class="en">Privacy Policy</span>
+</h4>
+
+<span class="en">IntervalCoach is privacy focused. IntervalCoach does not collect any usage data or analytics information. None of your data in IntervalCoach ever leaves your devices.</span>
+<span class="de">IntervalCoach legt Wert auf die Privatsphäre. IntervalCoach sammelt weder Daten noch analytische Informationen. Keinerlei IntervalCoach-Daten verlassen das genutzte Gerät.</span>
+
+<span class="en">I myself have no access to any of your data in the app.</span>
+<span class="de">Ich selber habe keinen Zugriff auf die Daten innerhalb der App .</span>
+
 <h3>&nbsp;</h3>
