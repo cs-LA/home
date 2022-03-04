@@ -50,3 +50,14 @@
   <span class="en">Available in <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
   <span class="de">Verfügbar im <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span> 
 </p>
+<div class="logoRow">
+  <div class="logoColumn logoColumnLeft">
+    
+  </div>
+  <div class="logoColumn logoColumnRight">
+    <div class="vCentered">
+      <div class="logoTitle">IntervalCoach</div>
+      <div class="logoDescription"><span class="en"><b><i>IntervalCoach</i></b></span><span class="de"><b><i>IntervalCoach</i></b></span></div>
+    </div>
+  </div>
+</div>
