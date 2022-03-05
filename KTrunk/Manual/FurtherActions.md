@@ -12,7 +12,7 @@
 </div>
 <h1>
   <span class="en">Further actions</span>
-  <span class="de">Weitere Aktionen.</span>
+  <span class="de">Weitere Aktionen</span>
 </h1>
 <p>
   <span class="en">Here you find additional actions that you can perform. These actions are dependent on the current document type. Most of them are self-explanatory.</span>
