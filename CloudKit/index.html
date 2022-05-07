@@ -28,13 +28,128 @@
     <span id="username"></span><br><br>
 <!--     <button type="button" onclick="readQuery()">Get Table</button>
  -->    
-  <script src="js/init.js"></script>
-  <script src="js/cloudkit-code-samples/authentication.js"></script>
+  <script>
+      CKCatalog.init = function() {
+  try {
+
+    // Configure CloudKit for your app.
+    CloudKit.configure({
+      containers: [{
+
+        // Change this to a container identifier you own.
+        containerIdentifier: 'iCloud.computer.perma-cloud',
+
+        // And generate an API token through CloudKit Dashboard.
+        apiToken: '81ba8c7f88736ce19abe519911286ff08152119dbff0d18527c0a4277a8f67d8',
+
+        auth: {
+          buttonSize: 'medium',
+          persist: true // Sets a cookie.
+        },
+        environment: 'development'
+      }]
+    });
+
+
+
+    var failAuth = function() {
+      var span = document.getElementById('username');
+      span.textContent = 'Authentication Failed';
+    };
+
+    // Try to run the authentication code.
+    try {
+      CKCatalog.tabs['authentication'][0].sampleCode().catch(failAuth);
+    } catch (e) {
+      failAuth();
+    }
+  } catch (e) {
+    CKCatalog.dialog.showError(e);
+  }
+};
+    </script>
+  <script>
+    CKCatalog.tabs['authentication'] = (function() {
+
+  var displayUserName = function(name) {
+    var userNameEl = document.getElementById('username');
+    userNameEl.textContent = name;
+    var displayedUserName = document.getElementById('displayed-username');
+    if(displayedUserName) {
+      displayedUserName.textContent = name;
+    }
+  };
+
+  var createButtonContainersHTML = function() {
+    return '<div>'+
+      '<h2 id="displayed-username"></h2>'+
+      '<div id="apple-sign-in-button"></div>'+
+      '<div id="apple-sign-out-button"></div>'+
+    '</div>';
+  };
+
+  var authSample = {
+    run: function() {
+      var content = this.content;
+      content.innerHTML = createButtonContainersHTML();
+      return this.sampleCode().then(function() {
+        return content.firstChild;
+      });
+    },
+    sampleCode: function demoSetUpAuth() {
+
+      // Get the container.
+      var container = CloudKit.getDefaultContainer();
+
+      function gotoAuthenticatedState(userInfo) {
+        if(userInfo.isDiscoverable) {
+          displayUserName(userInfo.firstName + ' ' + userInfo.lastName);
+          console.log("igh")
+          window.location.href = 'table.html';
+
+        } else {
+          displayUserName('User record name: ' + userInfo.userRecordName);
+          console.log("igh")
+          window.location.href = 'table.html';
+        }
+        container
+          .whenUserSignsOut()
+          .then(gotoUnauthenticatedState);
+      }
+      function gotoUnauthenticatedState() {
+        displayUserName('Unauthenticated User');
+        container
+          .whenUserSignsIn()
+          .then(gotoAuthenticatedState)
+          .catch(gotoUnauthenticatedState);
+
+      }
+
+      // Check a user is signed in and render the appropriate button.
+      return container.setUpAuth()
+        .then(function(userInfo) {
+
+          // Either a sign-in or a sign-out button was added to the DOM.
+
+          // userInfo is the signed-in user or null.
+          if(userInfo) {
+            gotoAuthenticatedState(userInfo);
+          } else {
+            gotoUnauthenticatedState();
+          }
+        });
+    }
+  };
+        
+  return [ authSample ];
+
+})();
+    </script>
     
     <script>
         window.addEventListener('cloudkitloaded',CKCatalog.init);
     </script>
-    <script async src="https://cdn.apple-cloudkit.com/ck/1/cloudkit.js"></script>
+    <script async src="https://cdn.apple-cloudkit.com/ck/2/cloudkit.js"></script>
 
 </body>
 </html>
