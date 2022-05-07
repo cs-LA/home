@@ -11,7 +11,36 @@
     <h1>csCloudKit</h1>
     <p>1
     </p>
+    <script>
+  CloudKit.configure({
+  locale: 'en-us',
 
+  containers: [{
+
+    // Change this to a container identifier you own.
+    containerIdentifier: 'com.example.apple-samplecode.cloudkit-catalog',
+
+    apiTokenAuth: {
+      // And generate a web token through CloudKit Dashboard.
+      apiToken: '<insert your token here>',
+
+      persist: true, // Sets a cookie.
+
+      signInButton: {
+        id: 'apple-sign-in-button',
+        theme: 'black' // Other options: 'white', 'white-with-outline'.
+      },
+
+      signOutButton: {
+        id: 'apple-sign-out-button',
+        theme: 'black'
+      }
+    },
+
+    environment: 'development'
+  }]
+});
+    </script>
   
   </body>
 </html>
