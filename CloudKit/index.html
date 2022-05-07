@@ -1,87 +1,40 @@
 <!DOCTYPE html>
-<html lang='de'>
-  
-  <head>
-    <meta charset='UTF-8'>
-    <title>csCloudKit</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
-    <script src="https://cdn.apple-cloudkit.com/ck/2/cloudkit.js"></script>
-  </head>
-  <body>
-    <h1>csCloudKit</h1>
-    <p>4
-    </p>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>csCloudKit1</title>
+    <link rel="stylesheet" href="css/cloudkit-catalog.css">
+</head>
+<body>
+
     <script>
-  CloudKit.configure({
-    containers: [{
-
-    // Change this to a container identifier you own.
-    containerIdentifier: 'iCloud.io.startway.CloudKitCatalog',
-
-    apiTokenAuth: {
-        // And generate a web token through CloudKit Dashboard.
-        apiToken: '<Insert your API Token here>',
-
-        persist: true, // Sets a cookie.
-        
-        signInButton: {
-        id: 'apple-sign-in-button',
-        theme: 'black' // Other options: 'white', 'white-with-outline'.
-        },
-
-        signOutButton: {
-        id: 'apple-sign-out-button',
-        theme: 'black'
+        /*
+         * Initialize the global objects we will need.
+         */
+        if(typeof CKCatalog === 'undefined') {
+            CKCatalog = {};
         }
-    },
 
-    environment: 'development'
-    }]
-});
-      function demoSetUpAuth() {
-
-  // Get the container.
-  var container = CloudKit.getDefaultContainer();
-
-  function gotoAuthenticatedState(userIdentity) {
-    var name = userIdentity.nameComponents;
-    if(name) {
-      displayUserName(name.givenName + ' ' + name.familyName);
-    } else {
-      displayUserName('User record name: ' + userIdentity.userRecordName);
-    }
-    container
-      .whenUserSignsOut()
-      .then(gotoUnauthenticatedState);
-  }
-  function gotoUnauthenticatedState(error) {
-
-    if(error && error.ckErrorCode === 'AUTH_PERSIST_ERROR') {
-      showDialogForPersistError();
-    }
-
-    displayUserName('Unauthenticated (Please Login First)');
-    container
-      .whenUserSignsIn()
-      .then(gotoAuthenticatedState)
-      .catch(gotoUnauthenticatedState);
-  }
-
-  // Check a user is signed in and render the appropriate button.
-  return container.setUpAuth()
-    .then(function(userIdentity) {
-
-      // Either a sign-in or a sign-out button was added to the DOM.
-
-      // userIdentity is the signed-in user or null.
-      if(userIdentity) {
-        gotoAuthenticatedState(userIdentity);
-      } else {
-        gotoUnauthenticatedState();
-      }
-    });
-}
+        if(typeof CKCatalog.tabs === 'undefined') {
+            CKCatalog.tabs = {
+                'readme': [{}],
+                'not-found': [{}]
+            };
+        }
+   </script>
+    
+    <div id="apple-sign-in-button"></div>
+    <div id="apple-sign-out-button"></div><br>
+    <span id="username"></span><br><br>
+<!--     <button type="button" onclick="readQuery()">Get Table</button>
+ -->    
+  <script src="js/init.js"></script>
+  <script src="js/cloudkit-code-samples/authentication.js"></script>
+    
+    <script>
+        window.addEventListener('cloudkitloaded',CKCatalog.init);
     </script>
-  
-  </body>
+    <script async src="https://cdn.apple-cloudkit.com/ck/1/cloudkit.js"></script>
+
+</body>
 </html>
