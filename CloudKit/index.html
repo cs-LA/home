@@ -13,32 +13,30 @@
     </p>
     <script>
   CloudKit.configure({
-  locale: 'en-us',
-
-  containers: [{
+    containers: [{
 
     // Change this to a container identifier you own.
-    containerIdentifier: 'com.example.apple-samplecode.cloudkit-catalog',
+    containerIdentifier: 'iCloud.io.startway.CloudKitCatalog',
 
     apiTokenAuth: {
-      // And generate a web token through CloudKit Dashboard.
-      apiToken: '<insert your token here>',
+        // And generate a web token through CloudKit Dashboard.
+        apiToken: '<Insert your API Token here>',
 
-      persist: true, // Sets a cookie.
-
-      signInButton: {
+        persist: true, // Sets a cookie.
+        
+        signInButton: {
         id: 'apple-sign-in-button',
         theme: 'black' // Other options: 'white', 'white-with-outline'.
-      },
+        },
 
-      signOutButton: {
+        signOutButton: {
         id: 'apple-sign-out-button',
         theme: 'black'
-      }
+        }
     },
 
     environment: 'development'
-  }]
+    }]
 });
     </script>
   
