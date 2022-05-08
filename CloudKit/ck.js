@@ -1,4 +1,5 @@
-var container = "ckContainer?"
+var ckContainer = ""
+
 console.log("initializing ...");
 window.addEventListener('cloudkitloaded', function() {
   console.log("cloudkit loaded")
@@ -21,6 +22,10 @@ console.log("waiting for cloudkit ...")
 
 
 function ckContainer() {
-  console.log("ckContainer()" + container)
   document.getElementById("ck-container").innerHTML = container.containerIdentifier
 }
+
+function ckContainer() {
+  document.getElementById("ck-database").innerHTML = container.publicCloudDatabase
+}
+
