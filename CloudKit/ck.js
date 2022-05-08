@@ -15,7 +15,7 @@ window.addEventListener('cloudkitloaded', function() {
   var container = CloudKit.getDefaultContainer()
   console.log("cloudkit container established: " + container)
   
-  ckContainer()
+  call ckContainer()
 })
 console.log("waiting for cloudkit ...")
 
