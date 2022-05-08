@@ -49,7 +49,7 @@ function ckDatabase() {
       var records = response.records
       var numberOfRecords = records.length
       document.getElementById("ck-recordcount").innerHTML = numberOfRecords
-  /*})*/
-}
+    })
+  /*}*/
 }
 
