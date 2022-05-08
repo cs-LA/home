@@ -16,4 +16,9 @@ window.addEventListener('cloudkitloaded', function() {
   console.log("cloudkit container established: " + container)
   document.getElementById("ck-container").innerHTML = "<h2>CloudKit-Container: " + container + "</h2>"
 })
-console.log("waiting for cloudkit ...");
+console.log("waiting for cloudkit ...")
+
+
+function ckContainer() {
+  return "ckContainer"
+}
