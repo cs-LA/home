@@ -20,5 +20,6 @@ console.log("waiting for cloudkit ...")
 
 
 function ckContainer() {
+  console.log("ckContaine()")
   return "ckContainer"
 }
