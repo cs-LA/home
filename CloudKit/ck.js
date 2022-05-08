@@ -28,7 +28,7 @@ function ckIdentifier() {
 }
 
 function ckEnvironment() {
-  document.getElementById("ck-environment").innerHTML = ckContainer.containerEnvironment
+  document.getElementById("ck-environment").innerHTML = ckContainer.environment
 }
 
 function ckDatabase() {
