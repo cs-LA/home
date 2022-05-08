@@ -1,4 +1,3 @@
-
 console.log("waiting for cloudkit");
 window.addEventListener('cloudkitloaded', function() {
   console.log("cloudkit loaded")
@@ -16,3 +15,4 @@ window.addEventListener('cloudkitloaded', function() {
   console.log("cloudkit container established")
   return "<h2>CloudKit-Container: </h2>"
 })
+return "<h2>CloudKit-Container: </h2>"
