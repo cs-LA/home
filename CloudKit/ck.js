@@ -27,7 +27,24 @@ function ckIdentifier() {
 }
 
 function ckDatabase() {
-  console.log("ckDB1")
-  document.getElementById("ck-database").innerHTML = ckContainer.publicCloudDatabase.databaseScope
+  var ckDB = ckContainer.publicCloudDatabase
+  document.getElementById("ck-database").innerHTML = ckDB.databaseScope
+  
+  self.fetchRecords = function() {
+    console.log("fetching records from " + ckDB)
+    var query = { recordType: 'Acronym', sortBy: [{ fieldName: 'short'}] };
+  
+    return ckDB.performQuery(query).then(function(response) {
+      if(response.hasErrors) {
+        console.error(response.errors[0])
+        document.getElementById("ck-recordcount").innerHTML = -1
+        return
+      }
+      
+      var records = response.records
+      var numberOfRecords = records.length
+      document.getElementById("ck-recordcount").innerHTML = numberOfRecords
+  });
+}
 }
 
