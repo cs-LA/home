@@ -15,4 +15,5 @@ window.addEventListener('cloudkitloaded', function() {
   console.log("cloudkit container established")
   return "<h2>CloudKit-Container: </h2>"
 })
+console.log("done ???");
 return "<h2>CloudKit-Container: </h2>"
