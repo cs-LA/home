@@ -27,6 +27,6 @@ function ckIdentifier() {
 }
 
 function ckDatabase() {
-  document.getElementById("ck-database").innerHTML = ckContainer.publicCloudDatabase
+  document.getElementById("ck-database").innerHTML = ckContainer.publicCloudDatabase.scope
 }
 
