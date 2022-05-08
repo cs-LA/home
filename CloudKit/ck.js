@@ -20,6 +20,6 @@ console.log("waiting for cloudkit ...")
 
 
 function ckContainer() {
-  console.log("ckContaine()")
-  return "ckContainer: " + container.containerIdentifier
+  console.log("ckContainer()" + container)
+  document.getElementById("ck-container").innerHTML = "CloudKit-Container: " + container.containerIdentifier
 }
