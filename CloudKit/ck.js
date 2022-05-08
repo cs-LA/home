@@ -28,6 +28,6 @@ function ckIdentifier() {
 
 function ckDatabase() {
   console.log("ckDB1")
-  document.getElementById("ck-database").innerHTML = ckContainer.publicCloudDatabase
+  document.getElementById("ck-database").innerHTML = ckContainer.publicCloudDatabase.databaseScope
 }
 
