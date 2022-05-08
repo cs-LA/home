@@ -17,6 +17,7 @@ window.addEventListener('cloudkitloaded', function() {
   console.log("cloudkit container established: " + ckContainer)
   
   ckIdentifier()
+  ckEnvironment()
   ckDatabase()
 })
 console.log("waiting for cloudkit ...")
@@ -24,6 +25,10 @@ console.log("waiting for cloudkit ...")
 
 function ckIdentifier() {
   document.getElementById("ck-container").innerHTML = ckContainer.containerIdentifier
+}
+
+function ckEnvironment() {
+  document.getElementById("ck-environment").innerHTML = ckContainer.containerEnvironment
 }
 
 function ckDatabase() {
