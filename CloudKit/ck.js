@@ -13,19 +13,20 @@ window.addEventListener('cloudkitloaded', function() {
   console.log("cloudkit configured")
   
   var self = this
-  container = CloudKit.getDefaultContainer()
-  console.log("cloudkit container established: " + container)
+  ckContainer = CloudKit.getDefaultContainer()
+  console.log("cloudkit container established: " + ckContainer)
   
-  ckContainer()
+  ckIdentifier()
+  ckDatabase()
 })
 console.log("waiting for cloudkit ...")
 
 
-function ckContainer() {
-  document.getElementById("ck-container").innerHTML = container.containerIdentifier
+function ckIdentifier() {
+  document.getElementById("ck-container").innerHTML = ckContainer.containerIdentifier
 }
 
-function ckContainer() {
-  document.getElementById("ck-database").innerHTML = container.publicCloudDatabase
+function ckDatabase() {
+  document.getElementById("ck-database").innerHTML = ckContainer.publicCloudDatabase
 }
 
