@@ -1,3 +1,4 @@
+var container = "ckContainer?"
 console.log("waiting for cloudkit");
 window.addEventListener('cloudkitloaded', function() {
   console.log("cloudkit loaded")
@@ -12,8 +13,8 @@ window.addEventListener('cloudkitloaded', function() {
   
   var self = this
   var container = CloudKit.getDefaultContainer()
-  console.log("cloudkit container established")
-  return "<h2>CloudKit-Container: </h2>"
+  console.log("cloudkit container established: " + container)
+  document.getElementById("ck-container").innerHTML = "<h2>CloudKit-Container: " + container + "</h2>"
 })
 console.log("done ???");
-document.getElementById("ck-container").innerHTML = "<h2>CloudKit-Container: </h2>"
+document.getElementById("ck-container").innerHTML = "<h2>ckContainer: ???</h2>"
