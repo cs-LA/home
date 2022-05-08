@@ -16,4 +16,4 @@ window.addEventListener('cloudkitloaded', function() {
   return "<h2>CloudKit-Container: </h2>"
 })
 console.log("done ???");
-return "<h2>CloudKit-Container: </h2>"
+document.getElementById("ckContainer").innerHTML = "<h2>CloudKit-Container: </h2>"
