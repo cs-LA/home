@@ -30,7 +30,7 @@ function ckDatabase() {
   var ckDB = ckContainer.publicCloudDatabase
   document.getElementById("ck-database").innerHTML = ckDB.databaseScope
   
-  self.fetchRecords = function() {
+  /*self.fetchRecords = function() {*/
     console.log("fetching records from " + ckDB)
     var query = { recordType: 'Acronym', sortBy: [{ fieldName: 'short'}] };
   
@@ -44,7 +44,7 @@ function ckDatabase() {
       var records = response.records
       var numberOfRecords = records.length
       document.getElementById("ck-recordcount").innerHTML = numberOfRecords
-  });
+  /*})*/
 }
 }
 
