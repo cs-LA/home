@@ -2,11 +2,12 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>CloudKit Catalog V1</title>
+  <title>csCloudKit</title>
 	<meta name="description" content="CloudKit"/>
 </head>
 <body>
-	<h1>CloudKit Staistics<br><span id="ck-container"></span></h1>
+	<h1>CloudKit Staistics<h1>
+	<h2 id="ck-container"></h2>
   <h4>Environment: <span id="ck-environment"></span><br>Database: <span id="ck-database"></span></h4>
   
   <!--
@@ -148,29 +149,29 @@
   	  function doQuery(queryOrPreviousResponse, options) {
     	  return database.performQuery(queryOrPreviousResponse, options).then(function(response) {
 		  
-		  	if (cancelled) {
-		    	document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).innerHTML = -1
-		      document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.color = "red"
-				  //throw CloudKit.CKError.TRY_AGAIN_LATER
-				  return -1
-		  	}
+			  	if (cancelled) {
+			    	document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).innerHTML = -1
+			      document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.color = "red"
+					  //throw CloudKit.CKError.TRY_AGAIN_LATER
+					  return -1
+			  	}
 		  
-			  count = count + response.records.length
-			  console.log(query.recordType + "-" + query.filterBy[0].fieldValue.value + " ---> " + count)
-			  document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).innerHTML = count
-	    	document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.color = "orange"
+				  count = count + response.records.length
+				  console.log(query.recordType + "-" + query.filterBy[0].fieldValue.value + " ---> " + count)
+				  document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).innerHTML = count
+	    		document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.color = "orange"
 
-	      if (response.moreComing) { return doQuery(response) }
+		      if (response.moreComing) { return doQuery(response) }
 
-		    document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.color = "green"
-			  document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.fontWeight = "bold"
+			    document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.color = "green"
+				  document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.fontWeight = "bold"
 		  
-      	return count
-      })
-    }
+      		return count
+      	})
+    	}
 	  
-    return doQuery(query, options)
-  }
+    	return doQuery(query, options)
+  	}
 	
   </script>
 </body>
