@@ -1,169 +1,176 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="UTF-8">
-    <title>CloudKit Catalog V1</title>
-    <meta name="description" content="CloudKit JS V1"/>
+  <meta charset="UTF-8">
+  <title>CloudKit Catalog V1</title>
+	<meta name="description" content="CloudKit"/>
 </head>
 <body>
-  <h1>csCloudKit V1</h1>
-  
-  <div id="apple-sign-in-button"></div>
-  <div id="apple-sign-out-button"></div><br>
-  <span id="username"></span><br><br>
-
-  
-  <h3>CloudKit-Container: <span id="ck-container"></span></h3>
-  <h4>Environment: <span id="ck-environment"></span></h4>
-  <h4>Database: <span id="ck-database"></span></h4>
+	<h1>CloudKit Staistics<br><span id="ck-container"></span></h1>
+  <h4>Environment: <span id="ck-environment"></span><br>Database: <span id="ck-database"></span></h4>
   
   <!--
-  <button id="start" onclick="start()" disabled>Start!</button>
-  <button id="cancel" onclick="cancel()">Cancel!</button>
+    <button id="start" onclick="start()" disabled>Start!</button>
+    <button id="cancel" onclick="cancel()">Cancel!</button>
     -->
 	
   <h4>Record-Count:</h4>
   <ul>
-    <li>Notes: 
+		<li><b>Notes:</b> 
 	  <span id="CD_Document-ktnote" style="color: red">-1</span> 
 	  (<span id="CD_Index-ktnote" style="color: red">-1</span>)
 	</li>
-    <li>Files: 
+		<li><b>Files:</b> 
 	  <span id="CD_Document-ktfile" style="color: red">-1</span> 
 	  (<span id="CD_Index-ktfile" style="color: red">-1</span>)
 	</li>
   </ul>
 
+  <div id="apple-sign-in-button"></div>
+	<!--
+  	<div id="apple-sign-out-button"></div><br>
+  	<span id="username"></span><br><br>
+  	-->
+  <h4><div id="reload-info"></div></h4>
+  
 
   
   <script src="https://cdn.apple-cloudkit.com/ck/2/cloudkit.js" async></script>
+	
   <script>
 
-	window.addEventListener('cloudkitloaded', function() {
-	  CloudKit.configure({
-    	containers: [{
-	      containerIdentifier: 'iCloud.io.github.cs-la.KTrunk',
-		  apiTokenAuth: {
-		    apiToken: '02eca03932a1420b0b4ca87f3c2a5493e8d0328ea09983543887307d6ba5d429',
-		    //persist: true, // Sets a cookie.
-		    signInButton: {
-			  id: 'apple-sign-in-button',
-			  theme: 'white-with-outline' // Other options: 'white', 'black'.
-		    },
-		    signOutButton: {
-		  	  id: 'apple-sign-out-button',
-			  theme: 'white-with-outline'
-		    }
-		  },
-	      environment: 'production'
-	    }]
-	  })
+		window.addEventListener('cloudkitloaded', function() {
+	  	CloudKit.configure( {
+    		containers: [{
+	      	containerIdentifier: 'iCloud.io.github.cs-la.KTrunk',
+			  	apiTokenAuth: {
+			    	apiToken: '02eca03932a1420b0b4ca87f3c2a5493e8d0328ea09983543887307d6ba5d429',
+			    	//persist: true, // Sets a cookie.
+		  	  	signInButton: {
+			  		id: 'apple-sign-in-button',
+			  		theme: 'white-with-outline' // Other options: 'white', 'black'.
+			    },
+			    signOutButton: {
+			  	  id: 'apple-sign-out-button',
+				  	theme: 'white-with-outline'
+		    	}
+			  },
+		      environment: 'production'
+	  	  }]
+		  })
 	
-	  container = CloudKit.getDefaultContainer()
-	  database = container.privateCloudDatabase
+		  container = CloudKit.getDefaultContainer()
+	  	database = container.privateCloudDatabase
 	  
-	  document.getElementById("ck-container").innerHTML = container.containerIdentifier
-	  document.getElementById("ck-environment").innerHTML = container.environment
-	  document.getElementById("ck-database").innerHTML = database.databaseScope
+		  document.getElementById("ck-container").innerHTML = container.containerIdentifier
+		  document.getElementById("ck-environment").innerHTML = container.environment
+	  	document.getElementById("ck-database").innerHTML = database.databaseScope
 	  
 
-	  container.setUpAuth().then(function(userIdentity) {
-		if(userIdentity) { console.log("[OK] " + userIdentity.userRecordName +" logged in :-)") }
-		else { console.log("[OOOPS] not logged in :-(") }
-	  })
+		  container.setUpAuth()
+			.then ( function(userIdentity) {
+				if (userIdentity) { console.log("[OK] " + userIdentity.userRecordName +" logged in :-)") }
+				else { console.log("[OOOPS] not logged in :-(") }
+		  })
 	  
-	  container.whenUserSignsIn().then(function(userIdentity) {
-		console.log("[OK] " + userIdentity.userRecordName +" logged in :-)")
-		//document.getElementById("start").disabled = false
-		start()
-      })
-    })
-	
-	//abortController = new AbortController()
-
-	
-	function start() {
-	  //document.getElementById("start").disabled = true
-	  //abortController = new AbortController()
-
-	  console.log("fetching records from " + database)
-      countRecords(database, { 
-		recordType: 'CD_Document', 
-		filterBy: [
-		  { fieldName: 'CD_scheme', comparator: 'EQUALS', fieldValue: {value: 'ktnote' } }
-		] 
-	  }).then(function(response) { 
-        countRecords(database, { 
-		  recordType: 'CD_Document', 
-		  filterBy: [
-		    { fieldName: 'CD_scheme', comparator: 'EQUALS', fieldValue: {value: 'ktfile' } }
-		  ] 
-	    }).then(function(response) { 
-          countRecords(database, { 
-		    recordType: 'CD_Index', 
-		    filterBy: [
-		      { fieldName: 'CD_docType', comparator: 'EQUALS', fieldValue: {value: 'ktnote' } }
-		    ] 
-	      }).then(function(response) { 
-            countRecords(database, { 
-		      recordType: 'CD_Index', 
-		      filterBy: [
-		        { fieldName: 'CD_docType', comparator: 'EQUALS', fieldValue: {value: 'ktfile' } }
-		      ] 
-	        })
-	      })
+		  container.whenUserSignsIn()
+			.then ( function(userIdentity) {
+				console.log("[OK] " + userIdentity.userRecordName +" logged in :-)")
+				document.getElementById("reload-info").innerHTML = "Reload this page to restart the counting."
+				//document.getElementById("start").disabled = false
+			
+				start()
 	    })
-	  })
-	  
-	}
+  	})
+	
+		//abortController = new AbortController()
 
-	function cancel() {
-	  console.log("cancel !!!")
-	  //abortController.abort()
-      //document.getElementById("start").disabled = false
-	}
+	
+		function start() {
+		  //document.getElementById("start").disabled = true
+		  //abortController = new AbortController()
+
+	  	console.log("fetching records from " + database)
+    
+			countRecords(database, { 
+				recordType: 'CD_Document', 
+				filterBy: [
+		  		{ fieldName: 'CD_scheme', comparator: 'EQUALS', fieldValue: {value: 'ktnote' } }
+				] 
+		  })
+			.then ( function(response) { 
+      	countRecords(database, { 
+			 		recordType: 'CD_Document', 
+			 		filterBy: [
+			   		{ fieldName: 'CD_scheme', comparator: 'EQUALS', fieldValue: {value: 'ktfile' } }
+					] 
+		   	})
+				.then ( function(response) { 
+    	     countRecords(database, { 
+		  	  	recordType: 'CD_Index', 
+		    		filterBy: [
+		      		{ fieldName: 'CD_docType', comparator: 'EQUALS', fieldValue: {value: 'ktnote' } }
+			    	] 
+		    	})
+					.then ( function(response) { 
+      	   	countRecords(database, { 
+		    	 		recordType: 'CD_Index', 
+		      		filterBy: [
+		        		{ fieldName: 'CD_docType', comparator: 'EQUALS', fieldValue: {value: 'ktfile' } }
+			      	] 
+		      	})
+	  	    })
+	    	})
+		  })
+	  
+		}
+
+		function cancel() {
+		  console.log("cancel !!!")
+	  	//abortController.abort()
+	    //document.getElementById("start").disabled = false
+		}
 	
 	
-	function countRecords(database, query) {
-	  options = { zoneWide: true }
-	  cancelled = false
+		function countRecords(database, query) {
+		  options = { zoneWide: true }
+	  	cancelled = false
 	  
-	 // abortController.signal.addEventListener("abort", () => {
-	 //   console.log(query.recordType + "-" + query.filterBy[0].fieldValue.value + " aborted")
-     //   cancelled = true
-     // })
+		  // abortController.signal.addEventListener ("abort", () => {
+		  //   console.log(query.recordType + "-" + query.filterBy[0].fieldValue.value + " aborted")
+    	//   cancelled = true
+	    // })
 
-      count = 0
-      document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).innerHTML = count
-	  document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.color = "orange"
+  	  count = 0
+    	document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).innerHTML = count
+		  document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.color = "orange"
 	  
-      function doQuery(queryOrPreviousResponse, options) {
-        return database.performQuery(queryOrPreviousResponse, options).then(function(response) {
+  	  function doQuery(queryOrPreviousResponse, options) {
+    	  return database.performQuery(queryOrPreviousResponse, options).then(function(response) {
 		  
-		  if (cancelled) {
-		    document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).innerHTML = -1
-	        document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.color = "red"
-			//throw CloudKit.CKError.TRY_AGAIN_LATER
-			return -1
-		  }
+		  	if (cancelled) {
+		    	document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).innerHTML = -1
+		      document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.color = "red"
+				  //throw CloudKit.CKError.TRY_AGAIN_LATER
+				  return -1
+		  	}
 		  
-		  
-          count = count + response.records.length
-		  console.log(query.recordType + "-" + query.filterBy[0].fieldValue.value + " ---> " + count)
-		  document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).innerHTML = count
-	      document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.color = "orange"
+			  count = count + response.records.length
+			  console.log(query.recordType + "-" + query.filterBy[0].fieldValue.value + " ---> " + count)
+			  document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).innerHTML = count
+	    	document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.color = "orange"
 
-          if(response.moreComing) { return doQuery(response) }
+	      if (response.moreComing) { return doQuery(response) }
 
-	      document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.color = "green"
-		  document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.fontWeight = "bold"
+		    document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.color = "green"
+			  document.getElementById(query.recordType + "-" + query.filterBy[0].fieldValue.value).style.fontWeight = "bold"
 		  
-          return count
-        })
-      }
-	  
-      return doQuery(query, options)
+      	return count
+      })
     }
+	  
+    return doQuery(query, options)
+  }
 	
   </script>
 </body>
