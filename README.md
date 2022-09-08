@@ -41,7 +41,7 @@
 
 $P(A|B)=P(B|A) \frac{P(A)}{P(B)}$
 
-$\sum_{i=1}^n = \frac{n^2+n}{2}$
+$$\sum_{i=1}^n = \frac{n^2+n}{2}$$
 
 $$P(A|B) = P(B|A) \frac{P(A)}{P(B)}$$
 
