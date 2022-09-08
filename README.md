@@ -37,3 +37,11 @@
 </div>
 
 <h3>&nbsp;</h3>
+
+
+$P(A|B) = P(B|A) \; {P(A)}/{P(B)}$
+
+$$P(A|B) = P(B|A) \; {P(A)}/{P(B)}$$
+
+
+<script type="text/javascript" src="https://mathscribe.com/mathscribe/jqmath-etc-0.4.0.min.js"></script>
