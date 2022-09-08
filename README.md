@@ -43,5 +43,5 @@ $P(A|B) = P(B|A) \; {P(A)}/{P(B)}$
 
 $$P(A|B) = P(B|A) \; {P(A)}/{P(B)}$$
 
-
+<rel="stylesheet" type="text/css" href="https://mathscribe.com/mathscribe/jqmath-0.4.0.css">
 <script type="text/javascript" src="https://mathscribe.com/mathscribe/jqmath-etc-0.4.0.min.js"></script>
