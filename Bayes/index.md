@@ -10,9 +10,7 @@ Instead, the `$...$`syntax shoud be used now:
 <center>This sentence uses <code>$</code> delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$ :-) &#128578;</center>
 
 
-Or the `$$...$$`syntax shoud be used now:
-
-<center>you can use an inline formula $$\forall x \in R$$ like this one</center>
+#### Block-Examples:
 
 $$\sum_{i=1}^n = \frac{n^2+n}{2}$$
 
