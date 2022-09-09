@@ -7,11 +7,11 @@ Using mathematical expressions on GitHub pages: https://docs.github.com/en/get-s
 
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$ :-)
 
-Inline $$P(A|B)=P(B|A) \frac{P(A)}{P(B)}$$ mathematics ...
+Inline \(P(A|B)=P(B|A) \frac{P(A)}{P(B)}\) mathematics ...
 
 
 
-$$\sum_{i=1}^n = \frac{n^2+n}{2}$$
+\[sum_{i=1}^n = \frac{n^2+n}{2}\]
 
 $$P(A|B) = P(B|A) \frac{P(A)}{P(B)}$$
 
