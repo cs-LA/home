@@ -9,7 +9,7 @@ Instead, the `$...$`syntax shoud be used now:
 
 <center>This sentence uses <code>$</code> delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$ :-)</center>
 
-$$sum_{i=1}^n = \frac{n^2+n}{2}$$
+$$\sum_{i=1}^n = \frac{n^2+n}{2}$$
 
 $$P(A|B) = P(B|A) \frac{P(A)}{P(B)}$$
 
