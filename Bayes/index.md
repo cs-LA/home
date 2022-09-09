@@ -7,7 +7,7 @@ Using mathematical expressions on GitHub pages: https://docs.github.com/en/get-s
 
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$ :-)
 
-Inline \(P(A|B)=P(B|A) \frac{P(A)}{P(B)}\) mathematics ...
+<p>Inline \(P(A|B)=P(B|A) \frac{P(A)}{P(B)}\) mathematics ...</p>
 
 
 When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
