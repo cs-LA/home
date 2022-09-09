@@ -1,5 +1,10 @@
 # [Satz von Bayes](https://de.wikipedia.org/wiki/Satz_von_Bayes)<br>in zwei Formaten
 
+Der Satz von Bayes gehört zum Teilbereich [Wahrscheinlichkeitsrechnung](./../Wahrscheinlichkeitsrechnung.html) der Mathematik. Ich bin ihm zum ersten Mal begenet, als ich mich mit **künstlicher Intelligenz** beschäftigt habe. Dort wird er benutzt, um Wahrscheinlichkeiten von Ereignissen zu berechnen, nachdem man einige Vorkenntnisse gewonnen hat.
+
+Man kann den Satz auf unterschiedliche Arten darstellen. Die gängigste Darstellugsart benutz bedingte Wahrscheinlichkeiten:
+
+$$P(A|B) = P(B|A) \frac{P(A)}{P(B)}$$
 
 Inline-maths using the `\(...\)` syntax don't work any more as it was re-defined in the `_layouts/default.html`.
 
@@ -14,7 +19,6 @@ Instead, the `$...$`syntax shoud be used now:
 
 $$\sum_{i=1}^n = \frac{n^2+n}{2}$$
 
-$$P(A|B) = P(B|A) \frac{P(A)}{P(B)}$$
 
 $$
 \begin{equation} \label{eq1}
