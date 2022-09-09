@@ -9,7 +9,7 @@ Instead, the `$...$`syntax shoud be used now:
 
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$ :-)
 
-<p>This sentence uses <pre>$</pre> delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$ in a html-element.</p>
+<p>This sentence uses <code>$</code> delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$ in a html-element.</p>
 
 ---
 
