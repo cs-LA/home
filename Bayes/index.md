@@ -1,4 +1,4 @@
-<h1>Satz von Bayes</h1>
+# Satz von Bayes
 
 <h3>in zwei Formaten</h3>
 
