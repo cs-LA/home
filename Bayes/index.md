@@ -1,11 +1,9 @@
-# Satz von Bayes
-
-### <center>in zwei Formaten</center>
-
-Using mathematical expressions on GitHub pages: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
+<h1>Satz von Bayes<br>in zwei Formaten</h1>
 
 
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$ :-)
+
+But inline-maths work only when embedded in an html-element like <code><p></code>.
 
 <p>Inline \(P(A|B)=P(B|A) \frac{P(A)}{P(B)}\) mathematics ...</p>
 
