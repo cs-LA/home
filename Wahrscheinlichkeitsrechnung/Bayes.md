@@ -1,6 +1,6 @@
 # [Satz von Bayes](https://de.wikipedia.org/wiki/Satz_von_Bayes)<br>in zwei Formaten
 
-Der Satz von Bayes gehört zum Teilbereich [Wahrscheinlichkeitsrechnung](./../Wahrscheinlichkeitsrechnung.html) der Mathematik. Ich bin ihm zum ersten Mal begenet, als ich mich mit **künstlicher Intelligenz** beschäftigt habe. Dort wird er benutzt, um Wahrscheinlichkeiten von Ereignissen zu berechnen, nachdem man einige Vorkenntnisse gewonnen hat.
+Der Satz von Bayes gehört zum Teilbereich *[Wahrscheinlichkeitsrechnung](./../Wahrscheinlichkeitsrechnung.html)* der Mathematik. Ich bin ihm zum ersten Mal begenet, als ich mich mit *künstlicher Intelligenz* beschäftigt habe. Dort wird er benutzt, um Wahrscheinlichkeiten von Ereignissen zu berechnen, nachdem man einige Vorkenntnisse gewonnen hat.
 
 Man kann den Satz auf unterschiedliche Arten darstellen. Die gängigste Darstellugsart benutz bedingte Wahrscheinlichkeiten:
 
