@@ -3,7 +3,7 @@
 
 Inline-maths using the `\(...\)` syntax don't work any more as it was re-defined in the `_layouts/default.html`.
 
-<p align=center>Inline \(P(A|B)=P(B|A) \frac{P(A)}{P(B)}\) mathematics ...</p>
+<p align=center>Inline \(P(A|B)=P(B|A) \frac{P(A)}{P(B)}\) mathematics :-(</p>
 
 Instead, the `$...$`syntax shoud be used now:
 
