@@ -19,8 +19,12 @@ Gegeben seien 20 durchnummerierte Kugeln, von den 8 rot und 12 schwarz sind. Die
 Nun verrät uns jemand (bzw. haben wir herausgefunden), das von den roten geraden Kugel 6 rot sind, von den ungeraden Kugeln also nur 2. Somit haben wir:
 
 $$
-P(R|G) = 0,6 \\
-P(R|U) = 0,2
+\begin{equation}
+\begin{split}
+P(R|G) & = 0,6 \\
+P(R|U) & = 0,2
+\end{split}
+\end{equation}
 $$
 
 Ziehen wir nun aus den 20 Kugeln eine beliebige Kugel und wir stellen fest, dass sie rot ist. Wie hoch ist dann die Wahrscheinlichkeit, dass es eine gerade Kugel ist? Hier hilft der Satz von Bayes:
