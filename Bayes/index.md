@@ -7,14 +7,11 @@ Inline-maths using the `\(...\)` syntax don't work any more as it was re-defined
 
 Instead, the `$...$`syntax shoud be used now:
 
-<center>This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$ :-)</center>
-
-<p>This sentence uses <code>$</code> (code!) delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$ in a html-element.</p>
+<center>This sentence uses <code>$</code> delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$ :-)</center>
 
 $$sum_{i=1}^n = \frac{n^2+n}{2}$$
 
 $$P(A|B) = P(B|A) \frac{P(A)}{P(B)}$$
-
 
 $$
 \begin{equation} \label{eq1}
