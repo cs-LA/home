@@ -3,7 +3,7 @@
 
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$ :-)
 
-But inline-maths work only when embedded in an html-element like `\<p\>`.
+But inline-maths work only when embedded in an html-element like `<p>`.
 
 <p>Inline \(P(A|B)=P(B|A) \frac{P(A)}{P(B)}\) mathematics ...</p>
 
