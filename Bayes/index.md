@@ -2,7 +2,7 @@
 
 <h3  align="center">in zwei Formaten</h3>
 
-### <centered>centered</centeres>
+### <center>center</center>
 
 none
 
