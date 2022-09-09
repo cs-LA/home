@@ -10,7 +10,7 @@ Für eine (disjunkte) Zerlegung des Ergebnisraums in $A$ und das Komplement $A^c
 
 $$P(A|B) = P(B|A) ~ \frac{P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}$$
 
-
+Für einen Beweis hierfür sei auf [Wikipedia](https://de.wikipedia.org/wiki/Satz_von_Bayes) verwiesen.
 
 
 
