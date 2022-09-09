@@ -3,11 +3,11 @@
 
 Inline-maths using the `\(...\)` syntax don't work any more as it was re-defined in the `_layouts/default.html`.
 
-<p align=center>Inline \(P(A|B)=P(B|A) \frac{P(A)}{P(B)}\) mathematics :-(</p>
+<p align=center>Inline \(P(A|B)=P(B|A) \frac{P(A)}{P(B)}\) mathematics :-( &#128577;</p>
 
 Instead, the `$...$`syntax shoud be used now:
 
-<center>This sentence uses <code>$</code> delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$ :-)</center>
+<center>This sentence uses <code>$</code> delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$ :-) &#128578;</center>
 
 
 Or the `$$...$$`syntax shoud be used now:
