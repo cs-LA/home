@@ -38,4 +38,4 @@
 
 <h3>&nbsp;</h3>
 
-$P(A|B)=P(B|A) \frac{P(A)}{P(B)}$
+[Wahrsch](Wahrscheinlichkeitsrechnung.html)
