@@ -1,5 +1,3 @@
-<h1>Satz von Bayes<br>in zwei Formaten</h1>
-
 # Satz von Bayes<br>in zwei Formaten
 
 
