@@ -6,6 +6,18 @@ Man kann den Satz auf unterschiedliche Arten darstellen. Die gängigste Darstell
 
 $$P(A|B) = P(B|A) ~ \frac{P(A)}{P(B)}$$
 
+Dies gilt insbesondere auch wenn $B$ das Komplement $A^c$ von $A$ ist:
+
+$$P(A|B) = P(B|A) ~ \frac{P(A)}{P(B|A)P(A)+PB|A^c)P(A^c)}$$
+
+
+
+
+
+# &nbsp;
+
+---
+
 Inline-maths using the `\(...\)` syntax don't work any more as it was re-defined in the `_layouts/default.html`.
 
 <p align=center>Inline \(P(A|B)=P(B|A) \frac{P(A)}{P(B)}\) mathematics :-( &#128577;</p>
