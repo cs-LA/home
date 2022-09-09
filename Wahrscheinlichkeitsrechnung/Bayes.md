@@ -4,7 +4,7 @@ Der Satz von Bayes gehört zum Teilbereich *[Wahrscheinlichkeitsrechnung](./../W
 
 Man kann den Satz auf unterschiedliche Arten darstellen. Die gängigste Darstellugsart benutzt bedingte Wahrscheinlichkeiten:
 
-$$P(A|B) = P(B|A) \frac{P(A)}{P(B)}$$
+$$P(A|B) = P(B|A) ~ \frac{P(A)}{P(B)}$$
 
 Inline-maths using the `\(...\)` syntax don't work any more as it was re-defined in the `_layouts/default.html`.
 
