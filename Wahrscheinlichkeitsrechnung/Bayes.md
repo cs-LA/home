@@ -12,7 +12,22 @@ $$P(A|B) = P(B|A) ~ \frac{P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}$$
 
 Für einen Beweis hierfür sei auf [Wikipedia](https://de.wikipedia.org/wiki/Satz_von_Bayes) verwiesen.
 
+##### Beispiel1:
 
+Gegeben seien 20 durchnummerierte Kugeln, von den 8 rot und 12 schwarz sind. Die Wahrscheinlichkeit $P(G) eine gerade Kugle zu ziehen ist also $0,5$.
+
+Nun verrät uns jemand (bzw. haben wir herausgefunden), das von den roten geraden Kugel 6 rot sind, von den ungeraden Kugeln also nur 2. Somit haben wir:
+
+$$
+P(R|G) = 0,6
+P(R|U) = 0,2
+$$
+
+Ziehen wir nun aus den 20 Kugeln eine beliebige Kugel und wir stellen fest, dass sie rot ist. Wie hoch ist dann die Wahrscheinlichkeit, dass es eine gerade Kugel ist? Hier hilft der Satz von Bayes:
+
+$$
+P(G|R) = P(R|G) ~ \frac{P(G)}{P(R|G)P(G)+P(R|U)P(U))
+$$
 
 # &nbsp;
 
