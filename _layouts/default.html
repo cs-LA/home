@@ -256,13 +256,14 @@
       }
     </script>
 	  
-    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+	  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+	  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
   </head>
 	
   <body onload="setLanguage()">
 
     <div id="header" class="headerBanner">
-      <div class="headerTitle"><a href="/home">Clemens Schützdellerx</a></div>
+      <div class="headerTitle"><a href="/home">Clemens Schützdeller mj</a></div>
       <div class="headerLanguages" id="headerLanguages">
         <span id="german" onClick="setGerman()">de</span> <span id="debug"></span> <span id="english" onClick="setEnglish()">en</span>
       </div>
