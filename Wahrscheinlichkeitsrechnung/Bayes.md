@@ -6,7 +6,7 @@ Man kann den Satz auf unterschiedliche Arten darstellen. Die gängigste Darstell
 
 $$P(A|B) = P(B|A) ~ \frac{P(A)}{P(B)}$$
 
-Dies gilt insbesondere auch wenn $B$ das Komplement $A^c$ von $A$ ist:
+Für eine (disjunkte) Zerlegung des Ergebnisraums in $A$ und das Komplement $A^c$ von $A$ gilt dann:
 
 $$P(A|B) = P(B|A) ~ \frac{P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}$$
 
