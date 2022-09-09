@@ -1,4 +1,4 @@
-# Satz von Bayes
+# Satz von Bayes md
 
 <h3>in zwei Formaten</h3>
 
