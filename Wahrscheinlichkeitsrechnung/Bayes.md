@@ -2,7 +2,7 @@
 
 Der Satz von Bayes gehört zum Teilbereich *[Wahrscheinlichkeitsrechnung](./../Wahrscheinlichkeitsrechnung.html)* der Mathematik. Ich bin ihm zum ersten Mal begenet, als ich mich mit *künstlicher Intelligenz* beschäftigt habe. Dort wird er benutzt, um Wahrscheinlichkeiten von Ereignissen zu berechnen, nachdem man einige Vorkenntnisse gewonnen hat.
 
-Man kann den Satz auf unterschiedliche Arten darstellen. Die gängigste Darstellugsart benutz bedingte Wahrscheinlichkeiten:
+Man kann den Satz auf unterschiedliche Arten darstellen. Die gängigste Darstellugsart benutzt bedingte Wahrscheinlichkeiten:
 
 $$P(A|B) = P(B|A) \frac{P(A)}{P(B)}$$
 
