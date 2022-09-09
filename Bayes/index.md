@@ -1,4 +1,4 @@
-# Satz von Bayes<br>in zwei Formaten
+# [Satz von Bayes](https://de.wikipedia.org/wiki/Satz_von_Bayes)<br>in zwei Formaten
 
 
 Inline-maths using the `\(...\)` syntax don't work any more as it was re-defined in the `_layouts/default.html`.
