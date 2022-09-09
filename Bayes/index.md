@@ -3,13 +3,15 @@
 # Satz von Bayes<br>in zwei Formaten
 
 
-Inline-maths using the `\(...\)` syntax works only when embedded in an html-element like `<p>`.
+Inline-maths using the `\(...\)` syntax don't work any more as it was re-defined in the `_layouts/default.html`.
 
 <p>Inline \(P(A|B)=P(B|A) \frac{P(A)}{P(B)}\) mathematics ...</p>
 
-Using the `$...$`syntax works in markdown sentences, too.
+Instead, the `$...$`syntax shoud be used now:
 
 This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$ :-)
+
+<p>This sentence uses `$` delimiters to show math inline:  $\sqrt{3x-1}+(1+x)^2$ :-)</p>
 
 ---
 
