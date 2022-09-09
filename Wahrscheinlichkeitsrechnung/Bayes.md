@@ -8,7 +8,7 @@ $$P(A|B) = P(B|A) ~ \frac{P(A)}{P(B)}$$
 
 Dies gilt insbesondere auch wenn $B$ das Komplement $A^c$ von $A$ ist:
 
-$$P(A|B) = P(B|A) ~ \frac{P(A)}{P(B|A)P(A)+PB|A^c)P(A^c)}$$
+$$P(A|B) = P(B|A) ~ \frac{P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}$$
 
 
 
