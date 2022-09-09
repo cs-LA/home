@@ -19,7 +19,7 @@ Gegeben seien 20 durchnummerierte Kugeln, von den 8 rot und 12 schwarz sind. Die
 Nun verrät uns jemand (bzw. haben wir herausgefunden), das von den roten geraden Kugel 6 rot sind, von den ungeraden Kugeln also nur 2. Somit haben wir:
 
 $$
-P(R|G) = 0,6
+P(R|G) = 0,6 \\
 P(R|U) = 0,2
 $$
 
