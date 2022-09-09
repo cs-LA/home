@@ -1,6 +1,6 @@
 # Satz von Bayes md
 
-<h3>in zwei Formaten</h3>
+<h3><center>in zwei Formaten</center></h3>
 
 <p>
 Using mathematical expressions on GitHub pages: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
