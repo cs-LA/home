@@ -32,8 +32,8 @@ Ziehen wir nun aus den 20 Kugeln eine beliebige Kugel und wir stellen fest, dass
 $$
 \begin{equation}
 \begin{split}
-P(G|R) & = P(R|G) ~ \frac{P(G)}{P(R|G)P(G)+P(R|U)P(U)} //
-& = 0,6 * \frac{0,5}{0,6*0,5+0,2*0,5} //
+P(G|R) & = P(R|G) ~ \frac{P(G)}{P(R|G)P(G)+P(R|U)P(U)} \\
+& = 0,6 * \frac{0,5}{0,6*0,5+0,2*0,5} \\
 & = 0,6 * 0,5 / 0,4 = 0,75
 \end{split}
 \end{equation}
