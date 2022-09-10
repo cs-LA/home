@@ -38,4 +38,3 @@
 
 <h3>&nbsp;</h3>
 
-[Wahrsch](Wahrscheinlichkeitsrechnung.html)
