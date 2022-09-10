@@ -1,4 +1,4 @@
 # Wahrscheinlichkeitsrechnung
 
- - **[Satz von Bayes](./Wahrscheinlichkeitsrechnung/Bayes.html)**
+ - **[Satz von Bayes](/home/Wahrscheinlichkeitsrechnung/Bayes.html)**
 
