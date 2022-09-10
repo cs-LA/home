@@ -16,7 +16,7 @@ Für einen Beweis hierfür sei auf [Wikipedia](https://de.wikipedia.org/wiki/Sat
 
 Gegeben seien 20 durchnummerierte Kugeln, von denen 8 rot und 12 schwarz sind. Die Wahrscheinlichkeit $P(G)$, eine gerade Kugel zu ziehen, ist also $0,5$.
 
-Nun verrät uns jemand (bzw. haben wir herausgefunden), das von den geraden Kugeln 6 rot sind, von den ungeraden Kugeln also nur 2. Somit haben wir:
+Nun verrät uns jemand (bzw. haben wir herausgefunden), dass von den geraden Kugeln 6 rot sind, von den ungeraden Kugeln also nur 2. Somit haben wir:
 
 $$
 \begin{equation}
