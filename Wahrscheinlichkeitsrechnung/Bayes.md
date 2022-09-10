@@ -12,11 +12,11 @@ $$P(A|B) = P(B|A) ~ \frac{P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}$$
 
 Für einen Beweis hierfür sei auf [Wikipedia](https://de.wikipedia.org/wiki/Satz_von_Bayes) verwiesen.
 
-##### Beispiel1:
+##### Beispiel 1:
 
-Gegeben seien 20 durchnummerierte Kugeln, von den 8 rot und 12 schwarz sind. Die Wahrscheinlichkeit $P(G)$, eine gerade Kugel zu ziehen, ist also $0,5$.
+Gegeben seien 20 durchnummerierte Kugeln, von denen 8 rot und 12 schwarz sind. Die Wahrscheinlichkeit $P(G)$, eine gerade Kugel zu ziehen, ist also $0,5$.
 
-Nun verrät uns jemand (bzw. haben wir herausgefunden), das von den roten geraden Kugel 6 rot sind, von den ungeraden Kugeln also nur 2. Somit haben wir:
+Nun verrät uns jemand (bzw. haben wir herausgefunden), das von den geraden Kugeln 6 rot sind, von den ungeraden Kugeln also nur 2. Somit haben wir:
 
 $$
 \begin{equation}
