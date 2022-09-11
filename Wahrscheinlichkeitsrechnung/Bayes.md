@@ -69,8 +69,8 @@ $$
 \begin{equation}
 \begin{split}
 Q(A|B) & = \frac{P(A|B)}{1-P(A|B)} \\
-& = \frac{\fBac{P(B|A)P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}}{1-\fBac{P(B|A)P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}} \\
-& = \frac{\fBac{P(B|A)P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}}{\fBac{P(B|A)P(A)+P(B|A^c)P(A^c)-P(B|A)P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}} \\
+& = \frac{\frac{P(B|A)P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}}{1-\frac{P(B|A)P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}} \\
+& = \frac{\frac{P(B|A)P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}}{\frac{P(B|A)P(A)+P(B|A^c)P(A^c)-P(B|A)P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}} \\
 & = \frac{(P(B|A)P(A)) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c))}{(P(B|A)P(A)+P(B|A^c)P(A^c)) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c)-P(B|A)P(A))} \\
 & = \frac{P(B|A)P(A) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c))}{(P(B|A)P(A)+P(B|A^c)P(A^c)) \cdot P(B|A^c)P(A^c)} \\
 & = \frac{P(B|A)P(A) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c))}{P(B|A^c)P(A^c) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c))} \\
