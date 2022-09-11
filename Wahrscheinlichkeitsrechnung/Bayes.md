@@ -34,7 +34,7 @@ $$
 \begin{split}
 P(G|R) & = P(R|G) ~ \frac{P(G)}{P(R|G)P(G)+P(R|U)P(U)} \\
 & = 0,6 * \frac{0,5}{0,6 * 0,5+0,2 * 0,5} \\
-& = 0,6 * 0,5 / 0,4 
+& = 0,6 * 0,5 / 0,4 \\
 & = 0,75
 \end{split}
 \end{equation}
@@ -50,6 +50,15 @@ Wie sieht dieses Wahrscheinlichkeitsverhältnis nun für bedingte Wahrscheinlich
 
 $\frac{P(R|G)}{P(R|U)} = Q(G|R)$
 
-
+$$
+\begin{equation}
+\begin{split}
+Q(R|G) & = \frac{P(R|G)}{1-P(R|G)} \\
+& =  \frac{P(R|G)}{P(R|U)} \\
+& = \\
+& = 
+\end{split}
+\end{equation}
+$$
 
 # &nbsp;
