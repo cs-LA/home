@@ -67,7 +67,7 @@ $Q(G \vert R) = \frac{0,6}{0,2} \cdot \frac{1}{1} = 3 ~ \colon 1$
 
 $Q(G|R) = 4 + 1$
 
-Bezogen auf unser [Beispiel 1](#beispiel-1) gilt dann also $x = y$, was einer Wahrscheinlichkeit von $0,75$ entspricht.
+Bezogen auf unser [Beispiel 1](#beispiel-1) gilt dann also $Q(G \vert R) = \frac{0,6}{0,2} \cdot \frac{1}{1} = 3 ~ \colon 1$, was einer Wahrscheinlichkeit von $0,75$ entspricht.
 
 Wir sehen also, dass der Satz von Bayes mit Wahrscheinlichkeitsverhältnissen wesentlich einfacher anzuwenden ist.
 
