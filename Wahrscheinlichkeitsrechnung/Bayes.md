@@ -96,4 +96,4 @@ Wie hoch ist denn nun die Wahrscheinlichkeit, bei einem positiven Test tatsächl
 
 $$Q(BK \vert TP) = \frac{P(TP \vert BK)}{P(TP \vert BK^c)} \cdot Q(BK) = \frac{0,8}{0,1} \cdot \frac{1}{19} = 8 ~ \colon 19$$
 
-was einer Wahrscheinlichkeit von $\frac{8}{8+19} ≈ 0,296$$ entspricht
+was einer Wahrscheinlichkeit von $\frac{8}{8+19} ≈ 0,296$ entspricht
