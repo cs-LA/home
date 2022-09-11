@@ -48,7 +48,7 @@ Man kann die Wahrscheinlichkeit eines Ereignisses durch das Verhältnis $Q$ sein
 
 Wie sieht dieses Wahrscheinlichkeitsverhältnis nun für bedingte Wahrscheinlichkeiten aus? Wir betrachten hier das Verhältnis der Wahrscheinlichkeit des Auftretens von $A$ unter der Bedingung $B$ zu der Wahrscheinlichkeit des Auftretens von $A^c$ unter der Bedingung $B$, also $Q(A|B) = \frac{P(A|B)}{P(A^c|B)}$.
 
-
+$\frac{P(R|G)}{P(R|U)} = Q(G|R)$
 
 
 
