@@ -59,11 +59,27 @@ Q(G|R) & = \frac{P(G|R)}{1-P(G|R)} \\
 & =  \frac{(P(R|G)P(G)) \cdot (P(R|G)P(G)+P(R|U)P(U))}{(P(R|G)P(G)+P(R|U)P(U)) \cdot (P(R|G)P(G)+P(R|U)P(U)-P(R|G)P(G))} \\
 & = \frac{P(R|G)P(G) \cdot (P(R|G)P(G)+P(R|U)P(U))}{(P(R|G)P(G)+P(R|U)P(U)) \cdot P(R|U)P(U)} \\
 & = \frac{P(R|G)P(G) \cdot (P(R|G)P(G)+P(R|U)P(U))}{P(R|U)P(U) \cdot (P(R|G)P(G)+P(R|U)P(U))} \\
-& = \frac{P(R|G)P(G)}{P(R|U)P(U)}
+& = \frac{P(R|G)P(G)}{P(R|U)P(U)} \\
 & = 
 \end{split}
 \end{equation}
 $$
+
+$$
+\begin{equation}
+\begin{split}
+Q(A|B) & = \fBac{P(A|B)}{1-P(A|B)} \\
+& =  \fBac{\fBac{P(B|A)P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}}{1-\fBac{P(B|A)P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}} \\
+& =  \fBac{\fBac{P(B|A)P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}}{\fBac{P(B|A)P(A)+P(B|A^c)P(A^c)-P(B|A)P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}} \\
+& =  \fBac{(P(B|A)P(A)) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c))}{(P(B|A)P(A)+P(B|A^c)P(A^c)) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c)-P(B|A)P(A))} \\
+& = \fBac{P(B|A)P(A) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c))}{(P(B|A)P(A)+P(B|A^c)P(A^c)) \cdot P(B|A^c)P(A^c)} \\
+& = \fBac{P(B|A)P(A) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c))}{P(B|A^c)P(A^c) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c))} \\
+& = \fBac{P(B|A)P(A)}{P(B|A^c)P(A^c)} \\
+& =
+\end{split}
+\end{equation}
+$$
+
 
 # &nbsp;
 
