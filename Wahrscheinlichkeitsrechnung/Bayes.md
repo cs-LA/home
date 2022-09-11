@@ -63,7 +63,7 @@ Q(A|B) & = \frac{P(A|B)}{1-P(A|B)} \\
 \end{equation}
 $$
 
-$\begin{equation} Q(G|R) = \frac{0,6}{0,2} \cdot \frac{1}{1} = 13 ~ \colon 1 \ens{equation}$
+$\begin{equation} Q(G|R) = \frac{0,6}{0,2} \cdot \frac{1}{1} = 13 ~ \colon 1 \end{equation}$
 
 $Q(G|R) = 4 + 1$
 
