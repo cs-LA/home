@@ -1,3 +1,3 @@
 # Index
 
-[Wahrscheinlichkeitsrechnung](Wahrscheinlichkeitsrechnung.html)
+ - **[Wahrscheinlichkeitsrechnung](Wahrscheinlichkeitsrechnung.html)**
