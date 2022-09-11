@@ -81,5 +81,7 @@ Q(A|B) & = \frac{P(A|B)}{1-P(A|B)} \\
 $$
 
 
+Bezogen auf unser [Beispiel 1](#beispiel-1) gilt dann also $Q(G|R) = \frav{1}{1} \cdot \frac{0,6}{0,2} = 3:1$, was einer Wahrschinlichkeit von $0,75$ entspricht.
+
 # &nbsp;
 
