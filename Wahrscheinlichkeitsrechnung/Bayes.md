@@ -84,3 +84,8 @@ $$Q(mM \vert 3K) = \frac{P(3K \vert mM)}{P(3K \vert mM^c)} \cdot Q(mM) = \frac{1
 
 was wiederum der Wahrscheinlichkeit von $0,8$ entspricht.
 
+##### Beispiel 3:
+
+Noch ein Beispiel aus der Praxis. Es sei (statistisch) gegeben, dass 5% aller Frauen Brustkrebs haben, also $P(BK) = 0,05 \text{ bzw. } Q(BK) 1 \colon 19$.
+
+Bei einem Mammographie-Screening wird bei Brustkrebserkrankten der Brustkrebs zu 80% erkannt, d.h. $P(T+ \vert BK) = 0,8 \text{ bzw. } Q(T+ \vert BK) = 4 \colon 1$.
