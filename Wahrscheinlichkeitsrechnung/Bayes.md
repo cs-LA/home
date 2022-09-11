@@ -42,7 +42,7 @@ $$
 
 ### Wahrscheinlichkeitsverhältnisse
 
-Üblicherweise - und in der Mathematik als Standard - werden Wahrscheinlichkeiten als Zahl zwischen 0 7nd 1 angegeben, also $0 \le P(A) \le 1$. Oftmals wird diese Zahl auch als Prozentsatz angegebeb; aber das lassen wir hier mal außer acht.
+Üblicherweise - und in der Mathematik als Standard - werden Wahrscheinlichkeiten als Zahl zwischen 0 7nd 1 angegeben, also $0 \le P(A) \le 1$. Oftmals wird diese Zahl auch als Prozentsatz angegeben; aber das lassen wir hier mal außer Acht.
 
 Man kann die Wahrscheinlichkeit eines Ereignisses durch das Verhältnis $Q$ seines Eintretens zum Nichteintreten ausdrücken: $Q(A) = \frac{P(A)}{P(A^c)} = \frac{P(A)}{1-P(A)}$.
 
@@ -63,7 +63,7 @@ Q(A|B) & = \frac{P(A|B)}{1-P(A|B)} \\
 \end{equation}
 $$
 
-$\begin{equation} Q(G|R) = \frac{0,6}{0,2} \cdot \frac{1}{1} = 13 ~ \colon 1 \end{equation}$
+$Q(GR) = \frac{0,6}{0,2} \cdot \frac{1}{1} = 3 ~ \colon 1$
 
 $Q(G|R) = 4 + 1$
 
