@@ -80,4 +80,7 @@ $$P(mM \vert 3K) = \frac{P(3K \vert mM) P(mM)}{P(3K)} = \frac{1 \cdot \frac{1}{3
 
 Versuchen wir dies nun mit Wahrscheinlichkeitsverhältnissen:
 
-$$Q(mM \vert 3K) = \frac{P(3K \vert mM)}{P(3K \vert mM^c)} \cdot Q(mM) = \frac{1}{\frac{1}{8}} \cdot \frac{1}{2}$$
+$$Q(mM \vert 3K) = \frac{P(3K \vert mM)}{P(3K \vert mM^c)} \cdot Q(mM) = \frac{1}{\frac{1}{8}} \cdot \frac{1}{2} = \frac{4}{1}$$
+
+was wiederum der Wahrscheinlichkeit von $0,8$ entspricht.
+
