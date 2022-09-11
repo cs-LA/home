@@ -4,11 +4,11 @@ Der Satz von Bayes gehört zum Teilbereich *[Wahrscheinlichkeitsrechnung](./../W
 
 Man kann den Satz auf unterschiedliche Arten darstellen. Die gängigste Darstellugsart benutzt bedingte Wahrscheinlichkeiten:
 
-$$P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)} = P(B|A) ~ \frac{P(A)}{P(B)}$$
+$$P(A \vert B) = \frac{P(B \vert A) \cdot P(A)}{P(B)} = P(B \vert A) ~ \frac{P(A)}{P(B)}$$
 
 Für eine (disjunkte) Zerlegung des Ergebnisraums in $A$ und das Komplement $A^c$ von $A$ gilt dann:
 
-$$P(A|B) = P(B|A) ~ \frac{P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}$$
+$$P(A \vert B) = P(B \vert A) ~ \frac{P(A)}{P(B \vert A)P(A)+P(B \vert A^c)P(A^c)}$$
 
 Für einen Beweis hierfür sei auf [Wikipedia](https://de.wikipedia.org/wiki/Satz_von_Bayes) verwiesen.
 
@@ -21,8 +21,8 @@ Nun verrät uns jemand (bzw. haben wir herausgefunden), dass von den geraden Kug
 $$
 \begin{equation}
 \begin{split}
-P(R|G) & = 0,6 \\
-P(R|U) & = 0,2
+P(R \vert G) & = 0,6 \\
+P(R \vert U) & = 0,2
 \end{split}
 \end{equation}
 $$
@@ -32,7 +32,7 @@ Ziehen wir nun aus den 20 Kugeln eine beliebige Kugel und wir stellen fest, dass
 $$
 \begin{equation}
 \begin{split}
-P(G|R) & = P(R|G) ~ \frac{P(G)}{P(R|G)P(G)+P(R|U)P(U)} \\
+P(G \vert R) & = P(R \vert G) ~ \frac{P(G)}{P(R \vert G)P(G)+P(R \vert U)P(U)} \\
 & = 0,6 \cdot \frac{0,5}{0,6 \cdot 0,5+0,2 \cdot 0,5} \\
 & = 0,6 \cdot 0,5 / 0,4 \\
 & = 0,75
@@ -51,21 +51,17 @@ Wie könne wir nun dieses Wahrscheinlichkeitsverhältnis in dem Satz von Bayes n
 $$
 \begin{equation}
 \begin{split}
-Q(A|B) & = \frac{P(A|B)}{1-P(A|B)} \\
-& = \frac{\frac{P(B|A)P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}}{1-\frac{P(B|A)P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}} \\
-& = \frac{\frac{P(B|A)P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}}{\frac{P(B|A)P(A)+P(B|A^c)P(A^c)-P(B|A)P(A)}{P(B|A)P(A)+P(B|A^c)P(A^c)}} \\
-& = \frac{(P(B|A)P(A)) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c))}{(P(B|A)P(A)+P(B|A^c)P(A^c)) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c)-P(B|A)P(A))} \\
-& = \frac{P(B|A)P(A) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c))}{(P(B|A)P(A)+P(B|A^c)P(A^c)) \cdot P(B|A^c)P(A^c)} \\
-& = \frac{P(B|A)P(A) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c))}{P(B|A^c)P(A^c) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c))} \\
-& = \frac{P(B|A)P(A)}{P(B|A^c)P(A^c)} \\
-& = \frac{P(B|A)}{P(B|A^c)} \cdot Q(A)
+Q(A \vert B) & = \frac{P(A \vert B)}{1-P(A \vert B)} \\
+& = \frac{\frac{P(B \vert A)P(A)}{P(B \vert A)P(A)+P(B \vert A^c)P(A^c)}}{1-\frac{P(B \vert A)P(A)}{P(B \vert A)P(A)+P(B \vert A^c)P(A^c)}} \\
+& = \frac{\frac{P(B \vert A)P(A)}{P(B \vert A)P(A)+P(B \vert A^c)P(A^c)}}{\frac{P(B \vert A)P(A)+P(B \vert A^c)P(A^c)-P(B \vert A)P(A)}{P(B \vert A)P(A)+P(B \vert A^c)P(A^c)}} \\
+& = \frac{(P(B \vert A)P(A)) \cdot (P(B \vert A)P(A)+P(B \vert A^c)P(A^c))}{(P(B \vert A)P(A)+P(B \vert A^c)P(A^c)) \cdot (P(B \vert A)P(A)+P(B \vert A^c)P(A^c)-P(B \vert A)P(A))} \\
+& = \frac{P(B \vert A)P(A) \cdot (P(B \vert A)P(A)+P(B \vert A^c)P(A^c))}{(P(B \vert A)P(A)+P(B \vert A^c)P(A^c)) \cdot P(B \vert A^c)P(A^c)} \\
+& = \frac{P(B \vert A)P(A) \cdot (P(B \vert A)P(A)+P(B \vert A^c)P(A^c))}{P(B \vert A^c)P(A^c) \cdot (P(B \vert A)P(A)+P(B \vert A^c)P(A^c))} \\
+& = \frac{P(B \vert A)P(A)}{P(B \vert A^c)P(A^c)} \\
+& = \frac{P(B \vert A)}{P(B \vert A^c)} \cdot Q(A)
 \end{split}
 \end{equation}
 $$
-
-$Q(G \vert R) = \frac{0,6}{0,2} \cdot \frac{1}{1} = 3 ~ \colon 1$
-
-$Q(G|R) = 4 + 1$
 
 Bezogen auf unser [Beispiel 1](#beispiel-1) gilt dann also $Q(G \vert R) = \frac{0,6}{0,2} \cdot \frac{1}{1} = 3 ~ \colon 1$, was einer Wahrscheinlichkeit von $0,75$ entspricht.
 
