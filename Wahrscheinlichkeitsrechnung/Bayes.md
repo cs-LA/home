@@ -33,8 +33,8 @@ $$
 \begin{equation}
 \begin{split}
 P(G|R) & = P(R|G) ~ \frac{P(G)}{P(R|G)P(G)+P(R|U)P(U)} \\
-& = 0,6 * \frac{0,5}{0,6 * 0,5+0,2 * 0,5} \\
-& = 0,6 * 0,5 / 0,4 \\
+& = 0,6 \cdot \frac{0,5}{0,6 \cdot 0,5+0,2 \cdot 0,5} \\
+& = 0,6 \cdot 0,5 / 0,4 \\
 & = 0,75
 \end{split}
 \end{equation}
@@ -57,9 +57,9 @@ Q(G|R) & = \frac{P(G|R)}{1-P(G|R)} \\
 & =  \frac{P(R|G) ~ \frac{P(G)}{P(R|G)P(G)+P(R|U)P(U)}}{1-P(R|G) ~ \frac{P(G)}{P(R|G)P(G)+P(R|U)P(U)}} \\
 & =  \frac{\frac{P(R|G)P(G)}{P(R|G)P(G)+P(R|U)P(U)}}{1-\frac{P(R|G)P(G)}{P(R|G)P(G)+P(R|U)P(U)}} \\
 & =  \frac{\frac{P(R|G)P(G)}{P(R|G)P(G)+P(R|U)P(U)}}{\frac{P(R|G)P(G)+P(R|U)P(U)-P(R|G)P(G)}{P(R|G)P(G)+P(R|U)P(U)}} \\
-& =  \frac{(P(R|G)P(G))*(P(R|G)P(G)+P(R|U)P(U))}{(P(R|G)P(G)+P(R|U)P(U))*(P(R|G)P(G)+P(R|U)P(U)-P(R|G)P(G))} \\
-& = \frac{P(R|G)P(G)*(P(R|G)P(G)+P(R|U)P(U))}{(P(R|G)P(G)+P(R|U)P(U))*P(R|U)P(U)} \\
-& = \frac{P(R|G)P(G)*(P(R|G)P(G)+P(R|U)P(U))}{P(R|U)P(U)*(P(R|G)P(G)+P(R|U)P(U))} \\
+& =  \frac{(P(R|G)P(G)) \cdot (P(R|G)P(G)+P(R|U)P(U))}{(P(R|G)P(G)+P(R|U)P(U)) \cdot (P(R|G)P(G)+P(R|U)P(U)-P(R|G)P(G))} \\
+& = \frac{P(R|G)P(G) \cdot (P(R|G)P(G)+P(R|U)P(U))}{(P(R|G)P(G)+P(R|U)P(U)) \cdot P(R|U)P(U)} \\
+& = \frac{P(R|G)P(G) \cdot (P(R|G)P(G)+P(R|U)P(U))}{P(R|U)P(U) \cdot (P(R|G)P(G)+P(R|U)P(U))} \\
 & = \frac{P(R|G)P(G)}{P(R|U)P(U)}
 & = 
 \end{split}
@@ -67,3 +67,4 @@ Q(G|R) & = \frac{P(G|R)}{1-P(G|R)} \\
 $$
 
 # &nbsp;
+
