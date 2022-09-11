@@ -34,10 +34,17 @@ $$
 \begin{split}
 P(G|R) & = P(R|G) ~ \frac{P(G)}{P(R|G)P(G)+P(R|U)P(U)} \\
 & = 0,6 * \frac{0,5}{0,6 * 0,5+0,2 * 0,5} \\
-& = 0,6 * 0,5 / 0,4 = 0,75
+& = 0,6 * 0,5 / 0,4 
+& = 0,75
 \end{split}
 \end{equation}
 $$
+
+### Wahrscheinlichkeitsverhältnisse
+
+Üblicherweise - und in der Mathematik als Standard - werden Wahrscheinlichkeiten als Zahl zwischen 0 7nd 1 angegeben, also $0 le P(A) le 1$. Oftmals wird diese Zahl auch als Prozentsatz angegebeb; aber das lassen wir hier mal außer acht.
+
+Man kann die Wahrscheinlichkeit eines Ereignisses durch das Verhältnis $Q$ seines Eintretens zum Nichteintreten ausdrücken: $Q(A) = \frac{P(A)}{P(A^c)} = \frac{P(A)}{1-P(A)}$.
 
 # &nbsp;
 
