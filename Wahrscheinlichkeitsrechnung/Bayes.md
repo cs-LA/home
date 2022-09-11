@@ -94,4 +94,6 @@ Dummerweise ergibt das Screening bei gesunden Frauen ebenfalls n 10% der Fälle 
 
 Wie hoch ist denn nun die Wahrscheinlichkeit, bei einem positiven Test tatsächlich an Brustkrebs erkrankt zu sein? Mit Hilfe der Wahrscheinlichkeitsverhältnisse ergibt sich:
 
-$$Q(BK \vert TP) = \frac{P(TP \vert BK)}{P(TP \vert BK^c)} \cdot Q(BK) = \frac{0,8}{0,1} \cdot \frac{1}{19} = 8 \colon 19$$
+$$Q(BK \vert TP) = \frac{P(TP \vert BK)}{P(TP \vert BK^c)} \cdot Q(BK) = \frac{0,8}{0,1} \cdot \frac{1}{19} = 8 ~ \colon 19$$
+
+was einer Wahrscheinlichkeit von $\frac{8}{8+19} ≈ 0,296$$ entspricht
