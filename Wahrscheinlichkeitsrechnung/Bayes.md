@@ -71,4 +71,5 @@ Bezogen auf unser [Beispiel 1](#beispiel-1) gilt dann also $x = y$, was einer Wa
 
 Wir sehen also, dass der Satz von Bayes mit Wahrscheinlichkeitsverhältnissen wesentlich einfacher anzuwenden ist.
 
+
 &nbsp;
