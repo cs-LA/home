@@ -53,7 +53,7 @@ $\frac{P(R|G)}{P(R|U)} = Q(G|R)$
 $$
 \begin{equation}
 \begin{split}
-Q(R|G) & = \frac{P(R|G)}{1-P(R|G)} \\
+Q(G|R) & = \frac{P(G|R)}{1-P(G|R)} \\
 & =  \frac{P(R|G)}{P(R|U)} \\
 & = \\
 & = 
