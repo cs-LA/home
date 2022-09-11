@@ -46,29 +46,10 @@ $$
 
 Man kann die Wahrscheinlichkeit eines Ereignisses durch das Verhältnis $Q$ seines Eintretens zum Nichteintreten ausdrücken: $Q(A) = \frac{P(A)}{P(A^c)} = \frac{P(A)}{1-P(A)}$.
 
+Wie sieht dieses Wahrscheinlichkeitsverhältnis nun für bedingte Wahrscheinlichkeiten aus?
+
+
+
+
+
 # &nbsp;
-
----
-
-Inline-maths using the `\(...\)` syntax don't work any more as it was re-defined in the `_layouts/default.html`.
-
-<p align=center>Inline \(P(A|B)=P(B|A) \frac{P(A)}{P(B)}\) mathematics :-( &#128577;</p>
-
-Instead, the `$...$`syntax shoud be used now:
-
-<center>This sentence uses <code>$</code> delimiters to show math inline: $\sqrt{3x-1}+(1+x)^2$ :-) &#128578;</center>
-
-
-#### Block-Examples:
-
-$$\sum_{i=1}^n = \frac{n^2+n}{2}$$
-
-
-$$
-\begin{equation} \label{eq1}
-\begin{split}
-A & = \frac{\pi r^2}{2} \\
- & = \frac{1}{2} \pi r^2
-\end{split}
-\end{equation}
-$$
