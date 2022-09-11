@@ -42,11 +42,11 @@ $$
 
 ### Wahrscheinlichkeitsverhältnisse
 
-Üblicherweise - und in der Mathematik als Standard - werden Wahrscheinlichkeiten als Zahl zwischen 0 7nd 1 angegeben, also $0 le P(A) le 1$. Oftmals wird diese Zahl auch als Prozentsatz angegebeb; aber das lassen wir hier mal außer acht.
+Üblicherweise - und in der Mathematik als Standard - werden Wahrscheinlichkeiten als Zahl zwischen 0 7nd 1 angegeben, also $0 \le P(A) \le 1$. Oftmals wird diese Zahl auch als Prozentsatz angegebeb; aber das lassen wir hier mal außer acht.
 
 Man kann die Wahrscheinlichkeit eines Ereignisses durch das Verhältnis $Q$ seines Eintretens zum Nichteintreten ausdrücken: $Q(A) = \frac{P(A)}{P(A^c)} = \frac{P(A)}{1-P(A)}$.
 
-Wie sieht dieses Wahrscheinlichkeitsverhältnis nun für bedingte Wahrscheinlichkeiten aus? Wir betrachten hier das Verhältnis der Wahrscheinlichkeit des Auftretens von $A$ unter der Bedingung $B$ zu der Wahrscheinlichkeit des Auftretens von $A$ unter der Bedingung $B^c\textrm{,}$ also $Q(A|B) = \frac{P(A|B)}{P(A|B^c)}$.
+Wie sieht dieses Wahrscheinlichkeitsverhältnis nun für bedingte Wahrscheinlichkeiten aus? Wir betrachten hier das Verhältnis der Wahrscheinlichkeit des Auftretens von $A$ unter der Bedingung $B$ zu der Wahrscheinlichkeit des Auftretens von $A$ unter der Bedingung $B^c\text{,}$ also $Q(A|B) = \frac{P(A|B)}{P(A|B^c)}$.
 
 
 
