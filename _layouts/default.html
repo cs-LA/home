@@ -197,6 +197,21 @@
         height: 1em;
       }
 
+      @media print {
+        
+        .headerBanner, .headerTitle, .headerIndex, .headerLanguages,
+        .footerBanner, .footerText {
+           visibility: hidden;
+        }
+
+        #scroll {
+          position: static;
+          top: 0;
+          left: 0;
+        } 
+        
+      }
+
     </style>
     
     <script>
