@@ -78,6 +78,6 @@ Werfen wir diese Münze nun dreimal und sie zeigt jedesmal mit dem Kopf nach obe
 
 $$P(mM \vert 3K) = \frac{P(3K \vert mM) P(mM)}{P(3K)} = \frac{1 \cdot \frac{1}{3}}{\frac{1}{3} \cdot 1 + \frac{2}{3} \cdot \frac{1}{8}} = \frac{1 \cdot \frac{1}{3}}{\frac{10}{24}} = \frac{24}{30} = \frac{4}{5}$$
 
+Versuchen wir dies nun mit Wahrscheinlichkeitsverhältnissen:
 
-
-
+$$Q(mM \vert 3K) = = \frac{P(3K \vert mMA)}{P(3K \vert mM^c)} \cdot Q(mM)$$
