@@ -75,7 +75,7 @@ Q(A|B) & = \frac{P(A|B)}{1-P(A|B)} \\
 & = \frac{P(B|A)P(A) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c))}{(P(B|A)P(A)+P(B|A^c)P(A^c)) \cdot P(B|A^c)P(A^c)} \\
 & = \frac{P(B|A)P(A) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c))}{P(B|A^c)P(A^c) \cdot (P(B|A)P(A)+P(B|A^c)P(A^c))} \\
 & = \frac{P(B|A)P(A)}{P(B|A^c)P(A^c)} \\
-& =
+& = \frac{P(B|A)}{P(B|A^c)} \cdot Q(A)
 \end{split}
 \end{equation}
 $$
