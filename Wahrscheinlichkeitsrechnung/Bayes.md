@@ -34,7 +34,6 @@ $$
 \begin{split}
 P(G \vert R) & = P(R \vert G) ~ \frac{P(G)}{P(R \vert G)P(G)+P(R \vert U)P(U)} \\
 & = 0,6 \cdot \frac{0,5}{0,6 \cdot 0,5+0,2 \cdot 0,5} \\
-& = 0,6 \cdot 0,5 / 0,4 \\
 & = 0,75
 \end{split}
 \end{equation}
@@ -67,5 +66,18 @@ Bezogen auf unser [Beispiel 1](#beispiel-1) gilt dann also $Q(G \vert R) = \frac
 
 Wir sehen also, dass der Satz von Bayes mit Wahrscheinlichkeitsverhältnissen wesentlich einfacher anzuwenden ist.
 
-
 &nbsp;
+
+##### Beispiel 2:
+
+Gegeben seien 3 Münzen, von denen 2 *fair* seien, d.h bei einem Wurf fällt Kopf und Zahl mit gleicher Wahrscheinlichkeit $0,5$. Die dritte Münze ist aber manipuliert, sodass sie immer mit dem Kopf nach oben fällt.
+
+Wenn man nun eine der drei Münzen auswählt, so besteht die Wahrscheinlichkeit, die manipulierte Münze zu erwischen $P(mM) = \frac{1}{3}$.
+
+Werfen wir diese Münze nun dreimal und sie zeigt jedesmal mit dem Kopf nach oben. Wie wahrscheinlich ist es nun mit dieser neuen Erkenntnis, dass es die manipulierte Münze ist? Nach dem Satz von Bayes gilt:
+
+$$P(mM \vert 3K) = \frac{P(3K \vert mM) P(mM)}{P(3K} = \frac{1 \cdot \frac{1}{3}}{\frac{1}{3} \cdot 1 + \frac{2}{3} \cdot 0,5}$$
+
+
+
+
