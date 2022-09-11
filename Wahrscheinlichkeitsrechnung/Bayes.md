@@ -86,9 +86,9 @@ was wiederum der Wahrscheinlichkeit von $0,8$ entspricht.
 
 ##### Beispiel 3:
 
-Noch ein Beispiel aus der Praxis. Es sei (statistisch) gegeben, dass 5% aller Frauen Brustkrebs haben, also $P(BK) = 0,05 \text{ bzw. } Q(BK) 1 \colon 19$.
+Noch ein Beispiel aus der Praxis. Es sei (statistisch) gegeben, dass 5% aller Frauen Brustkrebs haben, also $P(BK) = 0,05 \text{ bzw. } Q(BK) = 1 \colon 19$.
 
-Bei einem Mammographie-Screening wird bei Brustkrebserkrankten der Brustkrebs zu 80% erkannt, d.h. $P(TP \vert BK) = 0,8 \text{ bzw. } Q(T+ \vert BK) = 4 \colon 1$.
+Bei einem Mammographie-Screening wird bei Brustkrebserkrankten der Brustkrebs zu 80% erkannt, d.h. $P(TP \vert BK) = 0,8 \text{ bzw. } Q(TP \vert BK) = 4 \colon 1$.
 
 Dummerweise ergibt das Screening bei gesunden Frauen ebenfalls n 10% der Fälle ein positiven Testergebnis, d.h. $P(TP \vert BK^c) = 0,1 \text{ bzw. } Q(T+ \vert BK^c) = 1 \colon 9$.
 
