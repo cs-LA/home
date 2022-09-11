@@ -57,6 +57,7 @@ Q(G|R) & = \frac{P(G|R)}{1-P(G|R)} \\
 & =  \frac{P(R|G) ~ \frac{P(G)}{P(R|G)P(G)+P(R|U)P(U)}}{1-P(R|G) ~ \frac{P(G)}{P(R|G)P(G)+P(R|U)P(U)}} \\
 & =  \frac{\frac{P(R|G)P(G)}{P(R|G)P(G)+P(R|U)P(U)}}{1-\frac{P(R|G)P(G)}{P(R|G)P(G)+P(R|U)P(U)}} \\
 & =  \frac{\frac{P(R|G)P(G)}{P(R|G)P(G)+P(R|U)P(U)}}{\frac{P(R|G)P(G)+P(R|U)P(U)-P(R|G)P(G)}{P(R|G)P(G)+P(R|U)P(U)}} \\
+& =  \frac{(P(R|G)P(G))(P(R|G)P(G)+P(R|U)P(U))}{(P(R|G)P(G)+P(R|U)P(U))(P(R|G)P(G)+P(R|U)P(U)-P(R|G)P(G))} \\
 & = 
 \end{split}
 \end{equation}
