@@ -46,7 +46,7 @@ $$
 
 Man kann die Wahrscheinlichkeit eines Ereignisses durch das Verhältnis $Q$ seines Eintretens zum Nichteintreten ausdrücken: $Q(A) = \frac{P(A)}{P(A^c)} = \frac{P(A)}{1-P(A)}$.
 
-Wie sieht dieses Wahrscheinlichkeitsverhältnis nun für bedingte Wahrscheinlichkeiten aus? Wir betrachten hier das Verhältnis der Wahrscheinlichkeit des Auftretens von $A$ unter der Bedingung $B$ zu der Wahrscheinlichkeit des Auftretens von $A^c$ unter der Bedingung $B$, also $Q(A|B) = \frac{P(A|B)}{P(A^c|B)}$.
+Wie könne wir nun dieses Wahrscheinlichkeitsverhältnis in dem Satz von Bayes nutzen? Berechnen wir also einmal das Verhältnis für eine bedingte Wahrscheinlichkeit:
 
 $$
 \begin{equation}
@@ -63,8 +63,8 @@ Q(A|B) & = \frac{P(A|B)}{1-P(A|B)} \\
 \end{equation}
 $$
 
-
 Bezogen auf unser [Beispiel 1](#beispiel-1) gilt dann also $Q(G|R) = \frac{0,6}{0,2} \cdot \frac{1}{1} = 3:1$, was einer Wahrschinlichkeit von $0,75$ entspricht.
 
-# &nbsp;
+Wir sehen also, dass der Satz von Bayes mit Wahrscheinlichkeitsverhältnissen wesentlich einfacher anzuwenden ist.
 
+&nbsp;
