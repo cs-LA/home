@@ -27,8 +27,8 @@
   <span class="de">Oben links findet man zwei Schaltflächen. Mit der <img src="buttons/undo.jpg" class="inLine"> Schaltfläche kann man seine Änderungen rückgängig machen. Mit <img src="buttons/redo.jpg" class="inLine"> Schaltfläche kann man seine rückgängig gemachten Änderungen wiederherstellen.</span>
 </p>
 <p>
-  <span class="en">At the top right you see two buttons, too. With the <img src="buttons/cancel.jpg" class="inLine"> button you can cancel your modifications. With the <img src="buttons/save.jpg" class="inLine"> button you can save your modifications.</span>
-  <span class="de">Oben rechts findet man ebenfalls zwei Schaltflächen. Mit der <img src="buttons/cancel.jpg" class="inLine"> Schaltfläche kann man seine Änderungen verwerfen. Mit <img src="buttons/save.jpg" class="inLine"> Schaltfläche kann man seine Änderungen speichern.</span>
+  <span class="en">At the top right you see three buttons. With the <img src="buttons/cancel.jpg" class="inLine"> button you can cancel your modifications. With the <img src="buttons/eyeEncrypt.jpg" class="inLine"> button you can encrypt your note. With the <img src="buttons/save.jpg" class="inLine"> button you can save your modifications.</span>
+  <span class="de">Oben rechts findet man drei Schaltflächen. Mit der <img src="buttons/cancel.jpg" class="inLine"> Schaltfläche kann man seine Änderungen verwerfen. Mit der <img src="buttons/eyeEncrypt.jpg" class="inLine"> Schaltfläche kann man seine Notiz verschlüsseln. Mit <img src="buttons/save.jpg" class="inLine"> Schaltfläche kann man seine Änderungen speichern.</span>
 </p>
 <p>
   <span class="en">Above the keyboard there are some buttons to format the text, create links to other documents, or insert images. Except the 3 (on iPad 4) right buttons they have no immediate impact, but phase in additional formatting symbols.</span>
