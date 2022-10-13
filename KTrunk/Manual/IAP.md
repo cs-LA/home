@@ -22,4 +22,4 @@
 <p>
   <span class="en">With the <b><i>Privacy</i></b> feature you are able to encrypt your sensitive notes.</span>
   <span class="de">Mit dem Feature <b><i>Privatspäre</i></b> kann man seine sensitiven Notizen verschlüsseln.</span>
-</p3>
+</p>
