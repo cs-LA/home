@@ -56,7 +56,7 @@
 </p>
 <p>
   <span class="en">And when you have purchased the <i>Privacy</i> feature you even may <b><i>Encrypt</i></b> your note by clicking the striked eye <img src="Manual/buttons/eyeEncrypt.png" class="appButton"> between checkmark and crosshair.</span>
-  <span class="de">Und wenn Du das <i>Privatsphären</i>-Feature erworben hast, kannst Du Deine Notiz sogar <b><i>Verschlüsselt</i></b> abspeichern, indem Du das durchgestrichene Auge <img src="Manual/buttons/eyeDecrypt.png" class="appButton"> mmm zwischen dem Speichern-Häkchen und dem Verwerfen-Kreuz klickst.</span>
+  <span class="de">Und wenn Du das <i>Privatsphären</i>-Feature erworben hast, kannst Du Deine Notiz sogar <b><i>Verschlüsselt</i></b> abspeichern, indem Du das durchgestrichene Auge <img src="Manual/buttons/eyeDecrypt.jpg" class="appButton"> mm zwischen dem Speichern-Häkchen und dem Verwerfen-Kreuz klickst.</span>
 </p>
 <h3>&nbsp;</h3>
 <hr>
