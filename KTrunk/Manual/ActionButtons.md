@@ -33,6 +33,10 @@
   </li>
   <ul>
      <li>
+        <span class="en">If a note is encrypted you will see a <img src="buttons/eyeDecrypt.jpg" class="appButton"> button instead of the <img src="buttons/edit.jpg" class="appButton"> button. This button decrypts the note and presents it.</span>
+         <span class="de">Wenn eine Notiz verschlüsselt ist, ist statt der <img src="buttons/edit.jpg" class="appButton"> Schaltfläche eine <img src="buttons/eyeDecrypt.jpg" class="appButton"> Schaltfläche zu sehen. Mit dieser Schaltfläche wird die Notiz entschlüsselt und angezeigt.</span>
+    </li>
+     <li>
         <span class="en">If a file (ktFile) is presented you will see a <img src="buttons/note.jpg" class="appButton"> button instead of the <img src="buttons/edit.jpg" class="appButton"> button. This button creates a corresponding note (ktNote) and presents it.</span>
          <span class="de">Wenn Dateien (ktFiles) angezeigt werden, ist statt der <img src="buttons/edit.jpg" class="appButton"> Schaltfläche eine <img src="buttons/note.jpg" class="appButton"> Schaltfläche zu sehen. Mit dieser Schaltfläche erzeugt man eine zugehörige Notiz (ktNote) bzw. zeigt eine schon existierende solche Notiz an.</span>
     </li>
