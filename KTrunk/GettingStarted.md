@@ -55,7 +55,7 @@
   <span class="de"><b><i>Verwerfe</i></b> Deine Änderungen, indem Du das Kreuz neben dem Speichern-Häkchen klickst.</span>
 </p>
 <p>
-  <span class="en">And when you have purchased the <i>Privacy</> feature you even may <b><i>Encrypt</i></b> your note by clicking the striked eye between checkmark and crosshair.</span>
+  <span class="en">And when you have purchased the <i>Privacy</i> feature you even may <b><i>Encrypt</i></b> your note by clicking the striked eye between checkmark and crosshair.</span>
   <span class="de">Und wenn Du das <i>Privatsphären</i>-Feature erworben hast, kannst Du Deine Notiz sogar <b><i>Verschlüsselt</i></b> abspeichern, indem Du das durchgestrichene Auge zwischen dem Speichern-Häkchen und dem Verwerfen-Kreuz klickst.</span>
 </p>
 <h3>&nbsp;</h3>
