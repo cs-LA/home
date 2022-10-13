@@ -43,7 +43,7 @@
 <ul>
   <li>
     <span class="en">With the <img src="buttons/cancel.jpg" class="inLine"> button you can cancel your modifications.</span>
-    <span class="de">MMit der <img src="buttons/cancel.jpg" class="inLine"> Schaltfläche kann man seine Änderungen verwerfen.</span>
+    <span class="de">Mit der <img src="buttons/cancel.jpg" class="inLine"> Schaltfläche kann man seine Änderungen verwerfen.</span>
   </li>
   <li>
     <span class="en">With the <img src="buttons/eyeEncrypt.jpg" class="inLine"> button you can encrypt your note.</span>
