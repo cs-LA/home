@@ -33,7 +33,7 @@
   </li>
   <li>
     <span class="en">With the <img src="buttons/redo.jpg" class="inLine"> button you can redo your undone modifications.</span>
-    <span class="de">Mit <img src="buttons/redo.jpg" class="inLine"> Schaltfläche kann man seine rückgängig gemachten Änderungen wiederherstellen.</span>
+    <span class="de">Mit der <img src="buttons/redo.jpg" class="inLine"> Schaltfläche kann man seine rückgängig gemachten Änderungen wiederherstellen.</span>
   </li>
 </ul>
 <p>
@@ -51,7 +51,7 @@
   </li>
   <li>
     <span class="en">With the <img src="buttons/save.jpg" class="inLine"> button you can save your modifications.</span>
-    <span class="de">Mit <img src="buttons/save.jpg" class="inLine"> Schaltfläche kann man seine Änderungen speichern.</span>
+    <span class="de">Mit der <img src="buttons/save.jpg" class="inLine"> Schaltfläche kann man seine Änderungen speichern.</span>
   </li>
 </ul>
 <p>
