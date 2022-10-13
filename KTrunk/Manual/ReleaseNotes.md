@@ -14,7 +14,7 @@
   Release Notes
 </h1>
 
-<h3>1.7<br>... comming soon</h3>
+<h3>1.7</h3>
 <span class="en"><b>With this release <i><b>KTrunk</b></i> has evolved to the next level. After a fundamental redesign of the app's code base I was able to streamline and enhance several functionalities.</b></span>
 <span class="de"><b>Mit diesem Release hat <i><b>KTrunk</b></i> eine neue Entwicklungsstufe erreicht. Nach einer grundlegenden Überarbeitung der App konnte ich verschiedene Funktionalitäten straffen und verbessern.</b></span>
 <ul>
