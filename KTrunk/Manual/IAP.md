@@ -17,9 +17,9 @@
 
 <h3>
   <span class="en">Privacy</span>
-  <span class="de">Privatspäre</span>
+  <span class="de">Privatsphäre</span>
 </h3>
 <p>
   <span class="en">With the <b><i>Privacy</i></b> feature you are able to encrypt your sensitive notes.</span>
-  <span class="de">Mit dem Feature <b><i>Privatspäre</i></b> kann man seine sensitiven Notizen verschlüsseln.</span>
+  <span class="de">Mit dem Feature <b><i>Privatsphäre</i></b> kann man seine sensitiven Notizen verschlüsseln.</span>
 </p>
