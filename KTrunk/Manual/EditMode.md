@@ -37,9 +37,23 @@
   </li>
 </ul>
 <p>
-  <span class="en">At the top right you see three buttons. With the <img src="buttons/cancel.jpg" class="inLine"> button you can cancel your modifications. With the <img src="buttons/eyeEncrypt.jpg" class="inLine"> button you can encrypt your note. With the <img src="buttons/save.jpg" class="inLine"> button you can save your modifications.</span>
-  <span class="de">Oben rechts findet man drei Schaltflächen. Mit der <img src="buttons/cancel.jpg" class="inLine"> Schaltfläche kann man seine Änderungen verwerfen. Mit der <img src="buttons/eyeEncrypt.jpg" class="inLine"> Schaltfläche kann man seine Notiz verschlüsseln. Mit <img src="buttons/save.jpg" class="inLine"> Schaltfläche kann man seine Änderungen speichern.</span>
+  <span class="en">At the top right you see three buttons.</span>
+  <span class="de">Oben rechts findet man drei Schaltflächen.</span>
 </p>
+<ul>
+  <li>
+    <span class="en">With the <img src="buttons/cancel.jpg" class="inLine"> button you can cancel your modifications.</span>
+    <span class="de">MMit der <img src="buttons/cancel.jpg" class="inLine"> Schaltfläche kann man seine Änderungen verwerfen.</span>
+  </li>
+  <li>
+    <span class="en">With the <img src="buttons/eyeEncrypt.jpg" class="inLine"> button you can encrypt your note.</span>
+    <span class="de">Mit der <img src="buttons/eyeEncrypt.jpg" class="inLine"> Schaltfläche kann man seine Notiz verschlüsseln.</span>
+  </li>
+  <li>
+    <span class="en">With the <img src="buttons/save.jpg" class="inLine"> button you can save your modifications.</span>
+    <span class="de">Mit <img src="buttons/save.jpg" class="inLine"> Schaltfläche kann man seine Änderungen speichern.</span>
+  </li>
+</ul>
 <p>
   <span class="en">Above the keyboard there are some buttons to format the text, create links to other documents, or insert images. Except the 3 (on iPad 4) right buttons they have no immediate impact, but phase in additional formatting symbols.</span>
   <span class="de">Oberhalb der Tastatur sind ein paar Schaltflächen, um den Text zu formatieren, Links zu anderen Dokumenten zu erstellen oder um Bilder einzufügen. Außer den 3 (auf dem iPad 4) rechten Schaltflächen haben diese Symbole keine direkte Wirkung, sondern blenden zusätzliche Formatierungssymbole ein.</span>
