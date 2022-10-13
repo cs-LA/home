@@ -33,6 +33,11 @@
     <span class="de"><b><a href="Settings.html">Einstellungen</a></b></span>
   </li>
   <li>
+    <span class="en"><b><a href="IAP.html">In-App-Purchases</a></b></span>
+    <span class="de"><b><a href="IAP.html">In-App-Käufe</a></b></span>
+    
+  </li>
+  <li>
     <span class="en"><b><a href="NavigationButtons.html">Navigation Buttons</a></b></span>
   <span class="de"><b><a href="NavigationButtons.html">Navigations-Schalttasten</a></b></span>
   </li>
