@@ -23,9 +23,19 @@
   <span class="de">Im <i>Bearbeitungs-Modus</i> kann man in den Text-Bereich klicken und die Notiz bearbeiten.</span>
 </p>
 <p>
-  <span class="en">At the top left you see two buttons. With the <img src="buttons/undo.jpg" class="inLine"> button you can undo your modifications. With the <img src="buttons/redo.jpg" class="inLine"> button you can redo your undone modifications.</span>
-  <span class="de">Oben links findet man zwei Schaltflächen. Mit der <img src="buttons/undo.jpg" class="inLine"> Schaltfläche kann man seine Änderungen rückgängig machen. Mit <img src="buttons/redo.jpg" class="inLine"> Schaltfläche kann man seine rückgängig gemachten Änderungen wiederherstellen.</span>
+  <span class="en">At the top left you see two buttons.</span>
+  <span class="de">Oben links findet man zwei Schaltflächen.</span>
 </p>
+<ul>
+  <li>
+    <span class="en">With the <img src="buttons/undo.jpg" class="inLine"> button you can undo your modifications.</span>
+    <span class="de">Mit der <img src="buttons/undo.jpg" class="inLine"> Schaltfläche kann man seine Änderungen rückgängig machen.</span>
+  </li>
+  <li>
+    <span class="en">With the <img src="buttons/redo.jpg" class="inLine"> button you can redo your undone modifications.</span>
+    <span class="de">Mit <img src="buttons/redo.jpg" class="inLine"> Schaltfläche kann man seine rückgängig gemachten Änderungen wiederherstellen.</span>
+  </li>
+</ul>
 <p>
   <span class="en">At the top right you see three buttons. With the <img src="buttons/cancel.jpg" class="inLine"> button you can cancel your modifications. With the <img src="buttons/eyeEncrypt.jpg" class="inLine"> button you can encrypt your note. With the <img src="buttons/save.jpg" class="inLine"> button you can save your modifications.</span>
   <span class="de">Oben rechts findet man drei Schaltflächen. Mit der <img src="buttons/cancel.jpg" class="inLine"> Schaltfläche kann man seine Änderungen verwerfen. Mit der <img src="buttons/eyeEncrypt.jpg" class="inLine"> Schaltfläche kann man seine Notiz verschlüsseln. Mit <img src="buttons/save.jpg" class="inLine"> Schaltfläche kann man seine Änderungen speichern.</span>
