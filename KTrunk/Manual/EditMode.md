@@ -205,6 +205,7 @@
     <span class="de">Diese Schaltfläche öffnet einen Dialog, um Tabellen-Dimensionen festulegen. Nach der Bestätigung wird eine entsprechende Tabelle an der Cursor-Position eingefügt.</span>
     <span class="en">If the cursor is inside of a table when clicking this button, the dimensions of this table will be adjusted.</span>
     <span class="de">Falls sich der Cursor schon innerhalb einer Tabelle befindet, wenn man die Schaltfläche klickt, werden die Dimensionen dieser Tabelle angepasst.</span>
+  <p>
     <span class="en">If the table contains a header row, a click on a cell in the header row will sort the table's body according to data in the clicked column. Clicking again will reverse the sort order.</span>
     <span class="de">Falls die Tabelle eine Kopfzeile enthält, kann man die Daten in dem Tabellenkörper mit einem Klick auf eine Zelle in der Kopfzeile entsprechend den Daten in der angeklickten Spalte sortieren. Ein abermaliger Klick kehrt die Sortierfolge um.</span>
   <h3>
