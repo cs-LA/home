@@ -47,7 +47,7 @@
   </li>
   <li>
     <span class="en">With the <img src="buttons/eyeEncrypt.jpg" class="inLine"> button you can encrypt your note.<br><b>Warning:</b> The password to encrypt the note is <b>required</b> to decrypt the note. If you forget it there is no chance to get the note back.</span>
-    <span class="de">Mit der <img src="buttons/eyeEncrypt.jpg" class="inLine"> Schaltfläche kann man seine Notiz verschlüsseln.<br><b>Warnung:</b> Das zur Verschlüsselung notwendige Passwort ist <b>erforderlich</b>, um die Notiz wieder zu entschlüsseln. Wenn es vergessen wird, gibt eskeine Möglichkeit mehr, die Notiz wiederzubekommen.</span>
+    <span class="de">Mit der <img src="buttons/eyeEncrypt.jpg" class="inLine"> Schaltfläche kann man seine Notiz verschlüsseln.<br><b>Warnung:</b> Das zur Verschlüsselung notwendige Passwort ist <b>erforderlich</b>, um die Notiz wieder zu entschlüsseln. Wenn es vergessen wird, gibt es keine Möglichkeit mehr, die Notiz wiederzubekommen.</span>
   </li>
   <li>
     <span class="en">With the <img src="buttons/save.jpg" class="inLine"> button you can save your modifications.</span>
