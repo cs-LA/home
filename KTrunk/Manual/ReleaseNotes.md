@@ -26,15 +26,7 @@
   </li>
   <li>
     <span class="en"><b>Encrypt a note.</b><br>Encryption/Decryption is available as <em>In-App purchase</em>.</span>
-    <span class="de"><b>Verschlüsseln einer Notioz.<br>Verschlüsselung/Entschlüsselung ist als <em>In-App Kauf</em> verfügbar.</b></span>
-  </li>
-  <li>
-    <span class="en"><b><i>Getting Started</i> link in Settings.</b></span>
-    <span class="de"><b><i>Schnelleinstieg</i>-Link in den Einstellungen.</b></span>
-  </li>
-  <li>
-    <span class="en"><b>Some errors eliminated.</b></span>
-    <span class="de"><b>Einige Fehlerbehebungen.</b></span>
+    <span class="de"><b>Verschlüsseln einer Notiz.<br>Verschlüsselung/Entschlüsselung ist als <em>In-App Kauf</em> verfügbar.</b></span>
   </li>
 </ul>
 
