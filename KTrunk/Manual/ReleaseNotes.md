@@ -14,7 +14,7 @@
   Release Notes
 </h1>
 
-<h3>1.7</h3>
+<h3>1.8</h3>
 <p>
   <span class="en"><b>This time I implemented two new features.</b></span>
   <span class="de"><b>Diesmal wurden zwei neue Merkmale implementiert.</b></span>
