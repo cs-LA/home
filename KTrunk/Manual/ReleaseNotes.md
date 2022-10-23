@@ -26,14 +26,14 @@
   </li>
   <li>
     <span class="en"><b>Encrypt a note.</b><br>Encryption/Decryption is available as <em>In-App purchase</em>.</span>
-    <span class="de"><b>Verschlüsseln einer Notiz.<br>Verschlüsselung/Entschlüsselung ist als <em>In-App Kauf</em> verfügbar.</b></span>
+    <span class="de"><b>Verschlüsseln einer Notiz.</b><br>Verschlüsselung/Entschlüsselung ist als <em>In-App Kauf</em> verfügbar.</span>
   </li>
 </ul>
 
 <h3>1.7</h3>
 <p>
-  <span class="en"><b>With this release <i><b>KTrunk</b></i> has evolved to the next level. After a fundamental redesign of the app's code base I was able to streamline and enhance several functionalities.</b></span>
-  <span class="de"><b>Mit diesem Release hat <i><b>KTrunk</b></i> eine neue Entwicklungsstufe erreicht. Nach einer grundlegenden Überarbeitung der App konnte ich verschiedene Funktionalitäten straffen und verbessern.</b></span>
+  <span class="en">With this release <i><b>KTrunk</b></i> has evolved to the next level. After a fundamental redesign of the app's code base I was able to streamline and enhance several functionalities.</span>
+  <span class="de">Mit diesem Release hat <i><b>KTrunk</b></i> eine neue Entwicklungsstufe erreicht. Nach einer grundlegenden Überarbeitung der App konnte ich verschiedene Funktionalitäten straffen und verbessern.</span>
 </p>
 <ul>
   <li>
