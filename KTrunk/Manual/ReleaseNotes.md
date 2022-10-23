@@ -25,8 +25,8 @@
     <span class="de"><b>Sortieren einer Tabelle durch anklicken einer Zelle in einer Kopfzeile.</b></span>
   </li>
   <li>
-    <span class="en"><b>Encrypt a note.</b><br>Encryption/Decryption is available as In-App purchase.</span>
-    <span class="de"><b>Verschlüsseln einer Notioz.<br>Ver-Entschlüsselung ist als <em>In-App Kauf</em> verfügbar.</b></span>
+    <span class="en"><b>Encrypt a note.</b><br>Encryption/Decryption is available as <em>In-App purchase</em>.</span>
+    <span class="de"><b>Verschlüsseln einer Notioz.<br>Verschlüsselung/Entschlüsselung ist als <em>In-App Kauf</em> verfügbar.</b></span>
   </li>
   <li>
     <span class="en"><b><i>Getting Started</i> link in Settings.</b></span>
