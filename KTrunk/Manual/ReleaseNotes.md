@@ -15,8 +15,34 @@
 </h1>
 
 <h3>1.7</h3>
-<span class="en"><b>With this release <i><b>KTrunk</b></i> has evolved to the next level. After a fundamental redesign of the app's code base I was able to streamline and enhance several functionalities.</b></span>
-<span class="de"><b>Mit diesem Release hat <i><b>KTrunk</b></i> eine neue Entwicklungsstufe erreicht. Nach einer grundlegenden Überarbeitung der App konnte ich verschiedene Funktionalitäten straffen und verbessern.</b></span>
+<p>
+  <span class="en"><b>This time I implemented two new features.</b></span>
+  <span class="de"><b>Diesmal wurden zwei neue Merkmale implementiert.</b></span>
+</p>
+<ul>
+  <li>
+    <span class="en"><b>Sort a table by clicking a header cell.</b></span>
+    <span class="de"><b>Sortieren einer Tabelle durch anklicken einer Zelle in einer Kopfzeile.</b></span>
+  </li>
+  <li>
+    <span class="en"><b>Encrypt a note.</b><br>Encryption/Decryption is available as In-App purchase.</span>
+    <span class="de"><b>Verschlüsseln einer Notioz.<br>Ver-Entschlüsselung ist als <em>In-App Kauf</em> verfügbar.</b></span>
+  </li>
+  <li>
+    <span class="en"><b><i>Getting Started</i> link in Settings.</b></span>
+    <span class="de"><b><i>Schnelleinstieg</i>-Link in den Einstellungen.</b></span>
+  </li>
+  <li>
+    <span class="en"><b>Some errors eliminated.</b></span>
+    <span class="de"><b>Einige Fehlerbehebungen.</b></span>
+  </li>
+</ul>
+
+<h3>1.7</h3>
+<p>
+  <span class="en"><b>With this release <i><b>KTrunk</b></i> has evolved to the next level. After a fundamental redesign of the app's code base I was able to streamline and enhance several functionalities.</b></span>
+  <span class="de"><b>Mit diesem Release hat <i><b>KTrunk</b></i> eine neue Entwicklungsstufe erreicht. Nach einer grundlegenden Überarbeitung der App konnte ich verschiedene Funktionalitäten straffen und verbessern.</b></span>
+</p>
 <ul>
   <li>
     <span class="en"><b>Several user-interface enhancements.</b></span>
