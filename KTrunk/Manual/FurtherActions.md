@@ -18,6 +18,23 @@
   <span class="en">Here you find additional actions that you can perform. These actions are dependent on the current document type. Most of them are self-explanatory.</span>
   <span class="de">Hier findet man weitere Aktionen, die man ausführen kann. Die möglichen Aktionen sind abhängig von dem angezeigten Dokumententyp. Die meisten sind selbserklärend.</span>
 </p>
+
+<a name="tablesort">
+<h4>
+  <span class="en">Sort Table</span>
+  <span class="de">Tabelle sortieren</span>
+</h4>
+</a>
+<p>
+  <span class="en">If a table contains a header row, a click on a cell in the header row will sort the table's body according to data in the clicked column. Clicking again will reverse the sort order.</span>
+  <span class="de">Falls eine Tabelle eine Kopfzeile enthält, kann man die Daten in dem Tabellenkörper mit einem Klick auf eine Zelle in der Kopfzeile entsprechend den Daten in der angeklickten Spalte sortieren. Ein abermaliger Klick kehrt die Sortierfolge um.</span>
+</p>
+<p>
+  <span class="en">To persist the sort sequence of the table permanently you must switch into the edit mode and then save the note.</span>
+  <span class="de">Um die Sortierfolge der Tabelle permanent zu erhalten, muss man kurz in den Bearbeitungsmodus gehen und die Notiz dann speichern.</span>
+</p>
+
+
 <h4>
   <span class="en"><i>Share</i></span>
   <span class="de"><i>Teilen</i></span>
