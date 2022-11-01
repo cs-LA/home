@@ -75,8 +75,8 @@
     </li>
   </ul>
   <li>
-    <span class="en"><b>Some errors eliminated.</b></span>
-    <span class="de"><b>Einige Fehlerbehebungen.</b></span>
+    <span class="en">Some errors eliminated.</span>
+    <span class="de">Einige Fehlerbehebungen.</span>
   </li>
   <li>
     <span class="en"><b>The opportunity to switch iCloud on/off to synchronize your knowledge across all your iOS devices was removed from the settings. Use the iCloud-Setting from your device instead.</b></span>
@@ -87,16 +87,16 @@
 <h3>1.6</h3>
 <ul>
   <li>
-    <span class="en"><b>Basic font-size specification in settings.</b></span>
-    <span class="de"><b>Basis-Schriftgröße in den Einstellungen festlegbar.</b></span>
+    <span class="en">Basic font-size specification in settings.</span>
+    <span class="de">Basis-Schriftgröße in den Einstellungen festlegbar.</span>
   </li>
 </ul>
 
 <h3>1.3</h3>
 <ul>
   <li>
-    <span class="en"><b>German language support.</b></span>
-    <span class="de"><b>Sprachunterstützung für Deutsch.</b></span>
+    <span class="en">German language support.</span>
+    <span class="de">Sprachunterstützung für Deutsch.</span>
   </li>
   <li>
     <span class="en"><b>Backup / Restore</b></span>
@@ -107,20 +107,20 @@
 <h3>1.1</h3>
 <ul>
   <li>
-    <span class="en"><b>Search with multiple searchterms for documents.</b></span>
-    <span class="de"><b>Mit mehreren Suchbegriffen nach einem Dokument suchen.</b></span>
+    <span class="en">Search with multiple searchterms for documents.</span>
+    <span class="de">Mit mehreren Suchbegriffen nach einem Dokument suchen.</span>
   </li>
   <li>
-    <span class="en"><b>Info if a file couldn't be indexed automatically.</b></span>
-    <span class="de"><b>Info, wenn ein File nicht automatisch indiziert werden konnte.</b></span>
+    <span class="en">Info if a file couldn't be indexed automatically.</span>
+    <span class="de">Info, wenn ein File nicht automatisch indiziert werden konnte.</span>
   </li>
   <li>
-    <span class="en"><b><i>Getting Started</i> link in Settings.</b></span>
-    <span class="de"><b><i>Schnelleinstieg</i>-Link in den Einstellungen.</b></span>
+    <span class="en"><i>Getting Started</i> link in Settings.</span>
+    <span class="de"><i>Schnelleinstieg</i>-Link in den Einstellungen.</span>
   </li>
   <li>
-    <span class="en"><b>Some errors eliminated.</b></span>
-    <span class="de"><b>Einige Fehlerbehebungen.</b></span>
+    <span class="en">Some errors eliminated.</span>
+    <span class="de">Einige Fehlerbehebungen.</span>
   </li>
 </ul>
 
