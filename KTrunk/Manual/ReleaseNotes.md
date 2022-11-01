@@ -16,8 +16,8 @@
 
 <h3>1.9</h3>
 <p>
-  <span class="en"><b>This time I implemented two new features.</b></span>
-  <span class="de"><b>Diesmal wurden zwei neue Merkmale implementiert.</b></span>
+  <span class="en">This time I implemented two new features.</span>
+  <span class="de">Diesmal wurden zwei neue Merkmale implementiert.</span>
 </p>
 <ul>
   <li>
