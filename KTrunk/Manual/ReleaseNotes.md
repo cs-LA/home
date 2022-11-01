@@ -14,7 +14,7 @@
   Release Notes
 </h1>
 
-<h3>1.8</h3>
+<h3>1.9</h3>
 <p>
   <span class="en"><b>This time I implemented two new features.</b></span>
   <span class="de"><b>Diesmal wurden zwei neue Merkmale implementiert.</b></span>
@@ -29,6 +29,12 @@
     <span class="de"><b>Verschlüsseln einer Notiz.</b><br>Verschlüsselung/Entschlüsselung ist als <em>In-App Kauf</em> verfügbar.</span>
   </li>
 </ul>
+
+<h3>1.8</h3>
+<p>
+  <span class="en"><b>There was a deployment problem with this version. Therefore I had to shift the new features to version 1.9.</b></span>
+  <span class="de"><b>Es gab ein Auslieferungsproblem mit dieser Version. Deshalb konnte ich die neuen Merkmale erst mit Version 1.9 bereitstellen.</b></span>
+</p>
 
 <h3>1.7</h3>
 <p>
