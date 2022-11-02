@@ -14,6 +14,26 @@
   Release Notes
 </h1>
 
+<h3>1.10</h3>
+<p>
+  <span class="en">This version provides some additional useful features.</span>
+  <span class="de">Diese Version stellt weitere nützliche Merkmale zur Verfügung.</span>
+</p>
+<ul>
+  <li>
+    <span class="en"><b>Search in page</b><br>This is available with the In-App purchase <em>Operating Convenience</em>.</span>
+    <span class="de"><b>Auf der Seite suchen</b><br>Dies ist mit dem In-App Kauf <em>Bedienungserleichterungen</em> verfügbar.</span>
+  </li>
+  <li>
+    <span class="en"><b><em>Swipe</em> through search results</b><br>This is available with the In-App purchase <em>Operating Convenience</em>.</span>
+    <span class="de"><b>Die Suchergebnisse mit <em>Streichgesten</em> durchblättern</b><br>Dies ist mit dem In-App Kauf <em>Bedienungserleichterungen</em> verfügbar.</span>
+  </li>
+  <li>
+    <span class="en"><b>Home-Screen Quick-Actions</b><br>This is available with the In-App purchase <em>Operating Convenience</em>.</span>
+    <span class="de"><b>Schnell-Acktionen vom Startbildschirm aus</b><br>Dies ist mit dem In-App Kauf <em>Bedienungserleichterungen</em> verfügbar.</span>
+  </li>
+</ul>
+
 <h3>1.9</h3>
 <p>
   <span class="en">This time I implemented two new features.</span>
