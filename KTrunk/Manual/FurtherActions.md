@@ -18,10 +18,10 @@
   <span class="en">Here you find additional actions that you can perform. These actions are dependent on the current document type. Most of them are self-explanatory.</span>
   <span class="de">Hier findet man weitere Aktionen, die man ausführen kann. Die möglichen Aktionen sind abhängig von dem angezeigten Dokumententyp. Die meisten sind selbserklärend.</span>
 </p>
-<h4 id="tablesort"><span class="en">Sort Table</span><span class="de">Tabelle sortieren</span></h4>
+<h4 id="FindInPage"><span class="en">Find in page</span><span class="de">Auf der Seite suchen</span></h4>
 <p>
-  <span class="en">If a table contains a header row, a click on a cell in the header row will sort the table's body according to data in the clicked column. Clicking again will reverse the sort order.</span>
-  <span class="de">Falls eine Tabelle eine Kopfzeile enthält, kann man die Daten in dem Tabellenkörper mit einem Klick auf eine Zelle in der Kopfzeile entsprechend den Daten in der angeklickten Spalte sortieren. Ein abermaliger Klick kehrt die Sortierfolge um.</span>
+  <span class="en">This button will show a search-bar on the screen. You may enter a search-string which you can search for using the forward/backward buttons. If you reach the end/top of a page these buttons will indicate it with an <em>wrap-around</em> symbol. Pressing it will restart the search at the other end of the page.</span>
+  <span class="de">Diese Schaltfläche zeigt ein Suchelement auf dem Bildschirm an. Hier kann ein Suchbegriff eingegeben werden, nach dem man dann mit den Vorwarts-/Rückwarts-Schaltflächen suchen kann. Wenn man am AndeTAnfang einer Seite angekommen ist, ändert sich das Symbol der Schaltfläche in ein <em>Neubeginn</em>-Symbol.</span>
 </p>
 <p>
   <span class="en">To persist the sort sequence of the table permanently you must switch into the edit mode and then save the note.</span>
