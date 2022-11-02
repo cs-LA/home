@@ -41,12 +41,12 @@
 </p>
 <ul>
   <li>
-    <span class="en"><b><a href="./TipsAndTricks.html#TableSort">Sort a table</a> by clicking a header cell.</b></span>
-    <span class="de"><b>Sortieren einer Tabelle durch anklicken einer Zelle in einer Kopfzeile.</b></span>
+    <span class="en"><b><a href="./TipsAndTricks.html#TableSort">Sort a table</a></b> by clicking a header cell.</b></span>
+    <span class="de"><b><a href="./TipsAndTricks.html#TableSort">Sortieren einer Tabelle</a></b> durch anklicken einer Zelle in einer Kopfzeile.</b></span>
   </li>
   <li>
-    <span class="en"><b>Encrypt a note.</b><br>Encryption/Decryption is available as <em>In-App purchase</em>.</span>
-    <span class="de"><b>Verschlüsseln einer Notiz.</b><br>Verschlüsselung/Entschlüsselung ist als <em>In-App Kauf</em> verfügbar.</span>
+  <span class="en"><b><a href="./EditMode.html#Encryption">Encrypt a note.</a></b><br>Encryption/Decryption is available as <em>In-App purchase</em>.</span>
+  <span class="de"><b><a href="./EditMode.html#Encryption">Verschlüsseln einer Notiz.</a></b><br>Verschlüsselung/Entschlüsselung ist als <em>In-App Kauf</em> verfügbar.</span>
   </li>
 </ul>
 
