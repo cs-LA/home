@@ -42,7 +42,7 @@
 <ul>
   <li>
     <span class="en"><b><a href="./TipsAndTricks.html#TableSort">Sort a table</a></b> by clicking a header cell.</b></span>
-    <span class="de"><b><a href="./TipsAndTricks.html#TableSort">Sortieren einer Tabelle</a></b> durch anklicken einer Zelle in einer Kopfzeile.</b></span>
+    <span class="de"><b><a href="./TipsAndTricks.html#TableSort">Sortieren einer Tabelle</a></b> durch anklicken einer Zelle in einer Kopfzeile.</span>
   </li>
   <li>
   <span class="en"><b><a href="./EditMode.html#Encryption">Encrypt a note.</a></b><br>Encryption/Decryption is available as <em>In-App purchase</em>.</span>
