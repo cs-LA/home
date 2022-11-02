@@ -14,6 +14,15 @@
   <span class="en">Tips and Tricks</span>
   <span class="de">Tipps und Tricks</span>
 </h1>
+<h3 id="tablesort"><span class="en">Sort Table</span><span class="de">Tabelle sortieren</span></h3>
+<p>
+  <span class="en">If a table contains a header row, a click on a cell in the header row will sort the table's body according to data in the clicked column. Clicking again will reverse the sort order.</span>
+  <span class="de">Falls eine Tabelle eine Kopfzeile enthält, kann man die Daten in dem Tabellenkörper mit einem Klick auf eine Zelle in der Kopfzeile entsprechend den Daten in der angeklickten Spalte sortieren. Ein abermaliger Klick kehrt die Sortierfolge um.</span>
+</p>
+<p>
+  <span class="en">To persist the sort sequence of the table permanently you must switch into the edit mode and then save the note.</span>
+  <span class="de">Um die Sortierfolge der Tabelle permanent zu erhalten, muss man kurz in den Bearbeitungsmodus gehen und die Notiz dann speichern.</span>
+</p>
 <h3>
   <span class="en">Clear duplicate documents</span>
   <span class="de">Doppelte Dokumente bereinigen</span>
