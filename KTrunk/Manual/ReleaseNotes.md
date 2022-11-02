@@ -22,15 +22,15 @@
 <ul>
   <li>
     <span class="en"><b><a href="./FurtherActions.html#FindInPage">Search in page</a></b><br>This is available with the In-App purchase <em>Operating Convenience</em>.</span>
-    <span class="de"><b>Auf der Seite suchen</b><br>Dies ist mit dem In-App Kauf <em>Bedienungserleichterungen</em> verfügbar.</span>
+    <span class="de"><b><a href="./FurtherActions.html#FindInPage">Auf der Seite suchen</a></b><br>Dies ist mit dem In-App Kauf <em>Bedienungserleichterungen</em> verfügbar.</span>
   </li>
   <li>
-    <span class="en"><b><em>Swipe</em> through search results</b><br>This is available with the In-App purchase <em>Operating Convenience</em>.</span>
-    <span class="de"><b>Die Suchergebnisse mit <em>Streichgesten</em> durchblättern</b><br>Dies ist mit dem In-App Kauf <em>Bedienungserleichterungen</em> verfügbar.</span>
+    <span class="en"><b><em><a href="./TipsAndTricks.html#SwipeSearchResults">Swipe</em> through search results</a></b><br>This is available with the In-App purchase <em>Operating Convenience</em>.</span>
+    <span class="de"><b><a href="./TipsAndTricks.html#SwipeSearchResults">Die Suchergebnisse mit <em>Streichgesten</em> durchblättern</a></b><br>Dies ist mit dem In-App Kauf <em>Bedienungserleichterungen</em> verfügbar.</span>
   </li>
   <li>
-    <span class="en"><b>Home-Screen Quick-Actions</b><br>This is available with the In-App purchase <em>Operating Convenience</em>.</span>
-    <span class="de"><b>Schnell-Acktionen vom Startbildschirm aus</b><br>Dies ist mit dem In-App Kauf <em>Bedienungserleichterungen</em> verfügbar.</span>
+    <span class="en"><b><a href="./TipsAndTricks.html#HomeScreenQuickActions">Home-Screen Quick-Actions</a></b><br>This is available with the In-App purchase <em>Operating Convenience</em>.</span>
+    <span class="de"><b><a href="./TipsAndTricks.html#HomeScreenQuickActions">Schnell-Acktionen vom Startbildschirm aus</a></b><br>Dies ist mit dem In-App Kauf <em>Bedienungserleichterungen</em> verfügbar.</span>
   </li>
 </ul>
 
