@@ -15,6 +15,16 @@
   <span class="de">Tipps und Tricks</span>
 </h1>
 
+<h3 id="TableSort"><span class="en">Sort Table</span><span class="de">Tabelle sortieren</span></h3>
+<p>
+  <span class="en">If a table contains a header row, a click on a cell in the header row will sort the table's body according to data in the clicked column. Clicking again will reverse the sort order.</span>
+  <span class="de">Falls eine Tabelle eine Kopfzeile enthält, kann man die Daten in dem Tabellenkörper mit einem Klick auf eine Zelle in der Kopfzeile entsprechend den Daten in der angeklickten Spalte sortieren. Ein abermaliger Klick kehrt die Sortierfolge um.</span>
+</p>
+<p>
+  <span class="en">To persist the sort sequence of the table permanently you must switch into the edit mode and then save the note.</span>
+  <span class="de">Um die Sortierfolge der Tabelle permanent zu erhalten, muss man kurz in den Bearbeitungsmodus gehen und die Notiz dann speichern.</span>
+</p>
+
 <h3 id="SwipeSearchResults"><span class="en"><em>Swipe</em> through search results</span><span class="de">Suchergebnisse mit <em>Streichgesten</em> durchblättern</span></h3>
 <p>
   <span class="en">If you have selected a document from the search screen you can <em>swipe</em> through the search result list. When swiping is enabled the search button symbol is changed to a magnifying glass with two small lines in it. </span>
@@ -25,14 +35,14 @@
   <span class="de">Streichen nach Rechts führt zur Anzeige des nächsten Dokuments aus der Suchergebnisliste, Streichen nach Links zu dem vorherigen. Dabei wird automatisch ans andere Ende der Suchergebnisliste gewechselt, wenn ein Ende erreicht wird.</span>
 </p>
 
-<h3 id="TableSort"><span class="en">Sort Table</span><span class="de">Tabelle sortieren</span></h3>
+<h3 id="HomeScreenQuickActions"><span class="en">Home-Screen <em>Quick-Actions</em></span><span class="de"><em>Schnell-Aktionen</em> vom Startbildschirm aus</span></h3>
 <p>
-  <span class="en">If a table contains a header row, a click on a cell in the header row will sort the table's body according to data in the clicked column. Clicking again will reverse the sort order.</span>
-  <span class="de">Falls eine Tabelle eine Kopfzeile enthält, kann man die Daten in dem Tabellenkörper mit einem Klick auf eine Zelle in der Kopfzeile entsprechend den Daten in der angeklickten Spalte sortieren. Ein abermaliger Klick kehrt die Sortierfolge um.</span>
+  <span class="en">With a long-press on the app icon on the home screen you get direct access to a <em>QuickNote</em> and the last three modified notes.</span>
+  <span class="de">Mit einem langen Druck auf das App-Icon auf dem Start-Bildschirm bekommt man direkten Zugriff auf eine <em>SchnellNotiz</em> und die drei zuletzt modifizierten Notizen.</span>
 </p>
 <p>
-  <span class="en">To persist the sort sequence of the table permanently you must switch into the edit mode and then save the note.</span>
-  <span class="de">Um die Sortierfolge der Tabelle permanent zu erhalten, muss man kurz in den Bearbeitungsmodus gehen und die Notiz dann speichern.</span>
+  <span class="en">The <em>QuickNote</> is usefull to take notes immediately. Consider it like an inbox where you can store notes temporarily until you have integrated in a more meaningful note.</span>
+    <span class="de">Die <em>SchnellNotiz</em> ist nützlich, um schnell eine Notiz aufzunehmen. Sie kann wie ein Schmierzettel betrachtet werden, auf den man Informationen notiert, bis man sie in Notizen mit aussagekräftigeren Namen aufnimmt.</span>
 </p>
 
 <h3>
