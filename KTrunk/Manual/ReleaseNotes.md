@@ -21,8 +21,8 @@
 </p>
 <ul>
   <li>
-    <span class="en"><b><a href="./FurtherActions.html#FindInPage">Search in page</a></b><br>This is available with the In-App purchase <em>Operating Convenience</em>.</span>
-    <span class="de"><b><a href="./FurtherActions.html#FindInPage">Auf der Seite suchen</a></b><br>Dies ist mit dem In-App Kauf <em>Bedienungserleichterungen</em> verfügbar.</span>
+    <span class="en"><b><a href="./FurtherActions.html#SearchInPage">Search in page</a></b><br>This is available with the In-App purchase <em>Operating Convenience</em>.</span>
+    <span class="de"><b><a href="./FurtherActions.html#SearchInPage">Auf der Seite suchen</a></b><br>Dies ist mit dem In-App Kauf <em>Bedienungserleichterungen</em> verfügbar.</span>
   </li>
   <li>
     <span class="en"><b><a href="./TipsAndTricks.html#SwipeSearchResults"><em>Swipe</em> through search results</a></b><br>This is available with the In-App purchase <em>Operating Convenience</em>.</span>
