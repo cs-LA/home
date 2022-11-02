@@ -14,7 +14,7 @@
   <span class="en">Tips and Tricks</span>
   <span class="de">Tipps und Tricks</span>
 </h1>
-<h3 id="tablesort"><span class="en">Sort Table</span><span class="de">Tabelle sortieren</span></h3>
+<h3 id="TableSort"><span class="en">Sort Table</span><span class="de">Tabelle sortieren</span></h3>
 <p>
   <span class="en">If a table contains a header row, a click on a cell in the header row will sort the table's body according to data in the clicked column. Clicking again will reverse the sort order.</span>
   <span class="de">Falls eine Tabelle eine Kopfzeile enthält, kann man die Daten in dem Tabellenkörper mit einem Klick auf eine Zelle in der Kopfzeile entsprechend den Daten in der angeklickten Spalte sortieren. Ein abermaliger Klick kehrt die Sortierfolge um.</span>
