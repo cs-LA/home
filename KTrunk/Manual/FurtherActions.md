@@ -18,7 +18,7 @@
   <span class="en">Here you find additional actions that you can perform. These actions are dependent on the current document type. Most of them are self-explanatory.</span>
   <span class="de">Hier findet man weitere Aktionen, die man ausführen kann. Die möglichen Aktionen sind abhängig von dem angezeigten Dokumententyp. Die meisten sind selbserklärend.</span>
 </p>
-<h4 id="FindInPage"><span class="en">Find in page</span><span class="de">Auf der Seite suchen</span></h4>
+<h4 id="SearchInPage"><span class="en">Search in page</span><span class="de">Auf der Seite suchen</span></h4>
 <p>
   <span class="en">This button will show a search-bar on the screen. You may enter a search-string which you can search for using the forward/backward buttons. If you reach the end/top of a page these buttons will indicate it with an <em>wrap-around</em> symbol. Pressing it will restart the search at the other end of the page.</span>
   <span class="de">Diese Schaltfläche zeigt ein Suchelement auf dem Bildschirm an. Hier kann ein Suchbegriff eingegeben werden, nach dem man dann mit den Vorwarts-/Rückwarts-Schaltflächen suchen kann. Wenn man am AndeTAnfang einer Seite angekommen ist, ändert sich das Symbol der Schaltfläche in ein <em>Neubeginn</em>-Symbol.</span>
