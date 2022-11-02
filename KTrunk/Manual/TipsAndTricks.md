@@ -41,7 +41,7 @@
   <span class="de">Mit einem langen Druck auf das App-Icon auf dem Start-Bildschirm bekommt man direkten Zugriff auf eine <em>SchnellNotiz</em> und die drei zuletzt modifizierten Notizen.</span>
 </p>
 <p>
-  <span class="en">The <em>QuickNote</> is usefull to take notes immediately. Consider it like an inbox where you can store notes temporarily until you have integrated in a more meaningful note.</span>
+  <span class="en">The <em>QuickNote</em> is usefull to take notes immediately. Consider it like an inbox where you can store notes temporarily until you have integrated them into a more meaningful note.</span>
     <span class="de">Die <em>SchnellNotiz</em> ist nützlich, um schnell eine Notiz aufzunehmen. Sie kann wie ein Schmierzettel betrachtet werden, auf den man Informationen notiert, bis man sie in Notizen mit aussagekräftigeren Namen aufnimmt.</span>
 </p>
 
