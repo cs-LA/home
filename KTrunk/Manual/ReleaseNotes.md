@@ -41,7 +41,7 @@
 </p>
 <ul>
   <li>
-    <span class="en"><b>Sort a table by clicking a header cell.</b></span>
+    <span class="en"><b><a href="./TipsAndTricks.html">Sort a table</a> by clicking a header cell.</b></span>
     <span class="de"><b>Sortieren einer Tabelle durch anklicken einer Zelle in einer Kopfzeile.</b></span>
   </li>
   <li>
