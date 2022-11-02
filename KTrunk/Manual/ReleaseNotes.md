@@ -21,7 +21,7 @@
 </p>
 <ul>
   <li>
-    <span class="en"><b>Search in page</b><br>This is available with the In-App purchase <em>Operating Convenience</em>.</span>
+    <span class="en"><b><a href="./FurtherActions.html#FindInPage">Search in page</a></b><br>This is available with the In-App purchase <em>Operating Convenience</em>.</span>
     <span class="de"><b>Auf der Seite suchen</b><br>Dies ist mit dem In-App Kauf <em>Bedienungserleichterungen</em> verfügbar.</span>
   </li>
   <li>
@@ -41,7 +41,7 @@
 </p>
 <ul>
   <li>
-    <span class="en"><b><a href="./TipsAndTricks.html">Sort a table</a> by clicking a header cell.</b></span>
+    <span class="en"><b><a href="./TipsAndTricks.html#TableSort">Sort a table</a> by clicking a header cell.</b></span>
     <span class="de"><b>Sortieren einer Tabelle durch anklicken einer Zelle in einer Kopfzeile.</b></span>
   </li>
   <li>
