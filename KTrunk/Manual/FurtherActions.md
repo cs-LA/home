@@ -20,8 +20,12 @@
 </p>
 <h4 id="SearchInPage"><span class="en">Search in page</span><span class="de">Auf der Seite suchen</span></h4>
 <p>
-  <span class="en">This button will show a search-bar on the screen. You may enter a search-string which you can search for using the forward/backward buttons. If you reach the end/top of a page these buttons will indicate it with an <em>wrap-around</em> symbol. Pressing it will restart the search at the other end of the page.</span>
-  <span class="de">Diese Schaltfläche zeigt ein Suchelement auf dem Bildschirm an. Hier kann ein Suchbegriff eingegeben werden, nach dem man dann mit den Vorwarts-/Rückwarts-Schaltflächen suchen kann. Wenn man am Ende/Anfang einer Seite angekommen ist, ändert sich das Symbol der Schaltfläche in ein <em>Neubeginn</em>-Symbol.</span>
+  <span class="en">This button will show a search-bar on the screen. You may enter a search-string which you can search for using the forward/backward buttons.</span>
+  <span class="de">Diese Schaltfläche zeigt ein Suchelement auf dem Bildschirm an. Hier kann ein Suchbegriff eingegeben werden, nach dem man dann mit den Vorwarts-/Rückwarts-Schaltflächen suchen kann.</span>
+</p>
+<p>
+  <span class="en">If you reach the end/top of a page these buttons will indicate it with an <em>wrap-around</em> symbol. Pressing it will restart the search at the other end of the page.</span>
+  <span class="de">Wenn man am Ende/Anfang einer Seite angekommen ist, ändert sich das Symbol der Schaltfläche in ein <em>Neubeginn</em>-Symbol. Durch erneutes Drücken wird am anderen Ende der Seite wieder mit der Suche begonnen.</span>
 </p>
 <h4>
   <span class="en"><i>Share</i></span>
