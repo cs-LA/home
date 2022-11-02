@@ -14,6 +14,17 @@
   <span class="en">Tips and Tricks</span>
   <span class="de">Tipps und Tricks</span>
 </h1>
+
+<h3 id="SwipeSearchResults"><span class="en"><em>Swipe</em> through search results</span><span class="de">Suchergebnisse mit <em>Streichgesten</em> durchblättern</span></h3>
+<p>
+  <span class="en">If you have selected a document from the search screen you can <em>swipe</em> through the search result list. When swiping is enabled the search button symbol is changed to a magnifying glass with two small lines in it. </span>
+  <span class="de">Wenn ein Dokument von der Liste der Suchergebnisse selektiert wurde, ist es möglich, mit Streichgesten durch die Suchergebnisliste zu blättern. Wenn dieses Blättern durch Streichgesten möglich ist, wird das Symbol auf der Such-Schaltfläche zu einem Vergrößerungsglas mit zwei kleinen Strichen darin.</span>
+</p>
+<p>
+  <span class="en">Swiping to the right will switch to the next document in the search result list, swiping to the left to the previous one. This automatically wraps to the other end of the search result list when an end of the list is reached.</span>
+  <span class="de">Streichen nach Rechts führt zur Anzeige des nächsten Dokuments aus der Suchergebnisliste, Streichen nach Links zu dem vorherigen. Dabei wird automatisch ans andere Ende der Suchergebnisliste gewechselt, wenn ein Ende erreicht wird.</span>
+</p>
+
 <h3 id="TableSort"><span class="en">Sort Table</span><span class="de">Tabelle sortieren</span></h3>
 <p>
   <span class="en">If a table contains a header row, a click on a cell in the header row will sort the table's body according to data in the clicked column. Clicking again will reverse the sort order.</span>
@@ -23,6 +34,7 @@
   <span class="en">To persist the sort sequence of the table permanently you must switch into the edit mode and then save the note.</span>
   <span class="de">Um die Sortierfolge der Tabelle permanent zu erhalten, muss man kurz in den Bearbeitungsmodus gehen und die Notiz dann speichern.</span>
 </p>
+
 <h3>
   <span class="en">Clear duplicate documents</span>
   <span class="de">Doppelte Dokumente bereinigen</span>
