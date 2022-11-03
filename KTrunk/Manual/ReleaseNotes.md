@@ -33,6 +33,10 @@
     <span class="de"><b><a href="./TipsAndTricks.html#HomeScreenQuickActions">Schnell-Aktionen vom Startbildschirm aus</a></b><br>Dies ist mit dem In-App Kauf <em>Bedienungserleichterungen</em> verfügbar.</span>
   </li>
 </ul>
+<p>
+  <span class="en">Further some smaller enhancements were implemented and a problem with an annoying erroneous migration screen at the initial invocation was resolved.</span>
+  <span class="de">Ferner wurden einige kleinere Verbesserungen implementiert und ein Fehler mit einem nervigen, irrtümlich angezeigten Migrations-Bildschirm beim ersten Aufruf behoben.</span>
+</p>
 
 <h3>1.9</h3>
 <p>
