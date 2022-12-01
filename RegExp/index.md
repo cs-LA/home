@@ -4,7 +4,7 @@
 
 Put all the characters that you want to disallow inside the square brackets like below
 
-[~`^<>]
+´´´[~`^<>]
 
 Add a ^ character to the beginning to say disallow the following characters
 
