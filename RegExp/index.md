@@ -2,7 +2,7 @@
 
 ### Exclude invalid characters from a string
 
-Put all the characters that you want to disallow inside the square brackets `[~\`^<>]`
+Put all the characters that you want to disallow inside the square brackets `[~/`^<>]`
 
 Add a ^ character to the beginning to say disallow the following characters
 
