@@ -8,7 +8,7 @@ Add a <code>^</code> character to the beginning to say *disallow* the following 
 
 Add a <code>+</code> to the end to check if *one or more of these characters* exist <code>[^~`^<>]+</code>
 
-Add the *anchors* around it <code>^[^~`^<>]+$</code>
+Add the *start and end of string anchors* around it <code>^[^~`^<>]+$</code>
 
  
 
