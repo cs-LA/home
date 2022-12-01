@@ -6,7 +6,7 @@ Put all the characters that you want to disallow inside the square brackets <cod
 
 Add a <code>^</code> character to the beginning to say *disallow* the following characters <code>[^~`^<>]</code>
 
-Add a <code>+</code> to the end to check if *one or more of these characters* exist <pre>[^~`^<>]+</pre>
+Add a <code>+</code> to the end to check if *one or more of these characters* exist <code>[^~`^<>]+</code>
 
 Add the *anchors* around it <code>^[^~`^<>]+$</code>
 
