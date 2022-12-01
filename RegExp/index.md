@@ -4,26 +4,20 @@
 
 Put all the characters that you want to disallow inside the square brackets <code>\[~\`^<>\]</code>
 
-Add a ^ character to the beginning to say disallow the following characters
+Add a <code>^</code> character to the beginning to say *disallow* the following characters <code>[^~`^<>]</code>
 
-[^~`^<>]
+Add a <code>+</code> to the end to check if *one or more of these characters* exist <code>[^~`^<>]+</code>
 
-Add a + to the end to check if one or more of these characters exist
-
-[^~`^<>]+
-
-Add the anchors around it
-
-^[^~`^<>]+$
+Add the *anchors* around it <code>^[^~`^<>]+$</code>
 
  
 
 And you are all done:
 
-string expression = @"^[^~`^<>]+$";
+<code>
+ string expression = @"^[^~`^<>]+$";
+ Regex regexp = new Regex(expression);
+ regex.IsMatch("Hell~o");
+</code>
 
-Regex regex = new Regex(expression);
-
-regex.IsMatch("Hell~o");
-
-The above should return false.
+... should return <code>false</code>.
