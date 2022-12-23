@@ -23,3 +23,29 @@
   <span class="en">With the <b><i>Privacy</i></b> feature you are able to encrypt your sensitive notes.</span>
   <span class="de">Mit dem Feature <b><i>Privatsphäre</i></b> kann man seine sensitiven Notizen verschlüsseln.</span>
 </p>
+
+
+
+<h3>
+  <span class="en">Operating Convenience</span>
+  <span class="de">Bedienungserleichterungen</span>
+</h3>
+<p>
+  <span class="en">This In-App purchase provides some features that will ease your work with <em>KTrunk</em>.</span>
+  <span class="de">Dieser In-App-Kauf stellt Erleichterungen für die Bedienung von <em>KTrunk</em> zur Verfügung.</span>
+</p>
+<ul>
+  <li>
+    <span class="en"><a href="./FurtherActions.html#SearchInPage">Search in page.</a></span>
+    <span class="de"><a href="./FurtherActions.html#SearchInPage">Auf der Seite suchen.</a></span>
+  </li>
+  <li>
+    <span class="en"><a href="./TipsAndTricks.html#SwipeSearchResults"><em>Swipe</em> through search results.</a></span>
+    <span class="de"><a href="./TipsAndTricks.html#SwipeSearchResults">Die Suchergebnisse mit <em>Streichgesten</em> durchblättern.</a></span>
+  </li>
+  <li>
+    <span class="en"><a href="./TipsAndTricks.html#HomeScreenQuickActions">Home-Screen Quick-Actions.</a></span>
+    <span class="de"><a href="./TipsAndTricks.html#HomeScreenQuickActions">Schnell-Aktionen vom Startbildschirm aus.</a></span>
+  </li>
+</ul>
+<p>
