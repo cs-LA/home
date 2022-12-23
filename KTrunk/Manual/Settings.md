@@ -59,13 +59,21 @@
   <span class="de">Um ungewünschte Vorschläge zu vermeiden, kann man sie mit regulären Ausdrücken unterdrücken. Hier einige Beispiele:</span>
 </p>
 <ul>
-  <li><code>[~/'<\>]+ (.)\1{4} ^#{2,} .{13,}</code>
-    <span class="en">Avoid any proposal that contains one of the characters between the square brackets.</span>
-    <span class="de">Um ungewünschte Vorschläge zu vermeiden, kann man sie mit regulären Ausdrücken unterdrücken. Hier einige Beispiele:</span>
+  <li><code>[~/'<\>]+</code>
+    <span class="en">Suppress any proposal that contains one of the characters between the square brackets.</span>
+    <span class="de">Unterdrücke alle Vorschläge, die eines der Zeichen zwischen den eckigen Klammern enthalten.</span>
   </li>
-  <li>
-    <span class="en">To avoid unwanted proposals you can suppress them by using regular expression. Here are some examples:</span>
-    <span class="de">Um ungewünschte Vorschläge zu vermeiden, kann man sie mit regulären Ausdrücken unterdrücken. Hier einige Beispiele:</span>
+  <li><code>(.)\1{4}</code>
+    <span class="en">Suppress any proposal that contains one and the same character more than 4 times in a row.</span>
+    <span class="de">Unterdrücke alle Vorschläge, die ein und das gleiche Zeichen mehr als viermal hintereinander enthalten.</span>
+  </li>
+  <li><code>^#{2,}</code>
+    <span class="en">Suppress any proposal that start with more than one <code>#</code>.</span>
+      <span class="de">Unterdrücke alle Vorschläge, die mit mehr als einem <code>#</code> beginnen.</span>
+  </li>
+  <li><code>.{25,}</code>
+    <span class="en">Suppress any proposal that consist of more than 25 characters.</span>
+    <span class="de">Unterdrücke alle Vorschläge, die aus mehr als 25 Zeichen bestehen.</span>
   </li>
 </ul>
 <h3>
