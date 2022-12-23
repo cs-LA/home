@@ -55,8 +55,8 @@
   <span class="de">Wenn diese Funktionalität aktiviert ist, bekommt man Vorschläge für Wörter, die mit einem <code>#</code> beginnen. Diese Vorschläge sind #Tags, die schon in Notizen verwendet wurden. Diese Vorschläge werden auch bei der Eingabe von Suchbegriffen gemacht.</span>
 </p>
 <p>
-  <span class="en">To avoid unwanted proposals you can suppress them by using regular expression. Here are some examples:</span>
-  <span class="de">Um ungewünschte Vorschläge zu vermeiden, kann man sie mit regulären Ausdrücken unterdrücken. Hier einige Beispiele:</span>
+  <span class="en">To avoid unwanted proposals you can suppress them by using <a href="https://en.wikipedia.org/wiki/Regular_expression">regular expression</a>. Here are some examples:</span>
+  <span class="de">Um ungewünschte Vorschläge zu vermeiden, kann man sie mit <a href="[https://en.wikipedia.org/wiki/Regular_expression](https://de.wikipedia.org/wiki/Regulärer_Ausdruck)">regulären Ausdrücken</a> unterdrücken. Hier einige Beispiele:</span>
 </p>
 <ul>
   <li><code>[~/'<\>]+</code>
