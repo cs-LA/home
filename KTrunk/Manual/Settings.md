@@ -56,7 +56,7 @@
 </p>
 <p>
   <span class="en">To avoid unwanted proposals you can suppress them by using <a href="https://en.wikipedia.org/wiki/Regular_expression">regular expression</a>. Here are some examples:</span>
-  <span class="de">Um ungewünschte Vorschläge zu vermeiden, kann man sie mit <a href="[https://en.wikipedia.org/wiki/Regular_expression](https://de.wikipedia.org/wiki/Regulärer_Ausdruck)">regulären Ausdrücken</a> unterdrücken. Hier einige Beispiele:</span>
+  <span class="de">Um ungewünschte Vorschläge zu vermeiden, kann man sie mit <a href="https://de.wikipedia.org/wiki/Regulärer_Ausdruck">regulären Ausdrücken</a> unterdrücken. Hier einige Beispiele:</span>
 </p>
 <ul>
   <li><code>[~/'<\>]+</code>
