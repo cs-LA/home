@@ -24,8 +24,6 @@
   <span class="de">Mit dem Feature <b><i>Privatsphäre</i></b> kann man seine sensitiven Notizen verschlüsseln.</span>
 </p>
 
-
-
 <h3>
   <span class="en">Operating Convenience</span>
   <span class="de">Bedienungserleichterungen</span>
@@ -49,3 +47,12 @@
   </li>
 </ul>
 <p>
+
+<h3>
+  <span class="en">#Tag-Proposals</span>
+  <span class="de">#Tag Vorschläge</span>
+</h3>
+<p>
+  <span class="en">This In-App purchase provides #Tag proposals as well when editing a note as when searching for a note. This avoid typo errors when associating a #Tag.</span>
+  <span class="de">Dieser In-App-Kauf schlägt schon vergebene #Tags vor; sowohl beim Bearbeiten einer Notiz als auch bei der Suche. Dadurch werden Tippfehle bei der Zuordnung von #Tags vermieden.</span>
+</p>
