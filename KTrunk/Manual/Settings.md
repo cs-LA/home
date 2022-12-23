@@ -24,7 +24,7 @@
 </h3>
 <p>
   <span class="en">By default <em>KTrunk</em> exploits the iCloud to synchronize yout documents across multiple devices. You may switch this off in the device settings.</span>
-  <span class="de">Standardmäßig nutzt <em>KTrunk</em> die iCloud, um die Dokumente auf allen Geräen zu synchronisieren. Dies lässt sich in den Geräte-Einstellungen ausschalten.</span>
+  <span class="de">Standardmäßig nutzt <em>KTrunk</em> die iCloud, um die Dokumente auf allen Geräten zu synchronisieren. Dies lässt sich in den Geräte-Einstellungen ausschalten.</span>
 </p>
 <h3>
   <span class="en">Base Font-Size</span>
@@ -47,13 +47,27 @@
   <span class="de">Hier kann angegeben werden, welches Dokument angezeigt werden soll, wenn man die Home-Schaltfläche <img src="buttons/navHome.jpg" class="appButton"> anklickt.</span>
 </p>
 <h3>
-  <span class="en">The css-Note</span>
-  <span class="de">Die css-Notiz</span>
+  <span class="en">#Tag proposals</span>
+  <span class="de">#Tag-Vorschläge</span>
 </h3>
 <p>
-  <span class="en">Not supported yet.</span>
-  <span class="de">Noch nicht verfügbar.</span>
+  <span class="en">When this feature is enabled you get proposals for words starting with an <code>#</code>. These proposals are other #Tags already used within notes.<br>These proposals are also availble when entering search terms.</span>
+  <span class="de">Wenn diese Funktionalität aktiviert ist, bekommt man Vorschläge für Wörter, die mit einem <code>#</code> beginnen. Diese Vorschläge sind #Tags, die schon in Notizen verwendet wurden. Diese Vorschläge werden auch bei der Eingabe von Suchbegriffen gemacht.</span>
 </p>
+<p>
+  <span class="en">To avoid unwanted proposals you can suppress them by using regular expression. Here are some examples:</span>
+  <span class="de">Um ungewünschte Vorschläge zu vermeiden, kann man sie mit regulären Ausdrücken unterdrücken. Hier einige Beispiele:</span>
+</p>
+<ul>
+  <li>
+    <span class="en">To avoid unwanted proposals you can suppress them by using regular expression. Here are some examples:</span>
+    <span class="de">Um ungewünschte Vorschläge zu vermeiden, kann man sie mit regulären Ausdrücken unterdrücken. Hier einige Beispiele:</span>
+  </li>
+  <li>
+    <span class="en">To avoid unwanted proposals you can suppress them by using regular expression. Here are some examples:</span>
+    <span class="de">Um ungewünschte Vorschläge zu vermeiden, kann man sie mit regulären Ausdrücken unterdrücken. Hier einige Beispiele:</span>
+  </li>
+</ul>
 <h3>
   <span class="en">The Markdown file extensions</span>
   <span class="de">Die Markdown Datei-Endungen</span>
