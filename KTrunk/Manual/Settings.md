@@ -59,8 +59,8 @@
   <span class="de">Um ungewünschte Vorschläge zu vermeiden, kann man sie mit regulären Ausdrücken unterdrücken. Hier einige Beispiele:</span>
 </p>
 <ul>
-  <li>
-    <span class="en">To avoid unwanted proposals you can suppress them by using regular expression. Here are some examples:</span>
+  <li><code>[~/'<\>]+ (.)\1{4} ^#{2,} .{13,}</code>
+    <span class="en">Avoid any proposal that contains one of the characters between the square brackets.</span>
     <span class="de">Um ungewünschte Vorschläge zu vermeiden, kann man sie mit regulären Ausdrücken unterdrücken. Hier einige Beispiele:</span>
   </li>
   <li>
