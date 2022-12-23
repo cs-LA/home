@@ -14,6 +14,13 @@
   Release Notes
 </h1>
 
+
+<h3>1.11</h3>
+<p>
+  <span class="en">Some stability improvements.</span>
+  <span class="de">Einige Stabilitätsverbesserungen.</span>
+</p>
+
 <h3>1.10</h3>
 <p>
   <span class="en">This version provides some additional useful features.</span>
