@@ -68,7 +68,7 @@
     <span class="de">Unterdrücke alle Vorschläge, die ein und das gleiche Zeichen mehr als viermal hintereinander enthalten.</span>
   </li>
   <li><code>^#{2,}</code>
-    <span class="en">Suppress any proposal that start with more than one <code>#</code>.</span>
+    <span class="en">Suppress any proposal that starts with more than one <code>#</code>.</span>
       <span class="de">Unterdrücke alle Vorschläge, die mit mehr als einem <code>#</code> beginnen.</span>
   </li>
   <li><code>.{25,}</code>
