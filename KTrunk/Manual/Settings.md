@@ -21,6 +21,11 @@
 <h3>
   <span class="en">Use iCloud</span>
   <span class="de">iCloud nutzen</span>
+</h3>
+<p>
+  <span class="en">By default <em>KTrunk</em> exploits the iCloud to synchronize yout documents across multiple devices. You may switch this off in the device settings.</span>
+  <span class="de">Standardmäßig nutzt <em>KTrunk</em> die iCloud, um die Dokumente auf allen Geräen zu synchronisieren. Dies lässt sich in den Geräte-Einstellungen ausschalten.</span>
+</p>
 <h3>
   <span class="en">Base Font-Size</span>
   <span class="de">Basis-Schriftgröße</span>
