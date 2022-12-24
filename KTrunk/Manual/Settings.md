@@ -46,7 +46,7 @@
   <span class="en">Here you can specify which document will be shown when you press the home button <img src="buttons/navHome.jpg" class="appButton">.</span>
   <span class="de">Hier kann angegeben werden, welches Dokument angezeigt werden soll, wenn man die Home-Schaltfläche <img src="buttons/navHome.jpg" class="appButton"> anklickt.</span>
 </p>
-<h3>
+<h3 id="HashTagProposals">
   <span class="en">#Tag proposals</span>
   <span class="de">#Tag-Vorschläge</span>
 </h3>
