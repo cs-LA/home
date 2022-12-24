@@ -13,7 +13,13 @@
 <h1>
   Release Notes
 </h1>
+https://github.com/cs-LA/home/blob/main/KTrunk/Manual/Settings.md#--tag-proposals--tag-vorschläge
 
+<h3>1.12</h3>
+<p>
+  <span class="en">Support of <a href="Settings.md#--tag-proposals--tag-vorschläge">#tag proposals</a>.</span>
+  <span class="de">Unterstützung durch #Tag-Vorschläge.</span>
+</p>
 
 <h3>1.11</h3>
 <p>
