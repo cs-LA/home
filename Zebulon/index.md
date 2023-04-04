@@ -12,8 +12,8 @@
 </div>
 
 <h4>
-  <span class="en"><b><a href="app-release.aab">Android-App</a></b></span>
-  <span class="de"><b><a href="app-release.aab">Android-App</a></b></span>
+  <span class="en"><b><a href="Zebulon-release.aab">Android-App</a></b></span>
+  <span class="de"><b><a href="Zebulon-release.aab">Android-App</a></b></span>
 </h4>
 
 <p>
