@@ -50,7 +50,7 @@
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
       <div class="logoTitle"><a href="Zebulon/index.html">Zebulon</a></div>
-      <div class="logoDescription"><span class="en"><b><i>Zebulon</i></b> a game out of the middle-age.</span><span class="de"><b><i>Zebulon</i></b> ist ein mittelalterliches Spiel.</span></div>
+      <div class="logoDescription"><span class="en"><b><i>Zebulon</i></b> a medieval game.</span><span class="de"><b><i>Zebulon</i></b> ist ein mittelalterliches Spiel.</span></div>
     </div>
   </div>
 </div>
