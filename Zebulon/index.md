@@ -1,5 +1,5 @@
 <div class="logoRow">
-  <div class="logoColumn logoColumnLeft"><img src="logo120.png"></div>
+  <div class="logoColumn logoColumnLeft"><img src="zebulon-60@2x.png"></div>
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
       <div class="logoTitle">Zebulon</div>
@@ -11,19 +11,14 @@
   </div>
 </div>
 
-<h4>
-  <span class="en"><b><a href="Zebulon-release.aab">Android-App</a></b></span>
-  <span class="de"><b><a href="Zebulon-release.aab">Android-App</a></b></span>
-</h4>
-
 <p>
   <span class="en"></span>
   <span class="de"></span>
 </p>
 
 <p class="hint">
-  <span class="en">KTrunk's <b><a href="PrivacyPolicy.html">Privacy Policy</a></b></span>
-  <span class="de">KTrunks <b><a href="PrivacyPolicy.html">Datenschutz-Richtlinie</a></b></span> 
+  <span class="en">Zebulon's <b><a href="PrivacyPolicy.html">Privacy Policy</a></b></span>
+  <span class="de">Zebulons <b><a href="PrivacyPolicy.html">Datenschutz-Richtlinie</a></b></span> 
 </p> 
 
 <h3>&nbsp;</h3>
