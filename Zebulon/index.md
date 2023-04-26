@@ -21,6 +21,8 @@
   <span class="de">Bei einem großen friedlichen Turnier treffen 5 Edelleute und 14 Bauern zweier Königreiche aufeinander. Auf dem großen Turnierplatz schlagen die weißen Edelleute im Norden und Süden ihr Lager auf und die schwarzen im Osten und Westen. Im Laufe des Tuniers versuchen nun die Edelleute mit Hilfe ihrer Bauern ihre eigenen, sich gegenüberliegenden Lager zu verbinden.</span>
 </p>
 
+<h3>&nbsp;</h3>
+
 <p class="hint">
   <span class="en">Zebulon's <b><a href="PrivacyPolicy.html">Privacy Policy</a></b></span>
   <span class="de">Zebulons <b><a href="PrivacyPolicy.html">Datenschutz-Richtlinie</a></b></span> 
