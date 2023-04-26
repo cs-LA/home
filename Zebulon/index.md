@@ -4,67 +4,26 @@
     <div class="vCentered">
       <div class="logoTitle">Zebulon</div>
       <div class="logoDescription">
-        <span class="en"></span>
-        <span class="de"></span>
-      </div>
-    </div>
-  </div>
-</div>
-
-<p>
-  <span class="en"></span>
-  <span class="de"></span>
-</p>
-
-<p class="hint">
-  <span class="en">Zebulon's <b><a href="PrivacyPolicy.html">Privacy Policy</a></b></span>
-  <span class="de">Zebulons <b><a href="PrivacyPolicy.html">Datenschutz-Richtlinie</a></b></span> 
-</p> 
-
-<h3>&nbsp;</h3>
-
-
-<div class="logoRow">
-  <div class="logoColumn logoColumnLeft"><img src="lzebulon-60@2x.png"></div>
-  <div class="logoColumn logoColumnRight">
-    <div class="vCentered">
-      <div class="logoTitle">KTrunk</div>
-      <div class="logoDescription">
-        <span class="en">Available in <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
-        <span class="de">Verfügbar im <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
+        <span class="en">Soon Available in <b>AppStore</b>!<br>At Google Play, too!</span>
+        <span class="de">Bald Verfügbar im <b>AppStore</b>!<br>Auch bei Google Play!</span>
       </div>
     </div>
   </div>
 </div>
 
 <h4>
-  <span class="en"><b><i>Knowledge Trunk</i></b> — or short <b><i>KTrunk</i></b> — is a note taking iOS-App.</span>
-  <span class="de"><b><i>Knowledge Trunk</i></b> — oder kurz <b><i>KTrunk</i></b> — ist eine iOS-App, um Notizen zu verwalten.</span>
+  <span class="en"><b><i>Zebulon</i></b> — a medieval gamep.</span>
+  <span class="de"><b><i>Zebulon</i></b> — ein mittelalterliches Spiel.</span>
 </h4>
 
 <p>
-  <span class="en">Use <b><i>KTrunk</i></b> to save all your ideas augmented with related files and photos. You can establish links from one note to any other note or file in KTrunk.</span>
-  <span class="de">Nutze <b><i>KTrunk</i></b>, um all deine Ideen zu sammeln und sie mit Photos und beliebigen Dateien zu ergänzen. Von jeder Notiz aus kannst du in KTrunk Links zu anderen Notizen oder Dateien erstellen.</span>
+  <span class="en">In a large peaceful tournament, 5 nobles and 14 pawns from two kingdoms meet. On the great tournament ground, the white nobles set up their camps in the north and south, and the black nobles in the east and west. In the course of the tournament, the nobles, with the help of their pawns, try to connect their own camps opposite to each other.</span>
+  <span class="de">Bei einem großen friedlichen Turnier treffen 5 Edelleute und 14 Bauern zweier Königreiche aufeinander. Auf dem großen Turnierplatz schlagen die weißen Edelleute im Norden und Süden ihr Lager auf und die schwarzen im Osten und Westen. Im Laufe des Tuniers versuchen nun die Edelleute mit Hilfe ihrer Bauern ihre eigenen, sich gegenüberliegenden Lager zu verbinden.</span>
 </p>
-<p>
-  <span class="en">The notes are saved in html-format and can be synchronized across your devices using iCloud.</span>
-  <span class="de">Die Notizen werden im html-Format abgespeichert und können mittels iCloud über alle deine iOS-Geräte synchronisiert werden.</span>
-</p>
+
 <p class="hint">
-  <span class="en">KTrunk's <b><a href="GettingStarted.html">Getting Started</a></b></span>
-  <span class="de">KTrunks <b><a href="GettingStarted.html">Schnell-Einstieg</a></b></span> 
-</p>
-<p class="hint">
-  <span class="en">KTrunk's <b><a href="Manual.html">Manual</a></b></span>
-  <span class="de">KTrunks <b><a href="Manual.html">Handbuch</a></b></span> 
-</p>
-<p class="hint">
-  <span class="en">If you have any ideas or concerns, please <b><a href="mailto:cl.schuetzdeller@icloud.com">contact me</a></b>.</span>
-  <span class="de">Wenn du irgendwelche Ideen oder Probleme bei der Nutzung hast, <b><a href="mailto:cl.schuetzdeller@icloud.com">kontaktiere mich</a></b> bitte.</span> 
-</p>
-<p class="hint">
-  <span class="en">KTrunk's <b><a href="PrivacyPolicy.html">Privacy Policy</a></b></span>
-  <span class="de">KTrunks <b><a href="PrivacyPolicy.html">Datenschutz-Richtlinie</a></b></span> 
+  <span class="en">Zebulon's <b><a href="PrivacyPolicy.html">Privacy Policy</a></b></span>
+  <span class="de">Zebulons <b><a href="PrivacyPolicy.html">Datenschutz-Richtlinie</a></b></span> 
 </p> 
 
 <h3>&nbsp;</h3>
