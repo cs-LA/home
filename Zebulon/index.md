@@ -1,5 +1,5 @@
 <div class="logoRow">
-  <div class="logoColumn logoColumnLeft"><img src="zebulon-60@2x.png"></div>
+  <div class="logoColumn logoColumnLeft"><img src="zebulon-1024.png"></div>
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
       <div class="logoTitle">Zebulon</div>
