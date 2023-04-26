@@ -44,6 +44,9 @@
   <div class="logoColumn logoColumnLeft">
     <a href="Zebulon/index.html"><img src="Zebulon/zebulon-1024.png"></a>
   </div>
+  <div class="logoColumn logoColumnLeft">
+    <a href="Zebulon/index.html"><img src="Zebulon/zebulon-60@2x.png"></a>
+  </div>
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
       <div class="logoTitle"><a href="Zebulon/index.html">Zebulon</a></div>
