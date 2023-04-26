@@ -42,7 +42,7 @@
 
 <div class="logoRow">
   <div class="logoColumn logoColumnLeft">
-    <a href="Zebulon/index.html"><img src="Zebulon/logo120.png"></a>
+    <a href="Zebulon/index.html"><img src="Zebulon/zebulon-1024.png"></a>
   </div>
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
