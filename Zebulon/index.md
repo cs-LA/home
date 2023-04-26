@@ -25,7 +25,7 @@
 
 
 <div class="logoRow">
-  <div class="logoColumn logoColumnLeft"><img src="logo120.png"></div>
+  <div class="logoColumn logoColumnLeft"><img src="lzebulon-60@2x.png"></div>
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
       <div class="logoTitle">KTrunk</div>
