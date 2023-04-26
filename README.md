@@ -23,7 +23,9 @@
     </div>
   </div>
 </div>
+
 <p>&nbsp;</p>
+
 <div class="logoRow">
   <div class="logoColumn logoColumnLeft">
     <a href="IntervalCoach/index.html"><img src="IntervalCoach/logo120.png"></a>
@@ -32,6 +34,20 @@
     <div class="vCentered">
       <div class="logoTitle"><a href="IntervalCoach/index.html">IntervalCoach</a></div>
       <div class="logoDescription"><span class="en"><b><i>IntervalCoach</i></b> is a simple, easy-to-use interval timer.</span><span class="de"><b><i>IntervalCoach</i></b> ist ein einfacher, benutzerfreundlicher Intervall-Timer.</span></div>
+    </div>
+  </div>
+</div>
+
+<p>&nbsp;</p>
+
+<div class="logoRow">
+  <div class="logoColumn logoColumnLeft">
+    <a href="Zebulon/index.html"><img src="Zebulon/logo120.png"></a>
+  </div>
+  <div class="logoColumn logoColumnRight">
+    <div class="vCentered">
+      <div class="logoTitle"><a href="Zebulon/index.html">Zebulon</a></div>
+      <div class="logoDescription"><span class="en"><b><i>Zebulon</i></b> a game out of the middle-age.</span><span class="de"><b><i>Zebulon</i></b> ist ein mittelalterliches Spiel.</span></div>
     </div>
   </div>
 </div>
