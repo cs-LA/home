@@ -10,6 +10,10 @@
     </div>
   </div>
 </div>
+
+
+
+
 <h1>
   <span class="en">Edit Mode</span><span class="de">Bearbeitungs-Modus</span>
 </h1>
@@ -58,6 +62,8 @@
   <span class="en">Above the keyboard there are some buttons to format the text, create links to other documents, or insert images. Except the 3 (on iPad 4) right buttons they have no immediate impact, but phase in additional formatting symbols.</span>
   <span class="de">Oberhalb der Tastatur sind ein paar Schaltflächen, um den Text zu formatieren, Links zu anderen Dokumenten zu erstellen oder um Bilder einzufügen. Außer den 3 (auf dem iPad 4) rechten Schaltflächen haben diese Symbole keine direkte Wirkung, sondern blenden zusätzliche Formatierungssymbole ein.</span>
 </p>
+
+
 <h2>
   <span class="en">The meaning of the buttons above the keyboard:</span><span class="de">Die Bedeutung der Schaltflächen oberhalb der Tastatur:</span>
 </h2>
@@ -79,6 +85,8 @@
     <span class="de">Diese Schaltflächen legen die Überschriften-Ebene von 1 bis 6 fest.</span>
   </p>
 </div>
+
+
 <h3>
   <span class="en">The button <img src="buttons/paragraphButtons.jpg" class="inLine"></span>
   <span class="de">Die Schaltfläche <img src="buttons/paragraphButtons.jpg" class="inLine"></span>
@@ -141,6 +149,8 @@
     <span class="de">Setzt den Paragraphen-Stil auf <i>rechtsbündig</i>.</span>
   </p>
 </div>
+
+
 <h3>
   <span class="en">The button <img src="buttons/listButtons.jpg" class="inLine"></span>
   <span class="de">Die Schaltfläche <img src="buttons/listButtons.jpg" class="inLine"></span>
@@ -167,6 +177,8 @@
     <span class="de">Setzt den Listen-Stil auf <i>sortiert</i>.</span>
   </p>
 </div>
+
+
 <h3>
   <span class="en">The button <img src="buttons/hEllip.jpg" class="inLine"> in the left button group</span>
   <span class="de">Die Schaltfläche <img src="buttons/hEllip.jpg" class="inLine"> in der linken Schaltflächen-Gruppe</span>
@@ -233,6 +245,10 @@
     <span class="de">Hiermit werden alle <i>Inline-Formatierungen gelöscht</i>.<br>Dies kann ganz nützlich sein, wenn man Inhalt von anderen Web-Seiten kopiert hat, ihn aber dem KTrunk-Standard entsprechend formatiert haben möchte.<br>Dummerweise sind einige KTrunk-Formatierungen auch über Inline-Stile implementiert, die dabei auch verloren gehen.</span>
   </p>
 </div>
+
+
+
+
 <h3>
   <span class="en">The button <img src="buttons/hEllip.jpg" class="inLine"> in the right button group</span>
   <span class="de">Die Schaltfläche <img src="buttons/hEllip.jpg" class="inLine"> in der rechten Schaltflächen-Gruppe</span>
@@ -241,9 +257,6 @@
   <span class="en">This button spawns additional not so often used buttons which appear on top of the button on iPhones, between the left and right button-groups on iPads.</span>
   <span class="de">Diese Schaltfläche bringt weitere, nicht so häufig benötigte Schaltflächen zum Vorschein, die auf iPhones oberhalb der Schaltfläche, auf iPads zwischen den linken und rechten Schaltflächen-Gruppen erscheinen.</span>
 </p>
-
-
-
 <div style="margin-left: 1.5em">
   <h3>
     <span class="en">The button <img src="buttons/sup.jpg" class="inLine"></span>
@@ -294,6 +307,8 @@
     <span class="de">Die Schaltfläche erzeugt einen Zeilenumbruch, ohne einen neuen Absatz zu beginnen.</span>
   </p>
 </div>
+
+
 <h3>
   <span class="en">The button <img src="buttons/img.jpg" class="inLine"></span>
   <span class="de">Die Schaltfläche <img src="buttons/img.jpg" class="inLine"></span>
