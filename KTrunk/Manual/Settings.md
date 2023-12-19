@@ -44,7 +44,7 @@
 </h3>
 <p>
   <span class="en">The notes are saved in HTML format and presented using <strong><em>CSS definitions</em></strong>. These CSS definitions are overwritable now to adjust the presentation according to your expectations.</span>
-  <span class="de">Die Notizen werden im HTML-Format gespeichert und zur Anzeige mit <strong><em>CSS-Definitionen</em>strong></strong>em> formatiert. Diese CSS-Definitionen können nun überschrieben werden, um die Formatierung den eigenen Ansprüchen anzupassen.</span>
+  <span class="de">Die Notizen werden im HTML-Format gespeichert und zur Anzeige mit <strong><em>CSS-Definitionen</em></strong> formatiert. Diese CSS-Definitionen können nun überschrieben werden, um die Formatierung den eigenen Ansprüchen anzupassen.</span>
 </p>
 <h3>
   <span class="en">The Homepage</span>
@@ -109,8 +109,8 @@
   <span class="de">HTML-Formatierung bereinigen</span>
 </h3>
 <p>
-  <span class="en">You may choose to automatically <a href="./../Manual/EditMode.html#----the-button-----die-schaltfl%C3%A4che----13">remove unwanted HTML formattings</a>a> when saving a note.</span>
-  <span class="de"><a href="./../Manual/EditMode.html#----the-button-----die-schaltfl%C3%A4che----13">Unerwünschte HTML-Formatierungen</a>a> können auf Wucnsch beim Sichern einer Notiz automatisch bereinigt werden.</span>
+  <span class="en">You may choose to automatically <a href="./../Manual/EditMode.html#clearStyles">remove unwanted HTML formattings</a>a> when saving a note.</span>
+  <span class="de"><a href="./../Manual/EditMode.html#clearStyles">Unerwünschte HTML-Formatierungen</a>a> können auf Wucnsch beim Sichern einer Notiz automatisch bereinigt werden.</span>
 </p>
 <p>
   <span class="en">The <i>insert with link</i> switch determines the default to be used in the <i>Insert Image</i> dialog.</span>
