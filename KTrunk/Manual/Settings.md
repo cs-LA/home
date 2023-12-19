@@ -109,8 +109,8 @@
   <span class="de">HTML-Formatierung bereinigen</span>
 </h3>
 <p>
-  <span class="en">You may choose to automatically <a href="./../Manual/EditMode.html#clearStyles">remove unwanted HTML formattings</a>a> when saving a note.</span>
-  <span class="de"><a href="./../Manual/EditMode.html#clearStyles">Unerwünschte HTML-Formatierungen</a>a> können auf Wucnsch beim Sichern einer Notiz automatisch bereinigt werden.</span>
+  <span class="en">You may choose to automatically remove <a href="./../Manual/EditMode.html#clearStyles">unwanted HTML formattings</a> when saving a note.</span>
+  <span class="de"><a href="./../Manual/EditMode.html#clearStyles">Unerwünschte HTML-Formatierungen</a> können auf Wunsch beim Sichern einer Notiz automatisch bereinigt werden.</span>
 </p>
 <p>
   <span class="en">The <i>insert with link</i> switch determines the default to be used in the <i>Insert Image</i> dialog.</span>
