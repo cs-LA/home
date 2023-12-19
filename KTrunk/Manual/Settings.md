@@ -39,6 +39,14 @@
   <span class="de">Die Basis-Schriftgröße ist auf Werte von 8 bis 32 begrenzt. Die Basis-Schriftgröße wird lokal für jedes Gerät gespeichert.</span>
 </p>
 <h3>
+  <span class="en">CSS Overwrites</span>
+  <span class="de">CSS-Überschreibungen</span>
+</h3>
+<p>
+  <span class="en">The notes are saved in HTML format and presented using <strong><em>CSS definitions</em></strong>. These CSS definitions are overwritable now to adjust the presentation according to your expectations.</span>
+  <span class="de">Die Notizen werden im HTML-Format gespeichert und zur Anzeige mit <strong><em>CSS-Definitionen</em>strong></strong>em> formatiert. Diese CSS-Definitionen können nun überschrieben werden, um die Formatierung den eigenen Ansprüchen anzupassen.</span>
+</p>
+<h3>
   <span class="en">The Homepage</span>
   <span class="de">Die Homepage</span>
 </h3>
@@ -91,6 +99,18 @@
 <p>
   <span class="en">The <i>approximate preview size</i> will be used to calculate the number of columns in which images will be shown in the <i>Insert Image</i> dialog.</span>
   <span class="de">Die <i>ungefähre Bildvorschau-Größe</i> wird genutzt, um die Anzahl der Spalten zu berechnen, in denen die Bilder in dem <i>Bild einfügen</i>-Dialog angezeigt werden.</span>
+</p>
+<p>
+  <span class="en">The <i>insert with link</i> switch determines the default to be used in the <i>Insert Image</i> dialog.</span>
+  <span class="de">Der <i>Einfügen mit Link</i>-Schalter legt die Voreinstellung fest, die in dem <i>Bild einfügen</i>-Dialog verwendet wird.</span>
+</p>
+<h3>
+  <span class="en">Clear HTML Formatting</span>
+  <span class="de">HTML-Formatierung bereinigen</span>
+</h3>
+<p>
+  <span class="en">You may choose to automatically <a href="./../Manual/EditMode.html#----the-button-----die-schaltfl%C3%A4che----13">remove unwanted HTML formattings</a>a> when saving a note.</span>
+  <span class="de"><a href="./../Manual/EditMode.html#----the-button-----die-schaltfl%C3%A4che----13">Unerwünschte HTML-Formatierungen</a>a> können auf Wucnsch beim Sichern einer Notiz automatisch bereinigt werden.</span>
 </p>
 <p>
   <span class="en">The <i>insert with link</i> switch determines the default to be used in the <i>Insert Image</i> dialog.</span>
