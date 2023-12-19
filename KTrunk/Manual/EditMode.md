@@ -14,7 +14,7 @@
 
 
 
-<h1>xxx
+<h1>xx
   <span class="en">Edit Mode</span><span class="de">Bearbeitungs-Modus</span>
 </h1>
 <img src="EditModeEncrypt.png" style="border: 2px solid #B0C4DE; border-radius: 10px;">
@@ -218,7 +218,7 @@
     <span class="en">If the cursor is inside of a table when clicking this button, the dimensions of this table will be adjusted.</span>
     <span class="de">Falls sich der Cursor schon innerhalb einer Tabelle befindet, wenn man die Schaltfläche klickt, werden die Dimensionen dieser Tabelle angepasst.</span>
   <p>
-    <span class="en">If the table contains a header row, a click on a cell in the header row will <a href="./FurtherActions.html#tablesort">sort</a> the table's body according to data in the clicked column.</span>
+    <span class="en">If the table contains a header row, a click on a cell in the header row will <a href="./FurtherActions.html#tablesort">sort</a> the table&#39;s body according to data in the clicked column.</span>
     <span class="de">Falls die Tabelle eine Kopfzeile enthält, kann man die Daten in dem Tabellenkörper mit einem Klick auf eine Zelle in der Kopfzeile entsprechend den Daten in der angeklickten Spalte <a href="./FurtherActions.html#tablesort">sortieren</a>.</span>
   <h3>
     <span class="en">The button <img src="buttons/hr.jpg" class="inLine"></span>
