@@ -227,7 +227,7 @@
   <a id="clearStyles"><h3>
     <span class="en">The button <img src="buttons/clearStyles.jpg" class="inLine"></span>
     <span class="de">Die Schaltfläche <img src="buttons/clearStyles.jpg" class="inLine"></span>
-  </h3></a>a>
+  </h3></a>
   <p>
     <span class="en">This button <i>clears all inline formatting</i>.<br>This may be useful when content from other html-pages was copied, but you want to use the standard KTrunk formatting.<br>Unfortunately, some KTrunk standard formatting is implemented using inline styles, which will be cleared, too.</span>
     <span class="de">Hiermit werden alle <i>Inline-Formatierungen gelöscht</i>.<br>Dies kann ganz nützlich sein, wenn man Inhalt von anderen Web-Seiten kopiert hat, ihn aber dem KTrunk-Standard entsprechend formatiert haben möchte.<br>Dummerweise sind einige KTrunk-Formatierungen auch über Inline-Stile implementiert, die dabei auch verloren gehen.</span>
