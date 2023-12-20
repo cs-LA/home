@@ -14,7 +14,7 @@
 
 
 
-<h1>
+<h1>x
   <span class="en">Edit Mode</span><span class="de">Bearbeitungs-Modus</span>
 </h1>
 <img src="EditModeEncrypt.png" style="border: 2px solid #B0C4DE; border-radius: 10px;">
