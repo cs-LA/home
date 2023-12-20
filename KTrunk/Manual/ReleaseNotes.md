@@ -14,6 +14,46 @@
   Release Notes
 </h1>
 
+<h3>1.17</h3>
+<p>
+  <span class="en">Some stabilty enhancements and new functions:</span>
+  <span class="de">Ein paar Stabilitätsverbesserungen und neue Funktionen:</span>
+</p>
+<ul>
+  <li>
+    <span class="en">You can specify in the Settings if you want to remove unwanted html formatting automatically from a note when saving it.</span>
+    <span class="de">Es kann in den Einstellungen festgelegt werden, ob unerwünsche Formatierungen in einer Notiz beim Sichern automatisch entfernt werden sollen.</span>
+  </li>
+  <li>
+    <span class="en">You can overwrite the formatting specification at all to achieve your preferred layout of notes.</span>
+    <span class="de">Die Angaben zur Formatierung der Notizen können überschrieben werden, um das Aussehen den eigenen Vorstellungen entsprechend anzupassen.</span>
+  </li>
+</ul>
+
+<h3>1.16</h3>
+<p>
+  <span class="en">Support of <a href="./Settings.html#HashTagProposals">#tag proposals</a>.</span>
+  <span class="de">Unterstützung durch <a href="./Settings.html#HashTagProposals">#Tag-Vorschläge</a>.</span>
+</p>
+
+<h3>1.15</h3>
+<p>
+  <span class="en">You now get a hint when creating a document with a name that cannot be used to save it as a file.</span>
+  <span class="de">Es gibt nun einen Hinweis, wenn ein Dokument mit einem Namen angelegt wird, der nicht als Datei zu sichern ist.</span>
+</p>
+
+<h3>1.14</h3>
+<p>
+  <span class="en">KTrunk is now enabled to play media (audio) files.</span>
+  <span class="de">KTrunk kann nun Media- (Audio-) Files abspielen.</span>
+</p>
+
+<h3>1.13</h3>
+<p>
+  <span class="en">A few minor corrections and enhancements.</span>
+  <span class="de">Ein paar kleinere Korrekturen und Verbesserungen.</span>
+</p>
+
 <h3>1.12</h3>
 <p>
   <span class="en">Support of <a href="./Settings.html#HashTagProposals">#tag proposals</a>.</span>
