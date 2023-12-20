@@ -112,10 +112,6 @@
   <span class="en">You may choose to automatically remove <a href="./../Manual/EditMode.html">unwanted HTML formattings</a> when saving a note.</span>
   <span class="de"><a href="./../Manual/EditMode.html">Unerwünschte HTML-Formatierungen</a> können auf Wunsch beim Sichern einer Notiz automatisch bereinigt werden.</span>
 </p>
-<p>
-  <span class="en">The <i>insert with link</i> switch determines the default to be used in the <i>Insert Image</i> dialog.</span>
-  <span class="de">Der <i>Einfügen mit Link</i>-Schalter legt die Voreinstellung fest, die in dem <i>Bild einfügen</i>-Dialog verwendet wird.</span>
-</p>
 <h3>
   <span class="en">Debugging-Level</span>
   <span class="de">Debugging-Level</span>
