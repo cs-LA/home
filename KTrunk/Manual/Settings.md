@@ -10,7 +10,7 @@
     </div>
   </div>
 </div>
-<h1>x
+<h1>
   <span class="en">Settings</span>
   <span class="de">Einstellungen</span>
 </h1>
@@ -109,8 +109,8 @@
   <span class="de">HTML-Formatierung bereinigen</span>
 </h3>
 <p>
-  <span class="en">You may choose to automatically remove <a href="./../EditMode.html#clearStyles">unwanted HTML formattings</a> when saving a note.</span>
-  <span class="de"><a href="./../Manual/EditMode.html#clearStyles">Unerwünschte HTML-Formatierungen</a> können auf Wunsch beim Sichern einer Notiz automatisch bereinigt werden.</span>
+  <span class="en">You may choose to automatically remove <a href="./../Manual/EditMode.html">unwanted HTML formattings</a> when saving a note.</span>
+  <span class="de"><a href="./../Manual/EditMode.html">Unerwünschte HTML-Formatierungen</a> können auf Wunsch beim Sichern einer Notiz automatisch bereinigt werden.</span>
 </p>
 <p>
   <span class="en">The <i>insert with link</i> switch determines the default to be used in the <i>Insert Image</i> dialog.</span>
