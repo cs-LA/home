@@ -248,7 +248,6 @@
 
 
 
-
 <h3>
   <span class="en">The button <img src="buttons/hEllip.jpg" class="inLine"> in the right button group</span>
   <span class="de">Die Schaltfläche <img src="buttons/hEllip.jpg" class="inLine"> in der rechten Schaltflächen-Gruppe</span>
