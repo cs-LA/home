@@ -14,6 +14,12 @@
   Release Notes
 </h1>
 
+<h3>1.18</h3>
+<p>
+  <span class="en">Some small internal enhancements for a better user experience.</span>
+  <span class="de">Einige kleinere interne Verbesserungen für ein besseres Benutzererlebnis.</span>
+</p>
+
 <h3>1.17</h3>
 <p>
   <span class="en">Some stabilty enhancements and new functions:</span>
