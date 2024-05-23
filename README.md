@@ -64,7 +64,7 @@
       <span class="de">Nach beinahe 40 Jahren intensiver Beschäftigung mit dem Mainframe DBMs Db2, habe ich mich entschieden, meine gesammelten Erfahrungen als unhabhängiger Berater zur Verfügung zu stellen.</span>
     </p>
     <p>
-      <span class="en">If you are interested to profit from my experience, don't hesitate to contact me:</span>
+      <span class="en">If you are interested to profit from my experience, don't hesitate to contact me.</span>
       <span class="de">Zögern Sie nicht, Kontakt mit mir aufzunehemen, wenn Sie Interesse haben, von meinen Erfahrungen zu profitieren.</span>
     </p>
   </div>
