@@ -6,6 +6,7 @@
   <span class="en">My diploma thesis from 1983 has the title <b><i><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></i></b>.</span>
   <span class="de">Meine Diplomarbeit aus dem Jahre 1983 trägt den Titel <b><i><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></i></b>.</span>
 </p>
+<h1>&nbsp;</h1>
 
 <div class="row">
   <div class="column1of2">
@@ -56,8 +57,8 @@
     </div>
   </div>
   
-  <div class="column2of2" style="background-color:#fff;">
-      <h1>Spalte 22</h1>
+  <div class="column2of2">
+      <h1>IT-Training</h1>
   </div>
 </div>
   
