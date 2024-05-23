@@ -55,8 +55,9 @@
       </div>
     </div>
   </div>
+  
   <div class="column2of2" style="background-color:#fff;">
-      <h1>Spalte 2</h1>
+      <h1>Spalte 22</h1>
   </div>
 </div>
   
