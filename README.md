@@ -7,6 +7,9 @@
   <span class="de">Meine Diplomarbeit aus dem Jahre 1983 trägt den Titel <b><i><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></i></b>.</span>
 </p>
 
+<div class="row">
+  <div class="column1of1">
+
 <h1>
   <span class="en">My iOS Apps</span>
   <span class="de">Meine iOS-Apps</span>
@@ -51,6 +54,12 @@
     </div>
   </div>
 </div>
+  </div>
+  <div class="column2of2" style="background-color:#fff;">
+  <h1>Spalte 2</h1>
+  </div>
+  </div>
+  
 
 <h3>&nbsp;</h3>
 
