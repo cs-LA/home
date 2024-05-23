@@ -19,6 +19,22 @@
       * {
         box-sizing: border-box;
       }
+	    
+      .column1-2 {
+        float: left;
+        width: 50%;
+      }
+      .column2-2 {
+        float: left;
+        width: 50%;
+      }
+
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
 
       body {
         font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
