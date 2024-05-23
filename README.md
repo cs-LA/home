@@ -8,7 +8,7 @@
 </p>
 
 <div class="row">
-  <div class="column1of1">
+  <div class="column1of2">
 
     <h1>
       <span class="en">My iOS Apps</span>
