@@ -58,6 +58,7 @@
   </div>
   
   <div class="column2of2">
+    <p>&nbsp;</p>
     <h1>IT-Training</h1>
     <p>
       <span class="en">After spending nearly 40 years supporting the mainframe DBMS Db2, I now have decided to offer my knowledge as an independent consultant.</span>
