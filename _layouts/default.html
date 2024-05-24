@@ -134,7 +134,7 @@
       }
            
       img {
-	      display: block;
+	display: block;
         width: 80%;
         margin-left: auto;
         margin-right: auto;
@@ -197,16 +197,16 @@
         clear: both;
       }
 
-	    .hint {
-		    padding-left: 2em;
-		  }
-		  .hint::before {
-			  content: "👉🏼";
-		    position: absolute;
+      .hint {
+	padding-left: 2em;
+      }
+      .hint::before {
+	content: "👉🏼";
+	position: absolute;
         margin-left: -2em;
         width: 2em;
         text-align: center;
-			}
+      }
 
       .appButton {
         display: inline-block;
@@ -215,11 +215,10 @@
       }
 
       @media print {
-        
         .headerBanner, .headerTitle, .headerIndex, .headerLanguages,
         .footerBanner, .footerText {
-           visibility: hidden;
-        }
+        visibility: hidden;
+      }
 
         #scroll {
           position: static;
