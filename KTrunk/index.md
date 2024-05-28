@@ -1,6 +1,6 @@
 <div class="columns">
   <div class="logoColumn logoColumnLeft">
-    <a href="KTrunk/index.html"><img src="KTrunk/logo120.png" calss="logo"></a>
+    <a href="KTrunk/index.html"><img src="logo120.png" calss="logo"></a>
   </div>
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
