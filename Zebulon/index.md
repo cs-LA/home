@@ -13,7 +13,7 @@
 
 <h4>
   <span class="en"><b><i>Zebulon</i></b> — a medieval gamep.</span>
-  <span class="de"><b><i>Zebulon</i></b> — ein mittelalterliches Spiel.</span>
+  <span class="de"><b><i>ZebulonX</i></b> — ein mittelalterliches Spiel.</span>
 </h4>
 
 <p>
