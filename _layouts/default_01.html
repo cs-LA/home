@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <title>Clemens Schützdeller</title>
+    <link rel="apple-touch-icon" sizes="180x180" type="image/png" href="/home/csLogo180.png" />
+    <link rel="icon" sizes="32x32" type="image/png" href="/home/csLogo032.png" />
+    <link rel="icon" sizes="16x16" type="image/png" href="/home/csLogo016.png" />
+    
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <style>
+      :root {
+        /* color-scheme: light dark; */
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+	    
+      .column1of2 {
+        float: left;
+        width: 50%;
+      }
+      .column2of2 {
+        float: left;
+        width: 50%;
+      }
+
+      /* Clear floats after the columns */
+      .row:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+	    
+
+      body {
+        font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        font-size: 16px;
+        line-height: 1.3;
+        color: #404c51;
+        padding: 0;
+        margin: 0;
+      }
+      .headerBanner {
+        position: fixed;
+        top: 0%;
+        width: 100%;
+        background-color: #159957;
+        background-image: linear-gradient(120deg, #155799, #159957);
+        text-align: center;
+        padding-top: .8rem;
+        padding-bottom: .2rem;
+      }
+      .headerTitle {
+        font-size: 2.0em;
+        color: #e8eef8;
+        text-align: center;
+      }
+      .headerIndex {
+        font-size: .8em;
+        color: #e8eef8;
+        text-align: left; 
+        float:left;
+        padding-top: .5em;
+        padding-left: 30px;
+      }
+      .headerLanguages {
+        font-size: .8em;
+        color: #e8eef8;
+        text-align: right;
+        padding-top: .5em;
+        padding-right: 30px;
+      }
+      #scroll {
+        position: fixed;
+        width: 100%;
+        overflow-x: auto;
+      }
+      .content {
+        padding: 1em 2em;
+      }
+      .footerBanner {
+        position: fixed;
+        bottom:0%;
+        width: 100%;
+        background-color: #159957;
+        background-image: linear-gradient(120deg, #159957, #155799);
+        text-align: center;
+        padding-top: .6rem;
+        padding-bottom: .6rem;
+      }
+      .footerText {
+        font-size: 0.8em;
+        color: #e8eef8;
+        text-align: center;
+      }
+      a {
+        color: #00aaff;
+        text-decoration: none;
+      }
+      .headerBanner a,
+      .footerBanner a	  {
+        color: inherit;
+      }
+      h1, h2, h3, h4, h5, h6 {
+        margin: 0;
+        padding-top: 1.0em;
+        padding-bottom: 0.5em;
+      }
+      h1 { font-size: 2.0em; color: #155799; text-align: center; padding-top: 1.5em; }
+      h2 { font-size: 1.8em; }
+      h3 { font-size: 1.5em; }
+      h4 { font-size: 1.2em; }
+      h5 { font-size: 1.0em; font-weigth: bold; }
+      h6 { font-size: 1.0em; font-weigth: bold; font-style: italic;}
+      p {
+        margin: 0;
+        padding-top: 0.3em;
+        padding-bottom: 0.3em;
+        font-size: 1.0em
+      }
+      
+      ul {
+        padding-top: -0.6em;
+        padding-bottom: 0;
+      }
+      li {
+        padding-top: 0.3em;
+        padding-bottom: 0.3em;
+      }
+           
+      img {
+	display: block;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+        border: 1px solid #888888;
+        border-radius: 30px;
+      }
+      .inLine {
+        display: inline-block;
+        vertical-align: middle;
+        height: 1em;
+        width: 1em;
+      }
+      
+      .de {
+        display: block;
+      }
+      .en {
+        display: none;
+      }
+      
+      .logoRow {
+        margin-top: 10px;
+        margin-bottom: 10px;
+      }
+      .logoColumn {
+        float: left;
+        height: 120px;
+      }
+      .logoColumnLeft {
+        width: 20%;
+        width: 120px;
+      }
+      .logoColumnLeft img {
+      	width: 100%;
+      }
+      .logoColumnRight {
+        width: calc(100% - 120px);
+        width: 80%;
+        padding: 0 1em;
+        line-height: 110px;
+        overflow-y: auto;
+      }
+      
+      .logoTitle {
+        font-size: 1.5em;
+        font-weight: bold;
+        font-style: italic;
+      }
+      .logoDescription {
+        padding-top: .8em;
+        font-size: .8em;
+      }
+
+      .vCentered {
+        line-height: 1.2;
+        display: inline-block;
+        vertical-align: middle;
+      }
+      .logoRow:after {
+        content: "";
+        display: table;
+        clear: both;
+      }
+
+      .hint {
+	padding-left: 2em;
+      }
+      .hint::before {
+	content: "👉🏼";
+	position: absolute;
+        margin-left: -2em;
+        width: 2em;
+        text-align: center;
+      }
+
+      .appButton {
+        display: inline-block;
+        width: 1em;
+        height: 1em;
+      }
+
+      @media print {
+        .headerBanner, .headerTitle, .headerIndex, .headerLanguages,
+        .footerBanner, .footerText {
+        visibility: hidden;
+      }
+
+        #scroll {
+          position: static;
+          top: 0;
+          left: 0;
+        } 
+
+	      body {
+          font-size: 11px;
+        }
+
+      }
+
+    </style>
+    
+    <script>
+      function setLanguage() {
+        shortLang = sessionStorage.getItem("shortLang")
+        document.getElementById("debug").innerHTML = " | "
+        
+        if (shortLang == null) {
+          lang = window.navigator.languages ? window.navigator.languages[0] : null
+          lang = lang || window.navigator.language || window.navigator.browserLanguage || window.navigator.userLanguage
+
+          shortLang = lang
+          if (shortLang.indexOf('-') !== -1) {
+            shortLang = shortLang.split('-')[0]
+          }
+          if (shortLang.indexOf('_') !== -1) {
+            shortLang = shortLang.split('_')[0]
+          }
+          
+          sessionStorage.setItem("shortLang", shortLang)
+        }
+        
+        setEnglish()
+        if (shortLang == 'de') {
+          setGerman()
+        }
+        
+        headerHeight = document.getElementById("header").clientHeight
+        footerHeight = document.getElementById("footer").clientHeight
+        document.getElementById("scroll").style.top = "" + headerHeight + "px"
+        document.getElementById("scroll").style.bottom = "" + footerHeight + "px"
+      }
+      
+      function setEnglish() {
+        document.getElementById("german").innerHTML = "deutsch"
+	      elements = document.getElementsByClassName("de")
+        for (i=0; i<elements.length; i++) {
+          elements[i].style.display = "none"
+        }
+        
+        document.getElementById("english").innerHTML = "<b>english</b>"
+	      elements = document.getElementsByClassName("en")
+        for (i=0; i<elements.length; i++) {
+          elements[i].style.display = "block"
+        }
+        
+        sessionStorage.setItem("shortLang", "en")
+      }
+      function setGerman() {
+        document.getElementById("german").innerHTML = "<b>deutsch</b>"
+	      elements = document.getElementsByClassName("de")
+        for (i=0; i<elements.length; i++) {
+          elements[i].style.display = "block"
+        }
+        
+        document.getElementById("english").innerHTML = "english"
+	      elements = document.getElementsByClassName("en")
+        for (i=0; i<elements.length; i++) {
+          elements[i].style.display = "none"
+        }
+        
+        sessionStorage.setItem("shortLang", "de")
+      }
+    </script>
+	  
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <script>
+      MathJax = {
+        tex: {
+          inlineMath: [['$', '$']]
+        }
+      }
+    </script>
+		
+  </head>
+	
+  <body onload="setLanguage()">
+
+    <div id="header" class="headerBanner">
+      <div class="headerTitle"><a href="/home">Clemens Schützdeller</a></div>
+      <div class="headerIndex" id="headerIndex">
+        <a href=/home/Pages.html><b>Index</b></a>
+      </div>
+      <div class="headerLanguages" id="headerLanguages">
+        <span id="german" onClick="setGerman()">de</span> <span id="debug"></span> <span id="english" onClick="setEnglish()">en</span>
+      </div>
+    </div>
+    
+    <div id="scroll">
+      <div id="content" class="content">
+        {{ content }}
+      </div>
+    </div>
+
+    <div id="footer" class="footerBanner">
+      <div class="footerText"><a href="/home/Impressum.html">Impressum</a></div>
+    </div>
+
+  </body>
+</html>
