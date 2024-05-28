@@ -17,7 +17,7 @@
       <div class="logoDescription">aus dem Jahre 1983</div>
     </div>
   </div>
-</div>div>
+</div>
 <p style="text-align: center;">
   <span class="en">My diploma thesis from 1983 has the title<br><b><i><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></i></b></span>
   <span class="de">Meine Diplomarbeit aus dem Jahre 1983 trägt den Titel<br><b><i><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></i></b></span>
@@ -29,15 +29,16 @@
       <span class="en">My iOS Apps</span>
       <span class="de">Meine iOS-Apps</span>
     </h1>
+    
 <div class="columns">
   <div class="column25">&nbsp;</div>
   <div class="column75">
-<h1 style="text-align: left;">
-  <span class="en">My iOS Apps</span>
+    <h1 style="text-align: left;">
+      <span class="en">My iOS Apps</span>
       <span class="de">Meine iOS-Apps</span>
-</h1>
-    </div>
+    </h1>
   </div>
+</div>
 
     <div class="columns">
       <div class="column25">
