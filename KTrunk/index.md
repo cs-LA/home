@@ -5,7 +5,10 @@
   <div class="column75">
     <div class="vCentered">
       <div class="logoTitle"><a href="KTrunk/index.html">KTrunk xxx</a></div>
-      <div class="logoDescription"><span class="en"><b><i>Knowledge Trunk</i></b> — or short <b><i>KTrunk</i></b> — is a note taking iOS-App.</span><span class="de"><b><i>Knowledge Trunk</i></b> — oder kurz <b><i>KTrunk</i></b> — ist eine iOS-App, um Notizen zu verwalten.</span></div>
+      <div class="logoDescription">
+        <span class="en">Available in <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
+        <span class="de">Verfügbar im <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
+      </div>
     </div>
   </div>
 </div>
