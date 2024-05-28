@@ -1,7 +1,7 @@
 <div class="columns">
   <div class="column25">&nbsp;</div>
   <div class="column75">
-<h1 style="text-align: left;>
+<h1 style="text-align: left;">
   <span class="en">My Diploma Thesis</span>
   <span class="de">Meine Diplomarbeit</span>
 </h1>
@@ -31,7 +31,7 @@
 <div class="columns">
   <div class="column25">&nbsp;</div>
   <div class="column75">
-<h1 style="text-align: left;>
+<h1 style="text-align: left;">
   <span class="en">My iOS Apps</span>
       <span class="de">Meine iOS-Apps</span>
 </h1>
