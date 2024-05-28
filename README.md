@@ -1,4 +1,18 @@
-<h1>
+
+<div class="columns">
+  <div class="column25">
+    <a href="Diplomarbeit/Diplomarbeit.pdf"><img src="Diplomarbeit/KommutativesDiagramm.png" class="logo"></a>
+  </div>
+  <div class="column75">
+    <div class="vCentered">
+      <div class="logoTitle">Diplomarbeit</div>
+      <div class="logoDescription">
+        <span class="en">Available in <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
+        <span class="de">Hindernisse gegen die Glättung von Poincaré-Räumen</span>
+      </div>
+    </div>
+  </div>
+</div><h1>
   <span class="en">My Diploma Thesis</span>
   <span class="de">Meine Diplomarbeit</span>
 </h1>
