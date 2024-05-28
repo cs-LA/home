@@ -1,12 +1,17 @@
-<h1>
+<div class="columns">
+  <div class="column25">&nbsp;</div>
+  <div class="column75">
+<h1 style="text-align: left;>
   <span class="en">My Diploma Thesis</span>
   <span class="de">Meine Diplomarbeit</span>
 </h1>
+    </div>
+  </div>
 <div class="columns">
   <div class="column25">
     <a href="Diplomarbeit/Diplomarbeit.pdf"><img src="Diplomarbeit/KommutativesDiagramm.png" class="logo"></a>
-  </div>
-  <div class="column75">
+<div class="columns">
+  <div class="column25">
     <div class="vCentered">
       <div class="logoTitle"><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></div>
       <div class="logoDescription">aus dem Jahre 1983</div>
@@ -23,6 +28,15 @@
       <span class="en">My iOS Apps</span>
       <span class="de">Meine iOS-Apps</span>
     </h1>
+<div class="columns">
+  <div class="column25">&nbsp;</div>
+  <div class="column75">
+<h1 style="text-align: left;>
+  <span class="en">My iOS Apps</span>
+      <span class="de">Meine iOS-Apps</span>
+</h1>
+    </div>
+  </div>
 
     <div class="columns">
       <div class="column25">
