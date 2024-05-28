@@ -13,12 +13,12 @@
 
     <h1>
       <span class="en">My iOS Apps</span>
-      <span class="de">Meine iOS-Apps</span>
+      <span class="de">Meine 3 iOS-Apps</span>
     </h1>
 
     <div class="columns">
       <div class="logoColumn logoColumnLeft">
-        <a href="KTrunk/index.html"><img src="KTrunk/logo120.png" calss="logo"></a>
+        <a href="KTrunk/index.html"><img src="KTrunk/logo120.png" class="logo bordered"></a>
       </div>
       <div class="logoColumn logoColumnRight">
         <div class="vCentered">
