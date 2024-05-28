@@ -4,20 +4,6 @@
   </div>
   <div class="column75">
     <div class="vCentered">
-      <div class="logoTitle"><a href="KTrunk/index.html">KTrunk</a></div>
-      <div class="logoDescription">
-        <span class="en">Available in <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
-        <span class="de">Verfügbar im <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-<div class="columns">
-  <div class="logoColumn logoColumnLeft"><img src="logo120.png" class="logo"></div>
-  <div class="logoColumn logoColumnRight">
-    <div class="vCentered">
       <div class="logoTitle">KTrunk</div>
       <div class="logoDescription">
         <span class="en">Available in <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
