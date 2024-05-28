@@ -18,11 +18,11 @@
 
     <div class="columns">
       <div class="logoColumn logoColumnLeft">
-        <a href="KTrunk/index.html"><img src="KTrunk/logo120.png"></a>
+        <a href="KTrunk/index.html"><img src="KTrunk/logo120.png" class= "bordered"></a>
       </div>
       <div class="logoColumn logoColumnRight">
         <div class="vCentered">
-          <div class="logoTitle"><a href="KTrunk/index.html">KTrunk</a></div>
+          <div class="logoTitle"><a href="KTrunk/index.html">KTrunk bordered</a></div>
           <div class="logoDescription"><span class="en"><b><i>Knowledge Trunk</i></b> — or short <b><i>KTrunk</i></b> — is a note taking iOS-App.</span><span class="de"><b><i>Knowledge Trunk</i></b> — oder kurz <b><i>KTrunk</i></b> — ist eine iOS-App, um Notizen zu verwalten.</span></div>
         </div>
       </div>
