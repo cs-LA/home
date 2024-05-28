@@ -61,21 +61,21 @@
     </div>
   </div>
 </div>
-
-    <div class="columns">
-      <div class="column25">
-        <a href="Zebulon/index.html"><img src="Zebulon/zebulon-60@2x.png" class= "logo bordered"></a>
-      </div>
-      <div class="column75">
-        <div class="vCentered">
-          <div class="logoTitle"><a href="Zebulon/index.html">Zebulon</a></div>
-          <div class="logoDescription">
-            <span class="en"><b><i>Zebulon</i></b> - a medieval game.</span>
-            <span class="de"><b><i>Zebulon</i>    </b> - ein mittelalterliches Spiel.</span>
-          </div>
-        </div>
+<div class="columns">
+  <div class="column25">
+    <a href="Zebulon/index.html"><img src="Zebulon/zebulon-60@2x.png" class= "logo bordered"></a>
+</div>
+<div class="column75">
+  <div class="vCentered">
+    <div class="logoTitle"><a href="Zebulon/index.html">Zebulon</a></div>
+      <div class="logoDescription">
+        <span class="en"><b><i>Zebulon</i></b> - a medieval game.</span>
+        <span class="de"><b><i>Zebulon</i>    </b> - ein mittelalterliches Spiel.</span>
       </div>
     </div>
+  </div>
+</div>
+
 
     
     <h1>IT-Training</h1>
