@@ -32,7 +32,7 @@
 
     <div class="columns">
       <div class="logoColumn logoColumnLeft">
-        <a href="IntervalCoach/index.html"><img src="IntervalCoach/logo120.png"></a>
+        <a href="IntervalCoach/index.html"><img src="IntervalCoach/logo120.png></a>
       </div>
       <div class="logoColumn logoColumnRight">
         <div class="vCentered">
@@ -46,7 +46,7 @@
 
     <div class="columns">
       <div class="logoColumn logoColumnLeft">
-        <a href="Zebulon/index.html"><img src="Zebulon/zebulon-60@2x.png"></a>
+        <a href="Zebulon/index.html"><img src="Zebulon/zebulon-60@2x.png" class="bordered"></a>
       </div>
       <div class="logoColumn logoColumnRight">
         <div class="vCentered">
