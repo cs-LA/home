@@ -1,21 +1,17 @@
-
+</div><h1>
+  <span class="en">My Diploma Thesis</span>
+  <span class="de">Meine Diplomarbeit</span>
+</h1>
 <div class="columns">
   <div class="column25">
     <a href="Diplomarbeit/Diplomarbeit.pdf"><img src="Diplomarbeit/KommutativesDiagramm.png" class="logo"></a>
   </div>
   <div class="column75">
     <div class="vCentered">
-      <div class="logoTitle">Diplomarbeit</div>
-      <div class="logoDescription">
-        <span class="en">Available in <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
-        <span class="de">Hindernisse gegen die Glättung von Poincaré-Räumen</span>
-      </div>
+      <div class="logoTitle"><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></div>
+      <div class="logoDescription">&nbsp;</div>
     </div>
   </div>
-</div><h1>
-  <span class="en">My Diploma Thesis</span>
-  <span class="de">Meine Diplomarbeit</span>
-</h1>
 <p style="text-align: center;">
   <span class="en">My diploma thesis from 1983 has the title<br><b><i><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></i></b></span>
   <span class="de">Meine Diplomarbeit aus dem Jahre 1983 trägt den Titel<br><b><i><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></i></b></span>
