@@ -14,7 +14,7 @@
   <div class="column75">
     <div class="vCentered">
       <div class="logoTitle"><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></div>
-      <div class="logoDescription"><span class="en">from 1983</span>span><span class="de">aus dem Jahre 1983</span>span></div>
+      <div class="logoDescription"><span class="en">from 1983</span><span class="de">aus dem Jahre 1983</span></div>
     </div>
   </div>
 </div>
