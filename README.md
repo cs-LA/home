@@ -1,4 +1,4 @@
-</div><h1>
+<h1>
   <span class="en">My Diploma Thesis</span>
   <span class="de">Meine Diplomarbeit</span>
 </h1>
