@@ -18,8 +18,6 @@
 </p>
 
 
-<div class="columns">
-  <div class="column50">
 
     <h1>
       <span class="en">My iOS Apps</span>
@@ -74,9 +72,8 @@
         </div>
       </div>
     </div>
-  </div>
-  
-  <div class="column50">
+
+    
     <h1>IT-Training</h1>
     <p>&nbsp;</p>
     <p>
@@ -88,7 +85,6 @@
       <span class="de">Zögern Sie nicht, <a href="mailto:cl.schuetzdeller@icloud.com">Kontakt mit mir aufzunehemen</a>, wenn Sie Interesse haben, von meinen Erfahrungen zu profitieren.</span>
     </p>
   </div>
-</div>
   
 
 <h3>&nbsp;</h3>
