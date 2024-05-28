@@ -19,11 +19,6 @@
   </div>
 </div>
 
-<h1>
-  <span class="en">My iOS Apps</span>
-  <span class="de">Meine iOS-Apps</span>  
-</h1>
-    
 <div class="columns">
   <div class="column25">&nbsp;</div>
   <div class="column75">
@@ -76,6 +71,29 @@
   </div>
 </div>
 
+<div class="columns">
+  <div class="column25">&nbsp;</div>
+  <div class="column75">
+    <h1 style="text-align: left;">
+      IT-Training
+    </h1>
+  </div>
+</div>
+<div class="columns">
+  <div class="column25">
+    &nbsp;
+  </div>
+  <div class="column75">
+    <p>
+      <span class="en">After spending nearly 40 years supporting the mainframe DBMS Db2, I now have decided to offer my knowledge as an independent consultant.</span>
+      <span class="de">Nach beinahe 40 Jahren intensiver Beschäftigung mit dem Mainframe DBMs Db2, habe ich mich entschieden, meine gesammelten Erfahrungen als unhabhängiger Berater zur Verfügung zu stellen.</span>
+    </p>
+    <p>
+      <span class="en">If you are interested to profit from my experience, don't hesitate to <a href="mailto:cl.schuetzdeller@icloud.com">contact me</a>.</span>
+      <span class="de">Zögern Sie nicht, <a href="mailto:cl.schuetzdeller@icloud.com">Kontakt mit mir aufzunehemen</a>, wenn Sie Interesse haben, von meinen Erfahrungen zu profitieren.</span>
+    </p>
+  </div>
+</div>
 
     
     <h1>IT-Training</h1>
