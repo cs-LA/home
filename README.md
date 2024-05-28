@@ -13,7 +13,7 @@
 
     <h1>
       <span class="en">My iOS Apps</span>
-      <span class="de">Meine 3 iOS-Apps</span>
+      <span class="de">Meine iOS-Apps</span>
     </h1>
 
     <div class="columns">
