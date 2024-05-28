@@ -31,8 +31,8 @@
     <p>&nbsp;</p>
 
     <div class="columns">
-      <div class="logoColumn logoColumnLeft">
-        <a href="IntervalCoach/index.html"><img src="IntervalCoach/logo120.png></a>
+      <div class="logoColumn logoColumnLeft bordered">
+        <a href="IntervalCoach/index.html"><img src="IntervalCoach/logo120.png"></a>
       </div>
       <div class="logoColumn logoColumnRight">
         <div class="vCentered">
