@@ -58,7 +58,7 @@
   </div>
   
   <div class="column50">
-    <h1>IT-Training x</h1>
+    <h1>IT-Training</h1>
     <p>&nbsp;</p>
     <p>
       <span class="en">After spending nearly 40 years supporting the mainframe DBMS Db2, I now have decided to offer my knowledge as an independent consultant.</span>
