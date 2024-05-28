@@ -6,7 +6,7 @@
   <span class="en">My diploma thesis from 1983 has the title<br><b><i><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></i></b></span>
   <span class="de">Meine Diplomarbeit aus dem Jahre 1983 trägt den Titel<br><b><i><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></i></b></span>
 </p>
-<h3>&nbsp;</h3>
+
 
 <div class="columns">
   <div class="column50">
@@ -16,7 +16,7 @@
       <span class="de">Meine iOS-Apps</span>
     </h1>
 
-    <div class="logoRow">
+    <div class="columns">
       <div class="logoColumn logoColumnLeft">
         <a href="KTrunk/index.html"><img src="KTrunk/logo120.png"></a>
       </div>
@@ -30,7 +30,7 @@
 
     <p>&nbsp;</p>
 
-    <div class="logoRow">
+    <div class="columns">
       <div class="logoColumn logoColumnLeft">
         <a href="IntervalCoach/index.html"><img src="IntervalCoach/logo120.png"></a>
       </div>
@@ -44,7 +44,7 @@
 
     <p>&nbsp;</p>
 
-    <div class="logoRow">
+    <div class="columns">
       <div class="logoColumn logoColumnLeft">
         <a href="Zebulon/index.html"><img src="Zebulon/zebulon-60@2x.png"></a>
       </div>
