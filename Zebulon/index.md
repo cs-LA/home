@@ -1,4 +1,4 @@
-<div class="logoRow">
+<div class="columns">
   <div class="logoColumn logoColumnLeft"><img src="zebulon-1024.png"></div>
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
