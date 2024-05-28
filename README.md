@@ -19,11 +19,10 @@
   </div>
 </div>
 
-
-    <h1>
-      <span class="en">My iOS Apps</span>
-      <span class="de">Meine iOS-Apps</span>
-    </h1>
+<h1>
+  <span class="en">My iOS Apps</span>
+  <span class="de">Meine iOS-Apps</span>  
+</h1>
     
 <div class="columns">
   <div class="column25">&nbsp;</div>
