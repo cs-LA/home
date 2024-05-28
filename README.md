@@ -8,8 +8,8 @@
 </p>
 <h3>&nbsp;</h3>
 
-<div class="row">
-  <div class="column1of2">
+<div class="columns">
+  <div class="column50">
 
     <h1>
       <span class="en">My iOS Apps</span>
@@ -57,7 +57,7 @@
     </div>
   </div>
   
-  <div class="column1of2">
+  <div class="column50">
     <h1>IT-Training x</h1>
     <p>&nbsp;</p>
     <p>
