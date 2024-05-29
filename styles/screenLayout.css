@@ -5,25 +5,25 @@ body {
 
 #header, #footer{
   position: fixed;        
-  left: 10%;
-  right: 10%;
+  left: 10vw;
+  right: 10vw;
   border: 1px solid gray;
 }
 #header{
   top: 0;
-  height: 10%;
+  height: 10vh;
 }
 #footer{
-  height: 5%;
+  height: 5vh;
   bottom: 0;
 }    
 
 #content{
   position: fixed;
-  top: 10%;
-  height: 85%;
-  left: 10%;
-  right: 10%;
+  top: 10vh;
+  height: 85vh;
+  left: 10vw;
+  right: 10vw;
   overflow: auto;
-  border: 1px solid blue;
+  border: 1px solid red;
 }
