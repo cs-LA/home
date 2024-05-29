@@ -7,22 +7,23 @@
   
 
       .headerTitle {
-        font-size: 2.0em;
+        font-size: 5.0vh;
         color: #e8eef8;
         text-align: center;
       }
       .headerIndex {
-        font-size: .8em;
+        font-size: 1.5vh;
         color: #e8eef8;
+        color: black;
         text-align: left; 
         float:left;
-        padding-top: .5em;
-        padding-left: 30px;
+        padding-top: 7vh;
+        padding-left: 2vw;
       }
       .headerLanguages {
-        font-size: .8em;
+        font-size: 1.5vh;
         color: #e8eef8;
         text-align: right;
-        padding-top: .5em;
-        padding-right: 30px;
+        padding-top: 7vh;
+        padding-right: 2vw;
       }
