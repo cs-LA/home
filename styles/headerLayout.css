@@ -5,25 +5,26 @@
   /* padding-bottom: 1vh; */
 }
   
+.headerTitle {
+  padding-top: 1vh;
+  text-align: center;
+  font-size: min(5vh, 50vw);
+  color: #e8eef8;
+}
 
-      .headerTitle {
-        padding-top: 1vh;
-        text-align: center;
-        font-size: min(5vh, 50vw);
-        color: #e8eef8;
-      }
-      .headerIndex {
-        float:left;
-        padding-top: 7vh;
-        padding-left: 2vw;
-        text-align: left; 
-        font-size: 1.5vh;
-        color: #e8eef8;
-      }
-      .headerLanguages {
-        padding-top: 7vh;
-        padding-right: 2vw;
-        text-align: right;
-        font-size: 1.5vh;
-        color: #e8eef8;
-      }
+.headerIndex {
+  float:left;
+  padding-top: 7vh;
+  padding-left: 2vw;
+  text-align: left; 
+  font-size: 1.5vh;
+  color: #e8eef8;
+}
+
+.headerLanguages {
+  padding-top: 7vh;
+  padding-right: 2vw;
+  text-align: right;
+  font-size: 1.5vh;
+  color: #e8eef8;
+}
