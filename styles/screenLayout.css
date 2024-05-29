@@ -13,16 +13,16 @@ body {
 
 #header, #footer{
   position: fixed;        
-  width: 80vw;
-  left: 10vw; /* ???*/
+  left: 10vw;
+  right: 10vw;
   border: 1px solid black;
 }
 #header{
-  height: 10vh;
   top: 0;
+  bottom: 10vh;
 }
 #footer{
-  height: 5vh;
+  top: 95vh;
   bottom: 0;
 }    
 
@@ -30,8 +30,8 @@ body {
   position: fixed;
   top: 10vh;
   bottom: 5vh;
-  width: 80vw;
   left: 10vw;
+  right: 10vw;
   overflow: auto;
   border: 1px solid red;
 }
