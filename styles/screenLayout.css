@@ -17,7 +17,7 @@ body {
   position: fixed;        
   width: 80vw;
   left: 10vw; /* ???*/
-  border: 1px solid yellow;
+  border: 1px solid green;
 }
 #header{
   height: 10vh;
@@ -30,9 +30,8 @@ body {
 
 #content{
   position: fixed;
-  height: 85vh;
-  height: calc(-webkit-fill-available - 15vh);
   top: 10vh;
+  bottom: 10vh;
   width: 80vw;
   left: 10vw;
   overflow: auto;
