@@ -1,7 +1,6 @@
 body {
   margin: 0;
   height: calc(100% - 3px);
-  height: 100%;
 }
 
 #header, #footer{
@@ -26,5 +25,5 @@ body {
   left: 10%;
   right: 10%;
   overflow: auto;
-  border: 1px solid red;
+  border: 1px solid blue;
 }
