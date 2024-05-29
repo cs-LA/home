@@ -5,7 +5,7 @@ body{
 #header, #footer{
   position: fixed;        
   width: 80vw;
-  left: 9vw; /* ???*/
+  left: 10vw; /* ???*/
   margin: 0;
   border: 1px solid blue;
 }
@@ -20,10 +20,10 @@ body{
 
 #content{
   position: fixed;
-  height: 82vh;
+  height: 85vh;
   top: 10vh;
-  width: 78vw;
-  left: 9vw;
+  width: 80vw;
+  left: 10vw;
   overflow: auto;
   border: 1px solid red;
 }
