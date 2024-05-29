@@ -9,15 +9,13 @@ body0 {
 }
 
 body {        
-  position: fixed;
-  height: 100%
 }
 
 #header, #footer{
   position: fixed;        
   width: 80vw;
   left: 10vw; /* ???*/
-  border: 1px solid green;
+  border: 1px solid black;
 }
 #header{
   height: 10vh;
@@ -31,7 +29,7 @@ body {
 #content{
   position: fixed;
   top: 10vh;
-  bottom: 10vh;
+  bottom: 5vh;
   width: 80vw;
   left: 10vw;
   overflow: auto;
