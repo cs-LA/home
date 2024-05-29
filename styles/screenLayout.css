@@ -13,25 +13,25 @@ body {
 
 #header, #footer{
   position: fixed;        
-  left: 10vw;
-  right: 10vw;
+  left: 10%;
+  right: 10%;
   border: 1px solid gray;
 }
 #header{
   top: 0;
-  bottom: 10vh;
+  height: 10%;
 }
 #footer{
-  top: 95vh;
+  height: 5%;
   bottom: 0;
 }    
 
 #content{
   position: fixed;
-  top: 10vh;
-  bottom: 5vh;
+  top: 10%;
+  bottom: 85%;
   left: 10vw;
   right: 10vw;
   overflow: auto;
-  border: 1px solid yellow;
+  border: 1px solid green;
 }
