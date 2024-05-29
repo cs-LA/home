@@ -235,25 +235,21 @@
       }
 
       @media print {
+	      
         .headerBanner, .headerTitle, .headerIndex, .headerLanguages,
         .footerBanner, .footerText {
-        visibility: hidden;
-      }
+        	visibility: hidden;
+      	}
 
-        #scroll {
-          position: static;
-          top: 0;
-          left: 0;
-        } 
-
-	      body {
+     	body {
           font-size: 11px;
         }
 
       }
 
     </style>
-    
+    <link rel="stylesheet" href="screenLayout.css">
+
     <script>
       function setLanguage() {
         shortLang = sessionStorage.getItem("shortLang")
