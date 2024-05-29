@@ -38,4 +38,5 @@ body{
   padding: 2vw;
   background: #bbb;
   overflow: auto;
+  border: 1px solid red;
 }
