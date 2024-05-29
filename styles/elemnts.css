@@ -1,9 +1,0 @@
-a {
-  color: #00aaff;
-  text-decoration: none;
-}
-
-.headerBanner a,
-.footerBanner a	  {
-  color: inherit;
-}
