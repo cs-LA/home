@@ -32,9 +32,9 @@ body{
 #content{
   position: fixed;
   top: 10vh;
-  height: 80vh;
+  height: 82vh;
   left: 9vw;
-  width: 80vw;
+  width: 78vw;
   padding: 2vw;
   background: #bbb;
   overflow: auto;
