@@ -1,14 +1,7 @@
-html0 {
-  height: -webkit-fill-available;
-}
-
-body0 {        
-  min-height: 100vh;
-  /* mobile viewport bug fix */
-  min-height: -webkit-fill-available;
-}
-
-body {        
+body {
+  margin: 0;
+  height: calc(100% - 3px);
+  height: 100%;
 }
 
 #header, #footer{
