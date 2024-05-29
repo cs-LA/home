@@ -1,0 +1,30 @@
+      .headerBanner {
+        position: fixed;
+        top: 0%;
+        width: 100%;
+        background-color: #159957;
+        background-image: linear-gradient(120deg, #155799, #159957);
+        text-align: center;
+        padding-top: .8rem;
+        padding-bottom: .2rem;
+      }
+      .headerTitle {
+        font-size: 2.0em;
+        color: #e8eef8;
+        text-align: center;
+      }
+      .headerIndex {
+        font-size: .8em;
+        color: #e8eef8;
+        text-align: left; 
+        float:left;
+        padding-top: .5em;
+        padding-left: 30px;
+      }
+      .headerLanguages {
+        font-size: .8em;
+        color: #e8eef8;
+        text-align: right;
+        padding-top: .5em;
+        padding-right: 30px;
+      }
