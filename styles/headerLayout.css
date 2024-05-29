@@ -9,18 +9,18 @@
 .headerTitle {
   padding-top: 1vh;
   text-align: center;
-  font-size: min(5vh, 50vw);
+  font-size: 5vmin;
 }
 
 .headerIndex {
   float:left;
   padding-left: 2vw;
   text-align: left; 
-  font-size: 1.5vh;
+  font-size: 1.5vmin;
 }
 
 .headerLanguages {
   padding-right: 2vw;
   text-align: right;
-  font-size: 1.5vh;
+  font-size: 1.5vmin;
 }
