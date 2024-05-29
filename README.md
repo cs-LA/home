@@ -3,7 +3,7 @@
   <div class="column75">
     <h1 style="text-align: left;">
       <span class="en">My Diploma Thesis</span>
-      <span class="de">Meine DiplomarbeitXXX</span>
+      <span class="de">Meine Diplomarbeit</span>
     </h1>
   </div>
 </div>
