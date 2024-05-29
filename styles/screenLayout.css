@@ -10,9 +10,9 @@ body{
   border: 2px solid blue;
 }
 #header{
-  top: 0;
   height: 10vh;
-  }
+  top: 0;
+}
 #footer{
   height: 5vh;
   bottom: 0;
@@ -20,11 +20,10 @@ body{
 
 #content{
   position: fixed;
-  top: 10vh;
   height: 82vh;
-  left: 9vw;
+  top: 10vh;
   width: 78vw;
-  padding: 2vw;
+  left: 9vw;
   overflow: auto;
   border: 2px solid red;
 }
