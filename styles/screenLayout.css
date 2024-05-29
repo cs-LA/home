@@ -1,29 +1,29 @@
 body {
   margin: 0;
-  height: calc(100% - 3px);
+  height: 100%;
 }
 
 #header, #footer{
   position: fixed;        
-  left: 10vw;
-  right: 10vw;
+  left: 10%;
+  right: 10%;
   border: 1px solid gray;
 }
 #header{
   top: 0;
-  height: 10vh;
+  height: 10%;
 }
 #footer{
-  height: 5vh;
+  height: 5%;
   bottom: 0;
 }    
 
 #content{
   position: fixed;
-  top: 10vh;
-  height: 85vh;
-  left: 10vw;
-  right: 10vw;
+  top: 10%;
+  height: 85%;
+  left: 10%;
+  right: 10%;
   overflow: auto;
-  border: 1px solid red;
+  border: 1px solid green;
 }
