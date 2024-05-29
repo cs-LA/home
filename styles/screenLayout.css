@@ -7,7 +7,7 @@ body{
   width: 80vw;
   left: 9vw; /* ???*/
   margin: 0;
-  border: 2px solid blue;
+  border: 1px solid blue;
 }
 #header{
   height: 10vh;
@@ -25,5 +25,5 @@ body{
   width: 78vw;
   left: 9vw;
   overflow: auto;
-  border: 2px solid red;
+  border: 1px solid red;
 }
