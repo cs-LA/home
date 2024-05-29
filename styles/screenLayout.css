@@ -1,3 +1,7 @@
+html {
+  height: -webkit-fill-available;
+}
+
 body{        
   min-height: 100vh;
   /* mobile viewport bug fix */
@@ -8,7 +12,7 @@ body{
   position: fixed;        
   width: 80vw;
   left: 10vw; /* ???*/
-  border: 1px solid green;
+  border: 1px solid blue;
 }
 #header{
   height: 10vh;
