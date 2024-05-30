@@ -19,7 +19,7 @@ body {
 
 #header, #footer, #content {
   width: 100%;
-  border: 1px dashed blue;
+  border: 0px dashed blue;
 }
 #header{
   height: 10%;
