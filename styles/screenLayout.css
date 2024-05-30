@@ -17,18 +17,4 @@ body {
   border: 2px solid black;
 }
 
-#header, #footer, #content {
-  width: 100%;
-  border: 1px solid blue;
-}
-#header{
-  height: 10%;
-}
-#footer{
-  height: 5%;
-}    
 
-#content{
-  height: 85%;
-  overflow: auto;
-}
