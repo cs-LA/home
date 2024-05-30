@@ -28,7 +28,7 @@ body {
   top: 10%;
   height: 85%;
   left: 10%;
-  right: 10%-1em;
+  right: 10%;
   overflow: auto;
-  border: 1px solid red;
+  border: 1px solid blue;
 }
