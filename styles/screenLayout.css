@@ -18,7 +18,7 @@ body {
 
 #header, #footer, #content {
   width: 100%;
-  border: 1px solid gray;
+  border: 1px solid blue;
 }
 #header{
   height: 10%;
