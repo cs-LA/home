@@ -14,6 +14,7 @@ body {
   left: 10%;
   right: 10%;
   height: 100%;
+  border: 2px solid black;
 }
 
 #header, #footer, #content {
