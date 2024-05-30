@@ -12,7 +12,7 @@ body {
   position: fixed;        
   left: 10%;
   right: 10%;
-  border: 1px solid gray;
+  cs.border: 1px solid gray;
 }
 #header{
   top: 0;
@@ -28,7 +28,7 @@ body {
   top: 10%;
   height: 85%;
   left: 10%;
-  right: 10%;
+  right: 10%-1em;
   overflow: auto;
-  border: 1px solid green;
+  border: 1px solid red;
 }
