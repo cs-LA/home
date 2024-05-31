@@ -86,7 +86,7 @@
   <div class="column75">
     <p>
       <span class="en">After spending nearly 40 years supporting the mainframe DBMS Db2, I now have decided to offer my knowledge as an independent consultant.</span>
-      <span class="de">Nach beinahe 40 Jahren intensiver Beschäftigung mit dem Mainframe DBMs Db2, habe ich mich entschieden, meine gesammelten Erfahrungen als unhabhängiger Berater zur Verfügung zu stellen.</span>
+      <span class="de">Nach beinahe 40 Jahren intensiver Beschäftigung mit dem Mainframe DBMS Db2, habe ich mich entschieden, meine gesammelten Erfahrungen als unhabhängiger Berater zur Verfügung zu stellen.</span>
     </p>
     <p>
       <span class="en">If you are interested to profit from my experience, don't hesitate to <a href="mailto:cl.schuetzdeller@icloud.com">contact me</a>.</span>
