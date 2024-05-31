@@ -11,10 +11,10 @@ body {
 #container {
   position: fixed;
   top: 0;
-  left: 10%;
+  left: clamp(1%, 500px, 20%);
   right: 10%;
   height: 100%;
-  border: 2px solid red;
+  border: 1px solid green;
 }
 
 #header, #footer, #content {
