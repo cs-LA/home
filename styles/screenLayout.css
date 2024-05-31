@@ -13,8 +13,9 @@ body {
   top: 0;
   left: clamp(1%, 500px, 20%);
   right: 10%;
+  right: clamp(1rem, -0.875rem + 8.333vw, 3.5rem);
   height: 100%;
-  border: 1px solid green;
+  border: 1px solid blue;
 }
 
 #header, #footer, #content {
