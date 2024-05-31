@@ -12,6 +12,7 @@ body {
   position: fixed;
   top: 0;
   left: clamp(1%, 500px, 20%);
+  left: calc(1em + (10em - 1em) * ((100vw - 1px) / (2000 - 300)));
   right: 10%;
   right: clamp(1rem, -0.875rem + 8.333vw, 3.5rem);
   height: 100%;
