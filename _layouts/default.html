@@ -27,10 +27,28 @@
         }
       }
     </script>
+    <script>
+    const [viewportWidth,fontSizeRem,fontSizePx] = document.querySelectorAll("h1");
+
+function calculate(){
+  document.getElementById("vw").innerText = "Viewport Width: ${window.innerWidth}px";
+  document.getElementById("vh").innerText = "Viewport Height: ${window.innerHeight}px";
+  document.getElementById("vh").innerText = "test";
+}
+
+window.addEventListener("resize", () => {
+  calculate();
+});
+
+calculate();
+    </scrpt>
   </head>
 	
   <body onload="setLanguage()">
     <div id="container">
+    <div id="vw"> 
+    <div id="vh"> 
+    <div id="fs"> 
     <div id="header">
 	    <div class="headerBanner">
       <div class="headerTitle"><a href="/home">Clemens Schützdeller</a></div>
