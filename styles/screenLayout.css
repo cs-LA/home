@@ -27,7 +27,7 @@ body {
 }
 #header{
   height: 10%;
-  height: 4 * var(--base-font-size);
+  height: 4 * var(--base-font-size)px;
 }
 #footer{
   height: 4 * var(--base-font-size);
