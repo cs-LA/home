@@ -2,9 +2,7 @@ body {
   margin: 0;
   height: 100%;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 2vh;
-  font-size: calc(12px + (32 - 12) * ((100vw - 200px) / (1800 - 200)));
-  font-size: calc(3 * (-40px + 0.12 * (100vw - 1px)));
+  font-size: calc(2.5px + 0.02 * (100vw - 1px)));
   line-height: 1.3;
   color: #404c51;
   padding: 0;
@@ -16,7 +14,7 @@ body {
   left: calc(-40px + 0.12 * (100vw - 1px));
   right: calc(-40px + 0.12 * (100vw - 1px));
   height: 100%;
-  border: 1px solid red;
+  border: 1px solid green;
 }
 
 #header, #footer, #content {
