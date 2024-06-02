@@ -21,10 +21,11 @@ body {
 
 #header, #footer, #content {
   width: 100%;
-  border: 0px dashed blue;
+  border: 0px dashed gray;
 }
 #header{
   height: 10%;
+  height: calc(3 * (2.5px + 0.02 * (100vw - 1px)));
 }
 #footer{
   height: 5%;
