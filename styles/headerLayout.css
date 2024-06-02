@@ -8,7 +8,7 @@
   
 .headerTitle {
   padding-top: .5 * var(--base-font-size);
-  text-align: center;
+  text-align: left;
   font-size: 2 * var(--base-font-size);
 }
 
