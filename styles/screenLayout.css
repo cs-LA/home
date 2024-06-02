@@ -18,7 +18,7 @@ body {
   left: calc(-40px + 0.12 * (100vw - 1px));
   right: calc(-40px + 0.12 * (100vw - 1px));
   height: 100%;
-  border: 1px solid green;
+  border: 1px solid blue;
 }
 
 #header, #footer, #content {
@@ -27,7 +27,7 @@ body {
 }
 #header{
   height: 10%;
-  height: calc(4 * (2.5px + 0.02 * (100vw - 1px)));
+  height: 5 * var(--base-font-size);
 }
 #footer{
   height: 5%;
