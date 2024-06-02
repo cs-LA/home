@@ -5,9 +5,6 @@
   /* padding-bottom: 1vh; */
   color: #e8eef8;
 }
-.headerBanner::after {
-  content: " - Remember this";
-  }
   
 .headerTitle {
   padding-top: .5 * var(--base-font-size);
