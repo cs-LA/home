@@ -17,8 +17,8 @@ body {
   top: 0;
   left: calc(-40px + 0.12 * (100vw - 1px));
   right: calc(-40px + 0.12 * (100vw - 1px));
-  height: 100%;
-  border: 3px solid red;
+  height: 90%;
+  border: 3px solid green;
 }
 
 #header, #footer, #content {
