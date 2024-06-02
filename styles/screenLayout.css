@@ -16,7 +16,7 @@ body {
   left: calc(-40px + 0.12 * (100vw - 1px));
   right: calc(-40px + 0.12 * (100vw - 1px));
   height: 100%;
-  border: 1px solid blue;
+  border: 1px solid gray;
 }
 
 #header, #footer, #content {
@@ -25,7 +25,7 @@ body {
 }
 #header{
   height: 10%;
-  height: calc(3 * (2.5px + 0.02 * (100vw - 1px)));
+  height: calc(4 * (2.5px + 0.02 * (100vw - 1px)));
 }
 #footer{
   height: 5%;
