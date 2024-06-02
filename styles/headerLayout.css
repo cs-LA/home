@@ -5,6 +5,9 @@
   /* padding-bottom: 1vh; */
   color: #e8eef8;
 }
+.headerBanner:after {
+  1234
+  }
   
 .headerTitle {
   padding-top: .5 * var(--base-font-size);
