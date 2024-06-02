@@ -13,11 +13,11 @@ body {
   position: fixed;
   top: 0;
   left: clamp(1%, 500px, 20%);
-  left: calc(9px + 91 * (100vw - 1px) / 2000);
+  left: calc(-40px + 0.12 * (100vw - 1px));
   right: 10%;
   right: clamp(1rem, -0.875rem + 8.333vw, 3.5rem);
   height: 100%;
-  border: 1px solid gray;
+  border: 1px solid red;
 }
 
 #header, #footer, #content {
