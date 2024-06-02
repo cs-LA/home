@@ -12,10 +12,8 @@ body {
 #container {
   position: fixed;
   top: 0;
-  left: clamp(1%, 500px, 20%);
   left: calc(-40px + 0.12 * (100vw - 1px));
-  right: 10%;
-  right: clamp(1rem, -0.875rem + 8.333vw, 3.5rem);
+  right: calc(-40px + 0.12 * (100vw - 1px));
   height: 100%;
   border: 1px solid red;
 }
