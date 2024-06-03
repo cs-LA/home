@@ -25,7 +25,6 @@ body {
   left: calc(-40px + 0.12 * (100vw - 1px));
   right: calc(-40px + 0.12 * (100vw - 1px));
   bottom: 0;
-  border: 1px solid green;
 }
 
 #header, #footer, #content {
@@ -41,6 +40,6 @@ body {
 }    
 
 #content{
-  height: 80%;
+  height: calc(100% - 6 * var(--base-font-size));
   overflow: auto;
 }
