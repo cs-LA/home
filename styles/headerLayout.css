@@ -8,15 +8,15 @@
   
 .headerTitle {
   padding-top: calc(.5 * (2.5px + 0.02 * (100vw - 1px)));
-  text-align: right;
-  font-size: calc(5 * (2.5px + 0.02 * (100vw - 1px)));
+  text-align: left;
+  font-size: calc(2 * (2.5px + 0.02 * (100vw - 1px)));
 }
 
 .headerIndex {
   float:left;
   padding-left: 2vw;
   text-align: left; 
-  font-size: .8 * calc(2.5px + 0.02 * (100vw - 1px)));
+  font-size: calc(.8 * (2.5px + 0.02 * (100vw - 1px)));
 }
 
 .headerLanguages {
