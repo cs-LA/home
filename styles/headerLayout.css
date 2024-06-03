@@ -7,8 +7,8 @@
 }
   
 .headerTitle {
-  padding-top: .5 * calc(2.5px + 0.02 * (100vw - 1px)));
-  text-align: center;
+  padding-top: calc(.5 * (2.5px + 0.02 * (100vw - 1px))));
+  text-align: right;
   font-size: calc(5 * (2.5px + 0.02 * (100vw - 1px))));
 }
 
