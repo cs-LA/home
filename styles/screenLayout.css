@@ -24,7 +24,7 @@ body {
   top: 0;
   left: calc(-40px + 0.12 * (100vw - 1px));
   right: calc(-40px + 0.12 * (100vw - 1px));
-  height: 100%;
+  bottom: 0;
   border: 1px solid green;
 }
 
@@ -33,7 +33,6 @@ body {
   border: 0px dashed gray;
 }
 #header{
-  height: 10%;
   height: calc(4 * var(--base-font-size));
   line-height: 1.0;
 }
