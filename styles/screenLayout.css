@@ -24,7 +24,7 @@ body {
   left: calc(-40px + 0.12 * (100vw - 1px));
   right: calc(-40px + 0.12 * (100vw - 1px));
   height: 90%;
-  border: 3px solid blue;
+  border: 3px solid red;
 }
 
 #header, #footer, #content {
