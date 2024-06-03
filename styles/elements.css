@@ -35,7 +35,16 @@ li {
   padding-top: 0.3em;
   padding-bottom: 0.3em;
 }
-           
+
+a {
+  color: #00aaff;
+  text-decoration: none;
+}
+.headerBanner a,
+.footerBanner a	  {
+  color: inherit;
+}
+
 img {
   display: block;
   width: 80%;
