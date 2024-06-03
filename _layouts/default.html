@@ -31,8 +31,8 @@
 function calculate() {
 
   document.getElementById("vw").innerText = "Viewport Width: " + window.innerWidth;
-  document.getElementById("vh").innerText = "Viewport Height: " + window.innerHeight;
-  document.getElementById("sz").innerText = "Font-Size: " + window.getComputedStyle(document.getElementById("sz"), null).getPropertyValue("font-size");
+  document.getElementById("vh").innerText = "Header Height: " + window.document.getElementById("header").height;
+  document.getElementById("sz").innerText = "Font-Size: " + window.getComputedStyle(document.getElementById("headerTitle"), null).getPropertyValue("font-size");
   
 }
 
