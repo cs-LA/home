@@ -27,10 +27,10 @@ body {
 }
 #header{
   height: 10%;
-  height: calc(4 * (2.5px + 0.02 * (100vw - 1px))));
+  height: calc(4 * (2.5px + 0.02 * (100vw - 1px)));
 }
 #footer{
-  height: calc(3 * (2.5px + 0.02 * (100vw - 1px))));
+  height: calc(3 * (2.5px + 0.02 * (100vw - 1px)));
 }    
 
 #content{
