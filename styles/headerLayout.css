@@ -7,7 +7,7 @@
 }
   
 .headerTitle {
-  padding-top: calc(.5 * var(--base-font-size));
+  padding-top: calc(.4 * var(--base-font-size));
   text-align: center;
   font-size: calc(2 * var(--base-font-size));
 }
@@ -16,11 +16,11 @@
   float:left;
   padding-left: 2vw;
   text-align: left; 
-  font-size: calc(.8 * (2.5px + 0.02 * (100vw - 1px)));
+  font-size: calc(.8 * var(--base-font-size));
 }
 
 .headerLanguages {
   padding-right: 2vw;
   text-align: right;
-  font-size: 1.5vmin;
+  font-size: calc(.8 * var(--base-font-size));
 }
