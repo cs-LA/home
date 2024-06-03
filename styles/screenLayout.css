@@ -1,6 +1,7 @@
 :root {
     --base-font-size: calc(2.5px + 0.02 * (100vh - 1px));
     --base-font-size: clamp(10px, 5vh, 20px);
+    --base-font-size: clamp(0.6rem, 0.13rem + 1.87vw, 2rem);
 }
 /*
 ScreenHeights: 700 - 1500
@@ -22,7 +23,7 @@ body {
   left: calc(-40px + 0.12 * (100vw - 1px));
   right: calc(-40px + 0.12 * (100vw - 1px));
   height: 90%;
-  border: 3px solid green;
+  border: 3px solid blue;
 }
 
 #header, #footer, #content {
