@@ -1,7 +1,10 @@
 :root {
     --base-font-size: calc(2.5px + 0.02 * (100vh - 1px));
 }
-
+/*
+ScreenHeights: 700 - 1500
+ScreenWiths: 375 - 1366
+*/
 body {
   margin: 0;
   height: 100%;
