@@ -2,6 +2,7 @@
     --base-font-size: calc(2.5px + 0.02 * (100vh - 1px));
     --base-font-size: clamp(10px, 5vh, 20px);
     --base-font-size: clamp(0.6rem, 0.13rem + 1.87vw, 2rem);
+    --base-font-size: clamp(16px, calc(16px + (32 - 16) * ((100vmin - 360px) / 1560)), 32px);
 }
 /*
 ScreenHeights: 700 - 1500
