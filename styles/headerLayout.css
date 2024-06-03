@@ -10,6 +10,7 @@
   padding-top: calc(.4 * var(--base-font-size));
   text-align: left;
   font-size: calc(2 * var(--base-font-size));
+  border:
 }
 
 .headerIndex {
