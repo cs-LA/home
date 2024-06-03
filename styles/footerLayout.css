@@ -6,7 +6,9 @@
 }
 
 .footerText {
-  font-size: calc(1 * var(--base-font-size));
+  padding-top: calc(0.5* var(--base-font-size));
+  font-size: calc(0.8 * var(--base-font-size));
+  line-height: 1;
   color: #e8eef8;
   color: yellow;
 }
