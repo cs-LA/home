@@ -32,7 +32,8 @@ function calculate() {
 
   document.getElementById("vw").innerText = "Viewport Width: " + window.innerWidth;
   document.getElementById("vh").innerText = "Header Height: " + document.getElementById("header").getBoundingClientRect().height;
-  document.getElementById("sz").innerText = "Font-Size: " + window.getComputedStyle(document.getElementById("headerTitle"), null).getPropertyValue("font-size");
+  //document.getElementById("sz").innerText = "Font-Size: " + window.getComputedStyle(document.getElementById("headerTitle"), null).getPropertyValue("font-size");
+  document.getElementById("sz").innerText = "Font-Size: " + document.getElementById("ht").getBoundingClientRect().height;
   
 }
 
@@ -47,7 +48,7 @@ calculate();
     <div id="container">
       <div id="header">
   	    <div class="headerBanner">
-          <div class="headerTitle"><a href="/home">Clemens Schützdeller</a></div>
+          <div id="ht" class="headerTitle"><a href="/home">Clemens Schützdeller</a></div>
           <div class="headerIndex" id="headerIndex"><a href=/home/Pages.html><b>Index</b></a></div>
           <div class="headerLanguages" id="headerLanguages"><span id="german" onClick="setGerman()">de</span> <span id="debug"></span> <span id="english" onClick="setEnglish()">en</span></div>
   			</div>
@@ -57,7 +58,7 @@ calculate();
       <div id="content">
         <div id="vw">vw</div>
         <div id="vh">hh</div>
-        <div id="sz">eee</div>
+        <div id="sz">fs</div>
 
   			<h1 style="text-align: center;">Under Construction</h1>
   			<img src="/home/styles/UnderConstruction.jpg" style="display: block; width: 60%; height: auto; padding-top: 10%; margin: 0 auto;">
