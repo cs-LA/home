@@ -7,9 +7,9 @@
 }
   
 .headerTitle {
-  padding-top: calc(.5 * (2.5px + 0.02 * (100vw - 1px)));
-  text-align: left;
-  font-size: calc(2 * (2.5px + 0.02 * (100vw - 1px)));
+  padding-top: calc(.5 * var(--base-font-size));
+  text-align: center;
+  font-size: calc(2 * var(--base-font-size));
 }
 
 .headerIndex {
