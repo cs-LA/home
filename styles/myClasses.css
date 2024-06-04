@@ -18,7 +18,7 @@
 }
 
       .logoTitle {
-        font-size: calc(1.5 * var(--base-font-size))
+        font-size: calc(1.5 * var(--base-font-size));
         font-weight: bold;
         font-style: italic;
         padding-top: 0;
