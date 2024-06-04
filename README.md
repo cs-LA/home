@@ -1,4 +1,4 @@
-<div class="columns">
+<div class="row">
   <div class="column25">&nbsp;</div>
   <div class="column75">
     <h1 style="text-align: left;">
@@ -7,7 +7,7 @@
     </h1>
   </div>
 </div>
-<div class="columns">
+<div class="row">
   <div class="column25">
     <a href="Diplomarbeit/Diplomarbeit.pdf"><img src="Diplomarbeit/KommutativesDiagramm.png" class="logo"></a>
   </div>
@@ -19,7 +19,7 @@
   </div>
 </div>
 
-<div class="columns">
+<div class="row">
   <div class="column25">&nbsp;</div>
   <div class="column75">
     <h1 style="text-align: left;">
@@ -28,7 +28,7 @@
     </h1>
   </div>
 </div>
-<div class="columns">
+<div class="row">
   <div class="column25">
     <a href="KTrunk/index.html"><img src="KTrunk/logo120.png" class="logo bordered"></a>
   </div>
@@ -42,7 +42,7 @@
     </div>
   </div>
 </div>
-<div class="columns">
+<div class="row">
   <div class="column25">
     <a href="IntervalCoach/index.html"><img src="IntervalCoach/logo120.png" class= "logo bordered"></a>
   </div>
@@ -56,7 +56,7 @@
     </div>
   </div>
 </div>
-<div class="columns">
+<div class="row">
   <div class="column25">
     <a href="Zebulon/index.html"><img src="Zebulon/zebulon-60@2x.png" class= "logo bordered"></a>
 </div>
@@ -71,7 +71,7 @@
   </div>
 </div>
 
-<div class="columns">
+<div class="row">
   <div class="column25">&nbsp;</div>
   <div class="column75">
     <h1 style="text-align: left;">
@@ -79,7 +79,7 @@
     </h1>
   </div>
 </div>
-<div class="columns">
+<div class="row">
   <div class="column25">
     &nbsp;
   </div>
