@@ -84,7 +84,7 @@
 .logoTitle {
   padding-top: calc(1.5 * var(--base-font-size));
   font-size: calc(1.5 * var(--base-font-size));
-  line-height: 1
+  line-height: 1;
   padding-bottom: calc(1.0 * var(--base-font-size));
   font-weight: bold;
   font-style: italic;
