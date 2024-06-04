@@ -34,7 +34,6 @@
         padding-bottom: 0;
       }
       .logoDescription {
-        padding-top: calc(0.8 * var(--base-font-size));
         font-size: calc(0.8 * var(--base-font-size));
       }
 
