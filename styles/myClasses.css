@@ -65,9 +65,27 @@
   width: 75%;
 }
 
+.column {
+  float: left;
+  padding: var(--base-font-size);
+}
 
-.vCentered {
-  line-height: 1.2;
-  display: inline-block;
-  vertical-align: middle;
+.colWidth25,
+.gridLeftCol {
+  width: calc(10 * var(--base-font-size));
+}
+
+.colWidth75,
+.gridRightCol {
+  width: calc(30 * var(--base-font-size));
+  height: calc(10 * var(--base-font-size));
+}
+
+.logoTitle {
+  padding-top: calc(1.5 * var(--base-font-size));
+  font-size: calc(1.5 * var(--base-font-size));
+  line-height: 1
+  padding-bottom: calc(1.0 * var(--base-font-size));
+  font-weight: bold;
+  font-style: italic;
 }
