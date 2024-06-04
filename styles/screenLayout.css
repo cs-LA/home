@@ -2,6 +2,10 @@
     --base-font-size: clamp(10px, calc(10px + (32 - 10) * ((100vmin - 360px) / 1560)), 32px);
 }
 
+      * {
+        box-sizing: border-box;
+      }
+
 body {
   margin: 0;
   height: 100%;
@@ -17,6 +21,7 @@ body {
   left: calc(-40px + 0.12 * (100vw - 1px));
   right: calc(-40px + 0.12 * (100vw - 1px));
   bottom: 0;
+  border: 2px dashed red;
 }
 
 #header, #footer, #content {
