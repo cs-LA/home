@@ -25,11 +25,9 @@
   <div class="gridLogo">
     &nbsp;
   </div>
-  <div>
-    <div class="gridHeader">
-      <span class="en">My iOS Apps</span>
-      <span class="de">Meine iOS-Apps</span>
-    </div>
+  <div class="gridHeader">
+    <span class="en">My iOS Apps</span>
+    <span class="de">Meine iOS-Apps</span>
   </div>
 </div>
 <div class="hGrid">
