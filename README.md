@@ -1,6 +1,6 @@
 <div class="row">
-  <div class="column25">&nbsp;</div>
-  <div class="column75">
+  <div class="column colWidth25">&nbsp;</div>
+  <div class="column colWidth75">
     <h1 style="text-align: left;">
       <span class="en">My Diploma Thesis</span>
       <span class="de">Meine Diplomarbeit</span>
@@ -8,10 +8,10 @@
   </div>
 </div>
 <div class="row">
-  <div class="column25">
+  <div class="column colWidth25">
     <a href="Diplomarbeit/Diplomarbeit.pdf"><img src="Diplomarbeit/KommutativesDiagramm.png" class="logo"></a>
   </div>
-  <div class="column75">
+  <div class="column colWidth75">
     <div class="vCentered">
       <div class="logoTitle"><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></div>
       <div class="logoDescription"><span class="en">from 1983</span><span class="de">aus dem Jahre 1983</span></div>
@@ -20,8 +20,8 @@
 </div>
 
 <div class="row">
-  <div class="column25">&nbsp;</div>
-  <div class="column75">
+  <div class="column colWidth25">&nbsp;</div>
+  <div class="column colWidth75">
     <h1 style="text-align: left;">
       <span class="en">My iOS Apps</span>
       <span class="de">Meine iOS-Apps</span>
@@ -29,10 +29,10 @@
   </div>
 </div>
 <div class="row">
-  <div class="column25">
+  <div class="column colWidth25">
     <a href="KTrunk/index.html"><img src="KTrunk/logo120.png" class="logo bordered"></a>
   </div>
-  <div class="column75">
+  <div class="column colWidth75">
     <div class="vCentered">
           <div class="logoTitle"><a href="KTrunk/index.html">KTrunk</a></div>
           <div class="logoDescription">
@@ -43,10 +43,10 @@
   </div>
 </div>
 <div class="row">
-  <div class="column25">
+  <div class="column colWidth25">
     <a href="IntervalCoach/index.html"><img src="IntervalCoach/logo120.png" class= "logo bordered"></a>
   </div>
-  <div class="column75">
+  <div class="column colWidth75">
     <div class="vCentered">
           <div class="logoTitle"><a href="IntervalCoach/index.html">IntervalCoach</a></div>
           <div class="logoDescription">
@@ -57,10 +57,10 @@
   </div>
 </div>
 <div class="row">
-  <div class="column25">
+  <div class="column colWidth25">
     <a href="Zebulon/index.html"><img src="Zebulon/zebulon-60@2x.png" class= "logo bordered"></a>
 </div>
-<div class="column75">
+<div class="column colWidth75">
   <div class="vCentered">
     <div class="logoTitle"><a href="Zebulon/index.html">Zebulon</a></div>
       <div class="logoDescription">
@@ -72,18 +72,18 @@
 </div>
 
 <div class="row">
-  <div class="column25">&nbsp;</div>
-  <div class="column75">
+  <div class="column colWidth25">&nbsp;</div>
+  <div class="column colWidth75">
     <h1 style="text-align: left;">
       IT-Training
     </h1>
   </div>
 </div>
 <div class="row">
-  <div class="column25">
+  <div class="column colWidth25">
     &nbsp;
   </div>
-  <div class="column75">
+  <div class="column colWidth75">
     <p>
       <span class="en">After spending nearly 40 years supporting the mainframe DBMS Db2, I now have decided to offer my knowledge as an independent consultant.</span>
       <span class="de">Nach beinahe 40 Jahren intensiver Beschäftigung mit dem Mainframe DBMS Db2, habe ich mich entschieden, meine gesammelten Erfahrungen als unhabhängiger Berater zur Verfügung zu stellen.</span>
