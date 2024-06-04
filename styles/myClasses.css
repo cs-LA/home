@@ -31,3 +31,10 @@
 .colWidth75 {
   width: 75%;
 }
+
+
+.vCentered {
+  line-height: 1.2;
+  display: inline-block;
+  vertical-align: middle;
+}
