@@ -1,14 +1,14 @@
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
-  padding-top: 1.0em;
-  padding-bottom: 0.3em;
+  padding-top: calc(1.0 * var(--base-font-size));
+  padding-bottom: calc(0.3 * var(--base-font-size));
 }
-h1 { font-size: 2.0em; color: #155799; text-align: center; padding-top: 1.5em; }
-h2 { font-size: 1.8em; }
-h3 { font-size: 1.5em; }
-h4 { font-size: 1.2em; }
-h5 { font-size: 1.0em; font-weigth: bold; }
-h6 { font-size: 1.0em; font-weigth: bold; font-style: italic;}
+h1 { font-size: calc(2.0 * var(--base-font-size)); color: #155799; text-align: center; padding-top: calc(1.5 * var(--base-font-size)); }
+h2 { font-size: calc(1.8 * var(--base-font-size)); }
+h3 { font-size: calc(1.5 * var(--base-font-size)); }
+h4 { font-size: calc(1.2 * var(--base-font-size)); }
+h5 { font-size: calc(1.0 * var(--base-font-size)); font-weigth: bold; }
+h6 { font-size: calc(1.0 * var(--base-font-size)); font-weigth: bold; font-style: italic;}
 
 p {
   margin: 0;
