@@ -54,10 +54,10 @@
   </div>
 </div>
 <div class="row">
-  <div class="column colWidth25">
+  <div class="column gridLeftCol">
     <a href="KTrunk/index.html"><img src="KTrunk/logo120.png" class="logo bordered"></a>
   </div>
-  <div class="column colWidth75" style="display: grid; align-items: center;">
+  <div class="column gridRightCol">
           <div class="logoTitle"><a href="KTrunk/index.html">KTrunk</a></div>
           <div class="logoDescription">
             <span class="en"><b><i>Knowledge Trunk</i></b> — or short <b><i>KTrunk</i></b> — is a note taking iOS-App.</span>
