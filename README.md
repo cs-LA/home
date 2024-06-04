@@ -45,7 +45,7 @@
 
 
 <div class="hGrid">
-  <div>
+  <div class="colWidth75 gridLogo">
     <a href="KTrunk/index.html"><img src="KTrunk/logo120.png" class="logo bordered"></a>
   </div>
   <div>
