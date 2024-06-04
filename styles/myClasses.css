@@ -5,6 +5,15 @@
   display: none;
 }
 
+.hGrid {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: flex-start;
+  row-gap: 30px;
+  align-items: center;
+}
+
+
 
 .row {
   margin-top: 0em;
