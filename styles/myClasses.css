@@ -12,6 +12,7 @@
       }
       /* Clear floats after the columns */
       .row:after {
+	      height: var(--base-font-size);
         content: "";
         display: table;
         clear: both;
