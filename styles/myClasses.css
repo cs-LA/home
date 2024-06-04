@@ -14,25 +14,20 @@
 .row:after {
   height: var(--base-font-size);
   content: "";
-  border: 1px solid black;
   display: table;
   clear: both;
 }
 
-.column25 {
+.column {
   float: left;
+  padding-top: 0em;
+  padding-left: var(--base-font-size);
+  padding-right: var(--base-font-size);
+  padding-bottom: 0em;
+}
+.colWidth25 {
   width: 25%;
-  padding: 1em;
-  padding-top: 0em;
 }
-.column50 {
-  float: left;
-  width: 50%;
-  padding: 1em;
-}
-.column75 {
-  float: left;
+.colWidth75 {
   width: 75%;
-  padding: 1em;
-  padding-top: 0em;
 }
