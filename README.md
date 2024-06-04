@@ -22,7 +22,7 @@
 
 
 <div class="hGrid">
-  <div class="colWidth25 gridLogo">
+  <div class="gridLogo">
     &nbsp;
   </div>
   <div>
@@ -33,7 +33,7 @@
   </div>
 </div>
 <div class="hGrid">
-  <div class="colWidth25 gridLogo">
+  <div class="gridLogo">
     <a href="KTrunk/index.html"><img src="KTrunk/logo120.png" class="logo bordered"></a>
   </div>
   <div>
