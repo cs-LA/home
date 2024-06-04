@@ -11,6 +11,10 @@
   justify-content: flex-start;
   row-gap: 30px;
   align-items: center;
+  padding: var(--base-font-size);
+}
+.gridLogo {
+  height: auto;
 }
 
 
