@@ -19,6 +19,33 @@
   </div>
 </div>
 
+
+
+<div class="hGrid">
+  <div class="colWidth25 gridLogo">
+    <a href="KTrunk/index.html"><img src="KTrunk/logo120.png" class="logo bordered"></a>
+  </div>
+  <div>
+          <div class="logoTitle"><a href="KTrunk/index.html">KTrunk flexed</a></div>
+          <div class="logoDescription">
+            <span class="en"><b><i>Knowledge Trunk</i></b> — or short <b><i>KTrunk</i></b> — is a note taking iOS-App.</span>
+            <span class="de"><b><i>Knowledge Trunk</i></b> — oder kurz <b><i>KTrunk</i></b> — ist eine iOS-App, um Notizen zu verwalten.</span>
+          </div>
+  </div>
+</div>
+<div class="hGrid">
+  <div class="colWidth25 gridLogo">
+    &nbsp;
+  </div>
+  <div>
+    <h1 style="text-align: left;">
+      <span class="en">My iOS Apps</span>
+      <span class="de">Meine iOS-Apps</span>
+    </h1>
+  </div>
+</div>
+
+
 <div class="row">
   <div class="column colWidth25">&nbsp;</div>
   <div class="column colWidth75">
@@ -42,22 +69,6 @@
     </div>
   </div>
 </div>
-
-
-<div class="hGrid">
-  <div class="colWidth25 gridLogo">
-    <a href="KTrunk/index.html"><img src="KTrunk/logo120.png" class="logo bordered"></a>
-  </div>
-  <div>
-          <div class="logoTitle"><a href="KTrunk/index.html">KTrunk flexed</a></div>
-          <div class="logoDescription">
-            <span class="en"><b><i>Knowledge Trunk</i></b> — or short <b><i>KTrunk</i></b> — is a note taking iOS-App.</span>
-            <span class="de"><b><i>Knowledge Trunk</i></b> — oder kurz <b><i>KTrunk</i></b> — ist eine iOS-App, um Notizen zu verwalten.</span>
-          </div>
-  </div>
-</div>
-
-
 <div class="row">
   <div class="column colWidth25">
     <a href="IntervalCoach/index.html"><img src="IntervalCoach/logo120.png" class= "logo bordered"></a>
