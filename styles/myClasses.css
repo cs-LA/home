@@ -74,7 +74,9 @@
 .gridLeftCol {
   width: calc(10 * var(--base-font-size));
 }
-
+.gridLeftCol img {
+  width: 100%;
+}
 .colWidth75,
 .gridRightCol {
   width: calc(30 * var(--base-font-size));
