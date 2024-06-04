@@ -26,10 +26,10 @@
     &nbsp;
   </div>
   <div>
-    <h1 style="text-align: left;">
+    <div class="gridHeader">
       <span class="en">My iOS Apps</span>
       <span class="de">Meine iOS-Apps</span>
-    </h1>
+    </div>
   </div>
 </div>
 <div class="hGrid">
