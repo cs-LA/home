@@ -18,6 +18,12 @@
   height: auto;
 }
 
+      .gridHeader {
+        font-size: calc(2.0 * var(--base-font-size));
+        font-weight: bold;
+        padding-top: 0;
+        padding-bottom: 0;
+      }
       .logoTitle {
         font-size: calc(1.5 * var(--base-font-size));
         font-weight: bold;
