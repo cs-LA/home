@@ -18,13 +18,15 @@
 }
 
       .logoTitle {
-        font-size: 1.5em;
+        font-size: calc(1.5 * var(--base-font-size))
         font-weight: bold;
         font-style: italic;
+        padding-top: 0;
+        padding-bottom: 0;
       }
       .logoDescription {
-        padding-top: .8em;
-        font-size: .8em;
+        padding-top: calc(0.8 * var(--base-font-size));
+        font-size: calc(0.8 * var(--base-font-size));
       }
 
 
