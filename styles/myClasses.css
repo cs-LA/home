@@ -59,7 +59,7 @@
 }
 
 .hint {
-	padding-left: 2em;
+	padding-left: calc(2.0 * var(--base-font-size));
 }
 .hint::before {
 	content: "👉";
