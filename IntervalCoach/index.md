@@ -1,4 +1,25 @@
- <div class="columns">
+<div class="hGrid">
+  <div class="grid-1">
+    <img src="logo120.png">
+  </div>
+  <div class="grid-2">
+    <div class="gridTitle">
+      IntervalCoach
+    </div>
+    <div class="gridDescription">
+        <span class="en">Available in <b><a href="https://apps.apple.com/de/app/intervalcoach/id1612119055">AppStore</a></b>!</span>
+        <span class="de">Verfügbar im <b><a href="https://apps.apple.com/de/app/intervalcoach/id1612119055">AppStore</a></b>!</span>
+      </div>
+      <div class="logoDescription">
+        <span class="en">Now for the <b><a href="https://apps.apple.com/de/app/intervalcoachwatch/id1636537589">Apple Watch</a></b>, too!</span>
+        <span class="de">Jetzt auch für die <b><a href="https://apps.apple.com/de/app/intervalcoachwatch/id1636537589">Apple Watch</a></b>!</span>
+    </div>
+  </div>
+<div class="gridBreak"></div>
+</div>div>
+
+
+<div class="columns">
   <div class="logoColumn logoColumnLeft"><img src="logo120.png"></div>
   <div class="logoColumn logoColumnRight">
     <div class="vCentered">
