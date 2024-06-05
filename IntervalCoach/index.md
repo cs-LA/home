@@ -28,9 +28,9 @@
 <p><span class="en">The training will always start with an relaxed period to give you the chance to prepare yourself.</span><span class="de">Das Training beginnt immer mit einer entspannten Phase, um sich vorbereiten zu können.</span></p>
 <p><span class="en">Whenever an intensive interval starts or ends you will hear a <i>whistle sound</i>. In the middle of an intensive interval you will get a notification, too. When the app runs in background you will get a notification combined with this <i>'whistle sound</i>.</span><span class="de">Zu Beginn und am Ende eines jeden intensiven Intervalls ertönt ein <i>Pfeifton</i>. In der Mitte eines intensiven Intervalls gibt es ebenfalls einen Hinweis. Wenn die App im Hintergrund läuft, erscheint ein Hinweis zusammen mit diesem <i>Pfeifton</i>.</span></p>
 
-<p class="hint">
-  <span class="en">If you have any ideas or concerns, please <b><a href="mailto:cl.schuetzdeller@icloud.com">contact me</a></b>.</span>
-  <span class="de">Wenn du irgendwelche Ideen oder Probleme bei der Nutzung hast, <b><a href="mailto:cl.schuetzdeller@icloud.com">kontaktiere mich</a></b> bitte.</span> 
+<p>
+  <span class="en hint">If you have any ideas or concerns, please <b><a href="mailto:cl.schuetzdeller@icloud.com">contact me</a></b>.</span>
+  <span class="de hint">Wenn du irgendwelche Ideen oder Probleme bei der Nutzung hast, <b><a href="mailto:cl.schuetzdeller@icloud.com">kontaktiere mich</a></b> bitte.</span> 
 </p>
 
 <h3>
