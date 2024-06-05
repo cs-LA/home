@@ -28,8 +28,7 @@
 }
 .gridBreak {
   flex-basis: 100%;
-  height: 0;
-  margin: 5px;
+  height: calc(1.0 * var(--base-font-size));
 }
 
 .gridHeader {
