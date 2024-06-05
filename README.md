@@ -30,7 +30,7 @@
   </div>
 <div class="gridBreak"></div>
   <div class="grid-1">
-    <a href="KTrunk/index.html"><img src="KTrunk/logo120.png" class="logo"></a>
+    <a href="KTrunk/index.html"><img src="KTrunk/logo120.png"></a>
   </div>
   <div class="grid-2">
     <div class="gridTitle"><a href="KTrunk/index.html">KTrunk</a></div>
@@ -41,7 +41,7 @@
   </div>
 <div class="gridBreak"></div>
   <div class="grid-1">
-    <a href="IntervalCoach/index.html"><img src="IntervalCoach/logo120.png" class= "logo bordered"></a>
+    <a href="IntervalCoach/index.html"><img src="IntervalCoach/logo120.png" class="bordered"></a>
   </div>
   <div class="grid-2">
     <div class="gridTitle"><a href="IntervalCoach/index.html">IntervalCoach</a></div>
@@ -52,7 +52,7 @@
   </div>
 <div class="gridBreak"></div>
   <div class="grid-1">
-    <a href="Zebulon/index.html"><img src="Zebulon/zebulon-60@2x.png" class= "bordered"></a>
+    <a href="Zebulon/index.html"><img src="Zebulon/zebulon-60@2x.png" class="bordered"></a>
   </div>
   <div class="grid-2">
     <div class="gridTitle"><a href="Zebulon/index.html">Zebulon</a></div>
