@@ -61,7 +61,7 @@
 .hint {
 	padding-left: calc(2.0 * var(--base-font-size));
 }
-.hint:before {
+.hint::before {
 	content: "👉";
 	/*position: absolute;*/
   margin-left: calc(-2.0 * var(--base-font-size));
