@@ -10,7 +10,7 @@
         <span class="en">Available in <b><a href="https://apps.apple.com/de/app/intervalcoach/id1612119055">AppStore</a></b>!</span>
         <span class="de">Verfügbar im <b><a href="https://apps.apple.com/de/app/intervalcoach/id1612119055">AppStore</a></b>!</span>
       </div>
-      <div class="logoDescription">
+      <div class="gridDescription">
         <span class="en">Now for the <b><a href="https://apps.apple.com/de/app/intervalcoachwatch/id1636537589">Apple Watch</a></b>, too!</span>
         <span class="de">Jetzt auch für die <b><a href="https://apps.apple.com/de/app/intervalcoachwatch/id1636537589">Apple Watch</a></b>!</span>
     </div>
