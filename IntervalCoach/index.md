@@ -1,6 +1,6 @@
 <div class="hGrid">
   <div class="grid-1">
-    <img src="logo120.png">
+    <img src="logo120.png" class="bordered">
   </div>
   <div class="grid-2">
     <div class="gridTitle">
