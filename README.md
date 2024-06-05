@@ -33,9 +33,7 @@
   </div>
 <div class="break"></div> <!-- break -->
   <div class="grid-1">
-  <div class="gridLogo">
     <a href="KTrunk/index.html"><img src="KTrunk/logo120.png" class="logo bordered"></a>
-  </div>
   </div>
   <div>
   <div class="grid-2">
