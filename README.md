@@ -22,34 +22,44 @@
 
 
 <div class="hGrid">
-  <div class="gridLogo">
+  <div class="grid-1">
     &nbsp;
   </div>
+  <div class=grid-2>
   <div class="gridHeader">
     <span class="en">My iOS Apps</span>
     <span class="de">Meine iOS-Apps</span>
   </div>
+  </div>
 <div class="break"></div> <!-- break -->
+  <div class=grid-1>
   <div class="gridLogo">
     <a href="KTrunk/index.html"><img src="KTrunk/logo120.png" class="logo bordered"></a>
   </div>
+  </div>
   <div>
+  <div class=grid-2>
     <div class="logoTitle"><a href="KTrunk/index.html">KTrunk flexed</a></div>
     <div class="logoDescription">
        <span class="en"><b><i>Knowledge Trunk</i></b> — or short <b><i>KTrunk</i></b> — is a note taking iOS-App.</span>
        <span class="de"><b><i>Knowledge Trunk</i></b> — oder kurz <b><i>KTrunk</i></b> — ist eine iOS-App, um Notizen zu verwalten.</span>
     </div>
   </div>
+  </div>
 <div class="break"></div> <!-- break -->
+  <div class=grid-1>
   <div class="gridLogo">
     <a href="IntervalCoach/index.html"><img src="IntervalCoach/logo120.png" class= "logo bordered"></a>
   </div>
+  </div>
+  <div class=grid-2>
   <div>
     <div class="logoTitle"><a href="IntervalCoach/index.html">IntervalCoach</a></div>
     <div class="logoDescription">
       <span class="en"><b><i>IntervalCoach</i></b> is a simple, easy-to-use interval timer.</span>
       <span class="de"><b><i>IntervalCoach</i></b> ist ein einfacher, benutzerfreundlicher Intervall-Timer.</span>
     </div>
+  </div>
   </div>
 </div>
 
