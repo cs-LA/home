@@ -1,26 +1,3 @@
-<div class="row">
-  <div class="column colWidth25">&nbsp;</div>
-  <div class="column colWidth75">
-    <h1 style="text-align: left;">
-      <span class="en">My Diploma Thesis</span>
-      <span class="de">Meine Diplomarbeit</span>
-    </h1>
-  </div>
-</div>
-<div class="row">
-  <div class="column colWidth25">
-    <a href="Diplomarbeit/Diplomarbeit.pdf"><img src="Diplomarbeit/KommutativesDiagramm.png" class="logo"></a>
-  </div>
-  <div class="column colWidth75">
-    <div class="vCentered">
-      <div class="logoTitle"><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></div>
-      <div class="logoDescription"><span class="en">from 1983</span><span class="de">aus dem Jahre 1983</span></div>
-    </div>
-  </div>
-</div>
-
-
-
 <div class="hGrid">
   <div class="grid-1">
     &nbsp;
@@ -36,10 +13,8 @@
     <a href="Diplomarbeit/Diplomarbeit.pdf"><img src="Diplomarbeit/KommutativesDiagramm.png" class="logo"></a>
   </div>
   <div class="grid-2">
-    <div class="gridHeader">
-      <div class="logoTitle"><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></div>
-      <div class="logoDescription"><span class="en">from 1983</span><span class="de">aus dem Jahre 1983</span></div>
-    </div>
+    <div class="gridTitle"><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></div>
+    <div class="gridDescription"><span class="en">from 1983</span><span class="de">aus dem Jahre 1983</span></div>
   </div>
 <div class="gridBreak"></div>
   <div class="grid-1">
