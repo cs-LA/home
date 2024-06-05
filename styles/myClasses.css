@@ -62,10 +62,11 @@
 	padding-left: calc(2.0 * var(--base-font-size));
 }
 .hint::before {
+  margin-left: calc(-2.0 * var(--base-font-size));
+  font-size: calc(1.5 * var(--base-font-size));
 	content: "👉";
 	/*position: absolute;*/
-  margin-left: calc(-2.0 * var(--base-font-size));
-  width: calc(2.0 * var(--base-font-size));
-  text-align: center;
+  /*width: calc(2.0 * var(--base-font-size));*/
+  /*text-align: center;*/
 }
 
