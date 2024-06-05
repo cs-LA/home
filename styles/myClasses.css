@@ -48,6 +48,9 @@
   font-weight: bold;
   font-style: italic;
 }
+.gridTitle > * {
+  max-width: calc(22.0 * var(--base-font-size));
+}
 .gridDescription {
   font-size: calc(0.8 * var(--base-font-size));
 }
