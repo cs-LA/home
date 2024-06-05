@@ -7,8 +7,6 @@
 
 
 
-
-
 .hGrid {
   display: flex;
   flex-flow: row wrap;
@@ -59,50 +57,5 @@
 .bordered {
   border: 1px solid #888888;
   border-radius: 20%;
-}
-
-
-.row {
-  margin-top: 0em;
-  margin-bottom: 0em;
-}
-/* Clear floats after the columns */
-.row:after {
-  height: var(--base-font-size);
-  content: "";
-  display: table;
-  clear: both;
-}
-
-.column {
-  float: left;
-  padding-top: 0em;
-  padding-left: var(--base-font-size);
-  padding-right: var(--base-font-size);
-  padding-bottom: 0em;
-}
-.colWidth25 {
-  width: 25%;
-}
-.colWidth75 {
-  width: 75%;
-}
-
-.column {
-  float: left;
-  padding: var(--base-font-size);
-}
-
-.colWidth25,
-.gridLeftCol {
-  width: calc(10 * var(--base-font-size));
-}
-.gridLeftCol img {
-  width: 100%;
-}
-.colWidth75,
-.gridRightCol {
-  width: calc(30 * var(--base-font-size));
-  height: calc(10 * var(--base-font-size));
 }
 
