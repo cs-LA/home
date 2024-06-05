@@ -58,3 +58,14 @@
   border-radius: 20%;
 }
 
+.hint {
+	padding-left: 2em;
+}
+.hint::before {
+	content: "👉🏼";
+	position: absolute;
+  margin-left: calc(-2.0 * var(--base-font-size));
+  width: calc(2.0 * var(--base-font-size));
+  text-align: center;
+}
+
