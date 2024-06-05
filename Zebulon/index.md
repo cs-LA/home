@@ -1,3 +1,18 @@
+<div class="hGrid">
+  <div class="grid-1">
+    <img src="zebulon-1024.png" class="bordered">
+  </div>
+  <div class="grid-2">
+    <div class="gridTitle">Zebulon</div>
+    <div class="gridDescription">
+        <span class="en">Soon Available in <b>AppStore</b>!<br>At Google Play, too!</span>
+        <span class="de">Bald Verfügbar im <b>AppStore</b>!<br>Auch bei Google Play!</span>
+      </div>
+  </div>
+<div class="gridBreak"></div>
+</div>
+
+
 <div class="columns">
   <div class="logoColumn logoColumnLeft"><img src="zebulon-1024.png"></div>
   <div class="logoColumn logoColumnRight">
