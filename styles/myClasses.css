@@ -16,17 +16,16 @@
   column-gap: calc(2 * var(--base-font-size));
   align-items: flex-start;
   padding: var(--base-font-size);
-  padding-bottom: 0;
 }
 .grid-1 {
   width: calc(8 * var(--base-font-size));
-  flex-grow: 0;
+  flex-grow: 1;
 }
 .grid-1 img {
   width: 100%;
 }
 .grid-2 {
-  flex-grow: 1;
+  flex-grow: 2;
 }
 .gridBreak {
   flex-basis: 100%;
