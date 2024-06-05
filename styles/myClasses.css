@@ -19,13 +19,13 @@
 }
 .grid-1 {
   width: calc(8 * var(--base-font-size));
-  flex-grow: 1;
+  flex-grow: 0;
 }
 .grid-1 img {
   width: 100%;
 }
 .grid-2 {
-  flex-grow: 2;
+  flex-grow: 1;
 }
 .gridBreak {
   flex-basis: 100%;
