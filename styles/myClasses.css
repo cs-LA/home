@@ -25,6 +25,7 @@
   width: 100%;
 }
 .grid-2 {
+  flex-basis: calc(2.0 * var(--base-font-size));
   flex-grow: 1;
 }
 .gridBreak {
