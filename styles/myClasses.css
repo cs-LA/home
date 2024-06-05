@@ -53,6 +53,11 @@
   font-size: calc(0.8 * var(--base-font-size));
 }
 
+.bordered {
+  border: 1px solid #888888;
+  border-radius: 20%;
+}
+
 
 .row {
   margin-top: 0em;
