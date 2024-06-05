@@ -1,17 +1,17 @@
-<div class="columns">
-  <div class="column25">
-    <a href="KTrunk/index.html"><img src="logo120.png" class="logo"></a>
+<div class="hGrid">
+  <div class="grid-1">
+    <img src="logo120.png">
   </div>
-  <div class="column75">
-    <div class="vCentered">
-      <div class="logoTitle">KTrunk</div>
-      <div class="logoDescription">
-        <span class="en">Available in <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
-        <span class="de">Verfügbar im <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
-      </div>
+  <div class="grid-2">
+    <div class="gridTitle">KTrunk</div>
+    <div class="gridDescription">
+      <span class="en">Available in <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
+      <span class="de">Verfügbar im <b><a href="https://apps.apple.com/de/app/ktrunk/id1543722029">AppStore</a></b>!</span>
     </div>
   </div>
+<div class="gridBreak"></div>
 </div>
+
 
 <h4>
   <span class="en"><b><i>Knowledge Trunk</i></b> — or short <b><i>KTrunk</i></b> — is a note taking iOS-App.</span>
