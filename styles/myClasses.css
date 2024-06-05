@@ -37,12 +37,12 @@
   flex-flow: row wrap;
   justify-content: flex-start;
   column-gap: calc(2 * var(--base-font-size));
-  align-items: center;
+  align-items: flex-start;
   padding: var(--base-font-size);
   padding-bottom: 0;
 }
 .grid-1 {
-  width: calc(2 * var(--base-font-size));
+  width: calc(8 * var(--base-font-size));
   flex-grow: 0;
 }
 .grid-1 img {
@@ -64,13 +64,14 @@
   height: auto;
 }
 
-      .logoTitle {
-        font-size: calc(1.5 * var(--base-font-size));
-        font-weight: bold;
-        font-style: italic;
-        padding-top: 0;
-        padding-bottom: 0;
-      }
+.logoTitle {
+  padding-top: calc(1.0 * var(--base-font-size));
+  font-size: calc(1.5 * var(--base-font-size));
+  line-height: 1;
+  padding-bottom: calc(1.0 * var(--base-font-size));
+  font-weight: bold;
+  font-style: italic;
+}
       .logoDescription {
         font-size: calc(0.8 * var(--base-font-size));
       }
@@ -120,11 +121,3 @@
   height: calc(10 * var(--base-font-size));
 }
 
-.logoTitle {
-  padding-top: calc(1.5 * var(--base-font-size));
-  font-size: calc(1.5 * var(--base-font-size));
-  line-height: 1;
-  padding-bottom: calc(1.0 * var(--base-font-size));
-  font-weight: bold;
-  font-style: italic;
-}
