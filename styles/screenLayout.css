@@ -21,7 +21,7 @@ body {
   left: calc(-40px + 0.12 * (100vw - 1px));
   right: calc(-40px + 0.12 * (100vw - 1px));
   bottom: 0;
-  border: 2px dashed blue;
+  border: 0px dashed blue;
 }
 
 #header, #footer, #content {
