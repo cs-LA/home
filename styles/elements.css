@@ -12,18 +12,18 @@ h6 { font-size: calc(1.0 * var(--base-font-size)); font-weigth: bold; font-style
 
 p {
   margin: 0;
-  padding-top: 0.3em;
-  padding-bottom: 0.3em;
-  font-size: 1.0em
+  padding-top: calc(0.3 * var(--base-font-size));
+  padding-bottom: calc(0.3 * var(--base-font-size));
+  font-size: calc(1.0 * var(--base-font-size));
 }
       
 ul {
-  padding-top: -0.6em;
+  padding-top: calc(-0.6 * var(--base-font-size));
   padding-bottom: 0;
 }
 li {
-  padding-top: 0.3em;
-  padding-bottom: 0.3em;
+  padding-top: calc(0.3 * var(--base-font-size));
+  padding-bottom: calc(0.3 * var(--base-font-size));
 }
 
 a {
