@@ -37,11 +37,11 @@
   <span class="de">Datenschutz-Richtlinie</span>
   <span class="en">Privacy Policy</span>
 </h3>
-
+<p>
 <span class="en">IntervalCoach is privacy focused. IntervalCoach does not collect any usage data or analytics information. None of your data in IntervalCoach ever leaves your devices.</span>
 <span class="de">IntervalCoach legt Wert auf die Privatsphäre. IntervalCoach sammelt weder Daten noch analytische Informationen. Keinerlei IntervalCoach-Daten verlassen das genutzte Gerät.</span>
-
+</p>
+<p>
 <span class="en">I myself have no access to any of your data in the app.</span>
 <span class="de">Ich selber habe keinen Zugriff auf die Daten innerhalb der App .</span>
-
-<h3>&nbsp;</h3>
+</p>
