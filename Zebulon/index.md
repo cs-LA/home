@@ -13,19 +13,6 @@
 </div>
 
 
-<div class="columns">
-  <div class="logoColumn logoColumnLeft"><img src="zebulon-1024.png"></div>
-  <div class="logoColumn logoColumnRight">
-    <div class="vCentered">
-      <div class="logoTitle">Zebulon</div>
-      <div class="logoDescription">
-        <span class="en">Soon Available in <b>AppStore</b>!<br>At Google Play, too!</span>
-        <span class="de">Bald Verfügbar im <b>AppStore</b>!<br>Auch bei Google Play!</span>
-      </div>
-    </div>
-  </div>
-</div>
-
 <h4>
   <span class="en"><b><i>Zebulon</i></b> — a medieval gamep.</span>
   <span class="de"><b><i>ZebulonXY</i></b> — ein mittelalterliches Spiel.</span>
