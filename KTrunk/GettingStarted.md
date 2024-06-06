@@ -1,14 +1,18 @@
-<div class="logoRow">
-  <div class="logoColumn logoColumnLeft">
+<div class="hGrid">
+  <div class="grid-1">
     <img src="logo120.png">
   </div>
-  <div class="logoColumn logoColumnRight">
-    <div class="vCentered">
-      <div class="logoTitle">KTrunk</div>
-      <div class="logoTitle"><span class="en">Getting Started</span><span class="de">Schnelleinstieg</span></div>
+  <div class="grid-2">
+    <div class="gridTitle">KTrunk</div>
+    <div class="gridDescription">
+      <span class="en">Getting Started</span>
+      <span class="de">Schnelleinstieg</span>
     </div>
   </div>
+<div class="gridBreak"></div>
 </div>
+
+
 <p><span class="en">At the very first invocation the App looks a little bit strange. You land on the Settings page and can't too much.</span><span class="de">Beim ersten Aufruf erscheint die App zunächst einmal seltsam. Man landet auf der Einstellungs-Seite und kann damit zunächst einmal nicht viel anfangen.</span></p>
 <p><span class="en">Let's start ...</span><span class="de">Aber nun gehts los ...</span></p>
 <h4>
