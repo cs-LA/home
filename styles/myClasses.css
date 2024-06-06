@@ -68,3 +68,7 @@
   padding-right: calc(0.5 * var(--base-font-size));
 }
 
+.hint1::marker {
+	content: "👉";
+}
+
