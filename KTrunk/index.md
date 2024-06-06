@@ -35,7 +35,7 @@
   <li class="en">
     KTrunk's <b><a href="GettingStarted.html">Getting Started</a></b></span>
   </li>
-  <li class="en">
+  <li class="de">
     <span class="de">li li li KTrunks <b><a href="GettingStarted.html">hint1 Schnell-Einstieg</a></b></span> 
   </li>
 </ul>
