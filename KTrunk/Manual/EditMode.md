@@ -3,7 +3,7 @@
     <a href="./../index.html"><img src="./../logo120.png"></a>
   </div>
   <div class="grid-2">
-    <div class="gridTitle"><a href="./../Manual.html">KTrunk</a></div>
+    <div class="gridTitle"><a href="./../index.html">KTrunk</a></div>
     <div class="gridTitle"><a href="./../Manual.html"><span class="en">Manual</span><span class="de">Handbuch</span></a></div>
     <div class="gridDescription" style="text-align: right;"><a href="Index.html">Index</a></div>
   </div>
