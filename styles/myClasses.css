@@ -68,12 +68,3 @@
   padding-right: calc(0.5 * var(--base-font-size));
 }
 
-ul.hint {
-  list-style-type: "👉 ";
-}
-
-
-.hint1::marker {
-	content: "👉";
-}
-
