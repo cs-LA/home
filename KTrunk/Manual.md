@@ -1,3 +1,15 @@
+<div class="hGrid">
+  <div class="grid-1">
+    <a href="index.html"><img src="logo120.png"></a>
+  </div>
+  <div class="grid-2">
+    <div class="gridTitle"><a href="index.html">KTrunk</a></div>
+    <div class="gridDescription" style="text-align: right;"><a href="Index.html">Index</a></div>
+  </div>
+<div class="gridBreak"></div>
+</div>
+
+
 <div class="logoRow">
   <div class="logoColumn logoColumnLeft">
     <img src="logo120.png">
