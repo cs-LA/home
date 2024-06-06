@@ -34,6 +34,10 @@
   <span class="en">KTrunk's <b><a href="GettingStarted.html">Getting Started</a></b></span>
   <span class="de">KTrunks <b><a href="GettingStarted.html">hint1 Schnell-Einstieg</a></b></span> 
 </p>
+<ul class="hint"><li>
+  <span class="en">KTrunk's <b><a href="GettingStarted.html">Getting Started</a></b></span>
+  <span class="de">KTrunks <b><a href="GettingStarted.html">hint1 Schnell-Einstieg</a></b></span> 
+</li></ul>
 <p>
   <span class="en hint">KTrunk's <b><a href="Manual.html">Manual</a></b></span>
   <span class="de hint">KTrunks <b><a href="Manual.html">Handbuch</a></b></span> 
