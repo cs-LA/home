@@ -68,11 +68,11 @@
   /*padding-right: calc(0.5 * var(--base-font-size));*/
 }
 
-.inLine {
+.inLineImg {
   display: inline-block;
   vertical-align: middle;
-  height: 1em;
-  width: 1em;
+  width: calc(1.0 * var(--base-font-size));
+  height: calc(1.0 * var(--base-font-size));
 }
 .appButton {
   display: inline-block;
