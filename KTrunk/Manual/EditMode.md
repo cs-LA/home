@@ -29,12 +29,12 @@
 </p>
 <ul>
   <li>
-    <span class="en">With the <img src="buttons/undo.jpg" class="inLine"> button you can undo your modifications.</span>
-    <span class="de">Mit der <img src="buttons/undo.jpg" class="inLine"> Schaltfläche kann man seine Änderungen rückgängig machen.</span>
+    <span class="en">With the <img src="buttons/undo.jpg" class="inLineImg"> button you can undo your modifications.</span>
+    <span class="de">Mit der <img src="buttons/undo.jpg" class="inLineImg"> Schaltfläche kann man seine Änderungen rückgängig machen.</span>
   </li>
   <li>
-    <span class="en">With the <img src="buttons/redo.jpg" class="inLine"> button you can redo your undone modifications.</span>
-    <span class="de">Mit der <img src="buttons/redo.jpg" class="inLine"> Schaltfläche kann man seine rückgängig gemachten Änderungen wiederherstellen.</span>
+    <span class="en">With the <img src="buttons/redo.jpg" class="inLineImg"> button you can redo your undone modifications.</span>
+    <span class="de">Mit der <img src="buttons/redo.jpg" class="inLineImg"> Schaltfläche kann man seine rückgängig gemachten Änderungen wiederherstellen.</span>
   </li>
 </ul>
 <p>
@@ -43,16 +43,16 @@
 </p>
 <ul>
   <li>
-    <span class="en">With the <img src="buttons/cancel.jpg" class="inLine"> button you can cancel your modifications.</span>
-    <span class="de">Mit der <img src="buttons/cancel.jpg" class="inLine"> Schaltfläche kann man seine Änderungen verwerfen.</span>
+    <span class="en">With the <img src="buttons/cancel.jpg" class="inLineImg"> button you can cancel your modifications.</span>
+    <span class="de">Mit der <img src="buttons/cancel.jpg" class="inLineImg"> Schaltfläche kann man seine Änderungen verwerfen.</span>
   </li>
   <li id="Encryption">
-    <span class="en">With the <img src="buttons/eyeEncrypt.jpg" class="inLine"> button you can <b>encrypt your note</b>.<br><b>Warning:</b> The password to encrypt the note is <b>required</b> to decrypt the note. If you forget it there is no chance to get the note back.</span>
-    <span class="de">Mit der <img src="buttons/eyeEncrypt.jpg" class="inLine"> Schaltfläche kann man seine <b>Notiz verschlüsseln</b>.<br><b>Warnung:</b> Das zur Verschlüsselung notwendige Passwort ist <b>erforderlich</b>, um die Notiz wieder zu entschlüsseln. Wenn es vergessen wird, gibt es keine Möglichkeit mehr, die Notiz wiederzubekommen.</span>
+    <span class="en">With the <img src="buttons/eyeEncrypt.jpg" class="inLineImg"> button you can <b>encrypt your note</b>.<br><b>Warning:</b> The password to encrypt the note is <b>required</b> to decrypt the note. If you forget it there is no chance to get the note back.</span>
+    <span class="de">Mit der <img src="buttons/eyeEncrypt.jpg" class="inLineImg"> Schaltfläche kann man seine <b>Notiz verschlüsseln</b>.<br><b>Warnung:</b> Das zur Verschlüsselung notwendige Passwort ist <b>erforderlich</b>, um die Notiz wieder zu entschlüsseln. Wenn es vergessen wird, gibt es keine Möglichkeit mehr, die Notiz wiederzubekommen.</span>
   </li>
   <li>
-    <span class="en">With the <img src="buttons/save.jpg" class="inLine"> button you can save your modifications.</span>
-    <span class="de">Mit der <img src="buttons/save.jpg" class="inLine"> Schaltfläche kann man seine Änderungen speichern.</span>
+    <span class="en">With the <img src="buttons/save.jpg" class="inLineImg"> button you can save your modifications.</span>
+    <span class="de">Mit der <img src="buttons/save.jpg" class="inLineImg"> Schaltfläche kann man seine Änderungen speichern.</span>
   </li>
 </ul>
 <p>
@@ -65,8 +65,8 @@
   <span class="en">The meaning of the buttons above the keyboard:</span><span class="de">Die Bedeutung der Schaltflächen oberhalb der Tastatur:</span>
 </h2>
 <h3>
-  <span class="en">The button <img src="buttons/headerButtons.jpg" class="inLine"></span>
-  <span class="de">Die Schaltfläche <img src="buttons/headerButtons.jpg" class="inLine"></span>
+  <span class="en">The button <img src="buttons/headerButtons.jpg" class="inLineImg"></span>
+  <span class="de">Die Schaltfläche <img src="buttons/headerButtons.jpg" class="inLineImg"></span>
 </h3>
 <p>
   <span class="en">The <b>H</b>eader button spawns additional buttons which appear on top of the button on iPhones, between the left and right button-groups on iPads.</span>
@@ -74,8 +74,8 @@
 </p>
 <div style="margin-left: 1.5em">
   <h3>
-    <span class="en">The buttons <img src="buttons/h1-h6.jpg" class="inLine" style="Width: 7em;"></span>
-    <span class="de">Die Schaltflächen <img src="buttons/h1-h6.jpg" class="inLine" style="Width: 7em;"></span>
+    <span class="en">The buttons <img src="buttons/h1-h6.jpg" class="inLineImg" style="Width: 7em;"></span>
+    <span class="de">Die Schaltflächen <img src="buttons/h1-h6.jpg" class="inLineImg" style="Width: 7em;"></span>
   </h3>
   <p>
     <span class="en">These buttons are used to set the header level of the paragraph from 1 to 6.</span>
@@ -85,8 +85,8 @@
 
 
 <h3>
-  <span class="en">The button <img src="buttons/paragraphButtons.jpg" class="inLine"></span>
-  <span class="de">Die Schaltfläche <img src="buttons/paragraphButtons.jpg" class="inLine"></span>
+  <span class="en">The button <img src="buttons/paragraphButtons.jpg" class="inLineImg"></span>
+  <span class="de">Die Schaltfläche <img src="buttons/paragraphButtons.jpg" class="inLineImg"></span>
 </h3>
 <p>
   <span class="en">The <b>P</b>aragraph button spawns additional buttons which appear on top of the button on iPhones, between the left and right button-groups on iPads.</span>
@@ -94,52 +94,52 @@
 </p>
 <div style="margin-left: 1.5em">
   <h3>
-    <span class="en">The button <img src="buttons/paragraph.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/paragraph.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/paragraph.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/paragraph.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en">Sets the paragraph style to <i>normal</i>.</span>
     <span class="de">Setzt den Paragraphen-Stil auf <i>normal</i>.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/code.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/code.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/code.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/code.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en">Sets the paragraph style to <i>code-block</i>.</span>
     <span class="de">Setzt den Paragraphen-Stil auf <i>Code-Block</i>.</span>
   </p>  
   <p>
-    <span class="en">This button appears with the <img src="buttons/hEllip.jpg" class="inLine">-button of the right button group, too. But then it only formats the inline string to <i>code</i>.</span>
-    <span class="de">Diese Schaltfläche taucht auch auf, wenn man in der rechten Schaltflächen-Gruppe die <img src="buttons/hEllip.jpg" class="inLine">-Schaltfläche klickt. Aber dann wird nur der InLine-String als <i>Code</i> formatiert.</span>
+    <span class="en">This button appears with the <img src="buttons/hEllip.jpg" class="inLineImg">-button of the right button group, too. But then it only formats the inline string to <i>code</i>.</span>
+    <span class="de">Diese Schaltfläche taucht auch auf, wenn man in der rechten Schaltflächen-Gruppe die <img src="buttons/hEllip.jpg" class="inLineImg">-Schaltfläche klickt. Aber dann wird nur der InLine-String als <i>Code</i> formatiert.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/quote.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/quote.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/quote.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/quote.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en">Sets the paragraph style to <i>quote</i>.</span>
     <span class="de">Setzt den Paragraphen-Stil auf <i>Zitat</i>.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/alignLeft.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/alignLeft.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/alignLeft.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/alignLeft.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en">Sets the paragraph style to <i>left aligned</i>.</span>
     <span class="de">Setzt den Paragraphen-Stil auf <i>linksbündig</i>.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/alignCentered.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/alignCentered.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/alignCentered.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/alignCentered.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en">Sets the paragraph style to <i>centered</i>.</span>
     <span class="de">Setzt den Paragraphen-Stil auf <i>zentriert</i>.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/alignRight.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/alignRight.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/alignRight.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/alignRight.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en">Sets the paragraph style to <i>right aligned</i>.</span>
@@ -149,8 +149,8 @@
 
 
 <h3>
-  <span class="en">The button <img src="buttons/listButtons.jpg" class="inLine"></span>
-  <span class="de">Die Schaltfläche <img src="buttons/listButtons.jpg" class="inLine"></span>
+  <span class="en">The button <img src="buttons/listButtons.jpg" class="inLineImg"></span>
+  <span class="de">Die Schaltfläche <img src="buttons/listButtons.jpg" class="inLineImg"></span>
 </h3>
 <p>
   <span class="en">The <b>L</b>ist button spawns additional buttons which appear on top of the button on iPhones, between the left and right button-groups on iPads.</span>
@@ -158,16 +158,16 @@
 </p>
 <div style="margin-left: 1.5em">
   <h3>
-    <span class="en">The button <img src="buttons/ul.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/ul.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/ul.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/ul.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en">Sets the list style to <i>unordered</i>.</span>
     <span class="de">Setzt den Listen-Stil auf <i>unsortiert</i>.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/ol.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/ol.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/ol.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/ol.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en">Sets the list style to <i>ordered</i>.</span>
@@ -177,8 +177,8 @@
 
 
 <h3>
-  <span class="en">The button <img src="buttons/hEllip.jpg" class="inLine"> in the left button group</span>
-  <span class="de">Die Schaltfläche <img src="buttons/hEllip.jpg" class="inLine"> in der linken Schaltflächen-Gruppe</span>
+  <span class="en">The button <img src="buttons/hEllip.jpg" class="inLineImg"> in the left button group</span>
+  <span class="de">Die Schaltfläche <img src="buttons/hEllip.jpg" class="inLineImg"> in der linken Schaltflächen-Gruppe</span>
 </h3>
 <p>
   <span class="en">This button spawns additional not so often used buttons which appear on top of the button on iPhones, between the left and right button-groups on iPads.</span>
@@ -190,24 +190,24 @@
 </p>
 <div style="margin-left: 1.5em">
   <h3>
-    <span class="en">The button <img src="buttons/indentRight.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/indentRight.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/indentRight.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/indentRight.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en"><i>Indents</i> the paragraph to the <i>right</i>.<br>This can also be used to raise the level of lists or quotes.</span>
     <span class="de"><i>Rückt</i> den Paragraphen nach <i>rechts</i> ein.<br>Dies wird auch genutzt, um die Einzugsebene von Listen oder Zitaten zu erhöhen.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/indentLeft.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/indentLeft.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/indentLeft.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/indentLeft.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en"><i>Indents</i> the paragraph to the <i>left</i>.<br>This can also be used to reduce the level of lists or quotes.</span>
     <span class="de"><i>Rückt</i> den Paragraphen nach <i>links</i> ein.<br>Dies wird auch genutzt, um die Einzugsebene von Listen oder Zitaten zu verringern.</span>
   </p>  
   <h3>
-    <span class="en">The button <img src="buttons/table.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/table.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/table.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/table.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en">This button opens a dialog to specify table dimensions. After commiting the table will be inserted at the cursor position.</span>
@@ -220,24 +220,24 @@
     <span class="de">Falls die Tabelle eine Kopfzeile enthält, kann man die Daten in dem Tabellenkörper mit einem Klick auf eine Zelle in der Kopfzeile entsprechend den Daten in der angeklickten Spalte <a href="./TipsAndTricks.html#TableSort">sortieren</a>.</span>
   </p>  
   <h3>
-    <span class="en">The button <img src="buttons/hr.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/hr.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/hr.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/hr.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en">This button inserts a <i>horizontal rule</i>.</span>
     <span class="de">Diese Schaltfläche fügt eine <i>Trennlinie</i> ein.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/clearBoth.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/clearBoth.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/clearBoth.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/clearBoth.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en">This button will insert a <code>clear: both;</code> html element into the document. This may help in some situations to get a clear formatting of the document.</span>
     <span class="de">Diese Schaltfläche fügt ein <code>clear: both;</code> html-Element in das Dokument ein. Dies kann in einigen Situationen hilfreich sein, um wieder eine saubere Formatierung des Dokuments zu erreichen.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/clearStyles.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/clearStyles.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/clearStyles.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/clearStyles.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en">This button <i>clears all inline formatting</i>.<br>This may be useful when content from other html-pages was copied, but you want to use the standard KTrunk formatting.<br>Unfortunately, some KTrunk standard formatting is implemented using inline styles, which will be cleared, too.</span>
@@ -248,8 +248,8 @@
 
 
 <h3>
-  <span class="en">The button <img src="buttons/hEllip.jpg" class="inLine"> in the right button group</span>
-  <span class="de">Die Schaltfläche <img src="buttons/hEllip.jpg" class="inLine"> in der rechten Schaltflächen-Gruppe</span>
+  <span class="en">The button <img src="buttons/hEllip.jpg" class="inLineImg"> in the right button group</span>
+  <span class="de">Die Schaltfläche <img src="buttons/hEllip.jpg" class="inLineImg"> in der rechten Schaltflächen-Gruppe</span>
 </h3>
 <p>
   <span class="en">This button spawns additional not so often used buttons which appear on top of the button on iPhones, between the left and right button-groups on iPads.</span>
@@ -257,48 +257,48 @@
 </p>
 <div style="margin-left: 1.5em">
   <h3>
-    <span class="en">The button <img src="buttons/sup.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/sup.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/sup.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/sup.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en">Formats the selected text as <i>superscript</i>.</span>
     <span class="de">Formatiert den selektierten Text <i>hochgestellt</i>.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/sub.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/sub.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/sub.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/sub.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en">Formats the selected text as <i>subscript</i>.</span>
     <span class="de">Formatiert den selektierten Text <i>tiefgestellt</i>.</span>
   </p>  
   <h3>
-    <span class="en">The button <img src="buttons/strikeThrough.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/strikeThrough.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/strikeThrough.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/strikeThrough.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en"><i>Strikes</i> the selected text <i>through</i>.</span>
     <span class="de"><i>Streicht</i> den selektierten Text <i>durch</i>.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/underline.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/underline.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/underline.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/underline.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en"><i>Underlines</i> the selected text.</span>
     <span class="de"><i>Unterstreicht</i> den selektierten Text.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/code.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/code.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/code.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/code.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en">Formats the selected text to <i>code-block</i>.</span>
     <span class="de">Formatiert den selektierten Text als <i>code-block</i>.</span>
   </p>
   <h3>
-    <span class="en">The button <img src="buttons/br.jpg" class="inLine"></span>
-    <span class="de">Die Schaltfläche <img src="buttons/br.jpg" class="inLine"></span>
+    <span class="en">The button <img src="buttons/br.jpg" class="inLineImg"></span>
+    <span class="de">Die Schaltfläche <img src="buttons/br.jpg" class="inLineImg"></span>
   </h3>
   <p>
     <span class="en">The button inserts a line-break without starting a new paragraph.</span>
@@ -308,35 +308,35 @@
 
 
 <h3>
-  <span class="en">The button <img src="buttons/img.jpg" class="inLine"></span>
-  <span class="de">Die Schaltfläche <img src="buttons/img.jpg" class="inLine"></span>
+  <span class="en">The button <img src="buttons/img.jpg" class="inLineImg"></span>
+  <span class="de">Die Schaltfläche <img src="buttons/img.jpg" class="inLineImg"></span>
 </h3><p>
   <span class="en">This button spawns a dialog that lets you select an image from within KTrunk, which will be inserted at the cursor position.</span>
   <span class="de">Diese Schaltfläche startet einen Dialog, in dem man ein in KTrunk gespeichertes Image selektieren kann, dass dann an der aktuellen Cursor-Position eingefügt wird.</span>
 </p>
 <p>
-  <span class="en">On iPhones this button is <i>hidden</i> behind the right <img src="buttons/hEllip.jpg" class="inLine"> button.</span>
-  <span class="de">Auf iPhones <i>verbirgt</i> sich diese Schaltfläche hinter der rechten<img src="buttons/hEllip.jpg" class="inLine">-Schaltfläche.</span>
+  <span class="en">On iPhones this button is <i>hidden</i> behind the right <img src="buttons/hEllip.jpg" class="inLineImg"> button.</span>
+  <span class="de">Auf iPhones <i>verbirgt</i> sich diese Schaltfläche hinter der rechten<img src="buttons/hEllip.jpg" class="inLineImg">-Schaltfläche.</span>
 </p>
 <h3>
-  <span class="en">The button <img src="buttons/mark.jpg" class="inLine"></span>
-  <span class="de">Die Schaltfläche <img src="buttons/mark.jpg" class="inLine"></span>
+  <span class="en">The button <img src="buttons/mark.jpg" class="inLineImg"></span>
+  <span class="de">Die Schaltfläche <img src="buttons/mark.jpg" class="inLineImg"></span>
 </h3>
 <p>
   <span class="en">This button highlights the selected text.</span>
   <span class="de">Diese Schaltfläche markiert den selektierten Text.</span>
 </p>
 <h3>
-  <span class="en">The button <img src="buttons/italic.jpg" class="inLine"></span>
-  <span class="de">Die Schaltfläche <img src="buttons/italic.jpg" class="inLine"></span>
+  <span class="en">The button <img src="buttons/italic.jpg" class="inLineImg"></span>
+  <span class="de">Die Schaltfläche <img src="buttons/italic.jpg" class="inLineImg"></span>
 </h3>
 <p>
   <span class="en">This button formats the selected text as italic.</span>
   <span class="de">Diese Schaltfläche formatiert den selektierten Text kursiv.</span>
 </p>
 <h3>
-  <span class="en">The button <img src="buttons/bold.jpg" class="inLine"></span>
-  <span class="de">Die Schaltfläche <img src="buttons/bold.jpg" class="inLine"></span>
+  <span class="en">The button <img src="buttons/bold.jpg" class="inLineImg"></span>
+  <span class="de">Die Schaltfläche <img src="buttons/bold.jpg" class="inLineImg"></span>
 </h3>
 <p>
   <span class="en">This button formats the selected text as bold.</span>
