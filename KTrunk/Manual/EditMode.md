@@ -1,6 +1,7 @@
 <div class="hGrid">
   <div class="grid-1">
     <img src="./../logo120.png">
+    <a href="./../README.html"><img src="./../logo120.png"></a>
   </div>
   <div class="grid-2">
     <div class="gridTitle"><a href="./../Manual.html">KTrunk</a></div>
