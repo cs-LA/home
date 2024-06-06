@@ -30,15 +30,6 @@
   <span class="en hint">KTrunk's <b><a href="GettingStarted.html">Getting Started</a></b></span>
   <span class="de hint">KTrunks <b><a href="GettingStarted.html">Schnell-Einstieg</a></b></span> 
 </p>
-
-<ul class="hint">
-  <li class="en">
-    KTrunk's <b><a href="GettingStarted.html">Getting Started</a></b></span>
-  </li>
-  <li class="de">
-    <span class="de">li li li KTrunks <b><a href="GettingStarted.html">hint1 Schnell-Einstieg</a></b></span> 
-  </li>
-</ul>
 <p>
   <span class="en hint">KTrunk's <b><a href="Manual.html">Manual</a></b></span>
   <span class="de hint">KTrunks <b><a href="Manual.html">Handbuch</a></b></span> 
@@ -50,6 +41,4 @@
 <p>
   <span class="en hint">KTrunk's <b><a href="PrivacyPolicy.html">Privacy Policy</a></b></span>
   <span class="de hint">KTrunks <b><a href="PrivacyPolicy.html">Datenschutz-Richtlinie</a></b></span> 
-</p> 
-
-<h3>&nbsp;</h3>
+</p>
