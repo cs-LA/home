@@ -11,18 +11,6 @@
 </div>
 
 
-<div class="logoRow">
-  <div class="logoColumn logoColumnLeft">
-    <img src="logo120.png">
-  </div>
-  <div class="logoColumn logoColumnRight">
-    <div class="vCentered">
-      <div class="logoTitle">KTrunk</div>
-      <div class="logoTitle"><span class="en">Manual</span><span class="de">Handbuch</span></div>
-      <div class="logoDescription" style="text-align: right;"><a href="Manual/Index.html">Index</a><br><a href="Manual/ReleaseNotes.html">Release-Notes</a></div>
-    </div>
-  </div>
-</div>
 <p>
   <span class="en"><b><i>Knowledge Trunk</i></b> - or short <b><i>KTrunk</i></b> - is a note taking App. The notes are saved in html-format and can be synchronized across your devices using iCloud.</span>
   <span class="de"><b><i>Knowledge Trunk</i></b> - oder kurz <b><i>KTrunk</i></b> - ist eine iOS-App, um Notizen zu verwalten.</span>
