@@ -4,7 +4,8 @@
   </div>
   <div class="grid-2">
     <div class="gridTitle"><a href="index.html">KTrunk</a></div>
-    <div class="gridDescription" style="text-align: right;"><a href="Index.html">Index</a></div>
+    <div class="gridTitle"><span class="en">Manual</span><span class="de">Handbuch</span></div>
+    <div class="gridDescription" style="text-align: right;"><a href="./Manual/Index.html">Index</a></div>
   </div>
 <div class="gridBreak"></div>
 </div>
