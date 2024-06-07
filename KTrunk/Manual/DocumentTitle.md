@@ -23,7 +23,7 @@
 </p>
 <ul>
   <li>
-    <span class="en">The <img src="buttons/note.jpg" class="inLineImg"> <img src="buttons/note2.jpg" class="inLineImg"> icon indicates that the document is a text <i>Note</i>. Such a <i>Note</i> you can <a href="EditMode.html">edit</a>.</span>
+    <span class="en">The <img src="buttons/note.jpg" class="inLineImg"> <img src="buttons/note2.png" class="inLineImg"> icon indicates that the document is a text <i>Note</i>. Such a <i>Note</i> you can <a href="EditMode.html">edit</a>.</span>
     <span class="de">Das <img src="buttons/note.jpg" class="inLineImg"> Bildchen zeigt an, dass es sich um eine Text-<i>Notiz</i> handelt. Solch eine <i>Notiz</i> kann man <a href="EditMode.html">bearbeiten</a>.</span>
   </li>
   <li>
