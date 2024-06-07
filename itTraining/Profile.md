@@ -21,7 +21,7 @@
 <h3>Lebenslauf</h3>
 <div class="hGrid">
   <div class="grid-1">
-    <ul><li>1960 - 1973</li></ul>
+    <ul style="margin: 0;"><li>1960 - 1973</li></ul>
   </div>
   <div class="grid-2">
     <p>Schule</p>
