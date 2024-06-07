@@ -69,7 +69,7 @@
   </div>
   <div class="grid-2">
     <div class="gridHeader">
-      IT-Training
+      <a href="itTraining/Profile.html">IT-Training</a>
     </div>
   </div>
 <div class="gridBreak"></div>
