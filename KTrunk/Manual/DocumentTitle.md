@@ -18,8 +18,8 @@
 </h1>
 <img src="DocumentTitle.jpg" style="border: 2px solid #B0C4DE; border-radius: 10px;">
 <p>
-  <span class="en">The <i>Document Title</i> consists of 2 parts: The name of the document which is preceded by a small icont that reflects the type of the document. For the <i>HomePage</i> the <img src="buttons/home.png" class="inLineImg"> icon is used.</span>
-  <span class="de">Der <i>Dokumenten-Titel</i> besteht aus 2 Teilen: Dem Namen des Dokuments, dem ein kleines Bildchen vorgestellt ist, welches den Typ des Dokuments widerspiegelt. Für die <i>HomePage</i> wird das <img src="buttons/home.png" class="inLineImg"> Bildchen verwendet</span>
+  <span class="en">The <i>Document Title</i> consists of 2 parts: The name of the document which is preceded by a small icont that reflects the type of the document. For the <i>HomePage</i> the <img src="buttons/home.jpg" class="inLineImg"> icon is used.</span>
+  <span class="de">Der <i>Dokumenten-Titel</i> besteht aus 2 Teilen: Dem Namen des Dokuments, dem ein kleines Bildchen vorgestellt ist, welches den Typ des Dokuments widerspiegelt. Für die <i>HomePage</i> wird das <img src="buttons/home.jpg" class="inLineImg"> Bildchen verwendet</span>
 </p>
 <ul>
   <li>
