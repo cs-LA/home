@@ -25,29 +25,23 @@
   <div class="grid-2">
     <div class="gridTitle">Lebenslauf</div>
     <div class="hGrid">
-      <div class="grid-1">
-        <ul style="margin: 0;"><li>1960 - 1973</li></ul>
-      </div>
+      <div class="grid-1"><ul style="margin: 0;"><li>1960 - 1973</li></ul></div>
       <div class="grid-2">
         <p>Schule</p>
         <p>Abschluss: Abitur</p>
       </div>
+    <div class="gridBreak"></div>
+      <div class="grid-1"><ul><li>11973 - 1974</li></ul></div>
+      <div class="grid-2"><p>Bundeswehr</p></div>
+    <div class="gridBreak"></div>
+      <div class="grid-1"><ul style="margin: 0;"><li>1974 - 1983</li></ul></div>
+      <div class="grid-2"><p>Hochschulstudium Mathematik / Physik</p></div>
+    <div class="gridBreak"></div>
     </div>
   </div>
 <div class="gridBreak"></div>
 </div>
 
-<h3>Lebenslauf</h3>
-<div class="hGrid">
-  <div class="grid-1">
-    <ul style="margin: 0;"><li>1960 - 1973</li></ul>
-  </div>
-  <div class="grid-2">
-    <p>Schule</p>
-    <p>Abschluss: Abitur</p>
-  </div>
-<div class="gridBreak"></div>
-</div>
 
 
 
