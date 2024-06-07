@@ -26,6 +26,7 @@
   <div class="grid-2">
     <p>Schule</p>
     <p>Abschluss: Abitur</p>
+  </div>div>
 <div class="gridBreak"></div>
 </div>
 
