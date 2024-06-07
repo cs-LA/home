@@ -19,7 +19,7 @@
     </div>
 </div>
 
-<div class="hGrid" style="padding: 0;">
+<div class="hGrid" style="padding-left: 0;">
   <div class="grid-2">
     <div class="gridTitle">Lebenslauf</div>
     <div class="hGrid">
@@ -47,19 +47,19 @@
   </div>
 </div>
 
-<div class="hGrid" style="padding: 0;">
+<div class="hGrid" style="padding-left: 0;">
   <div class="grid-2">
     <div class="gridTitle">Kenntnisse</div>
     <div class="hGrid">
       <div class="grid-2"><ul style="margin: 0;">
-        <li><h4>Mainframe</h4></li>
+        <li><h4 style="padding: 0;">Mainframe</h4></li>
         <ul>
           <li>Db2 for z/OS</li>
           <li>JCL</li>
           <li>ISPF</li>
           <li>REXX</li>
         </ul>
-        <li><h4>App-Development</h4></li>
+        <li><h4 style="padding: 0;">App-Development</h4></li>
         <ul>
           <li>Swift</li>
           <li>SwiftUI</li>
