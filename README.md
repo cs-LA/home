@@ -65,7 +65,7 @@
 
 <div class="gridBreak"></div>
   <div class="grid-1">
-    <p><<a href="itTraining/Profile.html"><img src="itTraining/SchuetzdellerClemens.jpg" class="bordered"></a></p>
+    <p><a href="itTraining/Profile.html"><img src="itTraining/SchuetzdellerClemens.jpg" class="bordered"></a></p>
   </div>
   <div class="grid-2">
     <div class="gridHeader">
