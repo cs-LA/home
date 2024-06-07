@@ -1,7 +1,7 @@
 <div class="hGrid">
   <div class="grid-2">
-    <div class="gridTitle">Clemens Schützdeller</div>
-    <div class="gridTitle">IT-Training</div>
+    <div class="gridHeader">Clemens Schützdeller</div>
+    <div class="gridHeader">IT-Training</div>
   </div>
   <div class="grid-1">
     <img src="SchuetzdellerClemens.jpg">
