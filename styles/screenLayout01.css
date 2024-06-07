@@ -32,3 +32,15 @@ body {
   overflow: auto;
   border: 1px solid yellow;
 }
+
+
+@media print {
+  #header,
+  #footer {
+    display: none !important;
+  }
+  #content {
+    position: relative;
+    overflow: visible;
+  }
+}
