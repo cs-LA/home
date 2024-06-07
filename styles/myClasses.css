@@ -62,10 +62,10 @@
 	padding-left: calc(2.5 * var(--base-font-size));
 }
 .hint::before {
-  margin-left: calc(-2.5 * var(--base-font-size));
-  padding-left: calc(0.5 * var(--base-font-size));
+  margin-left: calc(-2.0 * var(--base-font-size));
+  padding-left: calc(0.3 * var(--base-font-size));
 	content: "👉";
-  padding-right: calc(0.5 * var(--base-font-size));
+  padding-right: calc(0.3 * var(--base-font-size));
 }
 
 .inLineImg {
