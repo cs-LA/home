@@ -4,7 +4,7 @@
   </div>
   <div class="grid-2">
     <div class="gridTitle">KTrunk</div>
-    <div class="gridDescription">
+    <div class="gridTitle">
       <span class="en">Getting Started</span>
       <span class="de">Schnelleinstieg</span>
     </div>
@@ -68,4 +68,3 @@
   <span class="en" align="center">For further informations visit the <b><a href="Manual.html">Manual</a></b>.</span>
   <span class="de" align="center">Weitere Informatinen findest Du im <b><a href="Manual.html">Handbuch</a></b>.</span>
 <p>
-<h3>&nbsp;</h3>
