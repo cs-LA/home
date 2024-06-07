@@ -64,7 +64,7 @@
     <span class="en"><b><a href="TipsAndTricks.html">Tips and Tricks</a></b></span>
     <span class="de"><b><a href="FurtherActions.html">Weitere Aktionen</a></b></span>
   </div>
-    </h1>h1>
+    </h1>
 <div class="gridBreak"></div>
 </div>
 
