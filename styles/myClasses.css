@@ -62,7 +62,7 @@
 	padding-left: calc(2.0 * var(--base-font-size));
 }
 .hint::before {
-  margin-left: calc(-1.8 * var(--base-font-size));
+  /*margin-left: calc(-1.8 * var(--base-font-size));*/
   padding-left: calc(0.3 * var(--base-font-size));
 	content: "👉";
   padding-right: calc(0.5 * var(--base-font-size));
@@ -72,7 +72,6 @@
 	padding-left: calc(2.0 * var(--base-font-size));
 }
 .hint::before {
-  margin-left: -1.8 em;
   padding-left: 0.3em;
 	content: "👉";
   padding-right: 0.5em;
