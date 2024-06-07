@@ -4,7 +4,7 @@
     <div class="gridHeader">IT-Training</div>
   </div>
   <div class="grid-1">
-    <img src="SchuetzdellerClemens.jpg">
+    <img src="SchuetzdellerClemens.jpg" class="bordered">
   </div>
 </div>
 
