@@ -25,9 +25,7 @@
 
 <p>&nbsp;</p>
 
-<p class="hint">
+<p>
   <span class="en">Zebulon's <b><a href="PrivacyPolicy.html">Privacy Policy</a></b></span>
   <span class="de">Zebulons <b><a href="PrivacyPolicy.html">Datenschutz-Richtlinie</a></b></span> 
 </p> 
-
-<h3>&nbsp;</h3>
