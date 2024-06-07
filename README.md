@@ -65,7 +65,7 @@
 
 <div class="gridBreak"></div>
   <div class="grid-1">
-    <a href="itTraining/Profile.html"><img src="itTraining/SchuetzdellerClemens.jpg" class="bordered"></a>
+    <p><<a href="itTraining/Profile.html"><img src="itTraining/SchuetzdellerClemens.jpg" class="bordered"></a></p>
   </div>
   <div class="grid-2">
     <div class="gridHeader">
@@ -81,36 +81,6 @@
       <span class="de">Zögern Sie nicht, <a href="mailto:cl.schuetzdeller@icloud.com">Kontakt mit mir aufzunehemen</a>, wenn Sie Interesse haben, von meinen Erfahrungen zu profitieren.</span>
     </p>
     </div>
-
-
-
-<div class="gridBreak"></div>
-  <div class="grid-1">
-    &nbsp;
-  </div>
-  <div class="grid-2">
-    <div class="gridHeader">
-      <a href="itTraining/Profile.html">IT-Training</a>
-    </div>
-  </div>
-<div class="gridBreak"></div>
-  <div class="grid-1">
-    <a href="itTraining/Profile.html"><img src="itTraining/SchuetzdellerClemens.jpg" class="bordered"></a>
-  </div>
-  <div class="grid-2">
-    <div class="gridDescription">
-   <p>
-      <span class="en">After spending nearly 40 years supporting the mainframe DBMS Db2, I now have decided to offer my knowledge as an independent consultant.</span>
-      <span class="de">Nach beinahe 40 Jahren intensiver Beschäftigung mit dem Mainframe DBMS Db2, habe ich mich entschieden, meine gesammelten Erfahrungen als unhabhängiger Berater zur Verfügung zu stellen.</span>
-    </p>
-    <p>
-      <span class="en">If you are interested to profit from my experience, don't hesitate to <a href="mailto:cl.schuetzdeller@icloud.com">contact me</a>.</span>
-      <span class="de">Zögern Sie nicht, <a href="mailto:cl.schuetzdeller@icloud.com">Kontakt mit mir aufzunehemen</a>, wenn Sie Interesse haben, von meinen Erfahrungen zu profitieren.</span>
-    </p>
-    </div>
-  </div>
-
-
 
 </div>
 
