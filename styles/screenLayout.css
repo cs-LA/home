@@ -1,5 +1,5 @@
 :root {
-    --base-font-size: clamp(10px, calc(10px + (32 - 10) * ((100vmin - 360px) / 1560)), 32px);
+    --base-font-size: clamp(12px, calc(10px + (32 - 12) * ((100vmin - 360px) / 1560)), 32px);
 }
 
 * {
