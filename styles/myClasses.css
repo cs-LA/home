@@ -1,4 +1,4 @@
-.de {
+line.de {
   display: block;
 }
 .en {
@@ -70,7 +70,7 @@
 
 .inLineImg {
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: baseline;
   width: 1.0em;
   height: 1.0em;
 }
