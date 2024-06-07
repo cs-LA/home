@@ -23,8 +23,8 @@
 </p>
 <ul>
   <li>
-    <span class="en">The <img src="buttons/navBackward.jpg" class="inLineImg"> button goes back one step in the history of visited pages.</span>
-    <span class="de">Die <img src="buttons/navBackward.jpg" class="inLineImg"> Schaltfläche führt in der Historie der besuchten Web-Seiten einen Schritt zurück.</span>
+    <span class="en">The <img src="buttons/lessThan.jpg" class="inLineImg"> button goes back one step in the history of visited pages.</span>
+    <span class="de">Die <img src="buttons/greaterThan.jpg" class="inLineImg"> Schaltfläche führt in der Historie der besuchten Web-Seiten einen Schritt zurück.</span>
   </li>
   <li>
     <span class="en">The <img src="buttons/navForward.jpg" class="inLineImg"> button goes forward one step in the history of visited pages. The sample button is <i>grayed-out</i> meaning that the button is <i>inactive</i>.</span>
