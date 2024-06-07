@@ -74,7 +74,7 @@
   </div>
 <div class="gridBreak"></div>
   <div class="grid-1">
-    &nbsp;
+    <a href="itTraining/Profile.html"><img src="itTraining/SchuetzdellerClemens.jpg" class="bordered"></a>
   </div>
   <div class="grid-2">
     <div class="gridDescription">
