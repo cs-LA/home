@@ -38,7 +38,7 @@
   </ul>
   <li>
     <span class="en">The <img src="buttons/web.jpg" class="inLineImg"> icon indicates that the document is not a local KTrunk document but from the world wide web.</span>
-    <span class="de">Das <img src="buttons/web.jpg" class="inLineImg"> Bildchen zeigt an, dass es sich nicht um ein lokales KTrunk-Dokument handelt, sonder aus dem World Wide Web stammt.</span>
+    <span class="de">Das <img src="buttons/web.jpg" class="inLineImg"> Bildchen zeigt an, dass es sich nicht um ein lokales KTrunk-Dokument handelt, sondern aus dem World Wide Web stammt.</span>
   </li>
 </ul>
 
