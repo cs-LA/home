@@ -1,6 +1,6 @@
 <div class="hGrid">
   <div class="grid-2">
-    <div class="gridHeader">Clemens Schützdeller</div>
+    <div class="gridHeader"><a href="mailto:cl.schuetzdeller@icloud.com">Clemens Schützdeller</a></div>
     <div class="gridHeader">IT-Training</div>
   </div>
   <div class="grid-1">
