@@ -9,19 +9,31 @@
 <div class="gridBreak"></div>
 </div>
 
+<div class="hGrid">
+  <div class="grid-2">
+    <div class="gridHeader">Schwerpunkte</div>
+      <ul>
+        <li>Db2 Datenbankadministration</li>
+        <li>Db2 Datenmodellierung</li>
+        <li>Db2 SQL-Analyse und -Tuning</li>
+      </ul>
+    </div>
+<div class="gridBreak"></div>
+</div>
 
 <div class="hGrid">
   <div class="grid-2">
-    <div class="gridHeader">Clemens Schützdeller</div>
-<ul>
-  <li>Db2 Datenbankadministration</li>
-  <li>Db2 Datenmodellierung</li>
-  <li>Db2 SQL-Analyse und -Tuning</li>
-</ul>
+    <div class="gridHeader">Lebenslauf</div>
+      <div class="grid-1">
+        <ul style="margin: 0;"><li>1960 - 1973</li></ul>
+      </div>
+      <div class="grid-2">
+        <p>Schule</p>
+        <p>Abschluss: Abitur</p>
+      </div>
+    </div>
 <div class="gridBreak"></div>
 </div>
-</div>
-
 
 <h3>Lebenslauf</h3>
 <div class="hGrid">
