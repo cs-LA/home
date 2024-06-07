@@ -26,17 +26,14 @@
     <div class="gridTitle">Lebenslauf</div>
     <div class="hGrid">
       <div class="grid-1"><ul style="margin: 0;"><li>1960 - 1973</li></ul></div>
-      <div class="grid-2">
-        <p>Schule</p>
-        <p>Abschluss: Abitur</p>
-      </div>
-    <div class="gridBreak"></div>
+      <div class="grid-2"><p>Schule<br>Abschluss: Abitur</p></div>
+    <div class="gridBreak" style="height; calc(0.5 * var(--base-font-size))"></div>
       <div class="grid-1"><ul style="margin: 0;"><li>11973 - 1974</li></ul></div>
       <div class="grid-2"><p>Bundeswehr</p></div>
-    <div class="gridBreak"></div>
+    <div class="gridBreak" style="height; calc(0.5 * var(--base-font-size))"></div>
       <div class="grid-1"><ul style="margin: 0;"><li>1974 - 1983</li></ul></div>
       <div class="grid-2"><p>Hochschulstudium Mathematik / Physik<br>Abschluss: Diplom-Mathematiker</p></div>
-    <div class="gridBreak"></div>
+    <div class="gridBreak" style="height; calc(0.5 * var(--base-font-size))"></div>
       <div class="grid-1"><ul style="margin: 0;"><li>1984 - 1993</li></ul></div>
       <div class="grid-2"><p>Systemprogrammierer & Datenbankadministration<br>Magdeburger Versicherung, Hannover</p></div>
     <div class="gridBreak"></div>
