@@ -11,7 +11,7 @@
 
 <div class="hGrid">
   <div class="grid-2">
-    <div class="gridHeader">Schwerpunkte</div>
+    <div class="gridTitle">Schwerpunkte</div>
       <ul>
         <li>Db2 Datenbankadministration</li>
         <li>Db2 Datenmodellierung</li>
@@ -23,7 +23,8 @@
 
 <div class="hGrid">
   <div class="grid-2">
-    <div class="gridHeader">Lebenslauf</div>
+    <div class="gridTitle">Lebenslauf</div>
+    <div class="hGrid">
       <div class="grid-1">
         <ul style="margin: 0;"><li>1960 - 1973</li></ul>
       </div>
@@ -32,6 +33,7 @@
         <p>Abschluss: Abitur</p>
       </div>
     </div>
+  </div>
 <div class="gridBreak"></div>
 </div>
 
