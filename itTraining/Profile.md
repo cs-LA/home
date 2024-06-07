@@ -10,12 +10,17 @@
 </div>
 
 
-<h3>Schwerpunkte</h3>
+<div class="hGrid">
+  <div class="grid-2">
+    <div class="gridHeader">Clemens Schützdeller</div>
 <ul>
   <li>Db2 Datenbankadministration</li>
   <li>Db2 Datenmodellierung</li>
   <li>Db2 SQL-Analyse und -Tuning</li>
 </ul>
+<div class="gridBreak"></div>
+</div>
+</div>
 
 
 <h3>Lebenslauf</h3>
