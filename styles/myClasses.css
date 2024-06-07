@@ -65,7 +65,7 @@
   margin-left: calc(-2.5 * var(--base-font-size));
   padding-left: calc(0.5 * var(--base-font-size));
 	content: "👉";
-  /*padding-right: calc(0.5 * var(--base-font-size));*/
+  padding-right: calc(0.5 * var(--base-font-size));
 }
 
 .inLineImg {
