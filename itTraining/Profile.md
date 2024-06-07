@@ -52,33 +52,24 @@
     <div class="gridTitle">Kenntnisse</div>
     <div class="hGrid">
       <div class="grid-2"><ul style="margin: 0;">
-        <li>Mainframe</li>
+        <li><h4>Mainframe</h4></li>
         <ul>
           <li>Db2 for z/OS</li>
           <li>JCL</li>
           <li>ISPF</li>
           <li>REXX</li>
         </ul>
-        <li>App-Development</li>
+        <li><h4>App-Development</h4></li>
+        <ul>
+          <li>Swift</li>
+          <li>SwiftUI</li>
+        </ul>
+        <li>Sonstiges</li>
+        <ul>
+          <li>JavaScript</li>
+          <li>Java (Grundlagen)</li>
+        </ul>
       </ul></div>
-      <div class="grid-2"><p>Schule<br>Abschluss: Abitur</p></div>
     </div>
   </div>
 </div>
-
-
-Kenntnisse
-• Mainframe
-• Db2 for z/OS
-• JCL
-• ISPF
-• REXX
-• Assembler
-• Cobol
-• iOS
-• App-Development
-• Swift
-• SwiftUI
-• Sonstiges
-• Java (Grundlagen)
-• JavaScript (Grundlagen)
