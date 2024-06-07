@@ -19,10 +19,10 @@
     </div>
 </div>
 
-<div class="hGrid" style="padding-left: 0;">
+<div class="hGrid">
   <div class="grid-2">
     <div class="gridTitle">Lebenslauf</div>
-    <div class="hGrid">
+    <div class="hGrid" style="padding-left: 0;">
       <div class="grid-1"><ul style="margin: 0;"><li>1960 - 1973</li></ul></div>
       <div class="grid-2"><p>Schule<br>Abschluss: Abitur</p></div>
     <div class="gridBreak" style="height: calc(0.1 * var(--base-font-size))"></div>
@@ -47,8 +47,8 @@
   </div>
 </div>
 
-<div class="hGrid" style="padding-left: 0;">
-  <div class="grid-2">
+<div class="hGrid"">
+  <div class="grid-2" style="padding-left: 0;">
     <div class="gridTitle">Kenntnisse</div>
     <div class="hGrid">
       <div class="grid-2"><ul style="margin: 0;">
