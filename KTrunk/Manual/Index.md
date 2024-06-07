@@ -14,9 +14,7 @@
 
 <div class="hGrid">
   <div class="grid-2">
-<h1 style="text-align: left;">
-  Index
-</h1>
+<h1 style="text-align: left;"><a href="Index.html">Index</a></h1>
 <ul>
   <li>
     <span class="en"><b><a href="ActionButtons.html">Action Buttons</a></b></span>
