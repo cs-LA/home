@@ -25,42 +25,78 @@
     <div class="hGrid">
       <div class="grid-1"><ul style="margin: 0;"><li>1960 - 1973</li></ul></div>
       <div class="grid-2"><p>Schule<br>Abschluss: Abitur</p></div>
-    <div class="gridBreak" style="height: calc(0.2 * var(--base-font-size))"></div>
+    <div class="gridBreak" style="height: calc(0.1 * var(--base-font-size))"></div>
       <div class="grid-1"><ul style="margin: 0;"><li>1973 - 1974</li></ul></div>
       <div class="grid-2"><p>Bundeswehr</p></div>
-    <div class="gridBreak" style="height: calc(0.2 * var(--base-font-size))"></div>
+    <div class="gridBreak" style="height: calc(0.1 * var(--base-font-size))"></div>
       <div class="grid-1"><ul style="margin: 0;"><li>1974 - 1983</li></ul></div>
       <div class="grid-2"><p>Hochschulstudium Mathematik / Physik<br>Abschluss: Diplom-Mathematiker</p></div>
-    <div class="gridBreak" style="height: calc(0.2 * var(--base-font-size))"></div>
+    <div class="gridBreak" style="height: calc(0.1 * var(--base-font-size))"></div>
       <div class="grid-1"><ul style="margin: 0;"><li>1984 - 1993</li></ul></div>
       <div class="grid-2"><p>Systemprogrammierer & Datenbankadministration<br>Magdeburger Versicherung, Hannover</p></div>
-    <div class="gridBreak" style="height: calc(0.2 * var(--base-font-size))"></div>
+    <div class="gridBreak" style="height: calc(0.1 * var(--base-font-size))"></div>
       <div class="grid-1"><ul style="margin: 0;"><li>1993 - 1998</li></ul></div>
       <div class="grid-2"><p>Gruppenleitung Db2 Datenbanken<br>VHV, Hannover</p></div>
-    <div class="gridBreak" style="height: calc(0.2 * var(--base-font-size))"></div>
+    <div class="gridBreak" style="height: calc(0.1 * var(--base-font-size))"></div>
       <div class="grid-1"><ul style="margin: 0;"><li>1998 - 2023</li></ul></div>
       <div class="grid-2"><p>Software Consultant<br>BMC Software, Frankfurt</p></div>
-    <div class="gridBreak" style="height: calc(0.2 * var(--base-font-size))"></div>
+    <div class="gridBreak" style="height: calc(0.1 * var(--base-font-size))"></div>
       <div class="grid-1"><ul style="margin: 0;"><li>2023 -</li></ul></div>
-      <div class="grid-2"><p>HFreiberuflich</p></div>
+      <div class="grid-2"><p>Freiberuflich</p></div>
     </div>
   </div>
-<div class="gridBreak"></div>
+</div>
+
+<div class="hGrid" style="padding: 0;">
+  <div class="grid-2">
+    <div class="gridTitle">Kenntnisse</div>
+    <div class="hGrid">
+      <div class="grid-2"><ul style="margin: 0;">
+        <li>Mainframe</li>
+        <ul>
+          <li>Db2 for z/OS</li>
+          <li>JCL</li>
+          <li>ISPF</li>
+          <li>REXX</li>
+        </ul>
+        <li>App-Development</li>
+      </ul></div>
+      <div class="grid-2"><p>Schule<br>Abschluss: Abitur</p></div>
+    <div class="gridBreak" style="height: calc(0.1 * var(--base-font-size))"></div>
+      <div class="grid-1"><ul style="margin: 0;"><li>1973 - 1974</li></ul></div>
+      <div class="grid-2"><p>Bundeswehr</p></div>
+    <div class="gridBreak" style="height: calc(0.1 * var(--base-font-size))"></div>
+      <div class="grid-1"><ul style="margin: 0;"><li>1974 - 1983</li></ul></div>
+      <div class="grid-2"><p>Hochschulstudium Mathematik / Physik<br>Abschluss: Diplom-Mathematiker</p></div>
+    <div class="gridBreak" style="height: calc(0.1 * var(--base-font-size))"></div>
+      <div class="grid-1"><ul style="margin: 0;"><li>1984 - 1993</li></ul></div>
+      <div class="grid-2"><p>Systemprogrammierer & Datenbankadministration<br>Magdeburger Versicherung, Hannover</p></div>
+    <div class="gridBreak" style="height: calc(0.1 * var(--base-font-size))"></div>
+      <div class="grid-1"><ul style="margin: 0;"><li>1993 - 1998</li></ul></div>
+      <div class="grid-2"><p>Gruppenleitung Db2 Datenbanken<br>VHV, Hannover</p></div>
+    <div class="gridBreak" style="height: calc(0.1 * var(--base-font-size))"></div>
+      <div class="grid-1"><ul style="margin: 0;"><li>1998 - 2023</li></ul></div>
+      <div class="grid-2"><p>Software Consultant<br>BMC Software, Frankfurt</p></div>
+    <div class="gridBreak" style="height: calc(0.1 * var(--base-font-size))"></div>
+      <div class="grid-1"><ul style="margin: 0;"><li>2023 -</li></ul></div>
+      <div class="grid-2"><p>Freiberuflich</p></div>
+    </div>
+  </div>
 </div>
 
 
-
-
-Lebenslauf
-• 1960 - 1973 Schule
-Abschluss: Abitur
-• 1973 - 1974 Bundeswehr
-• 1974 - 1983 Hochschulstudium Mathematik / Physik
-Abschluss: Diplom-Mathematiker
-• 1984 - 1993 Systemprogrammierer & Datenbankadministration
-Magdeburger Versicherung, Hannover
-• 1993 - 1998 Gruppenleitung Db2 Datenbanken
-VHV, Hannover
-• 1998 - 2023 Software Consultant
-BMC Software, Frankfurt
-• 2023 - Freiberuflich
+Kenntnisse
+• Mainframe
+• Db2 for z/OS
+• JCL
+• ISPF
+• REXX
+• Assembler
+• Cobol
+• iOS
+• App-Development
+• Swift
+• SwiftUI
+• Sonstiges
+• Java (Grundlagen)
+• JavaScript (Grundlagen)
