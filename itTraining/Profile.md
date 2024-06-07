@@ -50,7 +50,7 @@
 <div class="hGrid">
   <div class="grid-2" style="padding: 0;">
     <div class="gridTitle">Kenntnisse</div>
-    <div class="hGrid">
+    <div class="hGrid" style="padding: 0;">
       <div class="grid-2"><ul style="margin: 0;">
         <li><h4 style="padding: 0;">Mainframe</h4></li>
         <ul>
