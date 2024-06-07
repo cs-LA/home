@@ -19,6 +19,7 @@ p {
       
 ul {
   padding-top: calc(-0.6 * var(--base-font-size));
+  padding-left: calc(1.5 * var(--base-font-size));
   padding-bottom: 0;
 }
 li {
