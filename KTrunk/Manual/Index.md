@@ -60,11 +60,8 @@
 </ul>
   </div>
   <div class="grid-2">
-    <h1>
-    <span class="en"><b><a href="TipsAndTricks.html">Tips and Tricks</a></b></span>
-    <span class="de"><b><a href="FurtherActions.html">Weitere Aktionen</a></b></span>
+    <h1><a href="ReleaseNotes.html">Release Notes</a></h1>
   </div>
-    </h1>
 <div class="gridBreak"></div>
 </div>
 
