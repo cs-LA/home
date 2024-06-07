@@ -31,11 +31,23 @@
         <p>Abschluss: Abitur</p>
       </div>
     <div class="gridBreak"></div>
-      <div class="grid-1"><ul><li>11973 - 1974</li></ul></div>
+      <div class="grid-1"><ul style="margin: 0;"><li>11973 - 1974</li></ul></div>
       <div class="grid-2"><p>Bundeswehr</p></div>
     <div class="gridBreak"></div>
       <div class="grid-1"><ul style="margin: 0;"><li>1974 - 1983</li></ul></div>
-      <div class="grid-2"><p>Hochschulstudium Mathematik / Physik</p></div>
+      <div class="grid-2"><p>Hochschulstudium Mathematik / Physik<br>Abschluss: Diplom-Mathematiker</p></div>
+    <div class="gridBreak"></div>
+      <div class="grid-1"><ul style="margin: 0;"><li>1984 - 1993</li></ul></div>
+      <div class="grid-2"><p>Systemprogrammierer & Datenbankadministration<br>Magdeburger Versicherung, Hannover</p></div>
+    <div class="gridBreak"></div>
+      <div class="grid-1"><ul style="margin: 0;"><li>1993 - 1998</li></ul></div>
+      <div class="grid-2"><p>Gruppenleitung Db2 Datenbanken<br>VHV, Hannover</p></div>
+    <div class="gridBreak"></div>
+      <div class="grid-1"><ul style="margin: 0;"><li>1998 - 2023</li></ul></div>
+      <div class="grid-2"><p>Software Consultant<br>BMC Software, Frankfurt</p></div>
+    <div class="gridBreak"></div>
+      <div class="grid-1"><ul style="margin: 0;"><li>2023 -</li></ul></div>
+      <div class="grid-2"><p>HFreiberuflich</p></div>
     <div class="gridBreak"></div>
     </div>
   </div>
