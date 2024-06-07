@@ -68,6 +68,16 @@
   padding-right: calc(0.5 * var(--base-font-size));
 }
 
+.hint {
+	padding-left: calc(2.0 * var(--base-font-size));
+}
+.hint::before {
+  margin-left: -1.8 em;
+  padding-left: 0.3em;
+	content: "👉";
+  padding-right: 0.5em;
+}
+
 .inLineImg {
   display: inline-block;
   vertical-align: middle;
