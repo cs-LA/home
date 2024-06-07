@@ -21,7 +21,7 @@
 <div class="gridBreak"></div>
 </div>
 
-<div class="hGrid">
+<div class="hGrid" style="padding: 0;">
   <div class="grid-2">
     <div class="gridTitle">Lebenslauf</div>
     <div class="hGrid">
