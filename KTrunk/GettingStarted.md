@@ -3,7 +3,7 @@
     <img src="logo120.png">
   </div>
   <div class="grid-2">
-    <div class="gridTitle">KTrunk</div>
+    <div class="gridTitle"><a href="index.html">KTrunk</a></div>
     <div class="gridTitle">
       <span class="en">Getting Started</span>
       <span class="de">Schnelleinstieg</span>
