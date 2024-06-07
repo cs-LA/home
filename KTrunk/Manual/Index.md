@@ -58,7 +58,7 @@
 </ul>
   </div>
   <div class="grid-2">
-    <h1><a href="ReleaseNotes.html">Release Notes</a></h1>
+    <h1 style="text-align: right;"><a href="ReleaseNotes.html">Release Notes</a></h1>
   </div>
 <div class="gridBreak"></div>
 </div>
