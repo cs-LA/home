@@ -43,3 +43,18 @@ body {
   overflow: auto;
   padding-bottom: var(--base-font-size);
 }
+
+
+  #header,
+  #footer {
+    display: none !important;
+  }
+  #content {
+    position: relative;
+    height: 100%;
+    overflow: visible;
+  }
+
+
+
+
