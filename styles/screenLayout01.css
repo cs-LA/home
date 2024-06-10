@@ -34,7 +34,7 @@ body {
 }
 
 
-@media print {
+/*@media print {*/
   @page {
     size: A4;
   }
@@ -48,4 +48,4 @@ body {
     height: 100%;
     overflow: visible;
   }
-}
+/*}*/
