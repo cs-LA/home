@@ -56,13 +56,13 @@ body {
     page-break-after: always;
   }
 
+  
   @page { 
-    margin-top: 10cm; 
+    margin-top: 1cm; 
     margin-bottom: 0cm; 
   } 
 
-  
-  .printPageHeader {
+  .printPageHeader1 {
     position: fixed;
     top: 0;
   }
