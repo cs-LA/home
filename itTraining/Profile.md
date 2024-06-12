@@ -1,4 +1,4 @@
-<div class="hGrid">
+<div class="hGrid printPageHeader">
   <div class="grid-2">
     <div class="gridHeader"><a href="mailto:cl.schuetzdeller@icloud.com">Clemens Schützdeller</a></div>
     <div class="gridHeader">IT-Training</div>
