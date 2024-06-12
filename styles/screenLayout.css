@@ -55,7 +55,14 @@ body {
   .pageBreak {
     page-break-after: always;
   }
-  .printPageHeader1 {
+
+  @page { 
+    margin-top: 1cm; 
+    margin-bottom: 0cm; 
+  } 
+
+  
+  .printPageHeader {
     position: fixed;
     top: 0;
   }
