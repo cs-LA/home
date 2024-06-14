@@ -65,11 +65,11 @@
 
 <div class="gridBreak"></div>
   <div class="grid-1">
-    <p>&nbsp;<a href="itTraining/Profile.html"><img src="itTraining/SchuetzdellerClemens.jpg" class="bordered"></a></p>
+    <p>&nbsp;<a href="IT-Training/Profile.html"><img src="IT-Training/SchuetzdellerClemens.jpg" class="bordered"></a></p>
   </div>
   <div class="grid-2">
     <div class="gridHeader">
-      <a href="itTraining/Profile.html">IT-Training</a>
+      <a href="IT-Training/Profile.html">IT-Training</a>
     </div>
     <div class="gridDescription">
    <p>
