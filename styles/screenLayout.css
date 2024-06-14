@@ -44,6 +44,8 @@ body {
   padding-bottom: var(--base-font-size);
 }
 
+
+
 @media print {
   #header,
   #footer {
@@ -53,20 +55,24 @@ body {
     position: relative;
   }
   .pageBreak {
-    page-break-after: always;
+    page-break-before: always;
+    height: 0cm;
   }
 
   
   @page { 
-    margin-top: 1cm; 
-    margin-bottom: 0cm; 
+	  size: A4;
+    margin-top: 2cm; 
+    margin-bottom: 2cm; 
   } 
 
-  .printPageHeader1 {
+  .printPageHeader {
     position: fixed;
     top: 0;
+    height: 4cm;
+  }
+
+  .printPageContent {
+    padding-top: 4cm;
   }
 }
-
-
-
