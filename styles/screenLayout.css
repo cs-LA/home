@@ -47,7 +47,11 @@ body {
 
 
 @media print {
-  #header,
+  :root {
+  --base-font-size: 11px;
+  }
+	
+#header,
   #footer {
     display: none !important;
   }
