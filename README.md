@@ -78,7 +78,7 @@
     </p>
     <p>
       <span class="en">If you are interested to profit from my experience, don't hesitate to <a href="mailto:cl.schuetzdeller@icloud.com">contact me</a>.</span>
-      <span class="de">Zögern Sie nicht, <a href="mailto:cl.schuetzdeller@icloud.com">Kontakt mit mir aufzunehemen</a>, wenn Sie Interesse haben, von meinen Erfahrungen zu profitieren.</span>
+      <span class="de">Zögern Sie nicht, <a href="mailto:cl.schuetzdeller@icloud.com">Kontakt mit mir aufzunehmen</a>, wenn Sie Interesse haben, von meinen Erfahrungen zu profitieren.</span>
     </p>
     </div>
 
