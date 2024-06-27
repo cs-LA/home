@@ -69,7 +69,7 @@
   </div>
   <div class="grid-2">
     <div class="gridHeader">
-      <a href="IT-Training/Profile.html">IT-Training</a>
+      <a href="IT-Training/Profile.html">IT-Trainingg</a>
     </div>
     <div class="gridDescription">
    <p>
