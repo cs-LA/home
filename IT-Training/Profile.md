@@ -75,7 +75,7 @@
         <div class="grid-2"><p>Software Consultant<br>BMC Software, Frankfurt</p></div>
       <div class="gridBreak" style="height: calc(0.1 * var(--base-font-size))"></div>
         <div class="grid-1"><ul style="margin: 0;"><li>2023 -</li></ul></div>
-        <div class="grid-2"><p>Freiberuflich</p></div>
+        <div class="grid-2"><p>Freiberuflich tätig als IT-Berater</p></div>
       </div>
     </div>
   </div>
