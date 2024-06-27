@@ -31,7 +31,7 @@ line.de {
   height: calc(1.0 * var(--base-font-size));
 }
 
-.gridHeader {
+.gridHeader, .gridHeader a {
   font-size: calc(2.0 * var(--base-font-size));
   font-weight: bold;
   color: #155799;
