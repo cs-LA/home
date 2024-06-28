@@ -10,7 +10,7 @@
   </div>
 <div class="gridBreak"></div>
   <div class="grid-1">
-    <a href="Diplomarbeit/Diplomarbeit.pdf"><img src="Diplomarbeit/KommutativesDiagramm.png" class="logo"></a>
+    <a href="Diplomarbeit/Diplomarbeit.pdf"><img src="Diplomarbeit/KommutativesDiagramm.png" class="logo bordered"></a>
   </div>
   <div class="grid-2">
     <div class="gridTitle"><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></div>
