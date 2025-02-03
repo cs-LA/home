@@ -2,13 +2,13 @@
 
 ### Definition
 
-Eine *Topologie* auf einer Menge $\mathit{X}$ ist eine Menge $\mathit{T}$ von Teilmengen von $\mathit{X}$, die folgende Eigenschaften besitzt:
-1. Die Vereinigung beliebig vieler Mengen aus $\mathit{T}$ gehört zu $\mathit{T}$.
-2. Der Durchschnitt je zweier Mengen aus $\mathit{T}$ gehört zu $\mathit{T}$.
-3. Die Menge $\mathit{X}$ und die leere Menge $\emptyset$ gehören zu $\mathit{T}$.
+Eine *Topologie* auf einer Menge $X$ ist eine Menge $T$ von Teilmengen von $X$, die folgende Eigenschaften besitzt:
+1. Die Vereinigung beliebig vieler Mengen aus $T$ gehört zu $T$.
+2. Der Durchschnitt je zweier Mengen aus $T$ gehört zu $T$.
+3. Die Menge $X$ und die leere Menge $\emptyset$ gehören zu $T$.
 
-Ein Element von $\mathit{T}$ heißt *oﬀene Menge* der Topologie $\mathit{T}$.
+Ein Element von $T$ heißt *oﬀene Menge* der Topologie $T$.
 
-Eine Teilmenge $\mathit{A}$ von $\mathit{X}$ heißt abgeschlossen bezüglich $\mathit{T}$, falls ihr Komplement $\mathit{A}_C := \mathit{X} \setminus \mathit{A}$ bezüglich $\mathit{T}$ oﬀen ist.
+Eine Teilmenge $A$ von $X$ heißt abgeschlossen bezüglich $T$, falls ihr Komplement $A_C := X \setminus A$ bezüglich $T$ oﬀen ist.
 
 Ein topologischer Raum ist ein Paar $(X,T)$, bestehend aus einer Menge $X$ und einer Topologie $T$ auf $X$.
