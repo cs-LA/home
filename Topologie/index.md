@@ -31,8 +31,10 @@ Hier der Nachweis, dass die Definition offener Mengen mittels des euklidischen A
 
 $$
 \begin{equation}
-x = 1 \\
-x = 3
+\begin{split}
+x = 5 \\
+x = 6
+\end{split}
 \end{equation}
 $$
 
