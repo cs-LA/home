@@ -25,4 +25,4 @@ Hier wird eine Teilmenge $T$ von $\mathbb{R}^n$ üblicherweise mit Hilfe des *[e
 Hier der Nachweis, dass die Definition offener Mengen mittels des euklidischen Abstands eine Topologie im oben definierten Sinne ist:
 
 > 1. Für die leere Menge $\emptyset$ braucht man offensichtlich nichts zu zeigen, da sie ja keine Elemente enthält.
-> 2.  Ist $x \in X$ und $r > 0$, so liegt natürlich $B_r(x)$ in $X$. Also ist $X$ offen.
+> 2.  Ist $x \in \mathbb{R}^n$ und $r > 0$, so liegt natürlich $B_r(x)$ in $\mathbb{R}^n$. Also ist $\mathbb{R}^n$ offen.
