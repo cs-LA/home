@@ -12,3 +12,7 @@ Ein Element von $T$ heißt *oﬀene Menge* der Topologie $T$.
 Eine Teilmenge $A$ von $X$ heißt abgeschlossen bezüglich $T$, falls ihr Komplement $A_C := X \setminus A$ bezüglich $T$ oﬀen ist.
 
 Ein topologischer Raum ist ein Paar $(X,T)$, bestehend aus einer Menge $X$ und einer Topologie $T$ auf $X$.
+
+## &nbsp;
+
+Diese sehr allgemeine Definition
