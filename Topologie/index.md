@@ -25,4 +25,9 @@ Hier wird eine Teilmenge $T$ von $\mathbb{R}^n$ üblicherweise mit Hilfe des *[e
 Hier der Nachweis, dass die Definition offener Mengen mittels des euklidischen Abstands eine Topologie im oben definierten Sinne ist:
 
 > 1. Für die leere Menge $\emptyset$ braucht man offensichtlich nichts zu zeigen, da sie ja keine Elemente enthält.
-> 2.  Ist $x \in \mathbb{R}^n$ und $r > 0$, so liegt natürlich $B_r(x)$ in $\mathbb{R}^n$. Also ist $\mathbb{R}^n$ offen.
+> 1.  Ist $x \in \mathbb{R}^n$ und $r > 0$, so liegt natürlich $B_r(x)$ in $\mathbb{R}^n$. Also ist $\mathbb{R}^n$ offen.
+> 1.   Seien $U_1, U_2 \subset \mathbb{R}^n$ offen, $x_0 \in U_1 \intersection U_2$ beliebig vorgegeben. Dann gibt es ε1, ε2 > 0, so daß
+Bε1
+(x0) ⊂ U1 und Bε2
+(x0) ⊂ U2 ist. Setzt man ε := min(ε1, ε2), so ist Bε(x0) ⊂ U1 ∩ U2.
+Also ist der Durchschnitt von zwei offenen Mengen wieder offen.
