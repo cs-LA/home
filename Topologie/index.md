@@ -33,8 +33,8 @@ $$
 \begin{equation}
 \begin{split}
 & aaa \\
-folgt & bbb \\
-und & ccc \\
+\Longrightarrow & bbb \\
+\Longrightarrow & ccc \\
 x & = 5 \\
 x & = 6666
 \end{split}
