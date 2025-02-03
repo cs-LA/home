@@ -1,5 +1,3 @@
-$\usepackage{amsmath}$
-
 # Topologie
 
 ### Definition
