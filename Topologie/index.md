@@ -19,8 +19,8 @@ Diese sehr allgemeine Definition erscheint auf den ersten Blick etwas verblüffe
 
 Hier wird eine Teilmenge $T$ von $\mathbb{R}$ üblicherweise mit Hilfe des *euklidischen Abstands* als offen definiert:
 
-\begin{quote}
+$\begin{quote}$
 Eine Menge $T \subseteq \mathbb{R}^n$ heißt oﬀen, wenn für jedes $x \in \mathbb{R}^n$ ein $\epsilon > 0$ existiert, so dass ein ganzer $\epsilon$–Ball $B_\epsilon(x)$ um $x$ in $T$  enthalten ist.
-\end{quote}
+$\end{quote}$
 
 xxx
