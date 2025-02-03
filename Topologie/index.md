@@ -16,4 +16,9 @@ Ein topologischer Raum ist ein Paar $(X,T)$, bestehend aus einer Menge $X$ und e
 ## &nbsp;
 
 Diese sehr allgemeine Definition erscheint auf den ersten Blick etwas verblüffend, wenn man von dem sonst in dem $\mathbb{R}$ üblichen Begriff der offenen Mengen herkommt.
-Hier wird eine Teilmenge $T$ von $\mathbb{R}$ üblicherweise als offen definiert:
+
+Hier wird eine Teilmenge $T$ von $\mathbb{R}$ üblicherweise mit Hilfe des *euklidischen Abstands* als offen definiert:
+
+Eine Menge $T  Rn heißt oﬀen, wenn für jedes
+x ∈Rn ein ε > 0 existiert, so dass ein ganzer ε–Ball Bε(x) um x in A
+enthalten ist.
