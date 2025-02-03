@@ -41,17 +41,3 @@ $$
 $$
 
 > Also ist die Vereinigung der $\cup λ$ offen.
-
-
- Sei (Uλ)λ∈L eine Familie von offenen Mengen in X, x0 ∈
-∪
-λ∈L
-Uλ. Das bedeutet:
-∃ λ ∈ L mit x0 ∈ Uλ
-=⇒ ∃ λ ∈ L, ∃ ε > 0, so daß Bε(x0) ⊂ Uλ
-=⇒ ∃ ε > 0 mit Bε(x0) ⊂
-∪
-λ∈L
-Uλ
-Also ist die Vereinigung der Uλ offen.
-
