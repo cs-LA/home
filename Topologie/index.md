@@ -32,7 +32,7 @@ Hier der Nachweis, dass die Definition offener Mengen mittels des euklidischen A
 $$
 \begin{equation}
 \begin{split}
-& aaa \\
+& \exists \lambda \in L \text{mit} x_0 \in \Cup \lambda \\
 \Longrightarrow & bbb \\
 \Longrightarrow & ccc \\
 x & = 5 \\
