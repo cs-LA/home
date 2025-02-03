@@ -1,4 +1,4 @@
-\usepackage{amsmath}
+$\usepackage{amsmath}$
 
 # Topologie
 
