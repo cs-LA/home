@@ -33,12 +33,12 @@ $$
 \begin{equation}
 \begin{split}
 x = 5 \\
-x = 6699
+x = 6
 \end{split}
 \end{equation}
 $$
 
-> Also ...
+   Also ...
 5. Noch was
 
 
