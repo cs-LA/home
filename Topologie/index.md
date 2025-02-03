@@ -30,11 +30,11 @@ Hier der Nachweis, dass die Definition offener Mengen mittels des euklidischen A
 > 1.   Sei etwas gegeben
 
 $$
-x = 1
-x = 0
+x = 1\\
+x = 9
 $$
 
-> Also ...
+>> Also ...
 
 
 
