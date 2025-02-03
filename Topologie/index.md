@@ -29,9 +29,9 @@ Hier der Nachweis, dass die Definition offener Mengen mittels des euklidischen A
 > 1.   Seien $U_1, U_2 \subset \mathbb{R}^n$ offen, $x_0 \in U_1 \cap U_2$ beliebig vorgegeben. Dann gibt es $\epsilon_1, \epsilon_2 > 0$, so daß $B_{\epsilon_1}(x_0) \subset U_1$ und $B_{\epsilon_2}(x_0) \subset U_2$ ist. Setzt man $\epsilon := \min(\epsilon_1, \epsilon_2)$, so ist $B_\epsilon(x_0) \subset U_1 \cap U_2$. Also ist der Durchschnitt von zwei offenen Mengen wieder offen.
 > 1.   Sei etwas gegeben
 
-$$  
-> x = 1\\
-> x = 3
+$$
+x = 1
+x = 0
 $$
 
 > Also ...
