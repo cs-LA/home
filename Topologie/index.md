@@ -32,8 +32,8 @@ Hier der Nachweis, dass die Definition offener Mengen mittels des euklidischen A
 $$
 \begin{equation}
 \begin{split}
-& \exists \lambda \in L \text{mit} x_0 \in \Cup \lambda \\
-\Longrightarrow & bbb \\
+& & \exists \lambda \in L \text{ mit } x_0 \in \up \lambda \\
+\Longrightarrow & & bbb \\
 \Longrightarrow & ccc \\
 x & = 5 \\
 x & = 6666
