@@ -33,7 +33,7 @@ Hier der Nachweis, dass die Definition offener Mengen mittels des euklidischen A
 $$
 \begin{equation}
 \begin{split}
-& \, \exists \, \lambda \in L \text{ mit } x_0 \in \cup \lambda \\
+& \, \exists \, \lambda \in L \text{ mit } x_0 \in U_\lambda \\
 \Longrightarrow & \, \exists \, \lambda \in L, \exists \, \epsilon > 0 \text{, so das } B_\epsilon(x_0) \subset \cup \lambda \\
 \Longrightarrow & \, \exists \, \epsilon > 0 \text{ mit } B_\epsilon(x_0) \subset \bigcup _{\lambda \in L} {U _\lambda} 
 \end{split}
