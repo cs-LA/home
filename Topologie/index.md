@@ -15,4 +15,4 @@ Ein topologischer Raum ist ein Paar $(X,T)$, bestehend aus einer Menge $X$ und e
 
 ## &nbsp;
 
-Diese sehr allgemeine Definition erscheint auf den ersten Blick etwas verblüffend, wenn man von dem sonst in dem $R$ üblichen Begriff der offenen Mengen herkommt.
+Diese sehr allgemeine Definition erscheint auf den ersten Blick etwas verblüffend, wenn man von dem sonst in dem $\mathbb{R}$ üblichen Begriff der offenen Mengen herkommt.
