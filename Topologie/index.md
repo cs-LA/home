@@ -32,7 +32,7 @@ Hier der Nachweis, dass die Definition offener Mengen mittels des euklidischen A
 $$
 \begin{equation}
 x = 1\\
-x = 9
+x = 2
 \end{equation}
 $$
 
