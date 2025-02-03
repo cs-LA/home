@@ -32,8 +32,11 @@ Hier der Nachweis, dass die Definition offener Mengen mittels des euklidischen A
 $$
 \begin{equation}
 \begin{split}
-x = 5 \\
-x = 6
+& aaa \\
+folgt & bbb \\
+und & ccc \\
+x & = 5 \\
+x & = 6666
 \end{split}
 \end{equation}
 $$
