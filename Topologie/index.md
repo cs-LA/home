@@ -40,4 +40,4 @@ $$
 \end{equation}
 $$
 
-> Also ist die Vereinigung der $\cup λ$ offen.
+> Also ist die Vereinigung der $U_\lambda$ offen.
