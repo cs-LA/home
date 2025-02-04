@@ -52,6 +52,9 @@ $$
 > $f$ heißt stetig, wenn $f$ in jedem Punkt von $X$ stetig ist.
 
 
+### Vergleich mit der im $\mathbb{R}^n$ üblichen $\delda - \epsilon$-Definition von Stetigkeit
+
+
 ## Definition *Homöomorphie*
 
 > Zwei topologische Räume $X$ und $Y$ heißen *homöomorph*, $X \approx Y$, wenn es eine bijektive stetige Abbildung $f \colon X \to Y$ gibt, so dass $f^{-1} \colon Y \to X$ ebenfalls stetig ist. $f$ wird dann *Homöomorphismus* genannt.
