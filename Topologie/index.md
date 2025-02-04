@@ -60,7 +60,7 @@ $$
 \begin{equation}
 \begin{split}
 \forall \epsilon > 0 \quad \exists \, \delta > 0 \text{ , so dass gilt } d_n(x, x_0) < \delta \Longrightarrow d_m(f(x), f(x_0)) < \epsilon \\
-\text {wobei } d_i \text { der jeweilige euklidische Abstand im } \mathbb{R}^n \text{ sei.}
+\text {wobei } d_i \text { der jeweilige euklidische Abstand im } \mathbb{R}^i \text{ sei.}
 \end{split}
 \end{equation}
 $$
