@@ -1,5 +1,3 @@
 # Wahrscheinlichkeitsrechnung
 
- - **[Satz von Bayes](/home/Wahrscheinlichkeitsrechnung/Bayes.html)**
-
-- ### xxx
+- ### [Satz von Bayes](/home/Wahrscheinlichkeitsrechnung/Bayes.html)
