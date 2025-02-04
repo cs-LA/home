@@ -52,7 +52,7 @@ $$
 > $f$ heißt stetig, wenn $f$ in jedem Punkt von $X$ stetig ist.
 
 
-### Vergleich mit der im $\mathbb{R}^n$ üblichen $\delda - \epsilon$-Definition von Stetigkeit
+### Vergleich mit der im $\mathbb{R}^n$ üblichen $\delta - \epsilon$-Definition von Stetigkeit
 
 
 ## Definition *Homöomorphie*
