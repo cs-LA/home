@@ -45,7 +45,7 @@ $$
 
 ## Definition *Stetigkeit*
 
-
+> Gegeben seien topologische Räume $X$ und $Y$, sowie eine Abbildung $f \colon X \leftarrow Y$ und ein $x \in X$.
 
 
 Definition 0.2.3. X und Y seien topologische Räume, f : X →Y eine Abbildung
