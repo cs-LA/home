@@ -59,7 +59,7 @@ $$
 $$
 \begin{equation}
 \begin{split}
-\forall \epsilon > 0 \exists \, \delta > 0 \text{ , so dass gilt } d(x, x_0) < \delta \Longrightarrow d(f(x), f(x_0)) < \epsilon
+\forall \epsilon > 0 \quad \exists \, \delta > 0 \text{ , so dass gilt } d(x, x_0) < \delta \Longrightarrow d(f(x), f(x_0)) < \epsilon
 \end{split}
 \end{equation}
 $$
