@@ -54,6 +54,20 @@ $$
 
 ### Vergleich mit der im $\mathbb{R}^n$ üblichen $\delta - \epsilon$-Definition von Stetigkeit
 
+> Eine Abbildung $f \colon X \to Y$ ist genau dann stetig in $x_0$, wenn folgende Bedingung erfüllt ist:
+
+$$
+\begin{equation}
+\begin{split}
+\forall \epsilon > 0 \exists \, \delta > 0 \text{ , so dass gilt } d(x, x_0) < \delta \Longrightarrow d(f(x), f(x_0)) < \epsilon
+\end{split}
+\end{equation}
+$$
+
+Eine Abbildung f : X → Y ist genau dann stetig in x0, wenn folgende Bedingung
+erfullt ist: ¨
+∀ ε > 0 ∃ δ > 0, so daß gilt: d(x, x0) < δ =⇒ d(f(x), f(x0)) < ε.
+
 
 ## Definition *Homöomorphie*
 
