@@ -55,15 +55,5 @@ $$
 ## Definition *Homöomorphie*
 
 > Zwei topologische Räume $X$ und $Y$ heißen *homöomorph*, $X \approx Y$, wenn es eine bijektive stetige Abbildung $f \colon X \to Y$ gibt, so dass $f^{-1} \colon Y \to X$ ebenfalls stetig ist. $f$ wird dann *Homöomorphismus* genannt.
->
-> 
 
 
-
-Definition 0.2.3. X und Y seien topologische Räume, f : X →Y eine Abbildung
-und x ∈X. f heißt stetig in x, wenn es zu jeder oﬀenen Umgebung V von f (x) eine
-oﬀene Umgebung U von x gibt, so dass f (U) ⊂V. f heißt stetig, wenn f in jedem
-Punkt von X stetig ist.
-X und Y sind homöomorph, wenn es eine bijektive stetige Abbildung f : X →Y
-gibt, so dass f−1 : Y →X ebenfalls stetig ist. f heißt dann Homöomorphismus.
-Wir schreiben dann kurz X ≈Y.
