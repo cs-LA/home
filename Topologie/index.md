@@ -2,16 +2,16 @@
 
 ## Definition *Topologie*
 
-Eine *Topologie* auf einer Menge $X$ ist eine Menge $T$ von Teilmengen von $X$, die folgende Eigenschaften besitzt:
-1. Die Menge $X$ und die leere Menge $\emptyset$ gehören zu $T$.
-1. Der Durchschnitt je zweier Mengen aus $T$ gehört zu $T$.
-1. Die Vereinigung beliebig vieler Mengen aus $T$ gehört zu $T$.
+> Eine *Topologie* auf einer Menge $X$ ist eine Menge $T$ von Teilmengen von $X$, die folgende Eigenschaften besitzt:
+> 1. Die Menge $X$ und die leere Menge $\emptyset$ gehören zu $T$.
+> 1. Der Durchschnitt je zweier Mengen aus $T$ gehört zu $T$.
+> 1. Die Vereinigung beliebig vieler Mengen aus $T$ gehört zu $T$.
 
-Ein Element von $T$ heißt *oﬀene Menge* der Topologie $T$.
+> Ein Element von $T$ heißt *oﬀene Menge* der Topologie $T$.
 
-Eine Teilmenge $A$ von $X$ heißt abgeschlossen bezüglich $T$, falls ihr Komplement $A_C := X \setminus A$ bezüglich $T$ oﬀen ist.
+> Eine Teilmenge $A$ von $X$ heißt abgeschlossen bezüglich $T$, falls ihr Komplement $A_C := X \setminus A$ bezüglich $T$ oﬀen ist.
 
-Ein topologischer Raum ist ein Paar $(X,T)$, bestehend aus einer Menge $X$ und einer Topologie $T$ auf $X$.
+> Ein topologischer Raum ist ein Paar $(X,T)$, bestehend aus einer Menge $X$ und einer Topologie $T$ auf $X$.
 
 ### Ein paar Anmerkungen zum Topologie-Begriff
 
@@ -41,3 +41,17 @@ $$
 $$
 
 > Also ist die Vereinigung der $U_\lambda$ offen.
+
+
+## Definition *Stetigkeit*
+
+
+
+
+Definition 0.2.3. X und Y seien topologische Räume, f : X →Y eine Abbildung
+und x ∈X. f heißt stetig in x, wenn es zu jeder oﬀenen Umgebung V von f (x) eine
+oﬀene Umgebung U von x gibt, so dass f (U) ⊂V. f heißt stetig, wenn f in jedem
+Punkt von X stetig ist.
+X und Y sind homöomorph, wenn es eine bijektive stetige Abbildung f : X →Y
+gibt, so dass f−1 : Y →X ebenfalls stetig ist. f heißt dann Homöomorphismus.
+Wir schreiben dann kurz X ≈Y.
