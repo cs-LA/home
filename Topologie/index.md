@@ -1,6 +1,6 @@
 # Topologie
 
-### Definition
+## Definition *Topologie*
 
 Eine *Topologie* auf einer Menge $X$ ist eine Menge $T$ von Teilmengen von $X$, die folgende Eigenschaften besitzt:
 1. Die Menge $X$ und die leere Menge $\emptyset$ gehören zu $T$.
@@ -13,7 +13,8 @@ Eine Teilmenge $A$ von $X$ heißt abgeschlossen bezüglich $T$, falls ihr Komple
 
 Ein topologischer Raum ist ein Paar $(X,T)$, bestehend aus einer Menge $X$ und einer Topologie $T$ auf $X$.
 
-## &nbsp;
+### &nbsp;
+### Ein paar Anmerkungen zum Topologie-Begriff
 
 Diese sehr allgemeine Definition erscheint auf den ersten Blick etwas verblüffend, wenn man von dem sonst in dem $\mathbb{R}^n$ üblichen Begriff der offenen Mengen herkommt.
 
