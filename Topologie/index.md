@@ -47,9 +47,17 @@ $$
 
 > Gegeben seien topologische Räume $X$ und $Y$, sowie eine Abbildung $f \colon X \to Y$ und ein $x \in X$.
 >
-> $f$ heißt *stetig* in $X$, wenn es zu jeder oﬀenen Umgebung $V4 von $f(x)$ eine oﬀene Umgebung $U$ von $x$ gibt, so dass $f(U) \subset V$.
+> $f$ heißt *stetig* in $X$, wenn es zu jeder oﬀenen Umgebung $V$ von $f(x)$ eine oﬀene Umgebung $U$ von $x$ gibt, so dass $f(U) \subset V$.
 >
 > $f$ heißt stetig, wenn $f$ in jedem Punkt von $X$ stetig ist.
+
+
+## Definition *Homöomorphie*
+
+> Zwei topologische Räume $X$ und $Y$ heißen *homöomorph*, $X \approx Y$, wenn es eine bijektive stetige Abbildung $f \colon X \to Y$ gibt, so dass $f^{{-1} \colon Y \to X$ ebenfalls stetig ist. $f$ wird dann *Homöomorphismus* genannt.
+>
+> 
+
 
 
 Definition 0.2.3. X und Y seien topologische Räume, f : X →Y eine Abbildung
