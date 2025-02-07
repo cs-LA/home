@@ -49,7 +49,7 @@ $$
 >
 > $f$ heißt stetig, wenn $f$ in jedem Punkt von $X$ stetig ist.
 
-### Vergleich mit der im $\boldsymbol{\mathbb{R}^n}$ üblichen $\boldsymbol{\delta} - \boldsymbol{\epsilon}$-Definition von Stetigkeit
+### Vergleich mit der im $\boldsymbol{\mathbb{R}^n}$ üblichen $\boldsymbol{\delta-\epsilon}$-Definition von Stetigkeit
 
 > Eine Abbildung $f \colon \mathbb{R}^n \to \mathbb{R}^m$ ist genau dann stetig in $x_0$, wenn folgende Bedingung erfüllt ist:
 
