@@ -13,7 +13,7 @@
 
 > Ein topologischer Raum ist ein Paar $(X,T)$, bestehend aus einer Menge $X$ und einer Topologie $T$ auf $X$.
 
-### Ein Beispiel: Der $\mathbb{R}^n$  $\mathbf{\mathbb{R}^n}$  $\boldsymbol{\mathbb{R}^n}$ mit der Definition von offenen Mengen mittels des *[euklidischen Abstands](https://de.m.wikipedia.org/wiki/Euklidischer_Abstand)*
+### Ein Beispiel:<br>Der $\boldsymbol{\mathbb{R}^n}$ mit der Definition von offenen Mengen mittels des *[euklidischen Abstands](https://de.m.wikipedia.org/wiki/Euklidischer_Abstand)*
 
 Diese sehr allgemeine Definition erscheint auf den ersten Blick etwas verblüffend, wenn man von dem sonst in dem $\mathbb{R}^n$ üblichen Begriff der offenen Mengen herkommt.
 
