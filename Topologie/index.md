@@ -47,7 +47,7 @@ $$
 
 > Gegeben seien topologische Räume $X$ und $Y$, sowie eine Abbildung $f \colon X \to Y$ und ein $x \in X$.
 >
-> $f$ heißt *stetig* in $X$, wenn es zu jeder oﬀenen Umgebung $V$ von $f(x)$ eine oﬀene Umgebung $U$ von $x$ gibt, so dass $f(U) \subset V$.
+> $f$ heißt *stetig* in $x$, wenn es zu jeder oﬀenen Umgebung $V$ von $f(x)$ eine oﬀene Umgebung $U$ von $x$ gibt, so dass $f(U) \subset V$.
 >
 > $f$ heißt stetig, wenn $f$ in jedem Punkt von $X$ stetig ist.
 
