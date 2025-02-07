@@ -66,4 +66,3 @@ $$
 ## Definition *Homöomorphie*
 
 > Zwei topologische Räume $X$ und $Y$ heißen *homöomorph*, $X \approx Y$, wenn es eine bijektive stetige Abbildung $f \colon X \to Y$ gibt, so dass $f^{-1} \colon Y \to X$ ebenfalls stetig ist. $f$ wird dann *Homöomorphismus* genannt.
-
