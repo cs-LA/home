@@ -41,7 +41,6 @@ $$
 
 > Also ist die Vereinigung der $U_\lambda$ offen.
 
-
 ## Definition *Stetigkeit*
 
 > Gegeben seien topologische Räume $X$ und $Y$, sowie eine Abbildung $f \colon X \to Y$ und ein $x \in X$.
@@ -49,7 +48,6 @@ $$
 > $f$ heißt *stetig* in $x$, wenn es zu jeder oﬀenen Umgebung $V$ von $f(x)$ eine oﬀene Umgebung $U$ von $x$ gibt, so dass $f(U) \subset V$.
 >
 > $f$ heißt stetig, wenn $f$ in jedem Punkt von $X$ stetig ist.
-
 
 ### Vergleich mit der im $\boldsymbol{\mathbb{R}^n}$ üblichen $\boldsymbol{\delta} - \boldsymbol{\epsilon}$-Definition von Stetigkeit
 
@@ -65,9 +63,7 @@ $$
 \end{equation}
 $$
 
-
 ## Definition *Homöomorphie*
 
 > Zwei topologische Räume $X$ und $Y$ heißen *homöomorph*, $X \approx Y$, wenn es eine bijektive stetige Abbildung $f \colon X \to Y$ gibt, so dass $f^{-1} \colon Y \to X$ ebenfalls stetig ist. $f$ wird dann *Homöomorphismus* genannt.
-
 
