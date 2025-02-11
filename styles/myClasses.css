@@ -19,6 +19,10 @@ line.de {
   width: calc(8 * var(--base-font-size));
   flex-grow: 0;
 }
+.grid-1 .grid-1 {
+  width: calc(5 * var(--base-font-size));
+  flex-grow: 0;
+}
 .grid-1 img {
   width: 100%;
 }
