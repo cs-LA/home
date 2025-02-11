@@ -21,10 +21,9 @@
     <a href="Wahrscheinlchkeitsrechnung/index.html"><img src="Wahrscheinlchkeitsrechnung/Normalverteilung.png"></a>
   </div>
   <div class="grid-2">
-    <div class="gridTitle"><a href="Wahrscheinlchkeitsrechnung/index.html">Wahrscheinlchkeitsrechnung</a></div>
+    <div class="gridTitle"><a href="Wahrscheinlchkeitsrechnung/index.html"><span class="en">Probability Theory</span>><span class="de">Wahrscheinlchkeitsrechnung</span></a></div>
     <div class="gridDescription">
-      <span class="en"><b><i>Knowledge Trunk</i></b> — or short <b><i>KTrunk</i></b> — is a note taking iOS-App.</span>
-      <span class="de"><b><i>Knowledge Trunk</i></b> — oder kurz <b><i>KTrunk</i></b> — ist eine iOS-App, um Notizen zu verwalten.</span>
+      
     </div>
   </div>
 <div class="gridBreak"></div>
