@@ -54,10 +54,10 @@ line.de {
   max-width: calc(22.0 * var(--base-font-size));
 }
 .gridTitle2 {
-  padding-top: calc(1.0 * var(--base-font-size));
+  padding-top: calc(0.3 * var(--base-font-size));
   font-size: calc(1.0 * var(--base-font-size));
   line-height: 1;
-  padding-bottom: calc(1.0 * var(--base-font-size));
+  padding-bottom: calc(0.7 * var(--base-font-size));
   font-weight: bold;
   font-style: italic;
 }
