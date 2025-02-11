@@ -79,14 +79,14 @@ $$
 $$
 \begin{equation}
 \begin{split}
-& \forall x \in U_\delta(x_0) : f(x) \in U_\epsilon(f(x_0))
+& \forall x \in U_\delta(x_0) \, : \quad f(x) \in U_\epsilon(f(x_0))
 \end{split}
 \end{equation}
 $$
 
+> Daraus folgt $U_\delta(x_0) \subset f^{-1}(U)$ und daher ist $f^{-1}(U)$ eine Umgebung von $x_0$.
 >
->∀ x ∈ Uδ(x0) : f(x) ∈ Uε(f(x0)).
-
+> Somit ist $f$ auch im *topologischen* Sinne stetig.
 
 
 ## Definition *Homöomorphie*
