@@ -67,7 +67,8 @@ $$
 
 ##### Beweis:
 > $\boldsymbol{\Longrightarrow}$:
-> Sei ein $x_0 \in \mathbb{R}^n$ und ein $\epsilon > 0$ gegeben, sodass $U_\epsilon(f(x_0)$ eine offen Umgebung von $f/x_0)$ ist.
+> 
+> Sei ein $x_0 \in \mathbb{R}^n$ und ein $\epsilon > 0$ gegeben, sodass $U_\epsilon(f(x_0)$ eine offen Umgebung von $f/x_0)$ ist. Daraus folgt dann dass es eine Umgebung $U^{-1} = f^{-1}(U_\epsilon(f(x_0))$ gibt und somit ein $\delta$,
 
 
 ## Definition *Homöomorphie*
