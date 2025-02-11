@@ -19,16 +19,16 @@ line.de {
   width: calc(8 * var(--base-font-size));
   flex-grow: 0;
 }
-.grid-1 * .grid-1 {
+.grid-2, .grid-22 {
+  flex-basis: 0;
+  flex-grow: 1;
+}
+.grid-21 {
   width: calc(5 * var(--base-font-size));
   flex-grow: 0;
 }
-.grid-1 img {
+.grid-1 img, .grid-21 img {
   width: 100%;
-}
-.grid-2 {
-  flex-basis: 0;
-  flex-grow: 1;
 }
 .gridBreak {
   flex-basis: 100%;
