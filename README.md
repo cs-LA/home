@@ -1,6 +1,6 @@
 <div class="hGrid">
   <div class="grid-1">
-    &nbsp;ggg
+    &nbsp;
   </div>
   <div class="grid-2">
     <div class="gridHeader">
