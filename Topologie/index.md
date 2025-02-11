@@ -67,7 +67,7 @@ $$
 
 ##### Beweis:
 > $\boldsymbol{\Longrightarrow}$:
-> Sei ein $x_0 /in \mathbb{{R}^n$ und $\epsilon > 0$ gegeben. Dann ist $U_\epsilon(f(x_0)$ eine offen Umgebung von $f/x_0)$ und somit folgt,
+> Sei ein $x_0 /in \mathbb{R}^n$ und $\epsilon > 0$ gegeben. Dann ist $U_\epsilon(f(x_0)$ eine offen Umgebung von $f/x_0)$ und somit folgt,
 
 
 ## Definition *Homöomorphie*
