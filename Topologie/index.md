@@ -68,13 +68,13 @@ $$
 ##### Beweis:
 > $\boldsymbol{\Longrightarrow}$:
 > 
-> Sei ein $x_0 \in \mathbb{R}^n$ und ein $\epsilon > 0$ gegeben, sodass $U_\epsilon(f(x_0))$ eine offene Umgebung von $f(x_0)$ ist. Daraus folgt dann, dass es eine Umgebung $U^{-1} := f^{-1}(U_\epsilon(f(x_0))$ gibt und somit ein $\delta > 0$, für welches $U_\delta(x_0) \subset U^{-1}$ ist.
+> Sei ein $x_0 \in \mathbb{R}^n$ und ein $\epsilon > 0$ gegeben, sodass $U_\epsilon(f(x_0))$ eine offene Umgebung von $f(x_0)$ ist. Daraus folgt dann, dass es eine Umgebung $U^{-1} := f^{-1}(U_\epsilon(f(x_0)))$ gibt und somit ein $\delta > 0$, für welches $U_\delta(x_0) \subset U^{-1}$ ist.
 >
 > Somit ist $f$ im Punkt $x_0$ stetig im Sinne der $\delta\text{-}\epsilon$-Definition.
 >
  $\boldsymbol{\Longleftarrow}$:
 >
-> Sei $f$ in $x_0$ stetig (entsprechend der $\delta\text{-}\epsilon$-Definitio) und $U$ eine Umgebung von $f(x_0)$. Dann gibt es ein $\epsilon > 0$ mit $ U_\epsilon(f(x_0)) \subset U$ und somit ein $\delta > 0$, sodass gilt:
+> Sei $f$ in $x_0$ stetig (entsprechend der $\delta\text{-}\epsilon$-Definitio) und $U$ eine Umgebung von $f(x_0)$. Dann gibt es ein $\epsilon > 0$ mit $U_\epsilon(f(x_0)) \subset U$ und somit ein $\delta > 0$, sodass gilt:
 
 $$
 \begin{equation}
