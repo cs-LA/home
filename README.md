@@ -18,10 +18,10 @@
   </div>
 <div class="gridBreak"></div>
   <div class="grid-1">
-    <a href="Wahrscheinlchkeitsrechnung/index.html"><img src="Wahrscheinlchkeitsrechnung/Normalverteilung.png"></a>
+    <a href="Wahrscheinlichkeitsrechnung/index.html"><img src="Wahrscheinlichkeitsrechnung/Normalverteilung.png"></a>
   </div>
   <div class="grid-2">
-    <div class="gridTitle"><a href="Wahrscheinlchkeitsrechnung/index.html"><span class="en">Probability Theory</span>><span class="de">Wahrscheinlchkeitsrechnung</span></a></div>
+    <div class="gridTitle"><a href="Wahrscheinlichkeitsrechnung/index.html"><span class="en">Probability Theory</span><span class="de">Wahrscheinlichkeitsrechnung</span></a></div>
     <div class="gridDescription">
       
     </div>
