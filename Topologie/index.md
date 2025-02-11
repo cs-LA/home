@@ -74,7 +74,7 @@ $$
 >
  $\boldsymbol{\Longleftarrow}$:
 >
-> Sei $f$ in $x_0$ stetig (entsprechend der $\delta\text{-}\epsilon$-Definitio) und $U$ eine Umgebung von $f(x_0)$. Dann gibt es ein $\epsilon > 0$ mit $U_\epsilon(f(x_0)) \subset U$ und somit ein $\delta > 0$, sodass gilt:
+> Sei $f$ in $x_0$ stetig (entsprechend der $\delta\text{-}\epsilon$-Definition) und $U$ eine Umgebung von $f(x_0)$. Dann gibt es ein $\epsilon > 0$ mit $U_\epsilon(f(x_0)) \subset U$ und somit ein $\delta > 0$, sodass gilt:
 
 $$
 \begin{equation}
