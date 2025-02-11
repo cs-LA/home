@@ -17,7 +17,7 @@
     <div class="gridDescription">
       
     </div>
-  <div class="gridBreak"></div>
+  <div class="hGrid">
 <div class="grid-1">
     <a href="Diplomarbeit/Diplomarbeit.pdf"><img src="Diplomarbeit/KommutativesDiagramm.png" class="logo bordered"></a>
   </div>
@@ -25,7 +25,7 @@
     <div class="gridTitle"><a href="Diplomarbeit/Diplomarbeit.pdf">Hindernisse gegen die Glättung von Poincaré-Räumen</a></div>
     <div class="gridDescription"><span class="en">My Diploma Thesis from 1983</span><span class="de">Meine Diplomarbeit aus dem Jahre 1983</span></div>
   </div>
-  <div class="gridBreak"></div>
+  </div>
 </div>
 <div class="gridBreak"></div>
   <div class="grid-1">
