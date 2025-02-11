@@ -88,7 +88,10 @@ $$
 >
 > Somit ist $f$ auch im *topologischen* Sinne stetig.
 
+Hiermit sind die beiden grundlegenden Begriffe festgelegt worden, mit denn die Mathematik sich in ihrem Teilbereich Topologie beschäftigt: Untersucht werden Eigenschaften topologischer Räume, die bei stetiger Verformung erhalten bleiben.
+
+Hierzu wird noch der Begriff des *Homöomorphismus* eingeführt.
 
 ## Definition *Homöomorphie*
 
-> Zwei topologische Räume $X$ und $Y$ heißen *homöomorph*, $X \approx Y$, wenn es eine bijektive stetige Abbildung $f \colon X \to Y$ gibt, so dass $f^{-1} \colon Y \to X$ ebenfalls stetig ist. $f$ wird dann *Homöomorphismus* genannt.
+> Zwei topologische Räume $X$ und $Y$ heißen *homöomorph* bzw. topologisch äquivalent, $X \approx Y$, wenn es eine bijektive stetige Abbildung $f \colon X \to Y$ gibt, so dass $f^{-1} \colon Y \to X$ ebenfalls stetig ist. $f$ wird dann *Homöomorphismus* genannt.
