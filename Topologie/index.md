@@ -95,3 +95,7 @@ Hierzu wird noch der Begriff des *Homöomorphismus* eingeführt.
 ## Definition *Homöomorphie*
 
 > Zwei topologische Räume $X$ und $Y$ heißen *homöomorph* bzw. topologisch äquivalent, $X \approx Y$, wenn es eine bijektive stetige Abbildung $f \colon X \to Y$ gibt, so dass $f^{-1} \colon Y \to X$ ebenfalls stetig ist. $f$ wird dann *Homöomorphismus* genannt.
+
+Leider ist es nicht immer einfach zu entscheiden, ob zwei topologische Räume homöomorpfh sind. Ein Teilbereich der Topologie, die ***[Knotentheorie](https://de.wikipedia.org/wiki/Knotentheorie) beschäftigt sich viel mit diesem Problem.
+
+Häufig reiccht es aber auch zu wissen, ob zwei topologische Räume [homotop] zueinander sind, d.h sich durch stetige verformungen ineinander überführen lassen können.
