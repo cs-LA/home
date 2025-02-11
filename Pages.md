@@ -4,5 +4,5 @@
  - **[KTrunk](/home/KTrunk/index.html)**
  - **[Regular Expressions](/home/RegExp/index.html)**
  - **[Topologie](/home/Topologie/index.html)**
- - **[Wahrscheinlichkeitsrechnung](/home/Wahrscheinlichkeitsrechnung/index.html)**
+ - **[Wahrscheinlichkeitstheorie](/home/Wahrscheinlichkeitstheorie/index.html)**
  - **[Zebulon](/home/Zebulon/index.html)**
