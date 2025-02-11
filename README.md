@@ -28,12 +28,12 @@
   </div>
 <div class="gridBreak"></div>
   <div class="grid-1">
-    <a href="Topologie/index.html"><img src="Topologie/KleinscheFlasche.jpeg" width=120></a>
+    <a href="Topologie/index.html"><img src="Topologie/KleinscheFlasche.jpeg" height=120></a>
   </div>
   <div class="grid-2">
     <div class="gridTitle"><a href="Topologie/index.html"><span class="en">Topology</span><span class="de">Topologie</span></a></div>
     <div class="gridDescription">
-      xxx
+      
     </div>
   </div>
 <div class="gridBreak"></div>
