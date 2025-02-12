@@ -10,8 +10,8 @@ Wir weichen den Homöomorphiebegriff jetzt auf, indem wir den Homotopiebegriff e
 
 ## Definition *Homotopie*
 
-> Seien $(X,\mathcal{T}_X)$ und $(Y,\mathcal{T}_Y)$ topologische Räume, $M \subseteq X$ ein Teilraum und $f, g : \, X \rightarrow Y$ stetige Abbildungen mit $f \vert M = g \vert M$.
-> 1. Eine *Homotopie* von $f \text{ nach } g \text{ relativ zu } M$ ist eine stetige Abbildung $h: [0,1] \cross X \rightarrow Y, (t,x) \rightarrow h(t,x)
+> Seien $(X,\mathcal{T}_X)$ und $(Y,\mathcal{T}_Y)$ topologische Räume, $M \subseteq X$ ein Teilraum und $f, g : \, X \to Y$ stetige Abbildungen mit $f \vert M = g \vert M$.
+> 1. Eine *Homotopie* von $f \text{ nach } g \text{ relativ zu } M$ ist eine stetige Abbildung $h: [0,1] \times X \to Y, (t,x) \mapsto h(t,x)
  \text{ mit } h(0,x) = f(x), h(1,x) = g(x), h(t,m) = f(m) = g(m) \forall x \in X, m \in M, t \in [0,1]$.
 
 2. Gibt es eine Homotopie relativ zu M von f nach g, so nennt man f,g homotop relativ
