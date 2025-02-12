@@ -10,8 +10,7 @@ Wir weichen den Homöomorphiebegriff jetzt auf, indem wir den Homotopiebegriff e
 
 ## Definition *Homotopie*
 
-> Seien $(X,\mathcal{T}_X)$ und $(Y,OY)$ topologische Räume, M ⊆X ein Teilraum
-und f,g: X →Y stetige Abbildungen mit f|M = g|M.
+> Seien $(X,\mathcal{T}_X)$ und $(Y,\mathcal{T}_Y)$ topologische Räume, $M \subseteq X$ ein Teilraum und $f, g \, : \quad X \rightarrow Y$ stetige Abbildungen mit $f|M = g|M$.
 1. Eine Homotopie von f nach g relativ zu M ist eine stetige Abbildung
 h: [0,1] ×X →Y, (t,x) →h(t,x)
 mit h(0,x) = f(x), h(1,x) = g(x), h(t,m) = f(m) = g(m) ∀x∈X,m∈M,t∈[0,1].
