@@ -33,5 +33,5 @@ $\forall x \in X, \, m \in M, \, t \in [0,1]$.
 </ol>
 </blockquote>
 
-Für zwei stetige Abbildungen $f \colon X \to Y$ und $g \colon Y \to X$ muss also — im Gegensatz zur Homöomorphie — nicht mehr gelten, dass $f \circ g = id_X$ und $g \circ f = id_Y$ ist, sondern sie müssen sich nur noch stetig nach $id_X$ bzw. $id_Y$ deformieren lassen.
+Für zwei stetige Abbildungen $f \colon X \to Y$ und $g \colon Y \to X$ muss also — im Gegensatz zur Homöomorphie — nicht mehr gelten, dass $f \circ g = id_X$ und $g \circ f = id_Y$ ist, sondern sie müssen sich nur noch stetig nach $id_X$ bzw. $id_Y$ deformieren lassen: $f \circ g \sim id_X$ und $g \circ f \sim id_Y$
 
