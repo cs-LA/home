@@ -24,7 +24,7 @@ $$\begin{split}
 
 $\forall x \in X, \, m \in M, \, t \in [0,1]$.
 </li>
-<li>Gibt es eine Homotopie relativ zu $M$ von $f$ nach $g$, so nennt man <i>$f, \, g \text{ homotop relativ zu } M$</i> und schreibt $f \sim_M g$.
+<li>Gibt es eine Homotopie relativ zu $M$ von $f$ nach $g$, so nennt man $f, \, g$ <i>homotop relativ zu</i> $M$</i> und schreibt $f \sim_M g$.
 </li>
 <li>Für $M = \emptyset$ spricht man auch einfach von <i>Homotopie</i> und <i>homotop</i> und schreibt $f \sim g$.
 </li>
