@@ -25,9 +25,7 @@ $$
 > > $\forall x \in X, \, m \in M, \, t \in [0,1]$.
 
 > 2. Gibt es eine Homotopie relativ zu $M$ von $f$ nach $g$, so nennt man $f, \, g \text{ homotop relativ zu } M$ und schreibt $f \sim_M g$.
-
 > 3. Für $M = \emptyset$ spricht man auch einfach von ***Homotopie*** und ***homotop*** und schreibt $f \sim g$.
-
 > 4. Stetige Abbildungen f : X →Y, die homotop zu einer konstanten Abbildung g: X →Y
 sind, heißen nullhomotop.
 
