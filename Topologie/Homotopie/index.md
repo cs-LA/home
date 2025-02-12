@@ -15,23 +15,22 @@ Seien $(X,\mathcal{T}_X)$ und $(Y,\mathcal{T}_Y)$ topologische Räume, $M \subse
 
 
 <ol>
-<li> 1. Eine *Homotopie* von $f \text{ nach } g \text{ relativ zu } M$ ist eine stetige Abbildung $h: [0,1] \times X \to Y, \, (t,x) \mapsto h(t,x)$ mit
+<li>Eine *Homotopie* von $f \text{ nach } g \text{ relativ zu } M$ ist eine stetige Abbildung $h: [0,1] \times X \to Y, \, (t,x) \mapsto h(t,x)$ mit
     
 $$\begin{split}
 & h(0,x) = f(x), \, h(1,x) = g(x), \\
-& h(t,m) = f(m) = g(mmm) \\
-\forall x \in X, \, m \in M, \, t \in [0,1]
+& h(t,m) = f(m) = g(m)
 \end{split}$$
 
-> $\forall x \in X, \, m \in M, \, t \in [0,1]$.
+$\forall x \in X, \, m \in M, \, t \in [0,1]$.
 </li>
-<li> 2. Gibt es eine Homotopie relativ zu $M$ von $f$ nach $g$, so nennt man $f, \, g \text{ homotop relativ zu } M$ und schreibt $f \sim_M g$.
+<li>Gibt es eine Homotopie relativ zu $M$ von $f$ nach $g$, so nennt man $f, \, g \text{ homotop relativ zu } M$ und schreibt $f \sim_M g$.
 </li>
-<li> 3. Für $M = \emptyset$ spricht man auch einfach von Homotopie und homotop und schreibt $f \sim g$.
+<li>Für $M = \emptyset$ spricht man auch einfach von Homotopie und homotop und schreibt $f \sim g$.
 </li>
-<li> 4. Stetige Abbildungen $f : \, X \to Y$, die homotop zu einer konstanten Abbildung $g : \, X \to Y$ sind, heißen nullhomotop.
+<li>Stetige Abbildungen $f : \, X \to Y$, die homotop zu einer konstanten Abbildung $g : \, X \to Y$ sind, heißen nullhomotop.
 </li>
-</ol<
+</ol>
 </blockquote>
 
 ---
