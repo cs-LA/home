@@ -1,8 +1,6 @@
 # Topologie
 # Homotopie
 
-# 🚧 Under Construction 🚧
-
 Generell beschäftigt sich die Topologie mit der Klassifikation topologischer Räume bis auf [Homöomorphie](./../index.html). Dies ist aber in der Regel nict einfach zu entscheiden, insbesondere auch, ob zwei
 i topologische Räume nicht homöomorph sind.
 
