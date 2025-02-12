@@ -16,11 +16,13 @@ Seien $(X,\mathcal{T}_X)$ und $(Y,\mathcal{T}_Y)$ topologische Räume, $M \subse
 
 <ol>
 <li> 1. Eine *Homotopie* von $f \text{ nach } g \text{ relativ zu } M$ ist eine stetige Abbildung $h: [0,1] \times X \to Y, \, (t,x) \mapsto h(t,x)$ mit
+    
 $$\begin{split}
 & h(0,x) = f(x), \, h(1,x) = g(x), \\
-& h(t,m) = f(m) = g(m) \\
+& h(t,m) = f(m) = g(mmm) \\
 \forall x \in X, \, m \in M, \, t \in [0,1]
 \end{split}$$
+
 > $\forall x \in X, \, m \in M, \, t \in [0,1]$.
 </li>
 <li> 2. Gibt es eine Homotopie relativ zu $M$ von $f$ nach $g$, so nennt man $f, \, g \text{ homotop relativ zu } M$ und schreibt $f \sim_M g$.
