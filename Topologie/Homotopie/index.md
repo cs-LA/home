@@ -24,7 +24,7 @@ $$\begin{split}
 
 $\forall x \in X, \, m \in M, \, t \in [0,1]$.
 </li>
-<li>Gibt es eine Homotopie relativ zu $M$ von $f$ nach $g$, so nennt man $f, \, g$ <i>homotop relativ zu</i> $M$</i> und schreibt $f \sim_M g$.
+<li>Gibt es eine Homotopie relativ zu $M$ von $f$ nach $g$, so nennt man $f, \, g$ <i>homotop relativ zu</i> $M$ und schreibt $f \sim_M g$.
 </li>
 <li>Für $M = \emptyset$ spricht man auch einfach von <i>Homotopie</i> und <i>homotop</i> und schreibt $f \sim g$.
 </li>
@@ -33,16 +33,11 @@ $\forall x \in X, \, m \in M, \, t \in [0,1]$.
 </ol>
 </blockquote>
 
+Für zwei stetige Abbildungen $f \colon X \to Y$ und $f : X \to Y$ muss also nicht mehr gelten, dass 
+
 ---
 
-Ein wichtiges Ziel der Topologie ist die Klassifikation topologischer R¨ aume bis auf
-Hom¨ oomorphie. Dies ist ein sehr schwieriges Problem, das sich in dieser Allgemeinheit nicht
-l¨ osen oder sinnvoll bearbeiten l¨ asst. Insbesondere ist es sehr schwierig, zu zeigen, dass zwei
-topologische R¨ aume nicht hom¨ oomorph sind. Bisher k¨ onnen wir dies im Wesentlichen nur ¨ uber
-die Betrachtung von (Weg)zusammenhangskomponenten oder Kompaktheit beweisen.
-In diesem Kapitel entwickeln wir eine gr¨ oberes Klassifikationskriterium, das in der Praxis leich-
-ter zu handhaben ist. Wir lockern die Klassifikation bis auf Hom¨ oomorphie auf, indem wir
-zwei topologische R¨ aume (X,OX) und (Y,OY) nicht nur dann als ¨ aquivalent betrachten, wenn
+
 sie hom¨ oomorph sind, also stetige Abbildungen f : X →Y und g : Y →X existieren mit
 g◦f = idX und f ◦g = idY, sondern auch dann, wenn stetige Abbildungen f : X →Y und
 g : Y →X, f¨ ur die sich die Abbildungen g◦f : X →X und f ◦g : Y →Y stetig in die
