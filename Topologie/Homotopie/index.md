@@ -1,8 +1,7 @@
 # Topologie
 # Homotopie
 
-Generell beschäftigt sich die Topologie mit der Klassifikation topologischer Räume bis auf [Homöomorphie](./../index.html). Dies ist aber in der Regel nict einfach zu entscheiden, insbesondere auch, ob zwei
-i topologische Räume nicht homöomorph sind.
+Generell beschäftigt sich die Topologie mit der Klassifikation topologischer Räume bis auf [Homöomorphie](./../index.html). Dies ist aber in der Regel nict einfach zu entscheiden, *insbesondere auch*, ob zwei topologische Räume *nicht* homöomorph sind.
 
 Wir weichen den Homöomorphiebegriff jetzt auf, indem wir den Homotopiebegriff einführen.
 
