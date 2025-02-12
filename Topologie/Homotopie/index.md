@@ -16,13 +16,13 @@ Wir weichen den Homöomorphiebegriff jetzt auf, indem wir den Homotopiebegriff e
 $$
 \begin{equation}
 \begin{split}
-& h(0,x) = f(x), h(1,x) = g(x), \\
+& h(0,x) = f(x), \, h(1,x) = g(x), \\
 & h(t,m) = f(m) = g(m)
 \end{split}
 \end{equation}
 $$
 
- $h(0,x) = f(x), h(1,x) = g(x), h(t,m) = f(m) = g(m)$ $\forall x \in X, m \in M, t \in [0,1]$.
+> > $\forall x \in X, m \in M, t \in [0,1]$.
 
 2. Gibt es eine Homotopie relativ zu M von f nach g, so nennt man f,g homotop relativ
 zu M und schreibt f∼M g.
