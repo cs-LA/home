@@ -11,11 +11,11 @@ Wir weichen den Homöomorphiebegriff jetzt auf, indem wir den Homotopiebegriff e
 ## Definition *Homotopie*
 
 <blockquote>
-Seien $(X,\mathcal{T}_X)$ und $(Y,\mathcal{T}_Y)$ topologische Räume, $M \subseteq X$ ein Teilraum und $f, g : \, X \to Y$ stetige Abbildungen mit $f \vert M = g \vert M$.
+Seien $(X,\mathcal{T}_X)$ und $(Y,\mathcal{T}_Y)$ topologische Räume, $M \subseteq X$ ein Teilraum und $f, g \colon \, X \to Y$ stetige Abbildungen mit $f \vert M = g \vert M$.
 
 
 <ol>
-<li>Eine <i>Homotopie von $f \text{ nach } g \text{ relativ zu } M$</i> ist eine stetige Abbildung $h: [0,1] \times X \to Y, \, (t,x) \mapsto h(t,x)$ mit
+<li>Eine <i>Homotopie von</i> $f$ <i>nach</i> $g$ <i>relativ zu</i> $M$ ist eine stetige Abbildung $h \colon [0,1] \times X \to Y, \, (t,x) \mapsto h(t,x)$ mit
     
 $$\begin{split}
 & h(0,x) = f(x), \, h(1,x) = g(x), \\
@@ -28,12 +28,12 @@ $\forall x \in X, \, m \in M, \, t \in [0,1]$.
 </li>
 <li>Für $M = \emptyset$ spricht man auch einfach von <i>Homotopie</i> und <i>homotop</i> und schreibt $f \sim g$.
 </li>
-<li>Stetige Abbildungen $f : \, X \to Y$, die homotop zu einer konstanten Abbildung $g : \, X \to Y$ sind, heißen <i>nullhomotop</i>.
+<li>Stetige Abbildungen $f \colon X \to Y$, die homotop zu einer konstanten Abbildung $g \colon X \to Y$ sind, heißen <i>nullhomotop</i>.
 </li>
 </ol>
 </blockquote>
 
-Für zwei stetige Abbildungen $f \colon X \to Y$ und $f : X \to Y$ muss also nicht mehr gelten, dass 
+Für zwei stetige Abbildungen $f \colon X \to Y$ und $g \colon Y \to X$ muss also nicht mehr gelten, dass $f \circ g = id_X$ und $g \circ f = id_Y$ ist, sondern sie müssen sich nur noch stetig nach $id_X$ bzw. $id_Y$ deformieren lassen.
 
 ---
 
