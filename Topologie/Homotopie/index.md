@@ -35,30 +35,3 @@ $\forall x \in X, \, m \in M, \, t \in [0,1]$.
 
 Für zwei stetige Abbildungen $f \colon X \to Y$ und $g \colon Y \to X$ muss also — im Gegensatz zur Homöomorphie — nicht mehr gelten, dass $f \circ g = id_X$ und $g \circ f = id_Y$ ist, sondern sie müssen sich nur noch stetig nach $id_X$ bzw. $id_Y$ deformieren lassen.
 
----
-
-
-sie hom¨ oomorph sind, also stetige Abbildungen f : X →Y und g : Y →X existieren mit
-g◦f = idX und f ◦g = idY, sondern auch dann, wenn stetige Abbildungen f : X →Y und
-g : Y →X, f¨ ur die sich die Abbildungen g◦f : X →X und f ◦g : Y →Y stetig in die
-Identit¨ atsabbildungen idX : X →X und idY : Y →Y deformieren lassen.
-Ein vern¨ unftiges und leicht handhabbares Konzept von stetiger Deformierbarkeit sollte eine
-¨
-Aquivalenzrelation auf der Menge C(X,Y) der stetigen Abbildungen f : X → Y definie-
-ren und auch mit der Verkettung stetiger Abbildungen kompatibel sein. Dies entspricht dem
-¨
-Ubergang von der Kategorie Top der topologischen R¨ aume und stetigen Abbildungen zu einer
-Quotientenkategorie wie in Definition 5.1.3, 4.
-Anschaulich kann man sich eine solche stetige Deformation einer Abbildung f : X →Y in eine
-Abbildung f′ : X →Y als eine zeitabh¨ angige Abbildung vorstellen. Zur Zeit t = 0 liegt die
-Abbildung f vor, die sich mit fortschreitender Zeit allm¨ ahlich, aber nicht sprunghaft ¨ andert, bis
-zur Zeit t= 1 die Abbildung f′vorliegt. Mathematisch entspricht dies einer stetigen Abbildung
-h: [0,1] ×X →Y mit h(0,x) = f(x) und h(1,x) = f′(x) f¨ ur alle x∈X.
-Stimmen f und f′auf einer Teilmenge M ⊆X¨ uberein, ist es oft auch sinnvoll, zu fordern, dass
-sich die Werte dort zeitlich nicht ¨ andern, dass also h(t,m) = f(m) = f′(m) f¨ ur alle m∈M gilt.
-Dies ist beispielsweise der Fall, wenn man stetige Deformationen von Wegen γ : [0,1] →X mit
-¨
-fixierten Endpunkten γ(0) = x und γ(1) = x′ betrachten will. Kleine, stetige
-Anderungen von
-Wegen spielen in allen bisher betrachteten Konzepten keine Rolle, wohl aber die Frage welche
-Punkte ein solcher Weg verbindet.
