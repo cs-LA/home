@@ -51,7 +51,7 @@
   </div>
   <div class="grid-2">
     <div class="gridHeader">
-      <span class="en">My iOS Apps <a href="fb://friends">fb</a></span>
+      <span class="en">My iOS Apps</span>
       <span class="de">Meine iOS-Apps</span>
     </div>
   </div>
