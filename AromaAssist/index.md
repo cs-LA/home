@@ -22,3 +22,8 @@
   <span class="en">Use <b><i>Aroma Assist</i></b> </span>
   <span class="de"> <b><i>Aroma Assist</i></b> </span>
 </p>
+
+<p>
+  <span class="en">Aroma Assist's <b><a href="PrivacyPolicy.html">Privacy Policy</a></b></span>
+  <span class="de">Aroma Assists <b><a href="PrivacyPolicy.html">Datenschutz-Richtlinie</a></b></span> 
+</p> 
