@@ -77,8 +77,8 @@
   <div class="grid-2">
     <div class="gridTitle"><a href="AromaAssist/index.html">Aroma Assist</a></div>
     <div class="gridDescription">
-      <span class="en"><b><i>AromaAssist</i></b> helps you to assess aromes.</span>
-      <span class="de"><b><i>AromaAssist</i></b> hilft Aromen zu beschreiben.</span>
+      <span class="en"><b><i>Aroma Assist</i></b> helps you to assess aromes.</span>
+      <span class="de"><b><i>Aroma Assist</i></b> hilft Aromen zu beschreiben.</span>
     </div>
   </div>
   
