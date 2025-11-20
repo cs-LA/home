@@ -72,6 +72,19 @@
   <div class="gridBreak"></div>
   
   <div class="grid-1">
+    <a href="AromaAssist/index.html"><img src="AromaAssist/AromaAssist2.png" class="bordered"></a>
+  </div>
+  <div class="grid-2">
+    <div class="gridTitle"><a href="AromaAssist/index.html">Aroma Assist</a></div>
+    <div class="gridDescription">
+      <span class="en"><b><i>AromaAssist</i></b> helps you to assess aromes.</span>
+      <span class="de"><b><i>AromaAssist</i></b> hilft Aromen zu beschreiben.</span>
+    </div>
+  </div>
+  
+  <div class="gridBreak"></div>
+  
+  <div class="grid-1">
     <a href="IntervalCoach/index.html"><img src="IntervalCoach/logo120.png" class="bordered"></a>
   </div>
   <div class="grid-2">
