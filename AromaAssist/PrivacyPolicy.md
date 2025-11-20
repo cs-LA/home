@@ -4,7 +4,7 @@
 </h1>
 
 <span class="en">Aroma Assist is privacy focused. Aroma Assist does not collect any usage data or analytics information. None of your data in Aroma Assist ever leaves your devices, unless you turn on iCloud.</span>
-<span class="de">Aroma Assist legt Wert auf die Privatsphäre. Aroma Assist sammelt weder Daten noch analytische Informationen. Keinerlei Aroma Assist-Daten verlassen das genutzte Gerät, es sei denn, iCloud.</span>
+<span class="de">Aroma Assist legt Wert auf die Privatsphäre. Aroma Assist sammelt weder Daten noch analytische Informationen. Keinerlei Aroma Assist-Daten verlassen das genutzte Gerät, es sei denn, iCloud wird eingeschaltet.</span>
 
 <span class="en">Aroma Assist can use iCloud to store wheels and tastings, and make them available on all your iOS devices. iCloud encrypts your data in transit and at rest on Apple’s servers. Using iCloud with Aroma Assist is entirely optional and you can turn it off.</span>
 <span class="de">Wahlweise kann Aroma Assist seine Aroma-Räder und Tastings in der iCloud speichern, sodass sie auf all Deinen iOS-Geräten verfügbar sind. Die iCloud verschlüsselt die Daten sowohl während der Übertragung als auch während der Speicherung auf Apples Servern. Die Nutzung der iCloud ist vollkommen freiwillig und kann ausgeschaltet werden.</span>
