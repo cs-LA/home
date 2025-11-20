@@ -72,7 +72,7 @@
   <div class="gridBreak"></div>
   
   <div class="grid-1">
-    <a href="AromaAssist/index.html"><img src="AromaAssist/AromaAssist2.png" class="bordered"></a>
+    <a href="AromaAssist/index.html"><img src="AromaAssist/AromeAssist2.png" class="bordered"></a>
   </div>
   <div class="grid-2">
     <div class="gridTitle"><a href="AromaAssist/index.html">Aroma Assist</a></div>
