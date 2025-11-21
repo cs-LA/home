@@ -19,8 +19,8 @@
 </h4>
 
 <p>
-  <span class="en">Use <b><i>Aroma Assist</i></b> </span>
-  <span class="de"> <b><i>Aroma Assist</i></b> </span>
+  <span class="en"><b><i>Aroma Assist</i></b> helps to determine aromes of several luxury foods. The well known <a href="https://en.wikipedia.org/wiki/Wine_tasting_descriptors">tasting wheels</a> as the underlying tool.</span>
+  <span class="de"><b><i>Aroma Assist</i></b> soll helfen, die Aromen diverser Genussmittel zu bestimmen. Dazu benutzt <i>Aroma Assist</i> die von <a href="https://de.wikipedia.org/wiki/Aromarad">Aromarädern</a> bekannte Methode.</span>
 </p>
 
 <p>
