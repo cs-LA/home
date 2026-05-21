@@ -7,5 +7,6 @@
  - **[Topologie](/home/Topologie/index.html)**
    - *[Metrischer Raum](/home/Topologie/MetrischerRaum.html)*
  - **[Wahrscheinlichkeitstheorie](/home/Wahrscheinlichkeitstheorie/index.html)**
+   - *[Satz vom Bayes(/home/Wahrscheinlichkeitstheorie/Bayes.html)*
  - **[Zebulon](/home/Zebulon/index.html)**
  
