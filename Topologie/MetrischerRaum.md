@@ -10,6 +10,15 @@
 > 2. $d(x,y) = d(y,x)$
 > 3. $d(x,y) \leq d(x,z) + d(z,y)$
 
+> $(X,d)$ heißt *metrischer Raum*, wenn $d$ eine Metrik auf $X$ ist.
+
+## Satz
+
+> Sei $X$ ein metrischer Raum und $x$, $y$ beliebige Elemente von $X$. Dann gilt:
+
+> $d(x,y) \geq 0$
+
+### Beweis:
 
 
 
