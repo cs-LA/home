@@ -15,6 +15,8 @@
 
 ### Ein Beispiel:<br>Der $\boldsymbol{\mathbb{R}^n}$ mit der Definition von offenen Mengen mittels des *[euklidischen Abstands](https://de.m.wikipedia.org/wiki/Euklidischer_Abstand)*
 
+Bezüglich *Abstand* siehe auch **[Metrischer Raum](/home/Topologie/MetrischerRaum.html)
+
 Die obige sehr allgemeine Definition erscheint auf den ersten Blick etwas verblüffend, wenn man von dem sonst in dem $\mathbb{R}^n$ üblichen Begriff der offenen Mengen herkommt.
 
 Hier wird eine Teilmenge $T$ von $\mathbb{R}^n$ üblicherweise mit Hilfe des *[euklidischen Abstands](https://de.m.wikipedia.org/wiki/Euklidischer_Abstand)* als offen definiert:
