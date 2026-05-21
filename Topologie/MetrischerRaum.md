@@ -21,10 +21,10 @@
 $$
 \begin{equation}
 \begin{split}
-0 & = \frac {1}{2} d(x,x) \\
-& \leq \frac {1}{2} (d(x,y) + d(y,x)) \\
-& = 3  \\
-& = 4
+0 & = \frac {1}{2} \, d(x,x) \\
+& \leq \frac {1}{2} \, (d(x,y) + d(y,x)) \\
+& = \frac {1}{2} \, (d(x,y) + d(x,y)) \\
+& = d(x,y)
 \end{split}
 \end{equation}
 $$
