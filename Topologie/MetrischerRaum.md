@@ -21,8 +21,8 @@
 $$
 \begin{equation}
 \begin{split}
-0 & = \frac {1}{2}} d(x,x) \\
-& \leq {\frac {1}{2}}(d(x,y)+d(y,x)) \\
+0 & = \frac {1}{2} d(x,x) \\
+& \leq {\frac {1}{2} (d(x,y)+d(y,x)) \\
 & =  \\
 & = 
 \end{split}
