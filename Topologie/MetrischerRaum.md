@@ -6,7 +6,8 @@
 
 > Sei $X$ eine beliebige Menge. Eine Abbildung $d \colon \, X \times X \to \mathbb{R}$ heißt Metrik auf $X$, wenn für beliebige Elemente $x$, $y$ und $z$ von $X$ gilt:
 
-> 1. $d(x,y) \eq 0 \Longleftrightarrow x \eq y$
+> 1. $d(x,y) = 0 \Longleftrightarrow x = y$
+> 2. $d(x,y) = $d(y,x)$
 
 
 
