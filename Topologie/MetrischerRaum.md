@@ -4,7 +4,7 @@
 
 ## Definition *Metrischer Raum*
 
-Sei $X$ eine beliebige Menge. Eine Abbildung $d \colon \, X \times X \to R$
+Sei $X$ eine beliebige Menge. Eine Abbildung $d \colon \, X \times X \to \mathbb{R}^n$
 d
 :
 X
