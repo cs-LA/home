@@ -4,7 +4,8 @@
 
 ## Definition *Metrischer Raum*
 
-Sei $X$ eine beliebige Menge. Eine Abbildung $d \colon \, X \times X \to \mathbb{R}^n$
+Sei $X$ eine beliebige Menge. Eine Abbildung $d \colon \, X \times X \to \mathbb{R}$ heißt Metrik auf $X$, wenn für beliebige Elemente $x$, $y$ und $z$ von $X$ gilt:
+
 d
 :
 X
