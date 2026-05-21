@@ -5,6 +5,7 @@
    - *[CloudKit](/home/CloudKit/index.html) (LogIn required)*
  - **[Regular Expressions](/home/RegExp/index.html)**
  - **[Topologie](/home/Topologie/index.html)**
+   - *[Metrischer Raum](/home/Topologie/MetrischerRaum.html)*
  - **[Wahrscheinlichkeitstheorie](/home/Wahrscheinlichkeitstheorie/index.html)**
  - **[Zebulon](/home/Zebulon/index.html)**
  
