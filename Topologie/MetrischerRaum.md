@@ -15,7 +15,7 @@
 ## Satz
 
 > Sei $(X,d)$ ein metrischer Raum.\\
-Dann gilt: $d(x,y) \geq 0 \quad \forall x, y \in X$
+Dann gilt: $d(x,y) \geq 0 \; \forall x, y \in X$
 
 ### Beweis:
 
