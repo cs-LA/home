@@ -2,7 +2,7 @@
 # Metrischer Raum
 
 
-## Definition *Metrischer Raum*
+## Definition
 
 > Sei $X$ eine beliebige Menge. Eine Abbildung $d \colon \, X \times X \to \mathbb{R}$ heißt Metrik auf $X$, wenn für beliebige Elemente $x$, $y$ und $z$ von $X$ gilt:
 
@@ -10,7 +10,7 @@
 > 2. $d(x,y) = d(y,x)$
 > 3. $d(x,y) \leq d(x,z) + d(z,y)$
 
-> $(X,d)$ heißt *metrischer Raum*, wenn $d$ eine Metrik auf $X$ ist.
+> $(X,d)$ heißt ***metrischer Raum***, wenn $d$ eine Metrik auf $X$ ist.
 
 ## Satz
 
