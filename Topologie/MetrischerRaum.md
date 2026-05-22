@@ -14,8 +14,8 @@
 
 ## Satz
 
-> Sei $X$ ein metrischer Raum und $x$, $y$ beliebige Elemente von $X$.\\
-Dann gilt: $d(x,y) \geq 0$
+> Sei $(X,d)$ ein metrischer Raum.\\
+Dann gilt: $d(x,y) \geq 0 \forall x, y \in X$
 
 ### Beweis:
 
