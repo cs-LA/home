@@ -28,9 +28,9 @@ Dann gilt: $d(x,y) \geq 0 \; \forall x, y \in X$
 $$
 \begin{equation}
 \begin{split}
-0 & = \frac {1}{2} \, d(x,x) \\
-& \leq \frac {1}{2} \, (d(x,y) + d(y,x)) \\
-& = \frac {1}{2} \, (d(x,y) + d(x,y)) \\
+0 & = \frac {1}{2} \, d(x,x) & \quad Definition1(1)\\
+& \leq \frac {1}{2} \, (d(x,y) + d(y,x)) & \quad Definition1(3)\\
+& = \frac {1}{2} \, (d(x,y) + d(x,y)) & \quad Definition1(2)\\
 & = d(x,y)
 \end{split}
 \end{equation}
