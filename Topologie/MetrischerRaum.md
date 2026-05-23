@@ -8,7 +8,7 @@
 
 > 1. $d(x,y) = 0 \Longleftrightarrow x = y$ \tag(1)
 > 2. $d(x,y) = d(y,x)$ \tag(2)
-> 3. $d(x,y) \leq d(x,z) + d(z,y)$
+> 3. $d(x,y) \leq d(x,z) + d(z,y)$ \tag{3}
 
 > Das Paar $(X,d)$ heißt ***metrischer Raum***, wenn $d$ eine Metrik auf $X$ ist.
 
