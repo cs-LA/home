@@ -60,8 +60,8 @@ $$
 $$
 \begin{equation}
 \begin{split}
-& \quad d(x,y) \leq d(x,z) + d(z,y) & \quad Definition1(3)\\
-= & \quad d(x,y) \leq d(x,z) + d(y,z) & \quad Definition1(3)
+\quad d(x,y) & \leq d(x,z) + d(z,y) & \quad Definition1(3)\\
+             & = d(x,z) + d(y,z) & \quad Definition1(2)
 \end{split}
 \end{equation}
 $$
