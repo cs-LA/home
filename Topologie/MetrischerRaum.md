@@ -35,3 +35,17 @@ $$
 \end{split}
 \end{equation}
 $$
+
+
+## Satz 2
+
+> Sei $X$ eine beliebige Menge. Eine Abbildung $d \colon \, X \times X \to \mathbb{R}$ ist genau dann eine Metrik auf $X$, wenn für beliebige Elemente $x$, $y$ und $z$ von $X$ gilt:
+
+$$
+\begin{equation}
+\begin{split}
+(1') & \quad d(x,y) = 0 \Longleftrightarrow x = y \\
+(2') & \quad d(x,y) \leq d(x,z) + d(y,z)
+\end{split}
+\end{equation}
+$$
