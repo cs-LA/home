@@ -56,13 +56,12 @@ $$
 > Definition1(1) und Satz2(1') sind identisch.
 >
 > Sei nun $d$ eine Metrik auf $X$. Dann gilt:
+
 $$
 \begin{equation}
 \begin{split}
-0 & = \frac {1}{2} \, d(x,x) & \quad Definition1(1)\\
-& \leq \frac {1}{2} \, (d(x,y) + d(y,x)) & \quad Definition1(3)\\
-& = \frac {1}{2} \, (d(x,y) + d(x,y)) & \quad Definition1(2)\\
-& = d(x,y)
+& \quad d(x,y) \leq d(x,z) + d(z,y) & \quad Definition1(3)\\
+= & \quad d(x,y) \leq d(x,z) + d(y,z) & \quad Definition1(3)
 \end{split}
 \end{equation}
 $$
