@@ -39,13 +39,30 @@ $$
 
 ## Satz 2
 
-> Sei $X$ eine beliebige Menge. Eine Abbildung $d \colon \, X \times X \to \mathbb{R}$ ist genau dann eine Metrik auf $X$, wenn für beliebige Elemente $x$, $y$ und $z$ von $X$ gilt:
+> Sei $X$ eine beliebige Menge. Eine Abbildung $d' \colon \, X \times X \to \mathbb{R}$ ist genau dann eine Metrik auf $X$, wenn für beliebige Elemente $x$, $y$ und $z$ von $X$ gilt:
 
 $$
 \begin{equation}
 \begin{split}
-(1') & \quad d(x,y) = 0 \Longleftrightarrow x = y \\
-(2') & \quad d(x,y) \leq d(x,z) + d(y,z)
+(1') & \quad d'(x,y) = 0 \Longleftrightarrow x = y \\
+(2') & \quad d'(x,y) \leq d'(x,z) + d'(y,z)
+\end{split}
+\end{equation}
+$$
+
+
+### Beweis:
+
+> Definition1(1) und Satz2(1') sind identisch.
+>
+> Sei nun $d$ eine Metrik auf $X$. Dann gilt:
+$$
+\begin{equation}
+\begin{split}
+0 & = \frac {1}{2} \, d(x,x) & \quad Definition1(1)\\
+& \leq \frac {1}{2} \, (d(x,y) + d(y,x)) & \quad Definition1(3)\\
+& = \frac {1}{2} \, (d(x,y) + d(x,y)) & \quad Definition1(2)\\
+& = d(x,y)
 \end{split}
 \end{equation}
 $$
