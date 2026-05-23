@@ -11,7 +11,7 @@ $$
 \begin{split}
 & (1) & d(x,y) = 0 \Longleftrightarrow x = y \\
 & (2) & d(x,y) = d(y,x) \\
-& (3) & d(x,y) \leq d(x,z) + d(z,y)
+& (4) & d(x,y) \leq d(x,z) + d(z,y)
 \end{split}
 \end{equation}
 $$
