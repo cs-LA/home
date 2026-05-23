@@ -65,3 +65,8 @@ $$
 \end{split}
 \end{equation}
 $$
+
+> Somit erfüllt die Metrik $d$ die Bedingung $(2')$ des Satzes.
+>
+> Sei nun $d'$ die Abbildung aus Satz 2. Dann gilt:
+
