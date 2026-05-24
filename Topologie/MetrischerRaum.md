@@ -37,7 +37,9 @@ $$
 $$
 
 
-## Satz 2
+## Satz 2[^1]
+
+[^1] Dies ist Übung 1 aus *Grundkurs Topologie* von Gerd Laures und Markus Szymik
 
 > Sei $X$ eine beliebige Menge. Eine Abbildung $d' \colon \, X \times X \to \mathbb{R}$ ist genau dann eine Metrik auf $X$, wenn für beliebige Elemente $x$, $y$ und $z$ von $X$ gilt:
 
