@@ -70,3 +70,13 @@ $$
 >
 > Sei nun $d'$ die Abbildung aus Satz 2. Dann gilt:
 
+$$
+\begin{equation}
+\begin{split}
+\quad d'(x,y) & \leq d'(x,z) + d'(y,z)\\
+              &   =  d'(y,z) + d'(x,z)\\
+              & \geq d'(y,x)
+\end{split}
+\end{equation}
+$$
+
