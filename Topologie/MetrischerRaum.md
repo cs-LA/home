@@ -80,3 +80,16 @@ $$
 \end{equation}
 $$
 
+Und analog:
+
+$$
+\begin{equation}
+\begin{split}
+\quad d'(y,x) & \leq d'(y,z) + d'(x,z)\\
+              &   =  d'(x,z) + d'(y,z)\\
+              & \geq d'(x,y)
+\end{split}
+\end{equation}
+$$
+
+Somit ist $d'(x,y) = d'(y,x)$ und somit Definition1(2) für $d'$ erfüllt.
