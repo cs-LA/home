@@ -95,3 +95,5 @@ $$
 $$
 
 > Somit ist $d'(x,y) = d'(y,x)$ und somit Definition1(2) für $d'$ erfüllt.
+
+----
