@@ -95,7 +95,7 @@ $$
 >
 > Als Gegenbeispiel sei hier die Abbildung $d \colon \, \mathbb{R} \times \mathbb{R} \to \mathbb{R}, (x,y) \mapsto x - y,$ betrachtet.
 >
-> Diese Abbildung genügt der Dreiecksungleichung $d(x,y) = x - y = x - z + z - y = d(x,z) - d(z,y)$.
+> Diese Abbildung genügt der Dreiecksungleichung $d(x,y)$ $= x - y$ $= x - z + z - y$ $= d(x,z) - d(z,y)$.
 > 
 > Ferner gilt sicherlich die Bedingung Definition1(1), aber die Bedingung Definition1(2) ist nicht für alle $x, y \in \mathbb{r}$ erfüllt: $d(2,3) = 2 - 3$ $= -1 \neq 1$ $= 3 - 2 = d(3,2)$.
 
