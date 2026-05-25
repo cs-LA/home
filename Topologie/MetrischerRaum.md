@@ -97,6 +97,6 @@ $$
 >
 > Diese Abbildung genügt der Dreiecksungleichung $d(x,y)$ $= x - y$ $= x - z + z - y$ $= d(x,z) - d(z,y)$.
 > 
-> Ferner gilt sicherlich die Bedingung Definition1(1), aber die Bedingung Definition1(2) ist nicht für alle $x, y \in \mathbb{r}$ erfüllt: $d(2,3) = 2 - 3$ $= -1 \neq 1$ $= 3 - 2 = d(3,2)$.
+> Ferner gilt sicherlich die Bedingung Definition1(1), aber die Bedingung Definition1(2) ist nicht für alle $x, y \in \mathbb{R}$ erfüllt: $d(2,3) = 2 - 3$ $= -1 \neq 1$ $= 3 - 2 = d(3,2)$.
 
 ----
