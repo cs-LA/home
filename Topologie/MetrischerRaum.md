@@ -1,3 +1,5 @@
+\usepackage{breqn}
+
 ### Topologie
 # Metrischer Raum
 
