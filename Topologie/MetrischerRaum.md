@@ -88,4 +88,9 @@ $$
 
 > Damit ergibt sich sofort $d'(x,y)$ $\leq d'(x,z) + d'(y,z)$ $= d'(x,z) + d'(z,y)$. Somit ist auch Definition1(3) erfüllt und $d'$ ist eine Metrik.
 
+
+## Anmerkung 1
+
+> Gilt das auch, wenn Satz2(2) durch die übliche Dreiecksungleichung $d(x,y) \leq d(x,z) + d(z,y)$ ersetzt wird?
+
 ----
