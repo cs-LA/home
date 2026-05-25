@@ -1,5 +1,3 @@
-\usepackage{breqn}
-
 ### Topologie
 # Metrischer Raum
 
@@ -88,6 +86,6 @@ $$
 
 > Somit gilt $d'(x,y) = d'(y,x)$ und die Definition1(2) ist für $d'$ erfüllt.
 
-> Damit ergibt sich sofort $d'(x,y) \allowbreak \leq d'(x,z) + d'(y,z) \allowbreak = d'(x,z) + d'(z,y)$. Somit ist auch Definition1(3) erfüllt und $d'$ ist eine Metrik.
+> Damit ergibt sich sofort $d'(x,y)$ $\leq d'(x,z) + d'(y,z)$ $= d'(x,z) + d'(z,y)$. Somit ist auch Definition1(3) erfüllt und $d'$ ist eine Metrik.
 
 ----
