@@ -71,5 +71,19 @@ $$
 > Somit erfüllt die Metrik $d$ die Bedingung $(2')$ des Satzes.
 >
 
+> Sei nun $d'$ eine Abbildung wie aus dem Satz. Dann gilt;
+
+$$
+\begin{equation}
+\begin{split}
+\quad d'(x,y) & \leq d'(x,x) + d'(y,x)\\
+              &   =  d'(y,x)\\
+              & \leq d'(y,y) + d'(x,y)\\
+              &   =  d'(x,y)
+\end{split}
+\end{equation}
+$$
+
+> Somit gilt $d'(x,y) = d'(y,x)$ und die Definition1(2) ist für $d'$ erfüllt. 
 
 ----
