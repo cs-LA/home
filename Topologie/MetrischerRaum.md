@@ -2,7 +2,7 @@
 # Metrischer Raum
 
 
-## Definition 1a
+## Definition 1
 
 > Sei $X$ eine beliebige Menge. Eine Abbildung $d \colon \, X \times X \to \mathbb{R}$ heißt ***Metrik*** auf $X$, wenn für beliebige Elemente $x$, $y$ und $z$ von $X$ gilt:
 
@@ -103,7 +103,7 @@ $$
 
 [^2]: Dies ist Übung 2 aus *Grundkurs Topologie* von Gerd Laures und Markus Szymik
 
-Für Punkte $x = (x_1,x_2)$ der Ebene $\mathbb{R}^2$ seien
+> Für Punkte $x = (x_1,x_2)$ der Ebene $\mathbb{R}^2$ seien
 
 $$
 \begin{equation}
@@ -117,6 +117,6 @@ $$
 
 > die üblichen Normen und $d_i, \; i \in \{1,2,\infty\},$ die durch $d_i = \Vert x-y \Vert_i$ definierten Metriken auf $\mathbb{R}^2$.
 
-> Diese Metriken erzeugen den gleichen Konvergenzbegriff. 
+> Diese mMetriken erzeugen den gleichen Konvergenzbegriff. 
 
 ----
