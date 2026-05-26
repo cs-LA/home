@@ -99,7 +99,7 @@ $$
 > 
 > Ferner gilt sicherlich die Bedingung Definition1(1), aber die Bedingung Definition1(2) ist nicht für alle $x, y \in \mathbb{R}$ erfüllt: $d(2,3) = 2 - 3$ $= -1 \neq 1$ $= 3 - 2 = d(3,2)$.
 
-## Satz 3[^2] a
+## Satz 3[^2]
 
 [^2]: Dies ist Übung 2 aus *Grundkurs Topologie* von Gerd Laures und Markus Szymik
 
