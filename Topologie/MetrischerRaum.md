@@ -2,7 +2,7 @@
 # Metrischer Raum
 
 
-## Definition 1
+## Definition 1a
 
 > Sei $X$ eine beliebige Menge. Eine Abbildung $d \colon \, X \times X \to \mathbb{R}$ heißt ***Metrik*** auf $X$, wenn für beliebige Elemente $x$, $y$ und $z$ von $X$ gilt:
 
