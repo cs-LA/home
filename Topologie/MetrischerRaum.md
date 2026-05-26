@@ -115,7 +115,9 @@ $$
 \end{equation}
 $$
 
-die üblichen Normen und
+> die üblichen Normen und $d_?, ? \in \{1, 2, \infty\}$ die durch $_? = \Vert x-y \Vert_? definierten Metriken auf $\mathhb{R}$.
+
+> Diese Metriken erzeugen den gleichen Konvergenzbegriff. 
 
 ----
 
