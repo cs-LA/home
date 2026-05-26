@@ -115,7 +115,7 @@ $$
 \end{equation}
 $$
 
-> die üblichen Normen und $d_i, \; i \in \{1,2,\infty\},$ die durch $d_i = \Vert x-y \Vert_i$ definierten Metriken auf $\mathbb{R}^2$.
+> die üblichen Normen und $d_i, \; i \in \max\{\vert x_1 \vert,\vert x_2 \vert\}  \{1,2,\infty\},$ die durch $d_i = \Vert x-y \Vert_i$ definierten Metriken auf $\mathbb{R}^2$.
 
 > Diese mMetriken erzeugen den gleichen Konvergenzbegriff. 
 
