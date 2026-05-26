@@ -120,11 +120,3 @@ $$
 > Diese Metriken erzeugen den gleichen Konvergenzbegriff. 
 
 ----
-
- Für Punkte x= (x1,x2) der Ebene R2 seien
-∥x∥1 = |x1|+ |x2|, ∥x∥2 = (x2
-1 + x2
-2)1/2
-, ∥x∥∞= max{|x1|,|x2|}
-die üblichen Normen und d1,d2,d∞ die durch d?(x,y) = ∥x−y∥? definierten Metriken
-auf R2. Zeigen Sie, dass diese den gleichen Konvergenzbegriﬀ erzeugen.
