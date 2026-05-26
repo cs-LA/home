@@ -108,7 +108,7 @@ Für Punkte $x = (x_1,x_2)$ der Ebene $\mathbb{R}^2$ seien
 $$
 \begin{equation}
 \begin{split}
-\quad d'(x,y) & \leq d'(x,x) + d'(y,x)\\
+\parallel d'(x,y) & \leq d'(x,x) + d'(y,x)\\
               &   =  d'(y,x)\\
               & \leq d'(y,y) + d'(x,y)\\
               &   =  d'(x,y)
