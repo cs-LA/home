@@ -110,9 +110,7 @@ $$
 \begin{split}
 \Vert x \Vert_1 & = \vert x_1 \vert + \vert x_2 \vert\\
 \Vert x \Vert_2 & = \sqrt{x_1^2 + x_2^2}\\
-              &   =  d'(y,x)\\
-              & \leq d'(y,y) + d'(x,y)\\
-              &   =  d'(x,y)
+\Vert x \Vert_\infty & = max{\vert x_1 \vert, + \vert x_2 \vert}
 \end{split}
 \end{equation}
 $$
