@@ -110,12 +110,12 @@ $$
 \begin{split}
 \Vert x \Vert_1 & = \vert x_1 \vert + \vert x_2 \vert\\
 \Vert x \Vert_2 & = \sqrt{x_1^2 + x_2^2}\\
-\Vert x \Vert_\infty & = max\{\vert x_1 \vert,\vert x_2 \vert\}
+\Vert x \Vert_\infty & = max\lbrace\vert x_1 \vert,\vert x_2 \vert\rbrace
 \end{split}
 \end{equation}
 $$
 
-> die üblichen Normen und $d_i$, $i \in$ $\lbrace 1, 2, \infty \rbrace$, die durch $d_i = \Vert x-y \Vert_i$ definierten Metriken auf $\mathbb{R}^2$.
+> die üblichen Normen und $d_i$, $i \in \lbrace 1, 2, \infty \rbrace$, die durch $d_i = \Vert x-y \Vert_i$ definierten Metriken auf $\mathbb{R}^2$.
 
 > Diese Metriken erzeugen den gleichen Konvergenzbegriff. 
 
