@@ -99,4 +99,29 @@ $$
 > 
 > Ferner gilt sicherlich die Bedingung Definition1(1), aber die Bedingung Definition1(2) ist nicht für alle $x, y \in \mathbb{R}$ erfüllt: $d(2,3) = 2 - 3$ $= -1 \neq 1$ $= 3 - 2 = d(3,2)$.
 
+## Satz 3[^2]
+
+[^2]: Dies ist Übung 2 aus *Grundkurs Topologie* von Gerd Laures und Markus Szymik
+
+Für Punkte $x = (x_1,x_2)$ der Ebene $\mathbb{R}^2$ seien
+
+$$
+\begin{equation}
+\begin{split}
+\quad d'(x,y) & \leq d'(x,x) + d'(y,x)\\
+              &   =  d'(y,x)\\
+              & \leq d'(y,y) + d'(x,y)\\
+              &   =  d'(x,y)
+\end{split}
+\end{equation}
+$$
+
 ----
+
+ Für Punkte x= (x1,x2) der Ebene R2 seien
+∥x∥1 = |x1|+ |x2|, ∥x∥2 = (x2
+1 + x2
+2)1/2
+, ∥x∥∞= max{|x1|,|x2|}
+die üblichen Normen und d1,d2,d∞ die durch d?(x,y) = ∥x−y∥? definierten Metriken
+auf R2. Zeigen Sie, dass diese den gleichen Konvergenzbegriﬀ erzeugen.
