@@ -101,8 +101,8 @@ $$
 
 ## Satz 3[^2]
 
-[^2]: Dies ist Übung 2 aus *Grundkurs Topologie* von Gerd Laures und Markus Szymik
-  Ich bin mir nicht sicher, ob die Bilipschitz-Äquivalenz der gesuchte Konvergenzbegriff ist.
+[^2]: Dies ist Übung 2 aus *Grundkurs Topologie* von Gerd Laures und Markus Szymik  
+Ich bin mir nicht sicher, ob die Bilipschitz-Äquivalenz der gesuchte Konvergenzbegriff ist.
 
 > Für Punkte $x = (x_1,x_2)$ der Ebene $\mathbb{R}^2$ seien
 
